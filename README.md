@@ -36,6 +36,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
   * [Code Analysis](#code-analysis)
   * [Debugging Tools](#debugging-tools)
   * [CMS](#cms)
+  * [Admin Interface](#admin-interface)
   * [Static Site Generation](#static-site-generation)
   * [Forum Engine](#forum-engine)
   * [E-Commerce](#e-commerce)
@@ -72,6 +73,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 * [Test::Unit](http://test-unit.github.io)
 * [Cucumber](https://github.com/cucumber/cucumber)
 * [Capybara](https://github.com/jnicklas/capybara)
+* [Appraisal](https://github.com/thoughtbot/appraisal) - Appraisal integrates with bundler and rake to test your library against different versions of dependencies.
 
 ## Web Frameworks
 
@@ -202,6 +204,11 @@ Contributions are always welcome! The idea is to build a categorized community-d
 * [Refinery CMS](http://refinerycms.com)
 * [Radiant](http://radiantcms.org)
 * [LocomotiveCMS](http://www.locomotivecms.com)
+
+## Admin Interface
+
+* [ActiveAdmin](http://activeadmin.info)
+* [RailsAdmin](https://github.com/sferik/rails_admin)
 
 ## Static Site Generation
 
