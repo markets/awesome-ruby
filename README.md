@@ -59,8 +59,13 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 ## Package Management
 
-* [RubyGems](https://rubygems.org) - Community's gem hosting service
-* [Bundler](http://bundler.io/) - Manage your application's gem dependencies with less pain
+* Gems
+  * [RubyGems](https://rubygems.org) - Community's gem hosting service
+  * [Bundler](http://bundler.io) - Manage your application's gem dependencies with less pain
+
+* Packages and Applications
+  * [Homebrew](https://github.com/Homebrew/homebrew) - The missing package manager for OS X
+  * [Homebrew-cask](https://github.com/caskroom/homebrew-cask) - a CLI workflow for the administration of Mac applications distributed as binaries
 
 ## Environment Management
 * [rbenv](https://github.com/sstephenson/rbenv) — Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production
@@ -184,8 +189,8 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 ## Form Builder
 
-* [Simple Form](https://github.com/plataformatec/simple_form)
-* [Formtastic](https://github.com/justinfrench/formtastic)
+* [Simple Form](https://github.com/plataformatec/simple_form) - Rails forms made easy
+* [Formtastic](https://github.com/justinfrench/formtastic) - A Rails form builder plugin with semantically rich and accessible markup
 
 ## Imagery
 
@@ -198,11 +203,11 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 ## WebSocket
 
-* [Faye](http://faye.jcoglan.com/ruby.html)
+* [Faye](http://faye.jcoglan.com/ruby.html) - A set of tools for simple publish-subscribe messaging between web clients. It ships with easy-to-use message routing servers for Node.js and Rack applications, and clients that can be used on the server and in the browser.
 
 ## HTML Parsing
 
-* [Nokogiri](http://nokogiri.org)
+* [Nokogiri](http://nokogiri.org) - an HTML, XML, SAX, and Reader parser with XPath and CSS selector support
 
 ## Processes and Threads
 
@@ -252,13 +257,13 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 ## Admin Interface
 
-* [ActiveAdmin](http://activeadmin.info)
+* [ActiveAdmin](http://activeadmin.info) - a Ruby on Rails framework for creating elegant backends for website administration
 * [RailsAdmin](https://github.com/sferik/rails_admin)
 
 ## Static Site Generation
 
-* [Jekyll](http://jekyllrb.com)
-* [Middleman](http://middlemanapp.com)
+* [Jekyll](http://jekyllrb.com) - Transform your plain text into static websites and blogs
+* [Middleman](http://middlemanapp.com) - A static site generator using all the shortcuts and tools in modern web development
 
 ## Forum Engine
 
@@ -277,9 +282,9 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 ## DevOps Tools
 
-* [Capistrano](http://capistranorb.com)
-* [Backup](https://github.com/meskyanichi/backup)
-* [Puppet](https://github.com/puppetlabs/puppet)
+* [Capistrano](http://capistranorb.com) - A remote server automation and deployment tool written in Ruby
+* [Backup](https://github.com/meskyanichi/backup) - Provides an elegant DSL in Ruby for performing backups on UNIX-like systems
+* [Puppet](https://github.com/puppetlabs/puppet) - An automated administrative engine for your Linux, Unix, and Windows systems, performs administrative tasks (such as adding users, installing packages, and updating server configurations) based on a centralized specification
 
 ## GUI
 
@@ -287,7 +292,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 ## Game Development
 
-* [Gosu](http://www.libgosu.org)
+* [Gosu](http://www.libgosu.org) - a 2D game development library for the Ruby and C++ programming languages
 
 ## Mobile Development
 
@@ -296,7 +301,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 ## Robotics
 
-* [Artoo](http://artoo.io)
+* [Artoo](http://artoo.io) - Next generation robotics framework with support for different platforms: Arduino, Leap Motion, Pebble, Raspberry Pi, etc.
 
 ## Misc
 
