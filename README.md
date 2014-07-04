@@ -20,6 +20,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
   * [API Builder](#api-builder)
   * [CLI](#cli)
   * [Authentication](#authentication)
+  * [OAuth](#oauth)
   * [Authorization](#authorization)
   * [Queue](#queue)
   * [Template Engine](#template-engine)
@@ -30,11 +31,12 @@ Contributions are always welcome! The idea is to build a categorized community-d
   * [Email](#email)
   * [Form Builder](#forms)
   * [Imagery](#imagery)
+  * [Video](#video)
   * [WebSocket](#websocket)
   * [HTML Parsing](#html-parsing)
   * [Processes and Threads](#processes-and-threads)
   * [Concurrency](#concurrency)
-  * [Code Analysis](#code-analysis)
+  * [Code Analysis and Metrics](#code-analysis-and-metrics)
   * [Debugging Tools](#debugging-tools)
   * [Third-party APIs](#third-party-apis)
   * [CMS](#cms)
@@ -94,35 +96,35 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 ## Database Drivers
 
-* [pg](https://bitbucket.org/ged/ruby-pg)
+* [ruby-pg](https://bitbucket.org/ged/ruby-pg)
 * [mysql2](https://github.com/brianmario/mysql2)
 * [SQLite3](https://github.com/sparklemotion/sqlite3-ruby)
-* [redis-rb](https://github.com/redis/redis-rb)
+* [redis-rb](https://github.com/redis/redis-rb) - A Ruby client that tries to match Redis' API one-to-one, while still providing an idiomatic interface
 
 ## ORM
 
 * [ActiveRecord](https://github.com/rails/rails/tree/master/activerecord)
-* [Sequel](https://github.com/jeremyevans/sequel)
+* [Sequel](https://github.com/jeremyevans/sequel) - Sequel is a simple, flexible, and powerful SQL database access toolkit for Ruby
 * [Mongoid](http://mongoid.org/en/mongoid/index.html)
 
 ## Http
 
-* [RESTClient](https://github.com/rest-client/rest-client)
-* [httparty](https://github.com/jnunemaker/httparty)
+* [RESTClient](https://github.com/rest-client/rest-client) - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions
+* [httparty](https://github.com/jnunemaker/httparty) 
 * [Faraday](https://github.com/lostisland/faraday)
 
 ## API Builder
 
-* [Grape](http://intridea.github.io/grape)
+* [Grape](http://intridea.github.io/grape) - An opinionated micro-framework for creating REST-like APIs in Ruby
 * [Rails::API](https://github.com/rails-api/rails-api)
-* [jbuilder](https://github.com/rails/jbuilder)
-* [rabl](https://github.com/nesquena/rabl)
+* [jbuilder](https://github.com/rails/jbuilder) - Create JSON structures via a Builder-style DSL
+* [rabl](https://github.com/nesquena/rabl) - General ruby templating with json, bson, xml, plist and msgpack support
 
 ## CLI
 
-* [Thor](http://whatisthor.com)
-* [Commander](https://github.com/visionmedia/commander)
-* [Slop](https://github.com/leejarvis/slop)
+* [Thor](http://whatisthor.com) - A toolkit for building powerful command-line interfaces
+* [Commander](https://github.com/visionmedia/commander) - The complete solution for Ruby command-line executables
+* [Slop](https://github.com/leejarvis/slop) - Simple Lightweight Option Parsing
 
 ## Authentication
 
@@ -130,6 +132,11 @@ Contributions are always welcome! The idea is to build a categorized community-d
 * [Authlogic](https://github.com/binarylogic/authlogic)
 * [OmniAuth](https://github.com/intridea/omniauth)
 * [Sorcery](https://github.com/NoamB/sorcery)
+
+## OAuth
+
+* [OAuth2](https://github.com/intridea/oauth2) - A Ruby wrapper for the OAuth 2.0 protocol
+* [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) - An OAuth2 provider for Rails
 
 ## Authorization
 
@@ -151,7 +158,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 ## Search
 
-* [Thinking Sphinx](https://github.com/pat/thinking-sphinx)
+* [Thinking Sphinx](https://github.com/pat/thinking-sphinx) - A library for connecting ActiveRecord to the Sphinx full-text search tool
 * [elasticsearch-ruby](https://github.com/elasticsearch/elasticsearch-ruby)
 * [Searchkick](https://github.com/ankane/searchkick)
 
@@ -184,6 +191,10 @@ Contributions are always welcome! The idea is to build a categorized community-d
 * [MiniMagick](https://github.com/minimagick/minimagick) - A ruby wrapper for ImageMagick or GraphicsMagick command line
 * [RMagick](https://github.com/rmagick/rmagick) - RMagick is an interface between Ruby and ImageMagick
 
+## Video
+
+* [Streamio FFMPEG](https://github.com/streamio/streamio-ffmpeg) - Simple yet powerful wrapper around the ffmpeg command for reading metadata and transcoding movies
+
 ## WebSocket
 
 * [Faye](http://faye.jcoglan.com/ruby.html)
@@ -199,12 +210,13 @@ Contributions are always welcome! The idea is to build a categorized community-d
 ## Concurrency
 
 * [EventMachine](https://github.com/eventmachine/eventmachine)
-* [Celluloid](http://celluloid.io)
+* [Celluloid](http://celluloid.io) - Actor-based concurrent object framework for Ruby
 
-## Code Analysis
+## Code Analysis and Metrics
 
-* [SimpleCov](https://github.com/colszowka/simplecov)
+* [SimpleCov](https://github.com/colszowka/simplecov) - Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites
 * [Rubocop](https://github.com/bbatsov/rubocop)
+* [rails_best_practices](https://github.com/railsbp/rails_best_practices) - A code metric tool for rails projects
 
 ## Debugging Tools
 
@@ -224,7 +236,6 @@ Contributions are always welcome! The idea is to build a categorized community-d
 * [youtube_it](https://github.com/kylejginavan/youtube_it) - An object-oriented Ruby wrapper for the YouTube GData API
 * [ruby-trello](https://github.com/jeremytregunna/ruby-trello) - Implementation of the Trello API for Ruby
 * [hipchat-rb](https://github.com/hipchat/hipchat-rb) - HipChat HTTP API Wrapper in Ruby with Capistrano hooks
-
 
 ## CMS
 
@@ -248,13 +259,14 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 ## E-Commerce
 
+* [Active Merchant](https://github.com/Shopify/active_merchant) - A simple payment abstraction library extracted from Shopify
 * [Spree](http://spreecommerce.com)
 * [ROR Ecommerce](http://www.ror-e.com)
 
 ## Analytics
 
 * [Gabba](https://github.com/hybridgroup/gabba)
-* [Ahoy](https://github.com/ankane/ahoy)
+* [Ahoy](https://github.com/ankane/ahoy) - A solid foundation to track visits and events in Ruby, JavaScript, and native apps
 
 ## DevOps Tools
 
@@ -272,8 +284,8 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 ## Mobile Development
 
-* [RubyMotion](http://www.rubymotion.com)
-* [Ruboto](http://ruboto.org)
+* [RubyMotion](http://www.rubymotion.com) - A revolutionary toolchain that lets you quickly develop and test native iOS and OS X applications for iPhone, iPad and Mac
+* [Ruboto](http://ruboto.org) - A platform for developing full stand-alone apps for Android using the Ruby language and libraries
 
 ## Robotics
 
@@ -281,4 +293,4 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 ## Misc
 
-* [Betty](https://github.com/pickhardt/betty)
+* [Betty](https://github.com/pickhardt/betty) - Friendly English-like interface for your command line. Don't remember a command? Ask Betty
