@@ -171,6 +171,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 ## Imagery
 
 * [MiniMagick](https://github.com/minimagick/minimagick) - a ruby wrapper for ImageMagick or GraphicsMagick command line.
+* [RMagick](https://github.com/rmagick/rmagick) - RMagick is an interface between Ruby and ImageMagick.
 
 ## WebSocket
 
