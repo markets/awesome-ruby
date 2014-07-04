@@ -13,6 +13,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
   * [Documentation](#documentation)
   * [Testing](#testing)
   * [Web Frameworks](#web-frameworks)
+  * [Web Servers](#web-servers)
   * [Database Drivers](#database-drivers)
   * [ORM](#orm)
   * [HTTP](#http)
@@ -70,11 +71,11 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 ## Testing
 
-* [RSpec](https://github.com/rspec/rspec)
-* [minitest](https://github.com/seattlerb/minitest)
-* [Test::Unit](http://test-unit.github.io)
-* [Cucumber](https://github.com/cucumber/cucumber)
-* [Capybara](https://github.com/jnicklas/capybara)
+* [RSpec](https://github.com/rspec/rspec) - Behaviour Driven Development for Ruby
+* [minitest](https://github.com/seattlerb/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking
+* [Test::Unit](http://test-unit.github.io) - Test::Unit is a xUnit family unit testing framework for Ruby
+* [Cucumber](https://github.com/cucumber/cucumber) - BDD that talks to domain experts first and code second
+* [Capybara](http://jnicklas.github.io/capybara) - Acceptance test framework for web applications
 * [Appraisal](https://github.com/thoughtbot/appraisal) - Appraisal integrates with bundler and rake to test your library against different versions of dependencies
 
 ## Web Frameworks
@@ -83,6 +84,13 @@ Contributions are always welcome! The idea is to build a categorized community-d
 * [Sinatra](http://www.sinatrarb.com)
 * [Padrino](http://www.padrinorb.com)
 * [Lotus](http://lotusrb.org)
+
+## Web Servers
+
+* [Rack](http://rack.github.io) - A Ruby Webserver Interface
+* [Unicorn](http://unicorn.bogomips.org) - Rack HTTP server for fast clients and Unix
+* [Thin](http://code.macournoyer.com/thin) - Tiny, fast & funny HTTP server
+* [Puma](https://github.com/puma/puma) - A modern, concurrent web server for Ruby
 
 ## Database Drivers
 
