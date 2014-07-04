@@ -24,6 +24,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
   * [Authorization](#authorization)
   * [Queue](#queue)
   * [Template Engine](#template-engine)
+  * [Markdown Processors](#markdown-processors)
   * [Search](#search)
   * [Internationalization](#internationalization)
   * [Geolocation](#geolocation)
@@ -161,6 +162,12 @@ Contributions are always welcome! The idea is to build a categorized community-d
 * [Haml](https://github.com/haml/haml) - HTML Abstraction Markup Language
 * [Slim](https://github.com/slim-template/slim)
 * [Liquid](https://github.com/Shopify/liquid)
+
+## Markdown Processors
+
+* [kramdown](https://github.com/gettalong/kramdown) — Kramdown is yet-another-markdown-parser but fast, pure Ruby, using a strict syntax definition and supporting several common extensions
+* [Redcarpet](https://github.com/vmg/redcarpet) — A fast, safe and extensible Markdown to (X)HTML parser
+* [Maruku](https://github.com/bhollis/maruku) — A pure-Ruby Markdown-superset interpreter
 
 ## Search
 
@@ -305,4 +312,5 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 ## Misc
 
+* [Prawn](https://github.com/prawnpdf/prawn) - Fast, Nimble PDF Writer for Ruby
 * [Betty](https://github.com/pickhardt/betty) - Friendly English-like interface for your command line. Don't remember a command? Ask Betty
