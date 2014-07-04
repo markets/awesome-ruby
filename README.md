@@ -36,6 +36,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
   * [HTML Parsing](#html-parsing)
   * [Processes and Threads](#processes-and-threads)
   * [Concurrency](#concurrency)
+  * [Error Handling and Monitoring](#error-handling-and-monitoring)
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
   * [Debugging Tools](#debugging-tools)
   * [Third-party APIs](#third-party-apis)
@@ -151,8 +152,8 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 ## Template Engine
 
-* [Tilt](https://github.com/rtomayko/tilt)
-* [Haml](https://github.com/haml/haml)
+* [Tilt](https://github.com/rtomayko/tilt) - Generic interface to multiple Ruby template engines
+* [Haml](https://github.com/haml/haml) - HTML Abstraction Markup Language
 * [Slim](https://github.com/slim-template/slim)
 * [Liquid](https://github.com/Shopify/liquid)
 
@@ -164,7 +165,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 ## Internationalization
 
-* [i18n](https://github.com/svenfuchs/i18n)
+* [i18n](https://github.com/svenfuchs/i18n) - Ruby Internationalization and localization solution
 * [i18n-tasks](https://github.com/glebm/i18n-tasks) - Manage missing and unused translations with the awesome power of static analysis.
 
 ## Geolocation
@@ -211,6 +212,12 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 * [EventMachine](https://github.com/eventmachine/eventmachine)
 * [Celluloid](http://celluloid.io) - Actor-based concurrent object framework for Ruby
+
+## Error Handling and Monitoring
+
+* [Exception Notification](https://github.com/smartinez87/exception_notification) - A set of notifiers for sending notifications when errors occur in a Rack/Rails application
+* [Errbit](http://errbit.github.io/errbit) - The open source, self-hosted error catcher
+* [Airbrake](https://github.com/airbrake/airbrake) - The official Airbrake library for Ruby on Rails (and other Rack based frameworks)
 
 ## Code Analysis and Metrics
 
