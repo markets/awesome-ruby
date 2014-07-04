@@ -35,6 +35,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
   * [Concurrency](#concurrency)
   * [Code Analysis](#code-analysis)
   * [Debugging Tools](#debugging-tools)
+  * [Third-party APIs](#third-party-apis)
   * [CMS](#cms)
   * [Admin Interface](#admin-interface)
   * [Static Site Generation](#static-site-generation)
@@ -49,22 +50,23 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 ## Style Guide
 
-* [Ruby style guide](https://github.com/bbatsov/ruby-style-guide) - Community-driven Ruby coding style.
-* [Rails style guide](https://github.com/bbatsov/rails-style-guide) - Community-driven Rails best practices and style for Rails 3 and 4.
+* [Ruby style guide](https://github.com/bbatsov/ruby-style-guide) - Community-driven Ruby coding style
+* [Rails style guide](https://github.com/bbatsov/rails-style-guide) - Community-driven Rails best practices and style for Rails 3 and 4
 
 ## Package Management
 
-* [RubyGems](https://rubygems.org) - Community's gem hosting service.
+* [RubyGems](https://rubygems.org) - Community's gem hosting service
+* [Bundler](http://bundler.io/) - Manage your application's gem dependencies with less pain
 
 ## Environment Management
-* [rbenv](https://github.com/sstephenson/rbenv) — Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production. Put rbenv to work with [Bundler](http://bundler.io) for painless Ruby upgrades and bulletproof deployments.
-* [RVM](https://rvm.io) — RVM is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems.
+* [rbenv](https://github.com/sstephenson/rbenv) — Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production
+* [RVM](https://rvm.io) — RVM is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems
 * [dotenv](https://github.com/bkeepers/dotenv)
 
 ## Documentation
 
-* [RDoc](https://github.com/rdoc/rdoc) - RDoc produces HTML and command-line documentation for Ruby projects.
-* [YARD](http://yardoc.org) - YARD is a documentation generation tool for Ruby. It enables the user to generate consistent, usable documentation that can be exported to a number of formats very easily.
+* [RDoc](https://github.com/rdoc/rdoc) - RDoc produces HTML and command-line documentation for Ruby projects
+* [YARD](http://yardoc.org) - YARD enables the user to generate consistent, usable documentation that can be exported to a number of formats very easily
 
 ## Testing
 
@@ -73,7 +75,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 * [Test::Unit](http://test-unit.github.io)
 * [Cucumber](https://github.com/cucumber/cucumber)
 * [Capybara](https://github.com/jnicklas/capybara)
-* [Appraisal](https://github.com/thoughtbot/appraisal) - Appraisal integrates with bundler and rake to test your library against different versions of dependencies.
+* [Appraisal](https://github.com/thoughtbot/appraisal) - Appraisal integrates with bundler and rake to test your library against different versions of dependencies
 
 ## Web Frameworks
 
@@ -128,9 +130,9 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 ## Queue
 
-* [Resque](https://github.com/resque/resque) — a Redis-backed Ruby library for creating background jobs.
-* [Sidekiq](http://sidekiq.org) — a full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
-* [Delayed::Job](https://github.com/tobi/delayed_job) — database backed asynchronous priority queue.
+* [Resque](https://github.com/resque/resque) — A Redis-backed Ruby library for creating background jobs
+* [Sidekiq](http://sidekiq.org) — A full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
+* [Delayed::Job](https://github.com/tobi/delayed_job) — Database backed asynchronous priority queue
 
 ## Template Engine
 
@@ -148,6 +150,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 ## Internationalization
 
 * [i18n](https://github.com/svenfuchs/i18n)
+* [i18n-tasks](https://github.com/glebm/i18n-tasks) - Manage missing and unused translations with the awesome power of static analysis.
 
 ## Geolocation
 
@@ -156,7 +159,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 ## Caching
 
-* [Dalli](https://github.com/mperham/dalli) - a high performance pure Ruby client for accessing memcached servers.
+* [Dalli](https://github.com/mperham/dalli) - A high performance pure Ruby client for accessing memcached servers
 
 ## Email
 
@@ -170,8 +173,8 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 ## Imagery
 
-* [MiniMagick](https://github.com/minimagick/minimagick) - a ruby wrapper for ImageMagick or GraphicsMagick command line.
-* [RMagick](https://github.com/rmagick/rmagick) - RMagick is an interface between Ruby and ImageMagick.
+* [MiniMagick](https://github.com/minimagick/minimagick) - A ruby wrapper for ImageMagick or GraphicsMagick command line
+* [RMagick](https://github.com/rmagick/rmagick) - RMagick is an interface between Ruby and ImageMagick
 
 ## WebSocket
 
@@ -198,7 +201,22 @@ Contributions are always welcome! The idea is to build a categorized community-d
 ## Debugging Tools
 
 * [debugger](https://github.com/cldwalker/debugger)
-* [Byebug](https://github.com/deivid-rodriguez/byebug) - a simple to use, feature rich debugger for Ruby 2.
+* [Byebug](https://github.com/deivid-rodriguez/byebug) - A simple to use, feature rich debugger for Ruby 2
+
+## Third-party APIs
+
+* [Octokit](http://octokit.github.io/octokit.rb) - Ruby toolkit for the GitHub API
+* [fb_graph](https://github.com/nov/fb_graph) - A full-stack Facebook Graph API wrapper
+* [twitter](https://github.com/sferik/twitter) - A Ruby interface to the Twitter API
+  * [t](https://github.com/sferik/t) - A command-line power tool for Twitter
+* [tweetstream](https://github.com/tweetstream/tweetstream) - A simple library for consuming Twitter's Streaming API
+* [instagram-ruby-gem](https://github.com/Instagram/instagram-ruby-gem) - The official gem for the Instagram REST and Search APIs
+* [soundcloud-ruby](https://github.com/soundcloud/soundcloud-ruby) - Official SoundCloud API Wrapper for Ruby
+* [linkedin](https://github.com/hexgnu/linkedin) - Provides an easy-to-use wrapper for LinkedIn's REST APIs
+* [youtube_it](https://github.com/kylejginavan/youtube_it) - An object-oriented Ruby wrapper for the YouTube GData API
+* [ruby-trello](https://github.com/jeremytregunna/ruby-trello) - Implementation of the Trello API for Ruby
+* [hipchat-rb](https://github.com/hipchat/hipchat-rb) - HipChat HTTP API Wrapper in Ruby with Capistrano hooks
+
 
 ## CMS
 
