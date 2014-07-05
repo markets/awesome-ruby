@@ -31,7 +31,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
   * [Geolocation](#geolocation)
   * [Caching](#caching)
   * [Email](#email)
-  * [Form Builder](#forms)
+  * [Form Builder](#form-builder)
   * [Imagery](#imagery)
   * [Video](#video)
   * [WebSocket](#websocket)
@@ -131,6 +131,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 ## CLI
 
+* [Rake](https://github.com/jimweirich/rake) - A make-like build utility for Ruby
 * [Thor](http://whatisthor.com) - A toolkit for building powerful command-line interfaces
 * [Commander](https://github.com/visionmedia/commander) - The complete solution for Ruby command-line executables
 * [Slop](https://github.com/leejarvis/slop) - Simple Lightweight Option Parsing
@@ -314,7 +315,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 ## Game Development
 
-* [Gosu](http://www.libgosu.org) - a 2D game development library for the Ruby and C++ programming languages
+* [Gosu](http://www.libgosu.org) - A 2D game development library for the Ruby and C++ programming languages
 
 ## Mobile Development
 
