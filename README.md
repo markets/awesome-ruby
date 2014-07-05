@@ -50,6 +50,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
   * [E-Commerce](#e-commerce)
   * [Analytics](#analytics)
   * [DevOps Tools](#devops-tools)
+  * [Git Tools](#git-tools)
   * [GUI](#gui)
   * [Game Development](#game-development)
   * [Robotics](#robotics)
@@ -308,6 +309,12 @@ Contributions are always welcome! The idea is to build a categorized community-d
 * [Capistrano](http://capistranorb.com) - A remote server automation and deployment tool written in Ruby
 * [Backup](https://github.com/meskyanichi/backup) - Provides an elegant DSL in Ruby for performing backups on UNIX-like systems
 * [Puppet](https://github.com/puppetlabs/puppet) - An automated administrative engine for your Linux, Unix, and Windows systems, performs administrative tasks (such as adding users, installing packages, and updating server configurations) based on a centralized specification
+* [Vagrant](http://www.vagrantup.com) - Create and configure lightweight, reproducible, and portable development environments
+
+## Git Tools
+
+* [hub](https://github.com/github/hub) - a command line tool that wraps Git in order to extend it with extra features and commands that make working with GitHub easier
+* [Rugged](https://github.com/libgit2/rugged) - Ruby bindings to libgit2
 
 ## GUI
 
@@ -332,4 +339,3 @@ Contributions are always welcome! The idea is to build a categorized community-d
 * [Betty](https://github.com/pickhardt/betty) - Friendly English-like interface for your command line. Don't remember a command? Ask Betty
 * [Pry](https://github.com/pry/pry) - A powerful alternative to the standard IRB shell for Ruby
 * [Guard](https://github.com/guard/guard) - A command line tool to easily handle events on file system modifications
-* [Rugged](https://github.com/libgit2/rugged) - Ruby bindings to libgit2
