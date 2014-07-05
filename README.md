@@ -51,7 +51,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
   * [Admin Interface](#admin-interface)
   * [Static Site Generation](#static-site-generation)
   * [Forum Engine](#forum-engine)
-  * [E-Commerce](#e-commerce)
+  * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Analytics](#analytics)
   * [DevOps Tools](#devops-tools)
   * [Git Tools](#git-tools)
@@ -201,7 +201,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 * [elasticsearch-ruby](https://github.com/elasticsearch/elasticsearch-ruby)
 * [Sunspot](https://github.com/sunspot/sunspot) - A Ruby library for expressive, powerful interaction with the Solr search engine
 * [Searchkick](https://github.com/ankane/searchkick) - Searchkick learns what your users are looking for. As more people search, it gets smarter and the results get better. It’s friendly for developers - and magical for your users.
-
+* [pg_search](https://github.com/Casecommons/pg_search) - Builds ActiveRecord named scopes that take advantage of PostgreSQL's full text search
 
 ## Internationalization
 
@@ -323,11 +323,12 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 * [Forem](https://github.com/radar/forem)
 
-## E-Commerce
+## E-Commerce and Payments
 
 * [Active Merchant](https://github.com/Shopify/active_merchant) - A simple payment abstraction library extracted from Shopify
 * [Spree](http://spreecommerce.com)
 * [ROR Ecommerce](http://www.ror-e.com)
+* [stripe-ruby](https://github.com/stripe/stripe-ruby) - Stripe Ruby bindings
 
 ## Analytics
 
