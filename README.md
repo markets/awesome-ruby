@@ -24,6 +24,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
   * [Authorization](#authorization)
   * [Queue](#queue)
   * [Template Engine](#template-engine)
+  * [Assets](#assets)
   * [Markdown Processors](#markdown-processors)
   * [Search](#search)
   * [Internationalization](#internationalization)
@@ -37,6 +38,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
   * [HTML Parsing](#html-parsing)
   * [Processes and Threads](#processes-and-threads)
   * [Concurrency](#concurrency)
+  * [Core Extensions](#core-extensions)
   * [Error Handling and Monitoring](#error-handling-and-monitoring)
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
   * [Debugging Tools](#debugging-tools)
@@ -163,6 +165,13 @@ Contributions are always welcome! The idea is to build a categorized community-d
 * [Slim](https://github.com/slim-template/slim)
 * [Liquid](https://github.com/Shopify/liquid)
 
+## Assets
+
+* [Sass](http://sass-lang.com) - Sass makes CSS fun again
+* Management:
+  * [Sprockets](https://github.com/sstephenson/sprockets) - Rack-based asset packaging system
+  * [Rails Assets](https://rails-assets.org) - Bundler to Bower proxy
+
 ## Markdown Processors
 
 * [kramdown](https://github.com/gettalong/kramdown) — Kramdown is yet-another-markdown-parser but fast, pure Ruby, using a strict syntax definition and supporting several common extensions
@@ -224,6 +233,11 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 * [EventMachine](https://github.com/eventmachine/eventmachine)
 * [Celluloid](http://celluloid.io) - Actor-based concurrent object framework for Ruby
+
+## Core Extensions
+
+* [ActiveSupport](https://github.com/rails/rails/tree/master/activesupport)
+* [Ruby Facets](https://github.com/rubyworks/facets) - The premiere collection of general purpose method extensions and standard additions for Ruby
 
 ## Error Handling and Monitoring
 
