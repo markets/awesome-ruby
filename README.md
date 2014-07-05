@@ -45,6 +45,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
   * [Error Handling and Monitoring](#error-handling-and-monitoring)
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
   * [Debugging Tools](#debugging-tools)
+  * [Profiler](#profiler)
   * [Third-party APIs](#third-party-apis)
   * [CMS](#cms)
   * [Admin Interface](#admin-interface)
@@ -280,6 +281,11 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 * [debugger](https://github.com/cldwalker/debugger)
 * [Byebug](https://github.com/deivid-rodriguez/byebug) - A simple to use, feature rich debugger for Ruby 2
+
+## Profiler
+
+* [ruby-prof](https://github.com/ruby-prof/ruby-prof) - a code profiler for MRI rubies
+* [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) - Profiler for your development and production Ruby rack apps
 
 ## Third-party APIs
 
