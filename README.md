@@ -31,6 +31,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
   * [Internationalization](#internationalization)
   * [Geolocation](#geolocation)
   * [Caching](#caching)
+  * [File Upload](#file-upload)
   * [Email](#email)
   * [Form Builder](#form-builder)
   * [Imagery](#imagery)
@@ -203,6 +204,10 @@ Contributions are always welcome! The idea is to build a categorized community-d
 ## Caching
 
 * [Dalli](https://github.com/mperham/dalli) - A high performance pure Ruby client for accessing memcached servers
+
+## File Upload
+
+* [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
 
 ## Email
 
