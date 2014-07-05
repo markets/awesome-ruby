@@ -24,6 +24,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
   * [OAuth](#oauth)
   * [Authorization](#authorization)
   * [Queue](#queue)
+  * [Scheduling](#scheduling)
   * [Template Engine](#template-engine)
   * [Assets](#assets)
   * [Markdown Processors](#markdown-processors)
@@ -133,6 +134,8 @@ Contributions are always welcome! The idea is to build a categorized community-d
 * [Rails::API](https://github.com/rails-api/rails-api)
 * [jbuilder](https://github.com/rails/jbuilder) - Create JSON structures via a Builder-style DSL
 * [rabl](https://github.com/nesquena/rabl) - General ruby templating with json, bson, xml, plist and msgpack support
+* [Pliny](https://github.com/interagent/pliny) - Opinionated template Sinatra app for writing excellent APIs in Ruby
+* [Roar](https://github.com/apotonick/roar) - Resource-Oriented Architectures in Ruby
 
 ## CLI
 
@@ -163,6 +166,12 @@ Contributions are always welcome! The idea is to build a categorized community-d
 * [Resque](https://github.com/resque/resque) — A Redis-backed Ruby library for creating background jobs
 * [Sidekiq](http://sidekiq.org) — A full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
 * [Delayed::Job](https://github.com/tobi/delayed_job) — Database backed asynchronous priority queue
+
+## Scheduling
+
+* [Whenever](https://github.com/javan/whenever) - A Ruby gem that provides a clear syntax for writing and deploying cron jobs
+* [rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) - Job scheduler for Ruby (at, cron, in and every jobs)
+* [resque-scheduler](https://github.com/resque/resque-scheduler) - A light-weight job scheduling system built on top of Resque
 
 ## Template Engine
 
@@ -195,7 +204,8 @@ Contributions are always welcome! The idea is to build a categorized community-d
 ## Internationalization
 
 * [i18n](https://github.com/svenfuchs/i18n) - Ruby Internationalization and localization solution
-* [i18n-tasks](https://github.com/glebm/i18n-tasks) - Manage missing and unused translations with the awesome power of static analysis.
+* [i18n-tasks](https://github.com/glebm/i18n-tasks) - Manage missing and unused translations with the awesome power of static analysis
+* [twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) - Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more
 
 ## Geolocation
 
