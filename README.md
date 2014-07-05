@@ -263,6 +263,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 * [twitter](https://github.com/sferik/twitter) - A Ruby interface to the Twitter API
   * [t](https://github.com/sferik/t) - A command-line power tool for Twitter
 * [tweetstream](https://github.com/tweetstream/tweetstream) - A simple library for consuming Twitter's Streaming API
+* [ruby-gmail](https://github.com/dcparker/ruby-gmail) - A Rubyesque interface to Gmail
 * [instagram-ruby-gem](https://github.com/Instagram/instagram-ruby-gem) - The official gem for the Instagram REST and Search APIs
 * [soundcloud-ruby](https://github.com/soundcloud/soundcloud-ruby) - Official SoundCloud API Wrapper for Ruby
 * [linkedin](https://github.com/hexgnu/linkedin) - Provides an easy-to-use wrapper for LinkedIn's REST APIs
@@ -329,4 +330,5 @@ Contributions are always welcome! The idea is to build a categorized community-d
 * [Prawn](https://github.com/prawnpdf/prawn) - Fast, Nimble PDF Writer for Ruby
 * [Betty](https://github.com/pickhardt/betty) - Friendly English-like interface for your command line. Don't remember a command? Ask Betty
 * [Pry](https://github.com/pry/pry) - A powerful alternative to the standard IRB shell for Ruby
-* [Guard](https://github.com/guard/guard) - a command line tool to easily handle events on file system modifications
+* [Guard](https://github.com/guard/guard) - A command line tool to easily handle events on file system modifications
+* [Rugged](https://github.com/libgit2/rugged) - Ruby bindings to libgit2
