@@ -371,6 +371,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 * [Pry](https://github.com/pry/pry) - A powerful alternative to the standard IRB shell for Ruby
 * [Guard](https://github.com/guard/guard) - A command line tool to easily handle events on file system modifications
 * [play ►](https://github.com/play/play) - Your company's dj
+* [Treetop](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser
 
 ## Resources
 
