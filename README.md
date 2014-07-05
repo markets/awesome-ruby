@@ -92,6 +92,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 * [Cucumber](https://github.com/cucumber/cucumber) - BDD that talks to domain experts first and code second
 * [Capybara](http://jnicklas.github.io/capybara) - Acceptance test framework for web applications
 * [Appraisal](https://github.com/thoughtbot/appraisal) - Appraisal integrates with bundler and rake to test your library against different versions of dependencies
+* [factory_girl](https://github.com/thoughtbot/factory_girl) - A library for setting up Ruby objects as test data
 
 ## Web Frameworks
 
