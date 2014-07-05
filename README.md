@@ -215,6 +215,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 * [Mail](https://github.com/mikel/mail) - A Really Ruby Mail Library
 * [Pony](https://github.com/benprew/pony)
 * [Mailman](https://github.com/titanous/mailman) - An incoming mail processing microframework in Ruby
+* [MailCatcher](http://mailcatcher.me) - Catches mail and serves it through a dream
 
 ## Form Builder
 
