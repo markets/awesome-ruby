@@ -251,6 +251,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 * [Exception Notification](https://github.com/smartinez87/exception_notification) - A set of notifiers for sending notifications when errors occur in a Rack/Rails application
 * [Errbit](http://errbit.github.io/errbit) - The open source, self-hosted error catcher
 * [Airbrake](https://github.com/airbrake/airbrake) - The official Airbrake library for Ruby on Rails (and other Rack based frameworks)
+* [Better Errors](https://github.com/charliesome/better_errors) - Better error page for Rack apps
 
 ## Code Analysis and Metrics
 
@@ -344,3 +345,4 @@ Contributions are always welcome! The idea is to build a categorized community-d
 * [Betty](https://github.com/pickhardt/betty) - Friendly English-like interface for your command line. Don't remember a command? Ask Betty
 * [Pry](https://github.com/pry/pry) - A powerful alternative to the standard IRB shell for Ruby
 * [Guard](https://github.com/guard/guard) - A command line tool to easily handle events on file system modifications
+* [play ►](https://github.com/play/play) - Your company's dj
