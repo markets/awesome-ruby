@@ -59,6 +59,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
   * [Game Development](#game-development)
   * [Robotics](#robotics)
   * [Misc](#misc)
+  * [Resources](#resources)
 
 ## Style Guide
 
@@ -369,3 +370,9 @@ Contributions are always welcome! The idea is to build a categorized community-d
 * [Pry](https://github.com/pry/pry) - A powerful alternative to the standard IRB shell for Ruby
 * [Guard](https://github.com/guard/guard) - A command line tool to easily handle events on file system modifications
 * [play ►](https://github.com/play/play) - Your company's dj
+
+## Resources
+
+* [The Ruby Toolbox](https://www.ruby-toolbox.com) - A comprehensive catalog of Ruby and Rails plug-ins, gems, tools and resources for Ruby developers with popularity ratings based on GitHub watchers and Gem downloads
+* [RubyFlow](http://www.rubyflow.com) - Ruby Programming Community Link Blog
+* [RubyDaily](http://rubydaily.org) - Community driven news
