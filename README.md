@@ -105,8 +105,8 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 ## Database Drivers
 
-* [ruby-pg](https://bitbucket.org/ged/ruby-pg)
-* [mysql2](https://github.com/brianmario/mysql2)
+* [ruby-pg](https://bitbucket.org/ged/ruby-pg) - Ruby interface to PostgreSQL 8.3 and later
+* [mysql2](https://github.com/brianmario/mysql2) - A modern, simple and very fast Mysql library for Ruby (binding to libmysql)
 * [SQLite3](https://github.com/sparklemotion/sqlite3-ruby)
 * [redis-rb](https://github.com/redis/redis-rb) - A Ruby client that tries to match Redis' API one-to-one, while still providing an idiomatic interface
 
@@ -114,7 +114,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 * [ActiveRecord](https://github.com/rails/rails/tree/master/activerecord)
 * [Sequel](https://github.com/jeremyevans/sequel) - Sequel is a simple, flexible, and powerful SQL database access toolkit for Ruby
-* [Mongoid](http://mongoid.org/en/mongoid/index.html)
+* [Mongoid](http://mongoid.org/en/mongoid/index.html) - An ODM (Object-Document-Mapper) framework for MongoDB in Ruby
 
 ## Http
 
@@ -137,9 +137,9 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 ## Authentication
 
-* [Devise](https://github.com/plataformatec/devise)
+* [Devise](https://github.com/plataformatec/devise) - A flexible authentication solution for Rails based on Warden
 * [Authlogic](https://github.com/binarylogic/authlogic)
-* [OmniAuth](https://github.com/intridea/omniauth)
+* [OmniAuth](https://github.com/intridea/omniauth) - A library that standardizes multi-provider authentication utilizing Rack middleware
 * [Sorcery](https://github.com/NoamB/sorcery)
 
 ## OAuth
@@ -150,7 +150,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 ## Authorization
 
 * [CanCanCan](https://github.com/CanCanCommunity/cancancan)
-* [Pundit](https://github.com/elabs/pundit)
+* [Pundit](https://github.com/elabs/pundit) - Minimal authorization through OO design and pure Ruby classes
 
 ## Queue
 
@@ -200,7 +200,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 ## Email
 
-* [Mail](https://github.com/mikel/mail)
+* [Mail](https://github.com/mikel/mail) - A Really Ruby Mail Library
 * [Pony](https://github.com/benprew/pony)
 
 ## Form Builder
@@ -223,7 +223,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 ## HTML Parsing
 
-* [Nokogiri](http://nokogiri.org) - an HTML, XML, SAX, and Reader parser with XPath and CSS selector support
+* [Nokogiri](http://nokogiri.org) - An HTML, XML, SAX, and Reader parser with XPath and CSS selector support
 
 ## Processes and Threads
 
@@ -231,7 +231,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 ## Concurrency
 
-* [EventMachine](https://github.com/eventmachine/eventmachine)
+* [EventMachine](https://github.com/eventmachine/eventmachine) - An event-driven I/O and lightweight concurrency library for Ruby
 * [Celluloid](http://celluloid.io) - Actor-based concurrent object framework for Ruby
 
 ## Core Extensions
