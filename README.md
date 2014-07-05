@@ -1,4 +1,5 @@
 # Awesome Ruby
+[![ruby-rocks!](http://img.shields.io/badge/ruby-rocks!-blue.svg?style=flat)](https://github.com/markets/awesome-ruby)
 
 A collection of awesome Ruby libraries, tools, frameworks and software :gem:
 
@@ -70,6 +71,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 * Packages and Applications
   * [Homebrew](https://github.com/Homebrew/homebrew) - The missing package manager for OS X
   * [Homebrew-cask](https://github.com/caskroom/homebrew-cask) - a CLI workflow for the administration of Mac applications distributed as binaries
+  * [CocoaPods](https://github.com/CocoaPods/CocoaPods) - The Objective-C dependency manager
 
 ## Environment Management
 * [rbenv](https://github.com/sstephenson/rbenv) — Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production
@@ -184,7 +186,9 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 * [Thinking Sphinx](https://github.com/pat/thinking-sphinx) - A library for connecting ActiveRecord to the Sphinx full-text search tool
 * [elasticsearch-ruby](https://github.com/elasticsearch/elasticsearch-ruby)
-* [Searchkick](https://github.com/ankane/searchkick)
+* [Sunspot](https://github.com/sunspot/sunspot) - A Ruby library for expressive, powerful interaction with the Solr search engine
+* [Searchkick](https://github.com/ankane/searchkick) - Searchkick learns what your users are looking for. As more people search, it gets smarter and the results get better. It’s friendly for developers - and magical for your users.
+
 
 ## Internationalization
 
@@ -204,6 +208,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 * [Mail](https://github.com/mikel/mail) - A Really Ruby Mail Library
 * [Pony](https://github.com/benprew/pony)
+* [Mailman](https://github.com/titanous/mailman) - An incoming mail processing microframework in Ruby
 
 ## Form Builder
 
