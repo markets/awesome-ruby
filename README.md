@@ -96,6 +96,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 * [Capybara](http://jnicklas.github.io/capybara) - Acceptance test framework for web applications
 * [Appraisal](https://github.com/thoughtbot/appraisal) - Appraisal integrates with bundler and rake to test your library against different versions of dependencies
 * [factory_girl](https://github.com/thoughtbot/factory_girl) - A library for setting up Ruby objects as test data
+* [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - Provides Test::Unit- and RSpec-compatible one-liners that test common Rails functionality. These tests would otherwise be much longer, more complex, and error-prone.
 
 ## Web Frameworks
 
@@ -202,6 +203,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 * [Sunspot](https://github.com/sunspot/sunspot) - A Ruby library for expressive, powerful interaction with the Solr search engine
 * [Searchkick](https://github.com/ankane/searchkick) - Searchkick learns what your users are looking for. As more people search, it gets smarter and the results get better. It’s friendly for developers - and magical for your users.
 * [pg_search](https://github.com/Casecommons/pg_search) - Builds ActiveRecord named scopes that take advantage of PostgreSQL's full text search
+* [has_scope](https://github.com/plataformatec/has_scope) - Has scope allows you to easily create controller filters based on your resources named scopes.
 
 ## Internationalization
 
@@ -277,6 +279,9 @@ Contributions are always welcome! The idea is to build a categorized community-d
 * [SimpleCov](https://github.com/colszowka/simplecov) - Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites
 * [Rubocop](https://github.com/bbatsov/rubocop)
 * [rails_best_practices](https://github.com/railsbp/rails_best_practices) - A code metric tool for rails projects
+* [Flay](https://github.com/seattlerb/flay) - Flay analyzes code for structural similarities. Differences in literal values, variable, class, method names, whitespace, programming style, braces vs do/end, etc are all ignored. Making this totally rad.
+* [Flog](https://github.com/seattlerb/flog) - Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
+* [Brakeman](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications.
 
 ## Debugging Tools
 
