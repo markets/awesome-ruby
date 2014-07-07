@@ -73,6 +73,7 @@
 <li><a href="#video">Video</a></li>
 <li><a href="#websocket">WebSocket</a></li>
 <li><a href="#html-parsing">HTML Parsing</a></li>
+<li><a href="#web-crawling">Web Crawling</a></li>
 <li><a href="#processes-and-threads">Processes and Threads</a></li>
 <li><a href="#concurrency">Concurrency</a></li>
 <li><a href="#core-extensions">Core Extensions</a></li>
@@ -85,7 +86,7 @@
 <li><a href="#admin-interface">Admin Interface</a></li>
 <li><a href="#static-site-generation">Static Site Generation</a></li>
 <li><a href="#forum-engine">Forum Engine</a></li>
-<li><a href="#e-commerce">E-Commerce</a></li>
+<li><a href="#e-commerce-and-payments">E-Commerce and Payments</a></li>
 <li><a href="#analytics">Analytics</a></li>
 <li><a href="#devops-tools">DevOps Tools</a></li>
 <li><a href="#git-tools">Git Tools</a></li>
@@ -165,6 +166,8 @@
 <a href="https://github.com/thoughtbot/appraisal">Appraisal</a> - Appraisal integrates with bundler and rake to test your library against different versions of dependencies</li>
 <li>
 <a href="https://github.com/thoughtbot/factory_girl">factory_girl</a> - A library for setting up Ruby objects as test data</li>
+<li>
+<a href="https://github.com/thoughtbot/shoulda-matchers">shoulda-matchers</a> - Provides Test::Unit- and RSpec-compatible one-liners that test common Rails functionality. These tests would otherwise be much longer, more complex, and error-prone.</li>
 </ul><h2>
 <a name="web-frameworks" class="anchor" href="#web-frameworks"><span class="octicon octicon-link"></span></a>Web Frameworks</h2>
 
@@ -211,8 +214,7 @@
 <ul>
 <li>
 <a href="https://github.com/rest-client/rest-client">RESTClient</a> - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions</li>
-<li>
-<a href="https://github.com/jnunemaker/httparty">httparty</a> </li>
+<li><a href="https://github.com/jnunemaker/httparty">httparty</a></li>
 <li><a href="https://github.com/lostisland/faraday">Faraday</a></li>
 </ul><h2>
 <a name="api-builder" class="anchor" href="#api-builder"><span class="octicon octicon-link"></span></a>API Builder</h2>
@@ -332,6 +334,10 @@
 <a href="https://github.com/sunspot/sunspot">Sunspot</a> - A Ruby library for expressive, powerful interaction with the Solr search engine</li>
 <li>
 <a href="https://github.com/ankane/searchkick">Searchkick</a> - Searchkick learns what your users are looking for. As more people search, it gets smarter and the results get better. It’s friendly for developers - and magical for your users.</li>
+<li>
+<a href="https://github.com/Casecommons/pg_search">pg_search</a> - Builds ActiveRecord named scopes that take advantage of PostgreSQL's full text search</li>
+<li>
+<a href="https://github.com/plataformatec/has_scope">has_scope</a> - Has scope allows you to easily create controller filters based on your resources named scopes.</li>
 </ul><h2>
 <a name="internationalization" class="anchor" href="#internationalization"><span class="octicon octicon-link"></span></a>Internationalization</h2>
 
@@ -360,6 +366,10 @@
 <ul>
 <li>
 <a href="https://github.com/carrierwaveuploader/carrierwave">CarrierWave</a> - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks</li>
+<li>
+<a href="https://github.com/thoughtbot/paperclip">PaperClip</a> - Easy file attachment management for ActiveRecord</li>
+<li>
+<a href="https://github.com/markevans/dragonfly">DragonFly</a> - A Ruby gem for on-the-fly processing - suitable for image uploading in Rails, Sinatra and much more!</li>
 </ul><h2>
 <a name="email" class="anchor" href="#email"><span class="octicon octicon-link"></span></a>Email</h2>
 
@@ -406,6 +416,12 @@
 <li>
 <a href="http://nokogiri.org">Nokogiri</a> - An HTML, XML, SAX, and Reader parser with XPath and CSS selector support</li>
 </ul><h2>
+<a name="web-crawling" class="anchor" href="#web-crawling"><span class="octicon octicon-link"></span></a>Web Crawling</h2>
+
+<ul>
+<li>
+<a href="https://github.com/jaimeiniesta/metainspector">MetaInspector</a> - Ruby gem for web scraping purposes. It scrapes a given URL, and returns you its title, meta description, meta keywords, an array with all the links, all the images in it, etc.</li>
+</ul><h2>
 <a name="processes-and-threads" class="anchor" href="#processes-and-threads"><span class="octicon octicon-link"></span></a>Processes and Threads</h2>
 
 <ul>
@@ -446,6 +462,12 @@
 <li><a href="https://github.com/bbatsov/rubocop">Rubocop</a></li>
 <li>
 <a href="https://github.com/railsbp/rails_best_practices">rails_best_practices</a> - A code metric tool for rails projects</li>
+<li>
+<a href="https://github.com/seattlerb/flay">Flay</a> - Flay analyzes code for structural similarities. Differences in literal values, variable, class, method names, whitespace, programming style, braces vs do/end, etc are all ignored. Making this totally rad.</li>
+<li>
+<a href="https://github.com/seattlerb/flog">Flog</a> - Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.</li>
+<li>
+<a href="https://github.com/presidentbeef/brakeman">Brakeman</a> - A static analysis security vulnerability scanner for Ruby on Rails applications.</li>
 </ul><h2>
 <a name="debugging-tools" class="anchor" href="#debugging-tools"><span class="octicon octicon-link"></span></a>Debugging Tools</h2>
 
@@ -521,13 +543,15 @@
 <ul>
 <li><a href="https://github.com/radar/forem">Forem</a></li>
 </ul><h2>
-<a name="e-commerce" class="anchor" href="#e-commerce"><span class="octicon octicon-link"></span></a>E-Commerce</h2>
+<a name="e-commerce-and-payments" class="anchor" href="#e-commerce-and-payments"><span class="octicon octicon-link"></span></a>E-Commerce and Payments</h2>
 
 <ul>
 <li>
 <a href="https://github.com/Shopify/active_merchant">Active Merchant</a> - A simple payment abstraction library extracted from Shopify</li>
 <li><a href="http://spreecommerce.com">Spree</a></li>
 <li><a href="http://www.ror-e.com">ROR Ecommerce</a></li>
+<li>
+<a href="https://github.com/stripe/stripe-ruby">stripe-ruby</a> - Stripe Ruby bindings</li>
 </ul><h2>
 <a name="analytics" class="anchor" href="#analytics"><span class="octicon octicon-link"></span></a>Analytics</h2>
 
@@ -547,6 +571,8 @@
 <a href="https://github.com/puppetlabs/puppet">Puppet</a> - An automated administrative engine for your Linux, Unix, and Windows systems, performs administrative tasks (such as adding users, installing packages, and updating server configurations) based on a centralized specification</li>
 <li>
 <a href="http://www.vagrantup.com">Vagrant</a> - Create and configure lightweight, reproducible, and portable development environments</li>
+<li>
+<a href="https://github.com/opscode/chef">Chef</a> - A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure</li>
 </ul><h2>
 <a name="git-tools" class="anchor" href="#git-tools"><span class="octicon octicon-link"></span></a>Git Tools</h2>
 
@@ -585,15 +611,21 @@
 
 <ul>
 <li>
-<a href="https://github.com/prawnpdf/prawn">Prawn</a> - Fast, Nimble PDF Writer for Ruby</li>
-<li>
 <a href="https://github.com/pickhardt/betty">Betty</a> - Friendly English-like interface for your command line. Don't remember a command? Ask Betty</li>
+<li>
+<a href="https://github.com/ddollar/foreman">Foreman</a> - Manage Procfile-based applications</li>
+<li>
+<a href="https://github.com/prawnpdf/prawn">Prawn</a> - Fast, Nimble PDF Writer for Ruby</li>
 <li>
 <a href="https://github.com/pry/pry">Pry</a> - A powerful alternative to the standard IRB shell for Ruby</li>
 <li>
 <a href="https://github.com/guard/guard">Guard</a> - A command line tool to easily handle events on file system modifications</li>
 <li>
 <a href="https://github.com/play/play">play ►</a> - Your company's dj</li>
+<li>
+<a href="https://github.com/cjheath/treetop">Treetop</a> - PEG (Parsing Expression Grammar) parser</li>
+<li>
+<a href="https://github.com/amatsuda/kaminari">Kaminari</a> - A Scope &amp; Engine based, clean, powerful, customizable and sophisticated paginator for modern web app frameworks and ORMs</li>
 </ul><h2>
 <a name="resources" class="anchor" href="#resources"><span class="octicon octicon-link"></span></a>Resources</h2>
 
