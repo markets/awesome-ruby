@@ -348,6 +348,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 * [Backup](https://github.com/meskyanichi/backup) - Provides an elegant DSL in Ruby for performing backups on UNIX-like systems
 * [Puppet](https://github.com/puppetlabs/puppet) - An automated administrative engine for your Linux, Unix, and Windows systems, performs administrative tasks (such as adding users, installing packages, and updating server configurations) based on a centralized specification
 * [Vagrant](http://www.vagrantup.com) - Create and configure lightweight, reproducible, and portable development environments
+* [Chef](https://github.com/opscode/chef) - A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure
 
 ## Git Tools
 
@@ -379,6 +380,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 * [Guard](https://github.com/guard/guard) - A command line tool to easily handle events on file system modifications
 * [play ►](https://github.com/play/play) - Your company's dj
 * [Treetop](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser
+* [Kaminari](https://github.com/amatsuda/kaminari) - A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for modern web app frameworks and ORMs
 
 ## Resources
 
