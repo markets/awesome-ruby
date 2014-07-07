@@ -39,6 +39,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
   * [Video](#video)
   * [WebSocket](#websocket)
   * [HTML Parsing](#html-parsing)
+  * [Web Crawling](#web-crawling)
   * [Processes and Threads](#processes-and-threads)
   * [Concurrency](#concurrency)
   * [Core Extensions](#core-extensions)
@@ -254,6 +255,10 @@ Contributions are always welcome! The idea is to build a categorized community-d
 ## HTML Parsing
 
 * [Nokogiri](http://nokogiri.org) - An HTML, XML, SAX, and Reader parser with XPath and CSS selector support
+
+## Web Crawling
+
+* [MetaInspector](https://github.com/jaimeiniesta/metainspector) - Ruby gem for web scraping purposes. It scrapes a given URL, and returns you its title, meta description, meta keywords, an array with all the links, all the images in it, etc.
 
 ## Processes and Threads
 
