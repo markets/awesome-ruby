@@ -128,7 +128,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 ## Http
 
 * [RESTClient](https://github.com/rest-client/rest-client) - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions
-* [httparty](https://github.com/jnunemaker/httparty) 
+* [httparty](https://github.com/jnunemaker/httparty)
 * [Faraday](https://github.com/lostisland/faraday)
 
 ## API Builder
@@ -223,6 +223,8 @@ Contributions are always welcome! The idea is to build a categorized community-d
 ## File Upload
 
 * [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
+* [PaperClip](https://github.com/thoughtbot/paperclip) - Easy file attachment management for ActiveRecord
+* [DragonFly](https://github.com/markevans/dragonfly) - A Ruby gem for on-the-fly processing - suitable for image uploading in Rails, Sinatra and much more!
 
 ## Email
 
