@@ -263,6 +263,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 ## Processes and Threads
 
 * [Parallel](https://github.com/grosser/parallel)
+* [posix-spawn](https://github.com/rtomayko/posix-spawn) - Fast Process::spawn for Rubys >= 1.8.7 based on the posix_spawn() system interfaces
 
 ## Concurrency
 
