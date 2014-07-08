@@ -238,6 +238,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 * [Simple Form](https://github.com/plataformatec/simple_form) - Rails forms made easy
 * [Formtastic](https://github.com/justinfrench/formtastic) - A Rails form builder plugin with semantically rich and accessible markup
+* [Abracadabra](https://github.com/TrevorHinesley/abracadabra) - The gem that swaps out text with a fully-compliant Rails form in one click
 
 ## Imagery
 
