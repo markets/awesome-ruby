@@ -391,6 +391,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 ## Resources
 
+* [GitHub Explore](https://github.com/explore)
 * [The Ruby Toolbox](https://www.ruby-toolbox.com) - A comprehensive catalog of Ruby and Rails plug-ins, gems, tools and resources for Ruby developers with popularity ratings based on GitHub watchers and Gem downloads
 * [RubyFlow](http://www.rubyflow.com) - Ruby Programming Community Link Blog
 * [RubyDaily](http://rubydaily.org) - Community driven news
