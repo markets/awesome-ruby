@@ -300,6 +300,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 * [ruby-prof](https://github.com/ruby-prof/ruby-prof) - a code profiler for MRI rubies
 * [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) - Profiler for your development and production Ruby rack apps
+* [perftools.rb](https://github.com/tmm1/perftools.rb) - gperftools (formerly known as google-perftools) for Ruby code
 
 ## Third-party APIs
 
