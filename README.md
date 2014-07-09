@@ -108,6 +108,8 @@ Contributions are always welcome! Thanks to all [contributors](https://github.co
 * [Sinatra](http://www.sinatrarb.com)
 * [Padrino](http://www.padrinorb.com)
 * [Lotus](http://lotusrb.org)
+* [Camping](http://camping.io)
+* [Cuba](http://cuba.is)
 
 ## Web Servers
 
