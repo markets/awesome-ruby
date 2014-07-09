@@ -371,6 +371,8 @@ Contributions are always welcome! The idea is to build a categorized community-d
 ## GUI
 
 * [Shoes](http://shoesrb.com)
+* [QtRuby](https://github.com/ryanmelt/qtbindings/) - [Qt4 binding for ruby](http://quickgit.kde.org/?p=qtruby.git)
+* [RubyGnome2](http://ruby-gnome2.sourceforge.jp/)
 
 ## Game Development
 
