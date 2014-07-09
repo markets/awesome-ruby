@@ -5,7 +5,7 @@ A collection of awesome Ruby libraries, tools, frameworks and software :gem:
 
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) and [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks).
 
-Contributions are always welcome! The idea is to build a categorized community-driven collection.
+Contributions are always welcome! Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/contributors), you're awesome! The idea is to build a categorized community-driven collection. 
 
 * [Awesome Ruby](#awesome-ruby)
   * [Style Guide](#style-guide)
@@ -403,6 +403,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 ## Resources
 
 * [GitHub Explore](https://github.com/explore)
+* [Ruby5](http://ruby5.envylabs.com) - The latest news in the Ruby and Rails community
 * [The Ruby Toolbox](https://www.ruby-toolbox.com) - A comprehensive catalog of Ruby and Rails plug-ins, gems, tools and resources for Ruby developers with popularity ratings based on GitHub watchers and Gem downloads
 * [RubyFlow](http://www.rubyflow.com) - Ruby Programming Community Link Blog
 * [RubyDaily](http://rubydaily.org) - Community driven news
