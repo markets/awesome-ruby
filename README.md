@@ -329,6 +329,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 
 * [ActiveAdmin](http://activeadmin.info) - a Ruby on Rails framework for creating elegant backends for website administration
 * [RailsAdmin](https://github.com/sferik/rails_admin)
+* [bhf](http://antpaw.github.io/bhf/)
 
 ## Static Site Generation
 
