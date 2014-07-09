@@ -134,6 +134,7 @@ Contributions are always welcome! The idea is to build a categorized community-d
 * [RESTClient](https://github.com/rest-client/rest-client) - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions
 * [httparty](https://github.com/jnunemaker/httparty)
 * [Faraday](https://github.com/lostisland/faraday)
+* [excon](https://github.com/excon/excon) - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
 
 ## API Builder
 
