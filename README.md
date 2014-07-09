@@ -189,6 +189,7 @@ Contributions are always welcome! Thanks to all [contributors](https://github.co
 * [Haml](https://github.com/haml/haml) - HTML Abstraction Markup Language
 * [Slim](https://github.com/slim-template/slim)
 * [Liquid](https://github.com/Shopify/liquid)
+* [Curly](https://github.com/zendesk/curly)
 
 ## Assets
 
