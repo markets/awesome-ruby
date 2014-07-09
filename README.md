@@ -330,7 +330,7 @@ Contributions are always welcome! Thanks to all [contributors](https://github.co
 * [hipchat-rb](https://github.com/hipchat/hipchat-rb) - HipChat HTTP API Wrapper in Ruby with Capistrano hooks
 
 ## CMS
-
+* [Alchemy CMS](http://alchemy-cms.com)
 * [Refinery CMS](http://refinerycms.com)
 * [Radiant](http://radiantcms.org)
 * [LocomotiveCMS](http://www.locomotivecms.com)
