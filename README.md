@@ -137,6 +137,7 @@ Contributions are always welcome! Thanks to all [contributors](https://github.co
 * [RESTClient](https://github.com/rest-client/rest-client) - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions
 * [httparty](https://github.com/jnunemaker/httparty)
 * [Faraday](https://github.com/lostisland/faraday)
+* [Sawyer](https://github.com/lostisland/sawyer) - Secret user agent of HTTP, built on top of Faraday
 * [excon](https://github.com/excon/excon) - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
 
 ## API Builder
