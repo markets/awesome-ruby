@@ -53,6 +53,7 @@ Contributions are always welcome! Thanks to all [contributors](https://github.co
   * [CMS](#cms)
   * [Admin Interface](#admin-interface)
   * [Static Site Generation](#static-site-generation)
+  * [SEO](#seo)
   * [Forum Engine](#forum-engine)
   * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Analytics](#analytics)
@@ -358,13 +359,19 @@ Contributions are always welcome! Thanks to all [contributors](https://github.co
 
 * [ActiveAdmin](http://activeadmin.info) - a Ruby on Rails framework for creating elegant backends for website administration
 * [RailsAdmin](https://github.com/sferik/rails_admin)
-* [bhf](http://antpaw.github.io/bhf/)
+* [bhf](http://antpaw.github.io/bhf/) - A simple to use Rails-Engine-Gem that offers an admin interface for trusted user
 
 ## Static Site Generation
 
 * [Jekyll](http://jekyllrb.com) - Transform your plain text into static websites and blogs
 * [Middleman](http://middlemanapp.com) - A static site generator using all the shortcuts and tools in modern web development
 * [Nanoc](http://nanoc.ws/) - A static site generator, fit for building anything from a small personal blog to a large corporate web site.
+
+## SEO
+
+* [FriendlyId](https://github.com/norman/friendly_id) - The "Swiss Army bulldozer" of slugging and permalink plugins for Active Record
+* [MetaTags](https://github.com/kpumuk/meta-tags) - A gem to make your Rails application SEO-friendly
+* [SitemapGenerator](https://github.com/kjvarga/sitemap_generator) - A framework-agnostic XML Sitemap generator written in Ruby
 
 ## Forum Engine
 
@@ -424,7 +431,6 @@ Contributions are always welcome! Thanks to all [contributors](https://github.co
 * [Guard](https://github.com/guard/guard) - A command line tool to easily handle events on file system modifications
 * [play ►](https://github.com/play/play) - Your company's dj
 * [Treetop](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser
-* [FriendlyId](https://github.com/norman/friendly_id) - The "Swiss Army bulldozer" of slugging and permalink plugins for Active Record
 
 # Resources
 
