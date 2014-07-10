@@ -286,8 +286,8 @@ Contributions are always welcome! Thanks to all [contributors](https://github.co
 
 ## Core Extensions
 
-* [ActiveSupport](https://github.com/rails/rails/tree/master/activesupport)
-* [Ruby Facets](https://github.com/rubyworks/facets) - The premiere collection of general purpose method extensions and standard additions for Ruby
+* [ActiveSupport](https://github.com/rails/rails/tree/master/activesupport) - A collection of utility classes and standard library extensions.
+* [Ruby Facets](https://github.com/rubyworks/facets) - The premiere collection of general purpose method extensions and standard additions for Ruby.
 
 ## Error Handling and Monitoring
 
@@ -298,8 +298,8 @@ Contributions are always welcome! Thanks to all [contributors](https://github.co
 
 ## Code Analysis and Metrics
 
-* [SimpleCov](https://github.com/colszowka/simplecov) - Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites
-* [Rubocop](https://github.com/bbatsov/rubocop)
+* [SimpleCov](https://github.com/colszowka/simplecov) - Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites.
+* [Rubocop](https://github.com/bbatsov/rubocop) - A static code analyzer, based on the community Ruby style guide.
 * [rails_best_practices](https://github.com/railsbp/rails_best_practices) - A code metric tool for rails projects
 * [Flay](https://github.com/seattlerb/flay) - Flay analyzes code for structural similarities. Differences in literal values, variable, class, method names, whitespace, programming style, braces vs do/end, etc are all ignored. Making this totally rad.
 * [Flog](https://github.com/seattlerb/flog) - Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
@@ -307,12 +307,12 @@ Contributions are always welcome! Thanks to all [contributors](https://github.co
 
 ## Debugging Tools
 
-* [debugger](https://github.com/cldwalker/debugger)
-* [Byebug](https://github.com/deivid-rodriguez/byebug) - A simple to use, feature rich debugger for Ruby 2
+* [debugger](https://github.com/cldwalker/debugger) - A port of ruby-debug that works on 1.9.2 and 1.9.3.
+* [Byebug](https://github.com/deivid-rodriguez/byebug) - A simple to use, feature rich debugger for Ruby 2.
 
 ## Profiler
 
-* [ruby-prof](https://github.com/ruby-prof/ruby-prof) - a code profiler for MRI rubies
+* [ruby-prof](https://github.com/ruby-prof/ruby-prof) - A code profiler for MRI rubies
 * [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) - Profiler for your development and production Ruby rack apps
 * [perftools.rb](https://github.com/tmm1/perftools.rb) - gperftools (formerly known as google-perftools) for Ruby code
 
