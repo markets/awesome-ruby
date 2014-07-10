@@ -145,6 +145,7 @@ Contributions are always welcome! Thanks to all [contributors](https://github.co
 
 * [Grape](http://intridea.github.io/grape) - An opinionated micro-framework for creating REST-like APIs in Ruby
 * [Rails::API](https://github.com/rails-api/rails-api)
+* [Crêpe](https://github.com/crepe/crepe) - The thin API stack
 * [jbuilder](https://github.com/rails/jbuilder) - Create JSON structures via a Builder-style DSL
 * [rabl](https://github.com/nesquena/rabl) - General ruby templating with json, bson, xml, plist and msgpack support
 * [Pliny](https://github.com/interagent/pliny) - Opinionated template Sinatra app for writing excellent APIs in Ruby
