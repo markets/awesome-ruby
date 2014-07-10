@@ -161,6 +161,7 @@ Contributions are always welcome! Thanks to all [contributors](https://github.co
 * [Authlogic](https://github.com/binarylogic/authlogic)
 * [OmniAuth](https://github.com/intridea/omniauth) - A library that standardizes multi-provider authentication utilizing Rack middleware
 * [Sorcery](https://github.com/NoamB/sorcery)
+* [Clearance](https://github.com/thoughtbot/clearance) - Small and simple email & password based authenticaton for Rails
 
 ## OAuth
 
