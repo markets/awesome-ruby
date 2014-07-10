@@ -5,7 +5,7 @@ A collection of awesome Ruby libraries, tools, frameworks and software :gem:
 
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) and [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks).
 
-Contributions are always welcome! Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/contributors), you're awesome! The idea is to build a categorized community-driven collection. 
+Contributions are always welcome! Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/contributors), you're awesome! The idea is to build a categorized community-driven collection.
 
 * [Awesome Ruby](#awesome-ruby)
   * [Style Guide](#style-guide)
@@ -118,6 +118,11 @@ Contributions are always welcome! Thanks to all [contributors](https://github.co
 * [Unicorn](http://unicorn.bogomips.org) - Rack HTTP server for fast clients and Unix
 * [Thin](http://code.macournoyer.com/thin) - Tiny, fast & funny HTTP server
 * [Puma](https://github.com/puma/puma) - A modern, concurrent web server for Ruby
+
+## High performance web server framework
+
+* [Goliath](https://github.com/postrank-labs/goliath)
+
 
 ## Database Drivers
 
