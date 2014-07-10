@@ -45,6 +45,7 @@ Contributions are always welcome! Thanks to all [contributors](https://github.co
   * [Core Extensions](#core-extensions)
   * [Error Handling and Monitoring](#error-handling-and-monitoring)
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
+  * [Dashboards](#dashboards)
   * [Debugging Tools](#debugging-tools)
   * [Profiler](#profiler)
   * [Third-party APIs](#third-party-apis)
@@ -308,6 +309,10 @@ Contributions are always welcome! Thanks to all [contributors](https://github.co
 * [Flay](https://github.com/seattlerb/flay) - Flay analyzes code for structural similarities. Differences in literal values, variable, class, method names, whitespace, programming style, braces vs do/end, etc are all ignored. Making this totally rad.
 * [Flog](https://github.com/seattlerb/flog) - Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
 * [Brakeman](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications.
+
+## Dashboards
+
+* [Dashing-Rails](https://github.com/gottfrois/dashing-rails) - The exceptionally handsome dashboard framework for Rails.
 
 ## Debugging Tools
 
