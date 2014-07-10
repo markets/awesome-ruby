@@ -349,6 +349,7 @@ Contributions are always welcome! Thanks to all [contributors](https://github.co
 ## Forum Engine
 
 * [Forem](https://github.com/radar/forem)
+* [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple
 
 ## E-Commerce and Payments
 
