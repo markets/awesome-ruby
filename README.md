@@ -348,6 +348,7 @@ Contributions are always welcome! Thanks to all [contributors](https://github.co
 
 * [Jekyll](http://jekyllrb.com) - Transform your plain text into static websites and blogs
 * [Middleman](http://middlemanapp.com) - A static site generator using all the shortcuts and tools in modern web development
+* [Nanoc](http://nanoc.ws/) - A static site generator, fit for building anything from a small personal blog to a large corporate web site.
 
 ## Forum Engine
 
