@@ -5,7 +5,7 @@ A collection of awesome Ruby libraries, tools, frameworks and software :gem:
 
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) and [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks).
 
-Contributions are always welcome! Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/contributors), you're awesome! The idea is to build a categorized community-driven collection. 
+Contributions are always welcome! Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/contributors), you're awesome! The idea is to build a categorized community-driven collection.
 
 * [Awesome Ruby](#awesome-ruby)
   * [Style Guide](#style-guide)
@@ -274,6 +274,7 @@ Contributions are always welcome! Thanks to all [contributors](https://github.co
 ## Web Crawling
 
 * [MetaInspector](https://github.com/jaimeiniesta/metainspector) - Ruby gem for web scraping purposes. It scrapes a given URL, and returns you its title, meta description, meta keywords, an array with all the links, all the images in it, etc.
+* [LinkThumbnailer](https://github.com/gottfrois/link_thumbnailer) - Ruby gem that generates thumbnail images and videos from a given URL. Much like popular social website with link preview.
 
 ## Processes and Threads
 
@@ -285,7 +286,7 @@ Contributions are always welcome! Thanks to all [contributors](https://github.co
 * [EventMachine](https://github.com/eventmachine/eventmachine) - An event-driven I/O and lightweight concurrency library for Ruby
 * [Celluloid](http://celluloid.io) - Actor-based concurrent object framework for Ruby
 * [Concurrent Ruby](https://github.com/ruby-concurrency/concurrent-ruby) -
-  Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.  
+  Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
 
 ## Core Extensions
 
