@@ -120,6 +120,11 @@ Contributions are always welcome! Thanks to all [contributors](https://github.co
 * [Thin](http://code.macournoyer.com/thin) - Tiny, fast & funny HTTP server
 * [Puma](https://github.com/puma/puma) - A modern, concurrent web server for Ruby
 
+## High performance web server framework
+
+* [Goliath](https://github.com/postrank-labs/goliath)
+
+
 ## Database Drivers
 
 * [ruby-pg](https://bitbucket.org/ged/ruby-pg) - Ruby interface to PostgreSQL 8.3 and later
