@@ -35,6 +35,7 @@ Contributions are always welcome! Thanks to all [contributors](https://github.co
   * [File Upload](#file-upload)
   * [Email](#email)
   * [Form Builder](#form-builder)
+  * [Pagination](#pagination)
   * [Imagery](#imagery)
   * [Video](#video)
   * [WebSocket](#websocket)
@@ -61,7 +62,7 @@ Contributions are always welcome! Thanks to all [contributors](https://github.co
   * [Game Development](#game-development)
   * [Robotics](#robotics)
   * [Misc](#misc)
-  * [Resources](#resources)
+* [Resources](#resources)
 * [Other Awesome Lists](#other-awesome-lists)
 
 ## Style Guide
@@ -83,7 +84,8 @@ Contributions are always welcome! Thanks to all [contributors](https://github.co
 ## Environment Management
 * [rbenv](https://github.com/sstephenson/rbenv) — Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production
 * [RVM](https://rvm.io) — RVM is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems
-* [dotenv](https://github.com/bkeepers/dotenv)
+* [dotenv](https://github.com/bkeepers/dotenv) - Loads environment variables from `.env`
+* [ruby-build](https://github.com/sstephenson/ruby-build) - Compile and install Ruby
 * [chruby](https://github.com/postmodern/chruby) - Change your current Ruby. No shims, no crazy options or features, ~90 LOC
 * [ruby-install](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, Rubinius, MagLev or MRuby
 
@@ -119,11 +121,7 @@ Contributions are always welcome! Thanks to all [contributors](https://github.co
 * [Unicorn](http://unicorn.bogomips.org) - Rack HTTP server for fast clients and Unix
 * [Thin](http://code.macournoyer.com/thin) - Tiny, fast & funny HTTP server
 * [Puma](https://github.com/puma/puma) - A modern, concurrent web server for Ruby
-
-## High performance web server framework
-
-* [Goliath](https://github.com/postrank-labs/goliath)
-
+* [Goliath](https://github.com/postrank-labs/goliath) - A non-blocking Ruby web server framework
 
 ## Database Drivers
 
@@ -188,7 +186,6 @@ Contributions are always welcome! Thanks to all [contributors](https://github.co
 * [Sidekiq](http://sidekiq.org) — A full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
 * [Sucker Punch](https://github.com/brandonhilkert/sucker_punch) — A single process background processing library using Celluloid. Aimed to be Sidekiq's little brother.
 * [Delayed::Job](https://github.com/tobi/delayed_job) — Database backed asynchronous priority queue
-
 
 ## Scheduling
 
@@ -259,6 +256,11 @@ Contributions are always welcome! Thanks to all [contributors](https://github.co
 
 * [Simple Form](https://github.com/plataformatec/simple_form) - Rails forms made easy
 * [Formtastic](https://github.com/justinfrench/formtastic) - A Rails form builder plugin with semantically rich and accessible markup
+
+## Pagination
+
+* [Kaminari](https://github.com/amatsuda/kaminari) - A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for modern web app frameworks and ORMs
+* [will_paginate](https://github.com/mislav/will_paginate) - A pagination library that integrates with Ruby on Rails, Sinatra, Merb, DataMapper and Sequel
 
 ## Imagery
 
@@ -422,9 +424,9 @@ Contributions are always welcome! Thanks to all [contributors](https://github.co
 * [Guard](https://github.com/guard/guard) - A command line tool to easily handle events on file system modifications
 * [play ►](https://github.com/play/play) - Your company's dj
 * [Treetop](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser
-* [Kaminari](https://github.com/amatsuda/kaminari) - A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for modern web app frameworks and ORMs
+* [FriendlyId](https://github.com/norman/friendly_id) - The "Swiss Army bulldozer" of slugging and permalink plugins for Active Record
 
-## Resources
+# Resources
 
 * [GitHub Explore](https://github.com/explore)
 * [Ruby5](http://ruby5.envylabs.com) - The latest news in the Ruby and Rails community
