@@ -233,6 +233,7 @@ Contributions are always welcome! Thanks to all [contributors](https://github.co
 
 ## Caching
 
+* [Action caching for Action Pack](https://github.com/rails/actionpack-action_caching) - Action caching for Action Pack
 * [Dalli](https://github.com/mperham/dalli) - A high performance pure Ruby client for accessing memcached servers
 
 ## File Upload
