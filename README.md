@@ -54,7 +54,7 @@ Contributions are always welcome! Thanks to all [contributors](https://github.co
   * [Admin Interface](#admin-interface)
   * [Static Site Generation](#static-site-generation)
   * [SEO](#seo)
-  * [Forum Engine](#forum-engine)
+  * [Social Networking](#social-networking)
   * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Analytics](#analytics)
   * [DevOps Tools](#devops-tools)
@@ -373,10 +373,11 @@ Contributions are always welcome! Thanks to all [contributors](https://github.co
 * [MetaTags](https://github.com/kpumuk/meta-tags) - A gem to make your Rails application SEO-friendly
 * [SitemapGenerator](https://github.com/kjvarga/sitemap_generator) - A framework-agnostic XML Sitemap generator written in Ruby
 
-## Forum Engine
+## Social Networking
 
+* [diaspora*](https://github.com/diaspora/diaspora) - A privacy aware, distributed, open source social network
+* [Discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple
 * [Forem](https://github.com/radar/forem)
-* [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple
 
 ## E-Commerce and Payments
 
