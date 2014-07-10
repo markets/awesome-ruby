@@ -139,6 +139,7 @@ Contributions are always welcome! Thanks to all [contributors](https://github.co
 * [Faraday](https://github.com/lostisland/faraday)
 * [Sawyer](https://github.com/lostisland/sawyer) - Secret user agent of HTTP, built on top of Faraday
 * [excon](https://github.com/excon/excon) - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
+* [Patron](https://github.com/toland/patron) - Patron is a Ruby HTTP client library based on libcurl.
 
 ## API Builder
 
