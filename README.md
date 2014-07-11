@@ -413,6 +413,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Puppet](https://github.com/puppetlabs/puppet) - An automated administrative engine for your Linux, Unix, and Windows systems, performs administrative tasks (such as adding users, installing packages, and updating server configurations) based on a centralized specification
 * [Vagrant](http://www.vagrantup.com) - Create and configure lightweight, reproducible, and portable development environments
 * [Chef](https://github.com/opscode/chef) - A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure
+* [Mina](https://github.com/mina-deploy/mina) - Really fast deployer and server automation tool. 
 
 ## Git Tools
 
