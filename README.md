@@ -348,6 +348,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Third-party APIs
 
 * [Octokit](http://octokit.github.io/octokit.rb) - Ruby toolkit for the GitHub API
+* [gitlab](https://github.com/NARKOZ/gitlab) - Ruby wrapper and CLI for the GitLab API
 * [fb_graph](https://github.com/nov/fb_graph) - A full-stack Facebook Graph API wrapper
 * [twitter](https://github.com/sferik/twitter) - A Ruby interface to the Twitter API
   * [t](https://github.com/sferik/t) - A command-line power tool for Twitter
