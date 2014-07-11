@@ -423,6 +423,9 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [hub](https://github.com/github/hub) - a command line tool that wraps Git in order to extend it with extra features and commands that make working with GitHub easier
 * [Rugged](https://github.com/libgit2/rugged) - Ruby bindings to libgit2
+* [git-auto-bisect](https://github.com/grosser/git-autobisect) - Find the commit that broke master
+* [git-whence](https://github.com/grosser/git-whence) - Find which merge a commit came from
+* [git-spelunk](https://github.com/osheroff/git-spelunk) - Dig through git blame history
 
 ## GUI
 
