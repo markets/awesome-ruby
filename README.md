@@ -152,6 +152,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Grape](http://intridea.github.io/grape) - An opinionated micro-framework for creating REST-like APIs in Ruby
 * [Rails::API](https://github.com/rails-api/rails-api)
+* [ActiveModel::Serializers](https://github.com/rails-api/active_model_serializers) - JSON serialization of objects
 * [Crêpe](https://github.com/crepe/crepe) - The thin API stack
 * [jbuilder](https://github.com/rails/jbuilder) - Create JSON structures via a Builder-style DSL
 * [rabl](https://github.com/nesquena/rabl) - General ruby templating with json, bson, xml, plist and msgpack support
