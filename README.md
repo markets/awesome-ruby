@@ -82,6 +82,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Homebrew](https://github.com/Homebrew/homebrew) - The missing package manager for OS X
   * [Homebrew-cask](https://github.com/caskroom/homebrew-cask) - a CLI workflow for the administration of Mac applications distributed as binaries
   * [CocoaPods](https://github.com/CocoaPods/CocoaPods) - The Objective-C dependency manager
+  * [Berkshelf](https://github.com/berkshelf/berkshelf) - A Chef Cookbook manager
 
 ## Environment Management
 * [rbenv](https://github.com/sstephenson/rbenv) — Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production
@@ -107,6 +108,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [factory_girl](https://github.com/thoughtbot/factory_girl) - A library for setting up Ruby objects as test data
 * [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - Provides Test::Unit- and RSpec-compatible one-liners that test common Rails functionality. These tests would otherwise be much longer, more complex, and error-prone.
 * [vcr](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests
+* [Spring](https://github.com/rails/spring) - Preloads your rails environment in the background for faster testing and Rake tasks
 
 ## Web Frameworks
 
@@ -116,6 +118,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Lotus](http://lotusrb.org)
 * [Camping](http://camping.io)
 * [Cuba](http://cuba.is)
+* [Pakyow](http://pakyow.com/)
 
 ## Web Servers
 
@@ -137,7 +140,8 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [ActiveRecord](https://github.com/rails/rails/tree/master/activerecord)
 * [Sequel](https://github.com/jeremyevans/sequel) - Sequel is a simple, flexible, and powerful SQL database access toolkit for Ruby
 * [Mongoid](http://mongoid.org/en/mongoid/index.html) - An ODM (Object-Document-Mapper) framework for MongoDB in Ruby
-* [DataMapper](http://datamapper.org/) 
+* [DataMapper](http://datamapper.org/) - ORM which works well with legacy databases. Last release (1.2.0) was on 13 October 2011.
+* [MongoMapper](http://mongomapper.com/)
 * [Ohm](http://ohm.keyvalue.org/) - Object-hash mapping library for Redis
 
 ## Http
@@ -148,11 +152,13 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Sawyer](https://github.com/lostisland/sawyer) - Secret user agent of HTTP, built on top of Faraday
 * [excon](https://github.com/excon/excon) - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
 * [Patron](https://github.com/toland/patron) - Patron is a Ruby HTTP client library based on libcurl.
+* [Typhoeus](https://github.com/typhoeus/typhoeus) - Typhoeus wraps libcurl in order to make fast and reliable requests
 
 ## API Builder
 
 * [Grape](http://intridea.github.io/grape) - An opinionated micro-framework for creating REST-like APIs in Ruby
 * [Rails::API](https://github.com/rails-api/rails-api)
+* [ActiveModel::Serializers](https://github.com/rails-api/active_model_serializers) - JSON serialization of objects
 * [Crêpe](https://github.com/crepe/crepe) - The thin API stack
 * [jbuilder](https://github.com/rails/jbuilder) - Create JSON structures via a Builder-style DSL
 * [rabl](https://github.com/nesquena/rabl) - General ruby templating with json, bson, xml, plist and msgpack support
@@ -232,6 +238,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [i18n](https://github.com/svenfuchs/i18n) - Ruby Internationalization and localization solution
 * [i18n-tasks](https://github.com/glebm/i18n-tasks) - Manage missing and unused translations with the awesome power of static analysis
 * [twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) - Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more
+* [r18n](https://github.com/ai/r18n) - Advanced i18n library for Rails, Sinatra, desktop apps, models, works well with complex languages like Russian.
 
 ## Geolocation
 
@@ -252,9 +259,11 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Email
 
 * [Mail](https://github.com/mikel/mail) - A Really Ruby Mail Library
-* [Pony](https://github.com/benprew/pony)
+* [Pony](https://github.com/benprew/pony)- The express way to send mail from Ruby
 * [Mailman](https://github.com/titanous/mailman) - An incoming mail processing microframework in Ruby
+* [Incoming](https://github.com/honeybadger-io/incoming) - Incoming! helps you receive email in your Rack apps
 * [MailCatcher](http://mailcatcher.me) - Catches mail and serves it through a dream
+* [LetterOpener](https://github.com/ryanb/letter_opener) - Preview mail in the browser instead of sending.
 
 ## Form Builder
 
@@ -351,6 +360,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [youtube_it](https://github.com/kylejginavan/youtube_it) - An object-oriented Ruby wrapper for the YouTube GData API
 * [ruby-trello](https://github.com/jeremytregunna/ruby-trello) - Implementation of the Trello API for Ruby
 * [hipchat-rb](https://github.com/hipchat/hipchat-rb) - HipChat HTTP API Wrapper in Ruby with Capistrano hooks
+* [flickr](https://github.com/RaVbaker/flickr) - A Ruby interface to the Flickr API
 
 ## CMS
 * [Alchemy CMS](http://alchemy-cms.com)
@@ -388,6 +398,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Spree](http://spreecommerce.com)
 * [ROR Ecommerce](http://www.ror-e.com)
 * [stripe-ruby](https://github.com/stripe/stripe-ruby) - Stripe Ruby bindings
+* [Paypal Merchant SDK](https://github.com/paypal/merchant-sdk-ruby) - Official Paypal Merchant SDK for Ruby
 
 ## Analytics
 
