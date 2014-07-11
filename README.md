@@ -394,6 +394,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Spree](http://spreecommerce.com)
 * [ROR Ecommerce](http://www.ror-e.com)
 * [stripe-ruby](https://github.com/stripe/stripe-ruby) - Stripe Ruby bindings
+* [Paypal Merchant SDK](https://github.com/paypal/merchant-sdk-ruby) - Official Paypal Merchant SDK for Ruby
 
 ## Analytics
 
