@@ -171,6 +171,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Thor](http://whatisthor.com) - A toolkit for building powerful command-line interfaces
 * [Commander](https://github.com/visionmedia/commander) - The complete solution for Ruby command-line executables
 * [Slop](https://github.com/leejarvis/slop) - Simple Lightweight Option Parsing
+* [Termit](https://github.com/pawurb/termit) - Google Translate with speech synthesis in your terminal
 
 ## Authentication
 
