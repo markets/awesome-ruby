@@ -345,6 +345,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [ruby-prof](https://github.com/ruby-prof/ruby-prof) - A code profiler for MRI rubies
 * [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) - Profiler for your development and production Ruby rack apps
 * [perftools.rb](https://github.com/tmm1/perftools.rb) - gperftools (formerly known as google-perftools) for Ruby code
+* [bullet](https://github.com/flyerhzm/bullet) - help to kill N+1 queries and unused eager loading
 
 ## Third-party APIs
 
