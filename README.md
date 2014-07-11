@@ -82,6 +82,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Homebrew](https://github.com/Homebrew/homebrew) - The missing package manager for OS X
   * [Homebrew-cask](https://github.com/caskroom/homebrew-cask) - a CLI workflow for the administration of Mac applications distributed as binaries
   * [CocoaPods](https://github.com/CocoaPods/CocoaPods) - The Objective-C dependency manager
+  * [Berkshelf](https://github.com/berkshelf/berkshelf) - A Chef Cookbook manager
 
 ## Environment Management
 * [rbenv](https://github.com/sstephenson/rbenv) — Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production
