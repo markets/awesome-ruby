@@ -108,6 +108,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [factory_girl](https://github.com/thoughtbot/factory_girl) - A library for setting up Ruby objects as test data
 * [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - Provides Test::Unit- and RSpec-compatible one-liners that test common Rails functionality. These tests would otherwise be much longer, more complex, and error-prone.
 * [vcr](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests
+* [Spring](https://github.com/rails/spring) - Preloads your rails environment in the background for faster testing and Rake tasks
 
 ## Web Frameworks
 
@@ -357,6 +358,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [youtube_it](https://github.com/kylejginavan/youtube_it) - An object-oriented Ruby wrapper for the YouTube GData API
 * [ruby-trello](https://github.com/jeremytregunna/ruby-trello) - Implementation of the Trello API for Ruby
 * [hipchat-rb](https://github.com/hipchat/hipchat-rb) - HipChat HTTP API Wrapper in Ruby with Capistrano hooks
+* [flickr](https://github.com/RaVbaker/flickr) - A Ruby interface to the Flickr API
 
 ## CMS
 * [Alchemy CMS](http://alchemy-cms.com)
