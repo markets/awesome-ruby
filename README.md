@@ -450,6 +450,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Guard](https://github.com/guard/guard) - A command line tool to easily handle events on file system modifications
 * [play ►](https://github.com/play/play) - Your company's dj
 * [Treetop](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser
+* [Yomu](https://github.com/Erol/yomu) - Read text and metadata from files and documents (.doc, .docx, .pages, .odt, .rtf, .pdf)
 
 # Resources
 
