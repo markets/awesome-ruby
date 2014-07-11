@@ -117,6 +117,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Lotus](http://lotusrb.org)
 * [Camping](http://camping.io)
 * [Cuba](http://cuba.is)
+* [Pakyow](http://pakyow.com/)
 
 ## Web Servers
 
