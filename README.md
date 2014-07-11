@@ -414,7 +414,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Puppet](https://github.com/puppetlabs/puppet) - An automated administrative engine for your Linux, Unix, and Windows systems, performs administrative tasks (such as adding users, installing packages, and updating server configurations) based on a centralized specification
 * [Vagrant](http://www.vagrantup.com) - Create and configure lightweight, reproducible, and portable development environments
 * [Chef](https://github.com/opscode/chef) - A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure
-* [Mina](https://github.com/mina-deploy/mina) - Really fast deployer and server automation tool. 
+* [Mina](https://github.com/mina-deploy/mina) - Really fast deployer and server automation tool.
 * [Lita](https://www.lita.io/) - ChatOps for Ruby: A pluggable chat bot framework usable with any chat service.
 
 ## Git Tools
@@ -458,6 +458,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [The Ruby Toolbox](https://www.ruby-toolbox.com) - A comprehensive catalog of Ruby and Rails plug-ins, gems, tools and resources for Ruby developers with popularity ratings based on GitHub watchers and Gem downloads
 * [RubyFlow](http://www.rubyflow.com) - Ruby Programming Community Link Blog
 * [RubyDaily](http://rubydaily.org) - Community driven news
+* [Ruby Weekly](http://rubyweekly.com) - A free, once–weekly e-mail round-up of Ruby news and articles
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
