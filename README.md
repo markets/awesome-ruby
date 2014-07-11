@@ -142,6 +142,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Mongoid](http://mongoid.org/en/mongoid/index.html) - An ODM (Object-Document-Mapper) framework for MongoDB in Ruby
 * [DataMapper](http://datamapper.org/) - ORM which works well with legacy databases. Last release (1.2.0) was on 13 October 2011.
 * [MongoMapper](http://mongomapper.com/)
+* [Ohm](http://ohm.keyvalue.org/) - Object-hash mapping library for Redis
 
 ## Http
 
