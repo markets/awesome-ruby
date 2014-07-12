@@ -176,6 +176,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Commander](https://github.com/visionmedia/commander) - The complete solution for Ruby command-line executables
 * [Slop](https://github.com/leejarvis/slop) - Simple Lightweight Option Parsing
 * [Termit](https://github.com/pawurb/termit) - Google Translate with speech synthesis in your terminal
+* [Main](https://github.com/ahoward/main) - A class factory and DSL for generating command line programs real quick
 
 ## Authentication
 
