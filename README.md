@@ -196,6 +196,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [CanCanCan](https://github.com/CanCanCommunity/cancancan)
 * [Pundit](https://github.com/elabs/pundit) - Minimal authorization through OO design and pure Ruby classes
+* [Authority](https://github.com/nathanl/authority) ORM-neutral way to authorize actions in your Rails app.
 
 ## Queue
 
