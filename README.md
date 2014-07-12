@@ -198,7 +198,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Resque](https://github.com/resque/resque) — A Redis-backed Ruby library for creating background jobs
 * [Sidekiq](http://sidekiq.org) — A full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
 * [Sucker Punch](https://github.com/brandonhilkert/sucker_punch) — A single process background processing library using Celluloid. Aimed to be Sidekiq's little brother.
-* [Delayed::Job](https://github.com/tobi/delayed_job) — Database backed asynchronous priority queue
+* [Delayed::Job](https://github.com/collectiveidea/delayed_job) — Database backed asynchronous priority queue
 
 ## Scheduling
 
@@ -434,7 +434,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## GUI
 
 * [Shoes](http://shoesrb.com)
-* [QtRuby](https://github.com/ryanmelt/qtbindings/) - [Qt4 binding for ruby](http://quickgit.kde.org/?p=qtruby.git)
+* [QtRuby](http://quickgit.kde.org/?p=qtruby.git) - [Qt4 binding for ruby](https://github.com/ryanmelt/qtbindings)
 * [RubyGnome2](http://ruby-gnome2.sourceforge.jp/)
 
 ## Game Development
