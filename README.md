@@ -117,6 +117,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [WebMock](https://github.com/bblimke/webmock) - Library for stubbing and setting expectations on HTTP requests
 * [RR](https://github.com/rr/rr) - A test double framework that features a rich selection of double techniques and a terse syntax
 * [Bacon](https://github.com/chneukirchen/bacon) - A small RSpec clone
+* [Spinach](https://github.com/codegram/spinach) - Spinach is a high-level BDD framework that leverages the expressive Gherkin language (used by Cucumber) to help you define executable specifications of your application or library's acceptance criteria.
 
 ## Web Frameworks
 
