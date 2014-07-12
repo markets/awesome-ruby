@@ -374,6 +374,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [ruby-trello](https://github.com/jeremytregunna/ruby-trello) - Implementation of the Trello API for Ruby
 * [hipchat-rb](https://github.com/hipchat/hipchat-rb) - HipChat HTTP API Wrapper in Ruby with Capistrano hooks
 * [flickr](https://github.com/RaVbaker/flickr) - A Ruby interface to the Flickr API
+* [itunes_store_transporter](https://github.com/sshaw/itunes_store_transporter) - Ruby wrapper around Apple's iTMSTransporter program
 
 ## CMS
 * [Alchemy CMS](http://alchemy-cms.com)
