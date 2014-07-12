@@ -71,6 +71,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Ruby style guide](https://github.com/bbatsov/ruby-style-guide) - Community-driven Ruby coding style
 * [Rails style guide](https://github.com/bbatsov/rails-style-guide) - Community-driven Rails best practices and style for Rails 3 and 4
+* [RSpec style guide](https://github.com/andreareginato/betterspecs) - Better Specs { rspec guidelines with ruby }
 
 ## Package Management
 
@@ -109,6 +110,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - Provides Test::Unit- and RSpec-compatible one-liners that test common Rails functionality. These tests would otherwise be much longer, more complex, and error-prone.
 * [vcr](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests
 * [Spring](https://github.com/rails/spring) - Preloads your rails environment in the background for faster testing and Rake tasks
+* [Konacha](https://github.com/jfirebaugh/konacha) - Test your Rails application's JavaScript with the mocha test framework and chai assertion library
 
 ## Web Frameworks
 
@@ -454,6 +456,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications
 * [Prawn](https://github.com/prawnpdf/prawn) - Fast, Nimble PDF Writer for Ruby
 * [Pry](https://github.com/pry/pry) - A powerful alternative to the standard IRB shell for Ruby
+* [Pry Debugger](https://github.com/nixme/pry-debugger) - Pry navigation commands via debugger (formerly ruby-debug)
 * [Guard](https://github.com/guard/guard) - A command line tool to easily handle events on file system modifications
 * [play ►](https://github.com/play/play) - Your company's dj
 * [Treetop](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser
