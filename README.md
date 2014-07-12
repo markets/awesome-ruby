@@ -108,6 +108,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Capybara](http://jnicklas.github.io/capybara) - Acceptance test framework for web applications
 * [Appraisal](https://github.com/thoughtbot/appraisal) - Appraisal integrates with bundler and rake to test your library against different versions of dependencies
 * [factory_girl](https://github.com/thoughtbot/factory_girl) - A library for setting up Ruby objects as test data
+* [Fabrication](http://fabricationgem.org/) - A simple and powerful object generation library
 * [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - Provides Test::Unit- and RSpec-compatible one-liners that test common Rails functionality. These tests would otherwise be much longer, more complex, and error-prone.
 * [vcr](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests
 * [Spring](https://github.com/rails/spring) - Preloads your rails environment in the background for faster testing and Rake tasks
