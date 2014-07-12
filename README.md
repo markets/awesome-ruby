@@ -311,6 +311,8 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Parallel](https://github.com/grosser/parallel)
 * [posix-spawn](https://github.com/rtomayko/posix-spawn) - Fast Process::spawn for Rubys >= 1.8.7 based on the posix_spawn() system interfaces
+* [childprocess](https://github.com/jarib/childprocess) - Cross-platform ruby library for managing child processes.
+* [forkoff](https://github.com/ahoward/forkoff) - brain-dead simple parallel processing for ruby
 
 ## Concurrency
 
