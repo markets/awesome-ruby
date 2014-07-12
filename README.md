@@ -38,7 +38,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Form Builder](#form-builder)
   * [Pagination](#pagination)
   * [Imagery](#imagery)
-  * [Video](#video)r
+  * [Video](#video)
   * [WebSocket](#websocket)
   * [HTML Parsing](#html-parsing)
   * [Web Crawling](#web-crawling)
