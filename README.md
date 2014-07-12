@@ -319,6 +319,14 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Concurrent Ruby](https://github.com/ruby-concurrency/concurrent-ruby) -
   Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
 
+## Configuration
+
+* [Configatron](https://github.com/markbates/configatron) -  Simple and feature rich configuration system for Ruby apps
+* [Configus](https://github.com/kaize/configus) - Helps you easily manage environment specific settings
+* [Econfig](https://github.com/elabs/econfig) - Flexible configuration for Rails applications
+* [Global](https://github.com/railsware/global) - Provides accessor methods for your configuration data
+* [RailsConfig](https://github.com/railsconfig/rails_config) - Multi-environment yaml settings for Rails3
+
 ## Core Extensions
 
 * [ActiveSupport](https://github.com/rails/rails/tree/master/activesupport) - A collection of utility classes and standard library extensions.
