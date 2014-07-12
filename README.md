@@ -58,6 +58,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Social Networking](#social-networking)
   * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Analytics](#analytics)
+  * [Rss](#rss)
   * [DevOps Tools](#devops-tools)
   * [Git Tools](#git-tools)
   * [GUI](#gui)
@@ -413,6 +414,13 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Gabba](https://github.com/hybridgroup/gabba)
 * [Ahoy](https://github.com/ankane/ahoy) - A solid foundation to track visits and events in Ruby, JavaScript, and native apps
+
+## Rss
+
+* [Feedjira](https://github.com/feedjira/feedjira) - A feed fetching and parsing library.
+* [Simple rss](https://github.com/cardmagic/simple-rss) - A simple, flexible, extensible, and liberal RSS and Atom reader.
+* [Feed normalizer](https://github.com/aasmith/feed-normalizer) - Extensible Ruby wrapper for Atom and RSS parsers.
+* [Ratom](https://github.com/seangeo/ratom) - A fast, libxml based, Ruby Atom library.
 
 ## DevOps Tools
 
