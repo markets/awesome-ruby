@@ -155,6 +155,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [excon](https://github.com/excon/excon) - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
 * [Patron](https://github.com/toland/patron) - Patron is a Ruby HTTP client library based on libcurl.
 * [Typhoeus](https://github.com/typhoeus/typhoeus) - Typhoeus wraps libcurl in order to make fast and reliable requests
+* [http](https://github.com/tarcieri/http) - The HTTP Gem: a simple Ruby DSL for making HTTP requests.
 
 ## API Builder
 
