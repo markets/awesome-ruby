@@ -419,7 +419,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Gabba](https://github.com/hybridgroup/gabba)
 * [Ahoy](https://github.com/ankane/ahoy) - A solid foundation to track visits and events in Ruby, JavaScript, and native apps
 
-## Rss
+## RSS
 
 * [Feedjira](https://github.com/feedjira/feedjira) - A feed fetching and parsing library.
 * [Simple rss](https://github.com/cardmagic/simple-rss) - A simple, flexible, extensible, and liberal RSS and Atom reader.
