@@ -58,7 +58,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Social Networking](#social-networking)
   * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Analytics](#analytics)
-  * [Rss](#rss)
+  * [RSS](#rss)
   * [DevOps Tools](#devops-tools)
   * [Git Tools](#git-tools)
   * [GUI](#gui)
