@@ -326,6 +326,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Errbit](http://errbit.github.io/errbit) - The open source, self-hosted error catcher
 * [Airbrake](https://github.com/airbrake/airbrake) - The official Airbrake library for Ruby on Rails (and other Rack based frameworks)
 * [Better Errors](https://github.com/charliesome/better_errors) - Better error page for Rack apps
+* [Raven Ruby](https://github.com/getsentry/raven-ruby) - Raven is a Ruby client for Sentry.
 
 ## Code Analysis and Metrics
 
