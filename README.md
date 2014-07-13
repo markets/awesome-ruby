@@ -371,6 +371,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [hipchat-rb](https://github.com/hipchat/hipchat-rb) - HipChat HTTP API Wrapper in Ruby with Capistrano hooks
 * [flickr](https://github.com/RaVbaker/flickr) - A Ruby interface to the Flickr API
 * [wikipedia](https://github.com/kenpratt/wikipedia-client) - Ruby client for the Wikipedia API.
+* [Dropbox](https://github.com/futuresimple/dropbox-api) -  Dropbox API Ruby Client.
 
 ## CMS
 * [Alchemy CMS](http://alchemy-cms.com)
