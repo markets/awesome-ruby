@@ -153,6 +153,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [ActiveRecord](https://github.com/rails/rails/tree/master/activerecord)
 * [Sequel](https://github.com/jeremyevans/sequel) - Sequel is a simple, flexible, and powerful SQL database access toolkit for Ruby
 * [Mongoid](http://mongoid.org/en/mongoid/index.html) - An ODM (Object-Document-Mapper) framework for MongoDB in Ruby
+* [Mongoid Tree](https://github.com/benedikt/mongoid-tree) - A tree structure for Mongoid documents using the materialized path pattern
 * [DataMapper](http://datamapper.org/) - ORM which works well with legacy databases. Last release (1.2.0) was on 13 October 2011.
 * [MongoMapper](http://mongomapper.com/)
 * [MongoModel](https://github.com/spohlenz/mongomodel) -  Ruby ODM for interfacing with MongoDB databases
@@ -353,6 +354,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Errbit](http://errbit.github.io/errbit) - The open source, self-hosted error catcher
 * [Airbrake](https://github.com/airbrake/airbrake) - The official Airbrake library for Ruby on Rails (and other Rack based frameworks)
 * [Better Errors](https://github.com/charliesome/better_errors) - Better error page for Rack apps
+* [Raven Ruby](https://github.com/getsentry/raven-ruby) - Raven is a Ruby client for Sentry.
 
 ## Code Analysis and Metrics
 
