@@ -221,6 +221,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Sass](http://sass-lang.com) - Sass makes CSS fun again
 * [Less](https://github.com/cowboyd/less.rb) - Leaner CSS, in your browser or Ruby.
+* [Less Rails](https://github.com/metaskills/less-rails) - The dynamic stylesheet language for the Rails asset pipeline.
 * Management:
   * [Sprockets](https://github.com/sstephenson/sprockets) - Rack-based asset packaging system
   * [Rails Assets](https://rails-assets.org) - Bundler to Bower proxy
