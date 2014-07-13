@@ -115,6 +115,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Konacha](https://github.com/jfirebaugh/konacha) - Test your Rails application's JavaScript with the mocha test framework and chai assertion library
 * [WebMock](https://github.com/bblimke/webmock) - Library for stubbing and setting expectations on HTTP requests
 * [RR](https://github.com/rr/rr) - A test double framework that features a rich selection of double techniques and a terse syntax
+* [Bacon](https://github.com/chneukirchen/bacon) - A small RSpec clone
 
 ## Web Frameworks
 
