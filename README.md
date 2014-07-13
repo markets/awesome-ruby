@@ -17,6 +17,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Web Frameworks](#web-frameworks)
   * [Web Servers](#web-servers)
   * [Database Drivers](#database-drivers)
+  * [Database Tools](#database-tools)
   * [ORM](#orm)
   * [HTTP](#http)
   * [API Builder](#api-builder)
@@ -109,11 +110,13 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Capybara](http://jnicklas.github.io/capybara) - Acceptance test framework for web applications
 * [Appraisal](https://github.com/thoughtbot/appraisal) - Appraisal integrates with bundler and rake to test your library against different versions of dependencies
 * [factory_girl](https://github.com/thoughtbot/factory_girl) - A library for setting up Ruby objects as test data
+* [faker](https://github.com/stympy/faker) - A library for generating fake data such as names, addresses, and phone numbers.
 * [Fabrication](http://fabricationgem.org/) - A simple and powerful object generation library
 * [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - Provides Test::Unit- and RSpec-compatible one-liners that test common Rails functionality. These tests would otherwise be much longer, more complex, and error-prone.
 * [vcr](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests
 * [Spring](https://github.com/rails/spring) - Preloads your rails environment in the background for faster testing and Rake tasks
 * [Konacha](https://github.com/jfirebaugh/konacha) - Test your Rails application's JavaScript with the mocha test framework and chai assertion library
+* [Spork](https://github.com/sporkrb/spork) - A DRb server for testing frameworks (RSpec / Cucumber currently).
 * [WebMock](https://github.com/bblimke/webmock) - Library for stubbing and setting expectations on HTTP requests
 * [RR](https://github.com/rr/rr) - A test double framework that features a rich selection of double techniques and a terse syntax
 * [Bacon](https://github.com/chneukirchen/bacon) - A small RSpec clone
@@ -148,6 +151,11 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [mongo-ruby-driver](https://github.com/mongodb/mongo-ruby-driver) - MongoDB Ruby driver
 * [moped](http://mongoid.org/en/moped/index.html) - A MongoDB driver for Ruby
 
+## Database Tools
+
+* [Seed dump](https://github.com/rroblak/seed_dump) - Rails 4 task to dump (parts) of your database to db/seeds.rb.
+* [Seed Fu](https://github.com/mbleigh/seed-fu) - Advanced seed data handling for Rails.
+
 ## ORM
 
 * [ActiveRecord](https://github.com/rails/rails/tree/master/activerecord)
@@ -168,6 +176,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [excon](https://github.com/excon/excon) - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
 * [Patron](https://github.com/toland/patron) - Patron is a Ruby HTTP client library based on libcurl.
 * [Typhoeus](https://github.com/typhoeus/typhoeus) - Typhoeus wraps libcurl in order to make fast and reliable requests
+* [Http Client](https://github.com/nahi/httpclient) - Gives something like the functionality of libwww-perl (LWP) in Ruby
 * [http](https://github.com/tarcieri/http) - The HTTP Gem: a simple Ruby DSL for making HTTP requests.
 
 ## API Builder
@@ -234,6 +243,8 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Assets
 
 * [Sass](http://sass-lang.com) - Sass makes CSS fun again
+* [Less](https://github.com/cowboyd/less.rb) - Leaner CSS, in your browser or Ruby.
+* [Less Rails](https://github.com/metaskills/less-rails) - The dynamic stylesheet language for the Rails asset pipeline.
 * Management:
   * [Sprockets](https://github.com/sstephenson/sprockets) - Rack-based asset packaging system
   * [Rails Assets](https://rails-assets.org) - Bundler to Bower proxy
@@ -399,6 +410,8 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [ruby-trello](https://github.com/jeremytregunna/ruby-trello) - Implementation of the Trello API for Ruby
 * [hipchat-rb](https://github.com/hipchat/hipchat-rb) - HipChat HTTP API Wrapper in Ruby with Capistrano hooks
 * [flickr](https://github.com/RaVbaker/flickr) - A Ruby interface to the Flickr API
+* [wikipedia](https://github.com/kenpratt/wikipedia-client) - Ruby client for the Wikipedia API.
+* [Dropbox](https://github.com/futuresimple/dropbox-api) -  Dropbox API Ruby Client.
 * [itunes_store_transporter](https://github.com/sshaw/itunes_store_transporter) - Ruby wrapper around Apple's iTMSTransporter program
 
 ## CMS
