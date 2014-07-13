@@ -476,6 +476,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [play ►](https://github.com/play/play) - Your company's dj
 * [Treetop](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser
 * [Yomu](https://github.com/Erol/yomu) - Read text and metadata from files and documents (.doc, .docx, .pages, .odt, .rtf, .pdf)
+* [Seed dump](https://github.com/rroblak/seed_dump) - Rails 4 task to dump (parts) of your database to db/seeds.rb.
 
 # Resources
 
