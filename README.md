@@ -17,6 +17,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Web Frameworks](#web-frameworks)
   * [Web Servers](#web-servers)
   * [Database Drivers](#database-drivers)
+  * [Database Tools](#database-tools)
   * [ORM](#orm)
   * [HTTP](#http)
   * [API Builder](#api-builder)
@@ -139,6 +140,11 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [mysql2](https://github.com/brianmario/mysql2) - A modern, simple and very fast Mysql library for Ruby (binding to libmysql)
 * [SQLite3](https://github.com/sparklemotion/sqlite3-ruby)
 * [redis-rb](https://github.com/redis/redis-rb) - A Ruby client that tries to match Redis' API one-to-one, while still providing an idiomatic interface
+
+## Database Tools
+
+* [Seed dump](https://github.com/rroblak/seed_dump) - Rails 4 task to dump (parts) of your database to db/seeds.rb.
+* [Seed Fu](https://github.com/mbleigh/seed-fu) - Advanced seed data handling for Rails.
 
 ## ORM
 
@@ -476,7 +482,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [play ►](https://github.com/play/play) - Your company's dj
 * [Treetop](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser
 * [Yomu](https://github.com/Erol/yomu) - Read text and metadata from files and documents (.doc, .docx, .pages, .odt, .rtf, .pdf)
-* [Seed dump](https://github.com/rroblak/seed_dump) - Rails 4 task to dump (parts) of your database to db/seeds.rb.
 
 # Resources
 
