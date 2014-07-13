@@ -98,6 +98,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [RDoc](https://github.com/rdoc/rdoc) - RDoc produces HTML and command-line documentation for Ruby projects
 * [YARD](http://yardoc.org) - YARD enables the user to generate consistent, usable documentation that can be exported to a number of formats very easily
+* [grape-swagger](https://github.com/tim-vandecasteele/grape-swagger) - Add swagger compliant documentation to your Grape API
 
 ## Testing
 
