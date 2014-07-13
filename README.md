@@ -220,6 +220,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Assets
 
 * [Sass](http://sass-lang.com) - Sass makes CSS fun again
+* [Less](https://github.com/cowboyd/less.rb) - Leaner CSS, in your browser or Ruby.
 * Management:
   * [Sprockets](https://github.com/sstephenson/sprockets) - Rack-based asset packaging system
   * [Rails Assets](https://rails-assets.org) - Bundler to Bower proxy
