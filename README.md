@@ -141,6 +141,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [mysql2](https://github.com/brianmario/mysql2) - A modern, simple and very fast Mysql library for Ruby (binding to libmysql)
 * [SQLite3](https://github.com/sparklemotion/sqlite3-ruby)
 * [redis-rb](https://github.com/redis/redis-rb) - A Ruby client that tries to match Redis' API one-to-one, while still providing an idiomatic interface
+* [DataObjects](https://github.com/datamapper/do) - An attempt to rewrite existing Ruby database drivers to conform to one, standard interface.
 
 ## ORM
 
@@ -149,7 +150,8 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Mongoid](http://mongoid.org/en/mongoid/index.html) - An ODM (Object-Document-Mapper) framework for MongoDB in Ruby
 * [DataMapper](http://datamapper.org/) - ORM which works well with legacy databases. Last release (1.2.0) was on 13 October 2011.
 * [MongoMapper](http://mongomapper.com/)
-* [Ohm](http://ohm.keyvalue.org/) - Object-hash mapping library for Redis
+* [MongoModel](https://github.com/spohlenz/mongomodel) -  Ruby ODM for interfacing with MongoDB databases
+* [ohm](http://ohm.keyvalue.org/) - Object-hash mapping library for Redis
 
 ## Http
 
