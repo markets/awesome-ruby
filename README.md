@@ -383,6 +383,8 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [flickr](https://github.com/RaVbaker/flickr) - A Ruby interface to the Flickr API
 * [wikipedia](https://github.com/kenpratt/wikipedia-client) - Ruby client for the Wikipedia API.
 * [Dropbox](https://github.com/futuresimple/dropbox-api) -  Dropbox API Ruby Client.
+* [itunes_store_transporter](https://github.com/sshaw/itunes_store_transporter) - Ruby wrapper around Apple's iTMSTransporter program
+
 
 ## CMS
 * [Alchemy CMS](http://alchemy-cms.com)
