@@ -113,6 +113,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [vcr](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests
 * [Spring](https://github.com/rails/spring) - Preloads your rails environment in the background for faster testing and Rake tasks
 * [Konacha](https://github.com/jfirebaugh/konacha) - Test your Rails application's JavaScript with the mocha test framework and chai assertion library
+* [WebMock](https://github.com/bblimke/webmock) - Library for stubbing and setting expectations on HTTP requests
 
 ## Web Frameworks
 
