@@ -130,7 +130,8 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Web Servers
 
-* [Rack](http://rack.github.io) - A Ruby Webserver Interface
+* [Rack](http://rack.github.io) - A common Ruby web server interface. By itself, it's just a specification and utility library, but all Ruby web servers implement this interface
+* [Phusion Passenger](https://www.phusionpassenger.com) - Fast and robust web server and application server
 * [Unicorn](http://unicorn.bogomips.org) - Rack HTTP server for fast clients and Unix
 * [Thin](http://code.macournoyer.com/thin) - Tiny, fast & funny HTTP server
 * [Puma](https://github.com/puma/puma) - A modern, concurrent web server for Ruby
