@@ -45,6 +45,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Web Crawling](#web-crawling)
   * [Processes and Threads](#processes-and-threads)
   * [Concurrency](#concurrency)
+  * [Configuration](#configuration)
   * [Core Extensions](#core-extensions)
   * [Error Handling and Monitoring](#error-handling-and-monitoring)
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
@@ -331,7 +332,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [MetaInspector](https://github.com/jaimeiniesta/metainspector) - Ruby gem for web scraping purposes. It scrapes a given URL, and returns you its title, meta description, meta keywords, an array with all the links, all the images in it, etc.
 * [LinkThumbnailer](https://github.com/gottfrois/link_thumbnailer) - Ruby gem that generates thumbnail images and videos from a given URL. Much like popular social website with link preview.
 * [anemone](https://github.com/chriskite/anemone) - Ruby library and CLI for crawling websites.
- 
+
 ## Processes and Threads
 
 * [Parallel](https://github.com/grosser/parallel)
