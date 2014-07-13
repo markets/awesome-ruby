@@ -98,6 +98,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [RDoc](https://github.com/rdoc/rdoc) - RDoc produces HTML and command-line documentation for Ruby projects
 * [YARD](http://yardoc.org) - YARD enables the user to generate consistent, usable documentation that can be exported to a number of formats very easily
+* [grape-swagger](https://github.com/tim-vandecasteele/grape-swagger) - Add swagger compliant documentation to your Grape API
 
 ## Testing
 
@@ -108,10 +109,14 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Capybara](http://jnicklas.github.io/capybara) - Acceptance test framework for web applications
 * [Appraisal](https://github.com/thoughtbot/appraisal) - Appraisal integrates with bundler and rake to test your library against different versions of dependencies
 * [factory_girl](https://github.com/thoughtbot/factory_girl) - A library for setting up Ruby objects as test data
+* [Fabrication](http://fabricationgem.org/) - A simple and powerful object generation library
 * [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - Provides Test::Unit- and RSpec-compatible one-liners that test common Rails functionality. These tests would otherwise be much longer, more complex, and error-prone.
 * [vcr](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests
 * [Spring](https://github.com/rails/spring) - Preloads your rails environment in the background for faster testing and Rake tasks
 * [Konacha](https://github.com/jfirebaugh/konacha) - Test your Rails application's JavaScript with the mocha test framework and chai assertion library
+* [WebMock](https://github.com/bblimke/webmock) - Library for stubbing and setting expectations on HTTP requests
+* [RR](https://github.com/rr/rr) - A test double framework that features a rich selection of double techniques and a terse syntax
+* [Bacon](https://github.com/chneukirchen/bacon) - A small RSpec clone
 
 ## Web Frameworks
 
@@ -137,6 +142,9 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [mysql2](https://github.com/brianmario/mysql2) - A modern, simple and very fast Mysql library for Ruby (binding to libmysql)
 * [SQLite3](https://github.com/sparklemotion/sqlite3-ruby)
 * [redis-rb](https://github.com/redis/redis-rb) - A Ruby client that tries to match Redis' API one-to-one, while still providing an idiomatic interface
+* [DataObjects](https://github.com/datamapper/do) - An attempt to rewrite existing Ruby database drivers to conform to one, standard interface.
+* [mongo-ruby-driver](https://github.com/mongodb/mongo-ruby-driver) - MongoDB Ruby driver
+* [moped](http://mongoid.org/en/moped/index.html) - A MongoDB driver for Ruby
 
 ## ORM
 
@@ -145,7 +153,8 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Mongoid](http://mongoid.org/en/mongoid/index.html) - An ODM (Object-Document-Mapper) framework for MongoDB in Ruby
 * [DataMapper](http://datamapper.org/) - ORM which works well with legacy databases. Last release (1.2.0) was on 13 October 2011.
 * [MongoMapper](http://mongomapper.com/)
-* [Ohm](http://ohm.keyvalue.org/) - Object-hash mapping library for Redis
+* [MongoModel](https://github.com/spohlenz/mongomodel) -  Ruby ODM for interfacing with MongoDB databases
+* [ohm](http://ohm.keyvalue.org/) - Object-hash mapping library for Redis
 
 ## Http
 
@@ -176,6 +185,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Commander](https://github.com/visionmedia/commander) - The complete solution for Ruby command-line executables
 * [Slop](https://github.com/leejarvis/slop) - Simple Lightweight Option Parsing
 * [Termit](https://github.com/pawurb/termit) - Google Translate with speech synthesis in your terminal
+* [Main](https://github.com/ahoward/main) - A class factory and DSL for generating command line programs real quick
 
 ## Authentication
 
@@ -194,6 +204,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [CanCanCan](https://github.com/CanCanCommunity/cancancan)
 * [Pundit](https://github.com/elabs/pundit) - Minimal authorization through OO design and pure Ruby classes
+* [Authority](https://github.com/nathanl/authority) ORM-neutral way to authorize actions in your Rails app.
 
 ## Queue
 
@@ -238,6 +249,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Searchkick](https://github.com/ankane/searchkick) - Searchkick learns what your users are looking for. As more people search, it gets smarter and the results get better. It’s friendly for developers - and magical for your users.
 * [pg_search](https://github.com/Casecommons/pg_search) - Builds ActiveRecord named scopes that take advantage of PostgreSQL's full text search
 * [has_scope](https://github.com/plataformatec/has_scope) - Has scope allows you to easily create controller filters based on your resources named scopes.
+* [Searchlogic](https://github.com/binarylogic/searchlogic) - Object based searching, common named scopes, and other useful named scope tools for ActiveRecord
 
 ## Internationalization
 
@@ -255,6 +267,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Action caching for Action Pack](https://github.com/rails/actionpack-action_caching) - Action caching for Action Pack
 * [Dalli](https://github.com/mperham/dalli) - A high performance pure Ruby client for accessing memcached servers
+* [Record Cache](https://github.com/orslumen/record-cache) - Cache Active Model Records in Rails 3
 
 ## File Upload
 
@@ -275,6 +288,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Simple Form](https://github.com/plataformatec/simple_form) - Rails forms made easy
 * [Formtastic](https://github.com/justinfrench/formtastic) - A Rails form builder plugin with semantically rich and accessible markup
+* [Rails Bootstrap Forms](https://github.com/bootstrap-ruby/rails-bootstrap-forms) - Rails form builder that makes it super easy to create beautiful-looking forms with Twitter Bootstrap 3+
 
 ## Pagination
 
@@ -308,6 +322,8 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Parallel](https://github.com/grosser/parallel)
 * [posix-spawn](https://github.com/rtomayko/posix-spawn) - Fast Process::spawn for Rubys >= 1.8.7 based on the posix_spawn() system interfaces
+* [childprocess](https://github.com/jarib/childprocess) - Cross-platform ruby library for managing child processes.
+* [forkoff](https://github.com/ahoward/forkoff) - brain-dead simple parallel processing for ruby
 
 ## Concurrency
 
@@ -315,6 +331,14 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Celluloid](http://celluloid.io) - Actor-based concurrent object framework for Ruby
 * [Concurrent Ruby](https://github.com/ruby-concurrency/concurrent-ruby) -
   Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
+
+## Configuration
+
+* [Configatron](https://github.com/markbates/configatron) -  Simple and feature rich configuration system for Ruby apps
+* [Configus](https://github.com/kaize/configus) - Helps you easily manage environment specific settings
+* [Econfig](https://github.com/elabs/econfig) - Flexible configuration for Rails applications
+* [Global](https://github.com/railsware/global) - Provides accessor methods for your configuration data
+* [RailsConfig](https://github.com/railsconfig/rails_config) - Multi-environment yaml settings for Rails3
 
 ## Core Extensions
 
@@ -371,6 +395,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [ruby-trello](https://github.com/jeremytregunna/ruby-trello) - Implementation of the Trello API for Ruby
 * [hipchat-rb](https://github.com/hipchat/hipchat-rb) - HipChat HTTP API Wrapper in Ruby with Capistrano hooks
 * [flickr](https://github.com/RaVbaker/flickr) - A Ruby interface to the Flickr API
+* [itunes_store_transporter](https://github.com/sshaw/itunes_store_transporter) - Ruby wrapper around Apple's iTMSTransporter program
 
 ## CMS
 * [Alchemy CMS](http://alchemy-cms.com)
@@ -415,7 +440,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Gabba](https://github.com/hybridgroup/gabba)
 * [Ahoy](https://github.com/ankane/ahoy) - A solid foundation to track visits and events in Ruby, JavaScript, and native apps
 
-## Rss
+## RSS
 
 * [Feedjira](https://github.com/feedjira/feedjira) - A feed fetching and parsing library.
 * [Simple rss](https://github.com/cardmagic/simple-rss) - A simple, flexible, extensible, and liberal RSS and Atom reader.
