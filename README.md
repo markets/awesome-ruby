@@ -19,6 +19,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Database Drivers](#database-drivers)
   * [Database Tools](#database-tools)
   * [ORM](#orm)
+  * [Decorators](#decorators)
   * [HTTP](#http)
   * [API Builder](#api-builder)
   * [CLI](#cli)
@@ -168,6 +169,10 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [MongoMapper](http://mongomapper.com/)
 * [MongoModel](https://github.com/spohlenz/mongomodel) -  Ruby ODM for interfacing with MongoDB databases
 * [ohm](http://ohm.keyvalue.org/) - Object-hash mapping library for Redis
+
+## Decorators
+
+* [Draper](https://github.com/drapergem/draper) - Draper adds an object-oriented layer of presentation logic to your Rails application
 
 ## Http
 
