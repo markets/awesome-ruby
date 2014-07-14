@@ -160,6 +160,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Seed dump](https://github.com/rroblak/seed_dump) - Rails 4 task to dump (parts) of your database to db/seeds.rb.
 * [Seed Fu](https://github.com/mbleigh/seed-fu) - Advanced seed data handling for Rails.
+* [Machinist](https://github.com/notahat/machinist) - Fixtures aren't fun. Machinist is.
 
 ## ORM
 
