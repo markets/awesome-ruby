@@ -66,6 +66,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [GUI](#gui)
   * [Game Development](#game-development)
   * [Robotics](#robotics)
+  * [Natural Language Processing](#natural-language-processing)
   * [Misc](#misc)
 * [Resources](#resources)
 * [Other Awesome Lists](#other-awesome-lists)
@@ -501,6 +502,10 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Robotics
 
 * [Artoo](http://artoo.io) - Next generation robotics framework with support for different platforms: Arduino, Leap Motion, Pebble, Raspberry Pi, etc.
+
+## Natural Language Processing
+
+* [Treat](https://github.com/louismullie/treat) - Treat is a toolkit for natural language processing and computational linguistics in Ruby
 
 ## Misc
 
