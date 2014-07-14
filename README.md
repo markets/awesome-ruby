@@ -197,6 +197,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [ActiveModel::Serializers](https://github.com/rails-api/active_model_serializers) - JSON serialization of objects
 * [Crêpe](https://github.com/crepe/crepe) - The thin API stack
 * [jbuilder](https://github.com/rails/jbuilder) - Create JSON structures via a Builder-style DSL
+* [Jsonite](https://github.com/barrelage/jsonite) - A tiny, HAL-compliant JSON presenter for your APIs
 * [rabl](https://github.com/nesquena/rabl) - General ruby templating with json, bson, xml, plist and msgpack support
 * [Pliny](https://github.com/interagent/pliny) - Opinionated template Sinatra app for writing excellent APIs in Ruby
 * [Roar](https://github.com/apotonick/roar) - Resource-Oriented Architectures in Ruby
