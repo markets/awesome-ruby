@@ -68,6 +68,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Game Development](#game-development)
   * [Robotics](#robotics)
   * [Natural Language Processing](#natural-language-processing)
+  * [Abstraction](#abstraction)
   * [Misc](#misc)
 * [Resources](#resources)
 * [Other Awesome Lists](#other-awesome-lists)
@@ -513,6 +514,10 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Natural Language Processing
 
 * [Treat](https://github.com/louismullie/treat) - Treat is a toolkit for natural language processing and computational linguistics in Ruby
+
+## Abstraction
+
+* [Interactor](https://github.com/collectiveidea/interactor) - Interactor provides a common interface for performing complex interactions in a single request
 
 ## Misc
 
