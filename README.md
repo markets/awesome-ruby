@@ -26,6 +26,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Authentication](#authentication)
   * [OAuth](#oauth)
   * [Authorization](#authorization)
+  * [Log](#log)
   * [Queue](#queue)
   * [Scheduling](#scheduling)
   * [Data Visualization](#data-visualization)
@@ -227,6 +228,18 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [CanCanCan](https://github.com/CanCanCommunity/cancancan)
 * [Pundit](https://github.com/elabs/pundit) - Minimal authorization through OO design and pure Ruby classes
 * [Authority](https://github.com/nathanl/authority) ORM-neutral way to authorize actions in your Rails app.
+
+## Log
+
+* [Log4r](https://github.com/colbygk/log4r) - Log4r is a comprehensive and flexible logging library for use in Ruby programs
+* [Logging](https://github.com/TwP/logging) - A flexible logging library for use in Ruby programs based on the design of Java's log4j library.
+* [Lograge](https://github.com/roidrage/lograge) - An attempt to tame Rails' default policy to log everything.
+* [Cabin](https://github.com/jordansissel/ruby-cabin) - Structured+contextual logging experiments in Ruby.
+* [Yell](https://github.com/rudionrails/yell) - Your Extensible Logging Library
+* [MongoDB Logger](https://github.com/le0pard/mongodb_logger) - MongoDB logger for Rails
+* [Fluentd](https://github.com/fluent/fluentd) - Fluentd data collector.
+* [HttpLog](https://github.com/trusche/httplog) - Log outgoing HTTP requests.
+* [Scrolls](https://github.com/asenchi/scrolls) - Simple logging
 
 ## Queue
 
