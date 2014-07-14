@@ -28,6 +28,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Authorization](#authorization)
   * [Queue](#queue)
   * [Scheduling](#scheduling)
+  * [Data Visualization](#data-visualization)
   * [Template Engine](#template-engine)
   * [Assets](#assets)
   * [Markdown Processors](#markdown-processors)
@@ -42,7 +43,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Imagery](#imagery)
   * [Video](#video)
   * [WebSocket](#websocket)
-  * [HTML/XML Parsing](#html-xml-parsing)
+  * [HTML/XML Parsing](#htmlxml-parsing)
   * [Web Crawling](#web-crawling)
   * [Processes and Threads](#processes-and-threads)
   * [Concurrency](#concurrency)
@@ -239,6 +240,10 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Clockwork](https://github.com/tomykaira/clockwork) - Clockwork is a cron replacement. It runs as a lightweight, long-running Ruby process which sits alongside your web processes (Mongrel/Thin) and your worker processes (DJ/Resque/Minion/Stalker) to schedule recurring work at particular times or dates.
 * [rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) - Job scheduler for Ruby (at, cron, in and every jobs)
 * [resque-scheduler](https://github.com/resque/resque-scheduler) - A light-weight job scheduling system built on top of Resque
+
+## Data Visualization
+
+* [Ruby/GraphViz](https://github.com/glejeune/Ruby-Graphviz) - Ruby interface to the GraphViz graphing tool
 
 ## Template Engine
 
