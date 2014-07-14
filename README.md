@@ -42,7 +42,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Imagery](#imagery)
   * [Video](#video)
   * [WebSocket](#websocket)
-  * [HTML Parsing](#html-parsing)
+  * [HTML/XML Parsing](#html-xml-parsing)
   * [Web Crawling](#web-crawling)
   * [Processes and Threads](#processes-and-threads)
   * [Concurrency](#concurrency)
@@ -329,10 +329,9 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## WebSocket
 
 * [Faye](http://faye.jcoglan.com/ruby.html) - A set of tools for simple publish-subscribe messaging between web clients. It ships with easy-to-use message routing servers for Node.js and Rack applications, and clients that can be used on the server and in the browser.
-
 * [Websocket-Rails](https://github.com/websocket-rails/websocket-rails) - Creates a built in WebSocket server inside a Rails application with ease.  Also support streaming HTTP
 
-## HTML Parsing
+## HTML/XML Parsing
 
 * [Nokogiri](http://nokogiri.org) - An HTML, XML, SAX, and Reader parser with XPath and CSS selector support
 
