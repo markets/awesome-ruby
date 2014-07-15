@@ -94,6 +94,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Berkshelf](https://github.com/berkshelf/berkshelf) - A Chef Cookbook manager
 
 ## Environment Management
+
 * [rbenv](https://github.com/sstephenson/rbenv) — Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production
 * [RVM](https://rvm.io) — RVM is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems
 * [dotenv](https://github.com/bkeepers/dotenv) - Loads environment variables from `.env`
@@ -356,6 +357,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## HTML/XML Parsing
 
 * [Nokogiri](http://nokogiri.org) - An HTML, XML, SAX, and Reader parser with XPath and CSS selector support
+* [HappyMapper](https://github.com/dam5s/happymapper) - Object to XML mapping library, using Nokogiri
 
 ## Web Crawling
 
