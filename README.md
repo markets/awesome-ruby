@@ -307,6 +307,13 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) - Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more
 * [r18n](https://github.com/ai/r18n) - Advanced i18n library for Rails, Sinatra, desktop apps, models, works well with complex languages like Russian.
 
+## Country Data
+
+* [Carmen](https://github.com/jim/carmen) - A repository of geographic regions
+* [Countries](https://github.com/hexorx/countries) - All sorts of useful information about every country packaged as pretty little country objects
+* [i18n_data](https://github.com/grosser/i18n_data) - country/language names and 2-letter-code pairs, in 85 languages, for country/language i18n
+* [normalize_country](https://github.com/sshaw/normalize_country) - Convert country names and codes to a standard, includes a conversion program for XMLs, CSVs and DBs
+
 ## Geolocation
 
 * [Geocoder](https://github.com/alexreisner/geocoder)
