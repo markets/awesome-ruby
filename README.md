@@ -99,6 +99,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [dotenv](https://github.com/bkeepers/dotenv) - Loads environment variables from `.env`
 * [ruby-build](https://github.com/sstephenson/ruby-build) - Compile and install Ruby
 * [chruby](https://github.com/postmodern/chruby) - Change your current Ruby. No shims, no crazy options or features, ~90 LOC
+* [chgems](https://github.com/postmodern/chgems) - Chroot for RubyGems
 * [ruby-install](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, Rubinius, MagLev or MRuby
 
 ## Documentation
