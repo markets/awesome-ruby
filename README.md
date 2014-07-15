@@ -55,7 +55,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
   * [Dashboards](#dashboards)
   * [Debugging Tools](#debugging-tools)
-  * [Date and Time Processing](date-and-time-processing)
+  * [Date and Time Processing](#date-and-time-processing)
   * [Profiler](#profiler)
   * [Third-party APIs](#third-party-apis)
   * [CMS](#cms)
