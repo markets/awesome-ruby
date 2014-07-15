@@ -35,6 +35,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Markdown Processors](#markdown-processors)
   * [Search](#search)
   * [Internationalization](#internationalization)
+  * [Country Data](#country-data)
   * [Geolocation](#geolocation)
   * [Caching](#caching)
   * [File Upload](#file-upload)
@@ -54,6 +55,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
   * [Dashboards](#dashboards)
   * [Debugging Tools](#debugging-tools)
+  * [Date and Time Processing](date-and-time-processing)
   * [Profiler](#profiler)
   * [Third-party APIs](#third-party-apis)
   * [CMS](#cms)
@@ -428,7 +430,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Dashing-Rails](https://github.com/gottfrois/dashing-rails) - The exceptionally handsome dashboard framework for Rails.
 
-## Date & Time Processing
+## Date and Time Processing
 
 * [business_time](https://github.com/bokmann/business_time) - Support for doing time math in business hours and days
 * [Chronic](https://github.com/mojombo/chronic) - A natural language date/time parser written in pure Ruby
