@@ -554,6 +554,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Chef](https://github.com/opscode/chef) - A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure
 * [Mina](https://github.com/mina-deploy/mina) - Really fast deployer and server automation tool.
 * [Lita](https://www.lita.io/) - ChatOps for Ruby: A pluggable chat bot framework usable with any chat service.
+* [Logstash](https://github.com/elasticsearch/logstash) - Logs/event transport, processing, management, search
 
 ## Git Tools
 
