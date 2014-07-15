@@ -165,7 +165,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Seed Fu](https://github.com/mbleigh/seed-fu) - Advanced seed data handling for Rails.
 * [Machinist](https://github.com/notahat/machinist) - Fixtures aren't fun. Machinist is.
 
-## ORM
+## ORM/ODM
 
 * [ActiveRecord](https://github.com/rails/rails/tree/master/activerecord)
 * [Sequel](https://github.com/jeremyevans/sequel) - Sequel is a simple, flexible, and powerful SQL database access toolkit for Ruby
