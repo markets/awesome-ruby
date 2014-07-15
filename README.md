@@ -113,27 +113,38 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Testing
 
-* [RSpec](https://github.com/rspec/rspec) - Behaviour Driven Development for Ruby
-* [minitest](https://github.com/seattlerb/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking
-* [Test::Unit](http://test-unit.github.io) - Test::Unit is a xUnit family unit testing framework for Ruby
-* [Cucumber](https://github.com/cucumber/cucumber) - BDD that talks to domain experts first and code second
-* [Capybara](http://jnicklas.github.io/capybara) - Acceptance test framework for web applications
-* [Appraisal](https://github.com/thoughtbot/appraisal) - Appraisal integrates with bundler and rake to test your library against different versions of dependencies
-* [factory_girl](https://github.com/thoughtbot/factory_girl) - A library for setting up Ruby objects as test data
-* [faker](https://github.com/stympy/faker) - A library for generating fake data such as names, addresses, and phone numbers.
-* [Fabrication](http://fabricationgem.org/) - A simple and powerful object generation library
-* [Machinist](https://github.com/notahat/machinist) - Fixtures aren't fun. Machinist is
-* [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - Provides Test::Unit- and RSpec-compatible one-liners that test common Rails functionality. These tests would otherwise be much longer, more complex, and error-prone.
-* [vcr](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests
-* [Spring](https://github.com/rails/spring) - Preloads your rails environment in the background for faster testing and Rake tasks
-* [Konacha](https://github.com/jfirebaugh/konacha) - Test your Rails application's JavaScript with the mocha test framework and chai assertion library
-* [Spork](https://github.com/sporkrb/spork) - A DRb server for testing frameworks (RSpec / Cucumber currently).
-* [WebMock](https://github.com/bblimke/webmock) - Library for stubbing and setting expectations on HTTP requests
-* [RR](https://github.com/rr/rr) - A test double framework that features a rich selection of double techniques and a terse syntax
-* [Bacon](https://github.com/chneukirchen/bacon) - A small RSpec clone
-* [Spinach](https://github.com/codegram/spinach) - Spinach is a high-level BDD framework that leverages the expressive Gherkin language (used by Cucumber) to help you define executable specifications of your application or library's acceptance criteria.
-* [timecop](https://github.com/travisjeffery/timecop) - Provides "time travel" and "time freezing" capabilities, making it dead simple to test time-dependent code
-* [Ruby-JMeter](https://github.com/flood-io/ruby-jmeter) - A Ruby based DSL for building JMeter test plans
+* Frameworks
+
+  * [RSpec](https://github.com/rspec/rspec) - Behaviour Driven Development for Ruby
+  * [minitest](https://github.com/seattlerb/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking
+  * [Test::Unit](http://test-unit.github.io) - Test::Unit is a xUnit family unit testing framework for Ruby
+  * [Cucumber](https://github.com/cucumber/cucumber) - BDD that talks to domain experts first and code second
+  * [Capybara](http://jnicklas.github.io/capybara) - Acceptance test framework for web applications
+  * [RR](https://github.com/rr/rr) - A test double framework that features a rich selection of double techniques and a terse syntax
+  * [Spinach](https://github.com/codegram/spinach) - Spinach is a high-level BDD framework that leverages the expressive Gherkin language (used by Cucumber) to help you define executable specifications of your application or library's acceptance criteria.
+  * [Bacon](https://github.com/chneukirchen/bacon) - A small RSpec clone
+  * [Konacha](https://github.com/jfirebaugh/konacha) - Test your Rails application's JavaScript with the mocha test framework and chai assertion library
+  * [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - Provides Test::Unit- and RSpec-compatible one-liners that test common Rails functionality. These tests would otherwise be much longer, more complex, and error-prone.
+  * [Spork](https://github.com/sporkrb/spork) - A DRb server for testing frameworks (RSpec / Cucumber currently)
+
+* Fake Data
+
+  * [factory_girl](https://github.com/thoughtbot/factory_girl) - A library for setting up Ruby objects as test data
+  * [faker](https://github.com/stympy/faker) - A library for generating fake data such as names, addresses, and phone numbers.
+  * [Fabrication](http://fabricationgem.org/) - A simple and powerful object generation library
+  * [Machinist](https://github.com/notahat/machinist) - Fixtures aren't fun. Machinist is
+
+* Mock
+
+  * [WebMock](https://github.com/bblimke/webmock) - Library for stubbing and setting expectations on HTTP requests
+
+* Extra
+
+  * [Appraisal](https://github.com/thoughtbot/appraisal) - Appraisal integrates with bundler and rake to test your library against different versions of dependencies
+  * [timecop](https://github.com/travisjeffery/timecop) - Provides "time travel" and "time freezing" capabilities, making it dead simple to test time-dependent code
+  * [Ruby-JMeter](https://github.com/flood-io/ruby-jmeter) - A Ruby based DSL for building JMeter test plans
+  * [Spring](https://github.com/rails/spring) - Preloads your rails environment in the background for faster testing and Rake tasks
+  * [vcr](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests
 
 ## Web Frameworks
 
