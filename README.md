@@ -416,6 +416,14 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Dashing-Rails](https://github.com/gottfrois/dashing-rails) - The exceptionally handsome dashboard framework for Rails.
 
+## Date & Time Processing
+
+* [business_time](https://github.com/bokmann/business_time) - Support for doing time math in business hours and days
+* [Chronic](https://github.com/mojombo/chronic) - A natural language date/time parser written in pure Ruby
+* [time-lord](https://github.com/krainboltgreene/time-lord) - Adds extra functionality to the time class
+* [time_diff](https://github.com/abhidsm/time_diff) - Calculates the difference between two time
+* [validates_timeliness](https://github.com/adzap/validates_timeliness) - Date and time validation plugin for ActiveModel and Rails
+
 ## Debugging Tools
 
 * [debugger](https://github.com/cldwalker/debugger) - A port of ruby-debug that works on 1.9.2 and 1.9.3.
