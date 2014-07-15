@@ -18,7 +18,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Web Servers](#web-servers)
   * [Database Drivers](#database-drivers)
   * [Database Tools](#database-tools)
-  * [ORM](#orm)
+  * [ORM/ODM](#ormodm)
   * [Decorators](#decorators)
   * [HTTP](#http)
   * [API Builder](#api-builder)
@@ -35,6 +35,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Markdown Processors](#markdown-processors)
   * [Search](#search)
   * [Internationalization](#internationalization)
+  * [Country Data](#country-data)
   * [Geolocation](#geolocation)
   * [Caching](#caching)
   * [File Upload](#file-upload)
@@ -54,6 +55,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
   * [Dashboards](#dashboards)
   * [Debugging Tools](#debugging-tools)
+  * [Date and Time Processing](#date-and-time-processing)
   * [Profiler](#profiler)
   * [Third-party APIs](#third-party-apis)
   * [CMS](#cms)
@@ -94,6 +96,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Berkshelf](https://github.com/berkshelf/berkshelf) - A Chef Cookbook manager
 
 ## Environment Management
+
 * [rbenv](https://github.com/sstephenson/rbenv) — Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production
 * [RVM](https://rvm.io) — RVM is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems
 * [dotenv](https://github.com/bkeepers/dotenv) - Loads environment variables from `.env`
@@ -128,6 +131,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [RR](https://github.com/rr/rr) - A test double framework that features a rich selection of double techniques and a terse syntax
 * [Bacon](https://github.com/chneukirchen/bacon) - A small RSpec clone
 * [Spinach](https://github.com/codegram/spinach) - Spinach is a high-level BDD framework that leverages the expressive Gherkin language (used by Cucumber) to help you define executable specifications of your application or library's acceptance criteria.
+* [timecop](https://github.com/travisjeffery/timecop) - Provides "time travel" and "time freezing" capabilities, making it dead simple to test time-dependent code
 
 ## Web Frameworks
 
@@ -164,7 +168,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Seed Fu](https://github.com/mbleigh/seed-fu) - Advanced seed data handling for Rails.
 * [Machinist](https://github.com/notahat/machinist) - Fixtures aren't fun. Machinist is.
 
-## ORM
+## ORM/ODM
 
 * [ActiveRecord](https://github.com/rails/rails/tree/master/activerecord)
 * [Sequel](https://github.com/jeremyevans/sequel) - Sequel is a simple, flexible, and powerful SQL database access toolkit for Ruby
@@ -174,12 +178,13 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [MongoMapper](http://mongomapper.com/)
 * [MongoModel](https://github.com/spohlenz/mongomodel) -  Ruby ODM for interfacing with MongoDB databases
 * [ohm](http://ohm.keyvalue.org/) - Object-hash mapping library for Redis
+* [Guacamole](https://github.com/triAGENS/guacamole) -  An ODM for ArangoDB
 
 ## Decorators
 
 * [Draper](https://github.com/drapergem/draper) - Draper adds an object-oriented layer of presentation logic to your Rails application
 
-## Http
+## HTTP
 
 * [RESTClient](https://github.com/rest-client/rest-client) - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions
 * [httparty](https://github.com/jnunemaker/httparty)
@@ -249,6 +254,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Sidekiq](http://sidekiq.org) — A full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
 * [Sucker Punch](https://github.com/brandonhilkert/sucker_punch) — A single process background processing library using Celluloid. Aimed to be Sidekiq's little brother.
 * [Delayed::Job](https://github.com/collectiveidea/delayed_job) — Database backed asynchronous priority queue
+* [active_job](https://github.com/rails/activejob) - Declare job classes that can be run by a variety of queueing backends
 
 ## Scheduling
 
@@ -295,6 +301,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [pg_search](https://github.com/Casecommons/pg_search) - Builds ActiveRecord named scopes that take advantage of PostgreSQL's full text search
 * [has_scope](https://github.com/plataformatec/has_scope) - Has scope allows you to easily create controller filters based on your resources named scopes.
 * [Searchlogic](https://github.com/binarylogic/searchlogic) - Object based searching, common named scopes, and other useful named scope tools for ActiveRecord
+* [attr_searchable](https://github.com/mrkamel/attr_searchable) - Search engine like fulltext query support for ActiveRecord
 
 ## Internationalization
 
@@ -302,6 +309,13 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [i18n-tasks](https://github.com/glebm/i18n-tasks) - Manage missing and unused translations with the awesome power of static analysis
 * [twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) - Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more
 * [r18n](https://github.com/ai/r18n) - Advanced i18n library for Rails, Sinatra, desktop apps, models, works well with complex languages like Russian.
+
+## Country Data
+
+* [Carmen](https://github.com/jim/carmen) - A repository of geographic regions
+* [Countries](https://github.com/hexorx/countries) - All sorts of useful information about every country packaged as pretty little country objects
+* [i18n_data](https://github.com/grosser/i18n_data) - country/language names and 2-letter-code pairs, in 85 languages, for country/language i18n
+* [normalize_country](https://github.com/sshaw/normalize_country) - Convert country names and codes to a standard, includes a conversion program for XMLs, CSVs and DBs
 
 ## Geolocation
 
@@ -319,6 +333,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
 * [PaperClip](https://github.com/thoughtbot/paperclip) - Easy file attachment management for ActiveRecord
 * [DragonFly](https://github.com/markevans/dragonfly) - A Ruby gem for on-the-fly processing - suitable for image uploading in Rails, Sinatra and much more!
+* [rack-secure-upload](https://github.com/dtaniwaki/rack-secure-upload) - Upload files securely
 
 ## Email
 
@@ -357,6 +372,8 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## HTML/XML Parsing
 
 * [Nokogiri](http://nokogiri.org) - An HTML, XML, SAX, and Reader parser with XPath and CSS selector support
+* [HappyMapper](https://github.com/dam5s/happymapper) - Object to XML mapping library, using Nokogiri
+* [ROXML](https://github.com/Empact/roxml) - Custom mapping and bidirectional marshalling between Ruby and XML using annotation-style class methods, via Nokogiri or LibXML.
 
 ## Web Crawling
 
@@ -413,6 +430,14 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Dashboards
 
 * [Dashing-Rails](https://github.com/gottfrois/dashing-rails) - The exceptionally handsome dashboard framework for Rails.
+
+## Date and Time Processing
+
+* [business_time](https://github.com/bokmann/business_time) - Support for doing time math in business hours and days
+* [Chronic](https://github.com/mojombo/chronic) - A natural language date/time parser written in pure Ruby
+* [time-lord](https://github.com/krainboltgreene/time-lord) - Adds extra functionality to the time class
+* [time_diff](https://github.com/abhidsm/time_diff) - Calculates the difference between two time
+* [validates_timeliness](https://github.com/adzap/validates_timeliness) - Date and time validation plugin for ActiveModel and Rails
 
 ## Debugging Tools
 
