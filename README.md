@@ -49,10 +49,11 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [HTML/XML Parsing](#htmlxml-parsing)
   * [Web Crawling](#web-crawling)
   * [Processes and Threads](#processes-and-threads)
+  * [Process Monitoring](#process-monitoring)
   * [Concurrency](#concurrency)
   * [Configuration](#configuration)
   * [Core Extensions](#core-extensions)
-  * [Error Handling and Monitoring](#error-handling-and-monitoring)
+  * [Error Handling](#error-handling)
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
   * [Dashboards](#dashboards)
   * [Debugging Tools](#debugging-tools)
@@ -404,6 +405,11 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [childprocess](https://github.com/jarib/childprocess) - Cross-platform ruby library for managing child processes.
 * [forkoff](https://github.com/ahoward/forkoff) - brain-dead simple parallel processing for ruby
 
+## Process Monitoring
+
+* [Bluepill](https://github.com/bluepill-rb/bluepill) - Simple process monitoring tool
+* [God](https://github.com/mojombo/god) - An easy to configure, easy to extend monitoring framework written in Ruby
+
 ## Concurrency
 
 * [EventMachine](https://github.com/eventmachine/eventmachine) - An event-driven I/O and lightweight concurrency library for Ruby
@@ -425,7 +431,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [ActiveSupport](https://github.com/rails/rails/tree/master/activesupport) - A collection of utility classes and standard library extensions.
 * [Ruby Facets](https://github.com/rubyworks/facets) - The premiere collection of general purpose method extensions and standard additions for Ruby.
 
-## Error Handling and Monitoring
+## Error Handling
 
 * [Exception Notification](https://github.com/smartinez87/exception_notification) - A set of notifiers for sending notifications when errors occur in a Rack/Rails application
 * [Errbit](http://errbit.github.io/errbit) - The open source, self-hosted error catcher
