@@ -19,10 +19,12 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Database Drivers](#database-drivers)
   * [Database Tools](#database-tools)
   * [ORM/ODM](#ormodm)
+  * [ORM/ODM Extensions](#ormodm-extensions)
   * [Decorators](#decorators)
   * [HTTP](#http)
   * [API Builder](#api-builder)
-  * [CLI](#cli)
+  * [CLI Builder](#cli-builder)
+  * [CLI Tools](#cli-tools)
   * [Authentication](#authentication)
   * [OAuth](#oauth)
   * [Authorization](#authorization)
@@ -122,6 +124,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [factory_girl](https://github.com/thoughtbot/factory_girl) - A library for setting up Ruby objects as test data
 * [faker](https://github.com/stympy/faker) - A library for generating fake data such as names, addresses, and phone numbers.
 * [Fabrication](http://fabricationgem.org/) - A simple and powerful object generation library
+* [Machinist](https://github.com/notahat/machinist) - Fixtures aren't fun. Machinist is
 * [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - Provides Test::Unit- and RSpec-compatible one-liners that test common Rails functionality. These tests would otherwise be much longer, more complex, and error-prone.
 * [vcr](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests
 * [Spring](https://github.com/rails/spring) - Preloads your rails environment in the background for faster testing and Rake tasks
@@ -167,19 +170,21 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Seed dump](https://github.com/rroblak/seed_dump) - Rails 4 task to dump (parts) of your database to db/seeds.rb.
 * [Seed Fu](https://github.com/mbleigh/seed-fu) - Advanced seed data handling for Rails.
-* [Machinist](https://github.com/notahat/machinist) - Fixtures aren't fun. Machinist is.
 
 ## ORM/ODM
 
 * [ActiveRecord](https://github.com/rails/rails/tree/master/activerecord)
 * [Sequel](https://github.com/jeremyevans/sequel) - Sequel is a simple, flexible, and powerful SQL database access toolkit for Ruby
 * [Mongoid](http://mongoid.org/en/mongoid/index.html) - An ODM (Object-Document-Mapper) framework for MongoDB in Ruby
-* [Mongoid Tree](https://github.com/benedikt/mongoid-tree) - A tree structure for Mongoid documents using the materialized path pattern
 * [DataMapper](http://datamapper.org/) - ORM which works well with legacy databases. Last release (1.2.0) was on 13 October 2011.
 * [MongoMapper](http://mongomapper.com/)
 * [MongoModel](https://github.com/spohlenz/mongomodel) -  Ruby ODM for interfacing with MongoDB databases
 * [ohm](http://ohm.keyvalue.org/) - Object-hash mapping library for Redis
 * [Guacamole](https://github.com/triAGENS/guacamole) -  An ODM for ArangoDB
+
+## ORM/ODM Extensions
+
+* [Mongoid Tree](https://github.com/benedikt/mongoid-tree) - A tree structure for Mongoid documents using the materialized path pattern
 
 ## Decorators
 
@@ -209,14 +214,18 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Pliny](https://github.com/interagent/pliny) - Opinionated template Sinatra app for writing excellent APIs in Ruby
 * [Roar](https://github.com/apotonick/roar) - Resource-Oriented Architectures in Ruby
 
-## CLI
+## CLI Builder
 
 * [Rake](https://github.com/jimweirich/rake) - A make-like build utility for Ruby
 * [Thor](http://whatisthor.com) - A toolkit for building powerful command-line interfaces
 * [Commander](https://github.com/visionmedia/commander) - The complete solution for Ruby command-line executables
 * [Slop](https://github.com/leejarvis/slop) - Simple Lightweight Option Parsing
-* [Termit](https://github.com/pawurb/termit) - Google Translate with speech synthesis in your terminal
 * [Main](https://github.com/ahoward/main) - A class factory and DSL for generating command line programs real quick
+
+## CLI Tools
+
+* [Betty](https://github.com/pickhardt/betty) - Friendly English-like interface for your command line. Don't remember a command? Ask Betty
+* [Termit](https://github.com/pawurb/termit) - Google Translate with speech synthesis in your terminal
 
 ## Authentication
 
@@ -572,7 +581,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Misc
 
-* [Betty](https://github.com/pickhardt/betty) - Friendly English-like interface for your command line. Don't remember a command? Ask Betty
 * [Foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications
 * [Prawn](https://github.com/prawnpdf/prawn) - Fast, Nimble PDF Writer for Ruby
 * [Pry](https://github.com/pry/pry) - A powerful alternative to the standard IRB shell for Ruby
