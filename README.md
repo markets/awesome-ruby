@@ -101,7 +101,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [rbenv](https://github.com/sstephenson/rbenv) — Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production
 * [RVM](https://rvm.io) — RVM is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems
-* [dotenv](https://github.com/bkeepers/dotenv) - Loads environment variables from `.env`
 * [ruby-build](https://github.com/sstephenson/ruby-build) - Compile and install Ruby
 * [chruby](https://github.com/postmodern/chruby) - Change your current Ruby. No shims, no crazy options or features, ~90 LOC
 * [chgems](https://github.com/postmodern/chgems) - Chroot for RubyGems
@@ -409,6 +408,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Configatron](https://github.com/markbates/configatron) -  Simple and feature rich configuration system for Ruby apps
 * [Configus](https://github.com/kaize/configus) - Helps you easily manage environment specific settings
+* [dotenv](https://github.com/bkeepers/dotenv) - Loads environment variables from `.env`
 * [Econfig](https://github.com/elabs/econfig) - Flexible configuration for Rails applications
 * [Global](https://github.com/railsware/global) - Provides accessor methods for your configuration data
 * [RailsConfig](https://github.com/railsconfig/rails_config) - Multi-environment yaml settings for Rails3
