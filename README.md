@@ -540,6 +540,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [git-auto-bisect](https://github.com/grosser/git-autobisect) - Find the commit that broke master
 * [git-whence](https://github.com/grosser/git-whence) - Find which merge a commit came from
 * [git-spelunk](https://github.com/osheroff/git-spelunk) - Dig through git blame history
+* [git-up](https://github.com/aanand/git-up) - Fetch and rebase all locally-tracked remote branches
 
 ## GUI
 
