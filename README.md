@@ -27,7 +27,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Authentication](#authentication)
   * [OAuth](#oauth)
   * [Authorization](#authorization)
-  * [Log](#log)
+  * [Logging](#logging)
   * [Queue](#queue)
   * [Scheduling](#scheduling)
   * [Data Visualization](#data-visualization)
@@ -250,7 +250,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Pundit](https://github.com/elabs/pundit) - Minimal authorization through OO design and pure Ruby classes
 * [Authority](https://github.com/nathanl/authority) ORM-neutral way to authorize actions in your Rails app.
 
-## Log
+## Logging
 
 * [Log4r](https://github.com/colbygk/log4r) - Log4r is a comprehensive and flexible logging library for use in Ruby programs
 * [Logging](https://github.com/TwP/logging) - A flexible logging library for use in Ruby programs based on the design of Java's log4j library.
@@ -612,4 +612,5 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Ruby Weekly](http://rubyweekly.com) - A free, once–weekly e-mail round-up of Ruby news and articles
 
 # Other Awesome Lists
+
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
