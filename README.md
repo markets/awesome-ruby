@@ -18,7 +18,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Web Servers](#web-servers)
   * [Database Drivers](#database-drivers)
   * [Database Tools](#database-tools)
-  * [ORM/ODM](#orm)
+  * [ORM/ODM](#ormodm)
   * [Decorators](#decorators)
   * [HTTP](#http)
   * [API Builder](#api-builder)
