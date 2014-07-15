@@ -175,6 +175,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [MongoMapper](http://mongomapper.com/)
 * [MongoModel](https://github.com/spohlenz/mongomodel) -  Ruby ODM for interfacing with MongoDB databases
 * [ohm](http://ohm.keyvalue.org/) - Object-hash mapping library for Redis
+* [Guacamole](https://github.com/triAGENS/guacamole) -  An ODM for ArangoDB
 
 ## Decorators
 
