@@ -24,7 +24,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [HTTP](#http)
   * [API Builder](#api-builder)
   * [CLI Builder](#cli-builder)
-  * [CLI Tools](#cli-tools)
   * [Authentication](#authentication)
   * [OAuth](#oauth)
   * [Authorization](#authorization)
@@ -220,11 +219,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Commander](https://github.com/visionmedia/commander) - The complete solution for Ruby command-line executables
 * [Slop](https://github.com/leejarvis/slop) - Simple Lightweight Option Parsing
 * [Main](https://github.com/ahoward/main) - A class factory and DSL for generating command line programs real quick
-
-## CLI Tools
-
-* [Betty](https://github.com/pickhardt/betty) - Friendly English-like interface for your command line. Don't remember a command? Ask Betty
-* [Termit](https://github.com/pawurb/termit) - Google Translate with speech synthesis in your terminal
 
 ## Authentication
 
@@ -583,6 +577,8 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Misc
 
+* [Betty](https://github.com/pickhardt/betty) - Friendly English-like interface for your command line. Don't remember a command? Ask Betty
+* [Termit](https://github.com/pawurb/termit) - Google Translate with speech synthesis in your terminal
 * [Foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications
 * [Prawn](https://github.com/prawnpdf/prawn) - Fast, Nimble PDF Writer for Ruby
 * [Pry](https://github.com/pry/pry) - A powerful alternative to the standard IRB shell for Ruby
