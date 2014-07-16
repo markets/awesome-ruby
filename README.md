@@ -538,6 +538,8 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Gabba](https://github.com/hybridgroup/gabba)
 * [Ahoy](https://github.com/ankane/ahoy) - A solid foundation to track visits and events in Ruby, JavaScript, and native apps
+* [Staccato](https://github.com/tpitale/staccato) - Track analytics into the official Google Analytics Collection API
+* [Legato](https://github.com/tpitale/legato) - Model analytics reports and queries against the official Google Analytics Reporting API
 
 ## RSS
 
