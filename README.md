@@ -618,6 +618,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [RubyFlow](http://www.rubyflow.com) - Ruby Programming Community Link Blog
 * [RubyDaily](http://rubydaily.org) - Community driven news
 * [Ruby Weekly](http://rubyweekly.com) - A free, once–weekly e-mail round-up of Ruby news and articles
+* [GemBundle](http://www.gembundle.com) - A place to discover new Ruby Gems
 
 # Other Awesome Lists
 
