@@ -610,6 +610,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [AASM](https://github.com/aasm/aasm) - A library for adding finite state machines to Ruby classes
 * [Virtus](https://github.com/solnic/virtus) - Attributes on Steroids for Plain Old Ruby Objects
 * [FastAttributes](https://github.com/applift/fast_attributes) - FastAttributes adds attributes with their types to the class
+* [JsonCompare](https://github.com/a2design-company/json-compare) - Returns the difference between two JSON files
 
 # Resources
 
