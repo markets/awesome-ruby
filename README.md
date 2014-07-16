@@ -319,6 +319,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Searchlogic](https://github.com/binarylogic/searchlogic) - Object based searching, common named scopes, and other useful named scope tools for ActiveRecord
 * [attr_searchable](https://github.com/mrkamel/attr_searchable) - Search engine like fulltext query support for ActiveRecord
 * [ransack](https://github.com/activerecord-hackery/ransack/) - Object-based searching.
+* [Rroonga](https://github.com/ranguba/rroonga) - The Ruby bindings of Groonga
 
 ## Internationalization
 
