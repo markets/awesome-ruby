@@ -48,6 +48,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Video](#video)
   * [WebSocket](#websocket)
   * [HTML/XML Parsing](#htmlxml-parsing)
+  * [Ebook](#ebook)
   * [Web Crawling](#web-crawling)
   * [Processes and Threads](#processes-and-threads)
   * [Process Monitoring](#process-monitoring)
@@ -402,6 +403,23 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [HappyMapper](https://github.com/dam5s/happymapper) - Object to XML mapping library, using Nokogiri
 * [ROXML](https://github.com/Empact/roxml) - Custom mapping and bidirectional marshalling between Ruby and XML using annotation-style class methods, via Nokogiri or LibXML.
 
+## Ebook
+
+* [Bookshop](https://github.com/blueheadpublishing/bookshop) - Bookshop is a an open-source agile book development and publishing framework for authors, editors.
+* [Prawn](https://github.com/prawnpdf/prawn) - Fast, Nimble PDF Writer for Ruby
+* [Pdfkit](https://github.com/pdfkit/pdfkit) - HTML+CSS to PDF using wkhtmltopdf
+* [Wicked Pdf](https://github.com/mileszs/wicked_pdf) - PDF generator (from HTML) plugin for Ruby on Rails
+* [Kitabu](https://github.com/fnando/kitabu) - A framework for creating e-books from Markdown/Textile text markup using Ruby.
+* [Gimli](https://github.com/walle/gimli) - Utility for converting markup files to pdf files.
+* [Shrimp](https://github.com/adjust/shrimp) - A phantomjs based pdf renderer
+* [RGhost](https://github.com/shairontoledo/rghost) - RGhost is a document creation and conversion API.
+* [Wisepdf](https://github.com/igor-alexandrov/wisepdf) - Wkhtmltopdf wrapper done right
+* [Git Scribe](https://github.com/schacon/git-scribe) - Basically the best way to write an ebook.
+* [Review](https://github.com/kmuto/review) - Re:VIEW is flexible document format/conversion system
+* [Gepub](https://github.com/skoji/gepub) - A generic EPUB library for Ruby : supports EPUB 3
+* [Eeepub](https://github.com/jugyo/eeepub) - EeePub is a Ruby ePub generator.
+* [Mobi](https://github.com/jkongie/mobi) - A Ruby way to read MOBI format metadata
+
 ## Web Crawling
 
 * [MetaInspector](https://github.com/jaimeiniesta/metainspector) - Ruby gem for web scraping purposes. It scrapes a given URL, and returns you its title, meta description, meta keywords, an array with all the links, all the images in it, etc.
@@ -617,7 +635,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Betty](https://github.com/pickhardt/betty) - Friendly English-like interface for your command line. Don't remember a command? Ask Betty
 * [Termit](https://github.com/pawurb/termit) - Google Translate with speech synthesis in your terminal
 * [Foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications
-* [Prawn](https://github.com/prawnpdf/prawn) - Fast, Nimble PDF Writer for Ruby
 * [Pry](https://github.com/pry/pry) - A powerful alternative to the standard IRB shell for Ruby
 * [Pry Debugger](https://github.com/nixme/pry-debugger) - Pry navigation commands via debugger (formerly ruby-debug)
 * [Guard](https://github.com/guard/guard) - A command line tool to easily handle events on file system modifications
@@ -625,6 +642,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Treetop](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser
 * [Yomu](https://github.com/Erol/yomu) - Read text and metadata from files and documents (.doc, .docx, .pages, .odt, .rtf, .pdf)
 * [AASM](https://github.com/aasm/aasm) - A library for adding finite state machines to Ruby classes
+* [Gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 * [Virtus](https://github.com/solnic/virtus) - Attributes on Steroids for Plain Old Ruby Objects
 * [FastAttributes](https://github.com/applift/fast_attributes) - FastAttributes adds attributes with their types to the class
 * [JsonCompare](https://github.com/a2design-company/json-compare) - Returns the difference between two JSON files
