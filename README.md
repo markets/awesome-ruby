@@ -382,6 +382,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [MiniMagick](https://github.com/minimagick/minimagick) - A ruby wrapper for ImageMagick or GraphicsMagick command line
 * [RMagick](https://github.com/rmagick/rmagick) - RMagick is an interface between Ruby and ImageMagick
+* [PSD.rb](https://github.com/layervault/psd.rb) - Parse Photoshop files in Ruby with ease
 
 ## Video
 
@@ -512,7 +513,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [gitlab](https://github.com/NARKOZ/gitlab) - Ruby wrapper and CLI for the GitLab API
 * [fb_graph](https://github.com/nov/fb_graph) - A full-stack Facebook Graph API wrapper
 * [twitter](https://github.com/sferik/twitter) - A Ruby interface to the Twitter API
-  * [t](https://github.com/sferik/t) - A command-line power tool for Twitter
+* [t](https://github.com/sferik/t) - A command-line power tool for Twitter
 * [tweetstream](https://github.com/tweetstream/tweetstream) - A simple library for consuming Twitter's Streaming API
 * [ruby-gmail](https://github.com/dcparker/ruby-gmail) - A Rubyesque interface to Gmail
 * [instagram-ruby-gem](https://github.com/Instagram/instagram-ruby-gem) - The official gem for the Instagram REST and Search APIs
