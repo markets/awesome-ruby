@@ -49,6 +49,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [WebSocket](#websocket)
   * [HTML/XML Parsing](#htmlxml-parsing)
   * [Ebook](#ebook)
+  * [Pdf](#pdf)
   * [Web Crawling](#web-crawling)
   * [Processes and Threads](#processes-and-threads)
   * [Process Monitoring](#process-monitoring)
@@ -407,6 +408,14 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Ebook
 
 * [Bookshop](https://github.com/blueheadpublishing/bookshop) - Bookshop is a an open-source agile book development and publishing framework for authors, editors.
+* [Git Scribe](https://github.com/schacon/git-scribe) - Basically the best way to write an ebook.
+* [Review](https://github.com/kmuto/review) - Re:VIEW is flexible document format/conversion system
+* [Gepub](https://github.com/skoji/gepub) - A generic EPUB library for Ruby : supports EPUB 3
+* [Eeepub](https://github.com/jugyo/eeepub) - EeePub is a Ruby ePub generator.
+* [Mobi](https://github.com/jkongie/mobi) - A Ruby way to read MOBI format metadata
+
+## Pdf
+
 * [Prawn](https://github.com/prawnpdf/prawn) - Fast, Nimble PDF Writer for Ruby
 * [Pdfkit](https://github.com/pdfkit/pdfkit) - HTML+CSS to PDF using wkhtmltopdf
 * [Wicked Pdf](https://github.com/mileszs/wicked_pdf) - PDF generator (from HTML) plugin for Ruby on Rails
@@ -415,11 +424,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Shrimp](https://github.com/adjust/shrimp) - A phantomjs based pdf renderer
 * [RGhost](https://github.com/shairontoledo/rghost) - RGhost is a document creation and conversion API.
 * [Wisepdf](https://github.com/igor-alexandrov/wisepdf) - Wkhtmltopdf wrapper done right
-* [Git Scribe](https://github.com/schacon/git-scribe) - Basically the best way to write an ebook.
-* [Review](https://github.com/kmuto/review) - Re:VIEW is flexible document format/conversion system
-* [Gepub](https://github.com/skoji/gepub) - A generic EPUB library for Ruby : supports EPUB 3
-* [Eeepub](https://github.com/jugyo/eeepub) - EeePub is a Ruby ePub generator.
-* [Mobi](https://github.com/jkongie/mobi) - A Ruby way to read MOBI format metadata
 
 ## Web Crawling
 
