@@ -49,7 +49,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [WebSocket](#websocket)
   * [HTML/XML Parsing](#htmlxml-parsing)
   * [Ebook](#ebook)
-  * [Pdf](#pdf)
+  * [PDF](#pdf)
   * [Web Crawling](#web-crawling)
   * [Processes and Threads](#processes-and-threads)
   * [Process Monitoring](#process-monitoring)
@@ -121,7 +121,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Testing
 
 * Frameworks
-
   * [RSpec](https://github.com/rspec/rspec) - Behaviour Driven Development for Ruby
   * [minitest](https://github.com/seattlerb/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking
   * [Test::Unit](http://test-unit.github.io) - Test::Unit is a xUnit family unit testing framework for Ruby
@@ -133,20 +132,14 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Konacha](https://github.com/jfirebaugh/konacha) - Test your Rails application's JavaScript with the mocha test framework and chai assertion library
   * [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - Provides Test::Unit- and RSpec-compatible one-liners that test common Rails functionality. These tests would otherwise be much longer, more complex, and error-prone.
   * [Spork](https://github.com/sporkrb/spork) - A DRb server for testing frameworks (RSpec / Cucumber currently)
-
 * Fake Data
-
   * [factory_girl](https://github.com/thoughtbot/factory_girl) - A library for setting up Ruby objects as test data
   * [faker](https://github.com/stympy/faker) - A library for generating fake data such as names, addresses, and phone numbers.
   * [Fabrication](http://fabricationgem.org/) - A simple and powerful object generation library
   * [Machinist](https://github.com/notahat/machinist) - Fixtures aren't fun. Machinist is
-
 * Mock
-
   * [WebMock](https://github.com/bblimke/webmock) - Library for stubbing and setting expectations on HTTP requests
-
 * Extra
-
   * [Appraisal](https://github.com/thoughtbot/appraisal) - Appraisal integrates with bundler and rake to test your library against different versions of dependencies
   * [timecop](https://github.com/travisjeffery/timecop) - Provides "time travel" and "time freezing" capabilities, making it dead simple to test time-dependent code
   * [Ruby-JMeter](https://github.com/flood-io/ruby-jmeter) - A Ruby based DSL for building JMeter test plans
@@ -414,7 +407,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Eeepub](https://github.com/jugyo/eeepub) - EeePub is a Ruby ePub generator.
 * [Mobi](https://github.com/jkongie/mobi) - A Ruby way to read MOBI format metadata
 
-## Pdf
+## PDF
 
 * [Prawn](https://github.com/prawnpdf/prawn) - Fast, Nimble PDF Writer for Ruby
 * [Pdfkit](https://github.com/pdfkit/pdfkit) - HTML+CSS to PDF using wkhtmltopdf
@@ -463,6 +456,12 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [ActiveSupport](https://github.com/rails/rails/tree/master/activesupport) - A collection of utility classes and standard library extensions.
 * [Ruby Facets](https://github.com/rubyworks/facets) - The premiere collection of general purpose method extensions and standard additions for Ruby.
+* Attributes
+  * [ActiveAttr](https://github.com/cgriego/active_attr) - What ActiveModel left out
+  * [Virtus](https://github.com/solnic/virtus) - Attributes on Steroids for Plain Old Ruby Objects
+  * [FastAttributes](https://github.com/applift/fast_attributes) - FastAttributes adds attributes with their types to the class
+* Hash
+  * [Hashie](https://github.com/intridea/hashie) - A collection of tools that extend Hashes and make them more useful
 
 ## Error Handling
 
@@ -648,8 +647,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Yomu](https://github.com/Erol/yomu) - Read text and metadata from files and documents (.doc, .docx, .pages, .odt, .rtf, .pdf)
 * [AASM](https://github.com/aasm/aasm) - A library for adding finite state machines to Ruby classes
 * [Gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
-* [Virtus](https://github.com/solnic/virtus) - Attributes on Steroids for Plain Old Ruby Objects
-* [FastAttributes](https://github.com/applift/fast_attributes) - FastAttributes adds attributes with their types to the class
 * [JsonCompare](https://github.com/a2design-company/json-compare) - Returns the difference between two JSON files
 
 # Resources
