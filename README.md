@@ -410,6 +410,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Pdfkit](https://github.com/pdfkit/pdfkit) - HTML+CSS to PDF using wkhtmltopdf
 * [Wicked Pdf](https://github.com/mileszs/wicked_pdf) - PDF generator (from HTML) plugin for Ruby on Rails
 * [Kitabu](https://github.com/fnando/kitabu) - A framework for creating e-books from Markdown/Textile text markup using Ruby.
+* [Gimli](https://github.com/walle/gimli) - Utility for converting markup files to pdf files.
 * [Git Scribe](https://github.com/schacon/git-scribe) - Basically the best way to write an ebook.
 * [Review](https://github.com/kmuto/review) - Re:VIEW is flexible document format/conversion system
 * [Gepub](https://github.com/skoji/gepub) - A generic EPUB library for Ruby : supports EPUB 3
