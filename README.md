@@ -38,6 +38,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Internationalization](#internationalization)
   * [Country Data](#country-data)
   * [Geolocation](#geolocation)
+  * [Money](#money)
   * [Caching](#caching)
   * [File Upload](#file-upload)
   * [Email](#email)
@@ -72,6 +73,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Git Tools](#git-tools)
   * [GUI](#gui)
   * [Game Development](#game-development)
+  * [Mobile Development](#mobile-development)
   * [Robotics](#robotics)
   * [Natural Language Processing](#natural-language-processing)
   * [Machine Learning](#machine-learning)
@@ -341,6 +343,10 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Geocoder](https://github.com/alexreisner/geocoder)
 * [Geokit](https://github.com/geokit/geokit)
+
+## Money
+
+* [Money](https://github.com/RubyMoney/money) - A Ruby Library for dealing with money and currency conversion.
 
 ## Caching
 
