@@ -406,6 +406,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Ebook
 
 * [Bookshop](https://github.com/blueheadpublishing/bookshop) - Bookshop is a an open-source agile book development and publishing framework for authors, editors.
+* [Gepub](https://github.com/skoji/gepub) - A generic EPUB library for Ruby : supports EPUB 3
 * [Mobi](https://github.com/jkongie/mobi) - A Ruby way to read MOBI format metadata
 
 ## Web Crawling
