@@ -74,6 +74,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Game Development](#game-development)
   * [Robotics](#robotics)
   * [Natural Language Processing](#natural-language-processing)
+  * [Machine Learning](#machine-learning)
   * [Abstraction](#abstraction)
   * [Misc](#misc)
 * [Resources](#resources)
