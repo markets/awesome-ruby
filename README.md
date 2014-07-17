@@ -407,6 +407,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Bookshop](https://github.com/blueheadpublishing/bookshop) - Bookshop is a an open-source agile book development and publishing framework for authors, editors.
 * [Git Scribe](https://github.com/schacon/git-scribe) - Basically the best way to write an ebook.
+* [Review](https://github.com/kmuto/review) - Re:VIEW is flexible document format/conversion system
 * [Gepub](https://github.com/skoji/gepub) - A generic EPUB library for Ruby : supports EPUB 3
 * [Mobi](https://github.com/jkongie/mobi) - A Ruby way to read MOBI format metadata
 
