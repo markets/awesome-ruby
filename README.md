@@ -406,6 +406,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Ebook
 
 * [Bookshop](https://github.com/blueheadpublishing/bookshop) - Bookshop is a an open-source agile book development and publishing framework for authors, editors.
+* [Prawn](https://github.com/prawnpdf/prawn) - Fast, Nimble PDF Writer for Ruby
 * [Git Scribe](https://github.com/schacon/git-scribe) - Basically the best way to write an ebook.
 * [Review](https://github.com/kmuto/review) - Re:VIEW is flexible document format/conversion system
 * [Gepub](https://github.com/skoji/gepub) - A generic EPUB library for Ruby : supports EPUB 3
@@ -627,7 +628,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Betty](https://github.com/pickhardt/betty) - Friendly English-like interface for your command line. Don't remember a command? Ask Betty
 * [Termit](https://github.com/pawurb/termit) - Google Translate with speech synthesis in your terminal
 * [Foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications
-* [Prawn](https://github.com/prawnpdf/prawn) - Fast, Nimble PDF Writer for Ruby
 * [Pry](https://github.com/pry/pry) - A powerful alternative to the standard IRB shell for Ruby
 * [Pry Debugger](https://github.com/nixme/pry-debugger) - Pry navigation commands via debugger (formerly ruby-debug)
 * [Guard](https://github.com/guard/guard) - A command line tool to easily handle events on file system modifications
