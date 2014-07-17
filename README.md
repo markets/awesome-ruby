@@ -409,6 +409,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Git Scribe](https://github.com/schacon/git-scribe) - Basically the best way to write an ebook.
 * [Review](https://github.com/kmuto/review) - Re:VIEW is flexible document format/conversion system
 * [Gepub](https://github.com/skoji/gepub) - A generic EPUB library for Ruby : supports EPUB 3
+* [Eeepub](https://github.com/jugyo/eeepub) - EeePub is a Ruby ePub generator.
 * [Mobi](https://github.com/jkongie/mobi) - A Ruby way to read MOBI format metadata
 
 ## Web Crawling
