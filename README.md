@@ -131,6 +131,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Konacha](https://github.com/jfirebaugh/konacha) - Test your Rails application's JavaScript with the mocha test framework and chai assertion library
   * [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - Provides Test::Unit- and RSpec-compatible one-liners that test common Rails functionality. These tests would otherwise be much longer, more complex, and error-prone.
   * [Spork](https://github.com/sporkrb/spork) - A DRb server for testing frameworks (RSpec / Cucumber currently)
+  * [Cutest](https://github.com/djanowski/cutest) - Isolated tests in Ruby
 * Fake Data
   * [factory_girl](https://github.com/thoughtbot/factory_girl) - A library for setting up Ruby objects as test data
   * [faker](https://github.com/stympy/faker) - A library for generating fake data such as names, addresses, and phone numbers.
@@ -170,6 +171,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [mysql2](https://github.com/brianmario/mysql2) - A modern, simple and very fast Mysql library for Ruby (binding to libmysql)
 * [SQLite3](https://github.com/sparklemotion/sqlite3-ruby)
 * [redis-rb](https://github.com/redis/redis-rb) - A Ruby client that tries to match Redis' API one-to-one, while still providing an idiomatic interface
+* [Redic](https://github.com/amakawa/redic) - Lightweight Redis Client
 * [DataObjects](https://github.com/datamapper/do) - An attempt to rewrite existing Ruby database drivers to conform to one, standard interface.
 * [mongo-ruby-driver](https://github.com/mongodb/mongo-ruby-driver) - MongoDB Ruby driver
 * [moped](http://mongoid.org/en/moped/index.html) - A MongoDB driver for Ruby
@@ -590,6 +592,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Mina](https://github.com/mina-deploy/mina) - Really fast deployer and server automation tool.
 * [Lita](https://www.lita.io/) - ChatOps for Ruby: A pluggable chat bot framework usable with any chat service.
 * [Logstash](https://github.com/elasticsearch/logstash) - Logs/event transport, processing, management, search
+* [Rubber](https://github.com/rubber/rubber) - The rubber plugin enables relatively complex multi-instance deployments of RubyOnRails applications to Amazon's Elastic Compute Cloud (EC2).
 
 ## Git Tools
 
