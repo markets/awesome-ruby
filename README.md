@@ -1,6 +1,6 @@
-# Awesome Ruby [![ruby-rocks!](http://img.shields.io/badge/ruby-rocks!-blue.svg?style=flat)](https://github.com/markets/awesome-ruby)
+# Awesome Ruby <a href="http://marcanguera.net/awesome-ruby"><img src="https://raw.githubusercontent.com/markets/awesome-ruby/gh-pages/images/logo.png" align="absmiddle"/></a>
 
-A collection of awesome Ruby libraries, tools, frameworks and software :gem:
+A collection of awesome Ruby libraries, tools, frameworks and software.
 
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) and [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks).
 
@@ -95,7 +95,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * Gems
   * [RubyGems](https://rubygems.org) - Community's gem hosting service
   * [Bundler](http://bundler.io) - Manage your application's gem dependencies with less pain
-
 * Packages and Applications
   * [Homebrew](https://github.com/Homebrew/homebrew) - The missing package manager for OS X
   * [Homebrew-cask](https://github.com/caskroom/homebrew-cask) - a CLI workflow for the administration of Mac applications distributed as binaries
