@@ -132,6 +132,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Konacha](https://github.com/jfirebaugh/konacha) - Test your Rails application's JavaScript with the mocha test framework and chai assertion library
   * [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - Provides Test::Unit- and RSpec-compatible one-liners that test common Rails functionality. These tests would otherwise be much longer, more complex, and error-prone.
   * [Spork](https://github.com/sporkrb/spork) - A DRb server for testing frameworks (RSpec / Cucumber currently)
+  * [Cutest](https://github.com/djanowski/cutest) - Isolated tests in Ruby
 * Fake Data
   * [factory_girl](https://github.com/thoughtbot/factory_girl) - A library for setting up Ruby objects as test data
   * [faker](https://github.com/stympy/faker) - A library for generating fake data such as names, addresses, and phone numbers.
