@@ -547,6 +547,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Jekyll](http://jekyllrb.com) - Transform your plain text into static websites and blogs
 * [Middleman](http://middlemanapp.com) - A static site generator using all the shortcuts and tools in modern web development
 * [Nanoc](http://nanoc.ws/) - A static site generator, fit for building anything from a small personal blog to a large corporate web site
+* [High Voltage](https://github.com/thoughtbot/high_voltage) - Easily include static pages in your Rails app
 
 ## SEO
 
@@ -655,6 +656,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [AASM](https://github.com/aasm/aasm) - A library for adding finite state machines to Ruby classes
 * [Gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 * [JsonCompare](https://github.com/a2design-company/json-compare) - Returns the difference between two JSON files
+* [pygments.rb](https://github.com/tmm1/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter
 
 # Resources
 
