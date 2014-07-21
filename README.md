@@ -637,6 +637,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Light Service](https://github.com/adomokos/light-service) - Series of Actions with an emphasis on simplicity.
 * [Mutations](https://github.com/cypriss/mutations) - Compose your business logic into commands that sanitize and validate input
 * [Cells](https://github.com/apotonick/cells) - View Components for Rails
+* [Reform](https://github.com/apotonick/reform) - Form objects decoupled from models.
 
 ## Misc
 
