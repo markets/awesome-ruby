@@ -393,6 +393,8 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Faye](http://faye.jcoglan.com/ruby.html) - A set of tools for simple publish-subscribe messaging between web clients. It ships with easy-to-use message routing servers for Node.js and Rack applications, and clients that can be used on the server and in the browser.
 * [Websocket-Rails](https://github.com/websocket-rails/websocket-rails) - Creates a built in WebSocket server inside a Rails application with ease.  Also support streaming HTTP
+* [Sync](https://github.com/chrismccord/sync) - Real-time Rails Partials
+* [Firehose](https://github.com/polleverywhere/firehose) - Build realtime Ruby web applications
 
 ## HTML/XML Parsing
 
