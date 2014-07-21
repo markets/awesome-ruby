@@ -506,7 +506,8 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [ruby-prof](https://github.com/ruby-prof/ruby-prof) - A code profiler for MRI rubies
 * [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) - Profiler for your development and production Ruby rack apps
 * [perftools.rb](https://github.com/tmm1/perftools.rb) - gperftools (formerly known as google-perftools) for Ruby code
-* [bullet](https://github.com/flyerhzm/bullet) - help to kill N+1 queries and unused eager loading
+* [Peek](https://github.com/peek/peek) - Visual status bar showing Rails performance
+* [bullet](https://github.com/flyerhzm/bullet) - Help to kill N+1 queries and unused eager loading
 
 ## Third-party APIs
 
@@ -526,7 +527,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [hipchat-rb](https://github.com/hipchat/hipchat-rb) - HipChat HTTP API Wrapper in Ruby with Capistrano hooks
 * [flickr](https://github.com/RaVbaker/flickr) - A Ruby interface to the Flickr API
 * [wikipedia](https://github.com/kenpratt/wikipedia-client) - Ruby client for the Wikipedia API.
-* [Dropbox](https://github.com/futuresimple/dropbox-api) -  Dropbox API Ruby Client.
+* [Dropbox](https://github.com/futuresimple/dropbox-api) - Dropbox API Ruby Client.
 * [itunes_store_transporter](https://github.com/sshaw/itunes_store_transporter) - Ruby wrapper around Apple's iTMSTransporter program
 
 ## CMS
@@ -545,7 +546,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Jekyll](http://jekyllrb.com) - Transform your plain text into static websites and blogs
 * [Middleman](http://middlemanapp.com) - A static site generator using all the shortcuts and tools in modern web development
-* [Nanoc](http://nanoc.ws/) - A static site generator, fit for building anything from a small personal blog to a large corporate web site.
+* [Nanoc](http://nanoc.ws/) - A static site generator, fit for building anything from a small personal blog to a large corporate web site
 
 ## SEO
 
@@ -567,6 +568,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [ROR Ecommerce](http://www.ror-e.com)
 * [stripe-ruby](https://github.com/stripe/stripe-ruby) - Stripe Ruby bindings
 * [Paypal Merchant SDK](https://github.com/paypal/merchant-sdk-ruby) - Official Paypal Merchant SDK for Ruby
+* [Shoppe](http://tryshoppe.com) - A Rails-based e-commerce platform which allows you to easily introduce a catalogue-based store into your Rails 4 applications
 
 ## Analytics
 
