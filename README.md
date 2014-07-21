@@ -395,6 +395,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Websocket-Rails](https://github.com/websocket-rails/websocket-rails) - Creates a built in WebSocket server inside a Rails application with ease.  Also support streaming HTTP
 * [Sync](https://github.com/chrismccord/sync) - Real-time Rails Partials
 * [Firehose](https://github.com/polleverywhere/firehose) - Build realtime Ruby web applications
+* [Rails Realtime](https://github.com/liamks/rails-realtime) - Adding Real-Time To Your RESTful Rails App.
 
 ## HTML/XML Parsing
 
