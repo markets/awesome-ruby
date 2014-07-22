@@ -1,58 +1,13 @@
-(function($) {
+$(document).ready(function(){
   var $window = $(window);
   var $document = $(document);
 
- /*
-  * Scrollspy.
-  */
+  $document.on('flatdoc:ready', function() {
+    $(".content h1 img").remove();
+    $(".content ul:first").remove();
 
- $document.on('flatdoc:ready', function() {
-    // $("h2, h3").scrollagent(function(cid, pid, currentElement, previousElement) {
-    //   if (pid) {
-    //    $("[href='#"+pid+"']").removeClass('active');
-    //   }
-    //   if (cid) {
-    //    $("[href='#"+cid+"']").addClass('active');
-    //   }
-    // });
+    $('.menu a').anchorjump();
   });
-
- /*
-  * Anchor jump links.
-  */
-
- $document.on('flatdoc:ready', function() {
-   $('.menu a').anchorjump();
- });
-
- /*
-  * Title card.
-  */
-
-  $(function() {
-    var $card = $('.title-card');
-    if (!$card.length) return;
-
-    var $header = $('.header');
-    var headerHeight = $header.length ? $header.outerHeight() : 0;
-
-    $window
-      .on('resize.title-card', function() {
-        var windowWidth = $window.width();
-
-        if (windowWidth < 480) {
-          $card.css('height', '');
-        } else {
-          var height = $window.height();
-          $card.css('height', height - headerHeight);
-        }
-      })
-      .trigger('resize.title-card');
-  });
-
-  /*
-   * Sidebar stick.
-   */
 
   $(function() {
     var $sidebar = $('.menubar');
@@ -70,116 +25,10 @@
       })
       .trigger('resize.sidestick');
   });
+});
 
-})(jQuery);
-/*! jQuery.scrollagent (c) 2012, Rico Sta. Cruz. MIT License.
- *  https://github.com/rstacruz/jquery-stuff/tree/master/scrollagent */
-
-// Call $(...).scrollagent() with a callback function.
-//
-// The callback will be called everytime the focus changes.
-//
-// Example:
-//
-//      $("h2").scrollagent(function(cid, pid, currentElement, previousElement) {
-//        if (pid) {
-//          $("[href='#"+pid+"']").removeClass('active');
-//        }
-//        if (cid) {
-//          $("[href='#"+cid+"']").addClass('active');
-//        }
-//      });
-
-(function($) {
-
-  $.fn.scrollagent = function(options, callback) {
-    // Account for $.scrollspy(function)
-    if (typeof callback === 'undefined') {
-      callback = options;
-      options = {};
-    }
-
-    var $sections = $(this);
-    var $parent = options.parent || $(window);
-
-    // Find the top offsets of each section
-    var offsets = [];
-    $sections.each(function(i) {
-      var offset = $(this).attr('data-anchor-offset') ?
-        parseInt($(this).attr('data-anchor-offset'), 10) :
-        (options.offset || 0);
-
-      offsets.push({
-        top: $(this).offset().top + offset,
-        id: $(this).attr('id'),
-        index: i,
-        el: this
-      });
-    });
-
-    // State
-    var current = null;
-    var height = null;
-    var range = null;
-
-    // Save the height. Do this only whenever the window is resized so we don't
-    // recalculate often.
-    $(window).on('resize', function() {
-      height = $parent.height();
-      range = $(document).height();
-    });
-
-    // Find the current active section every scroll tick.
-    $parent.on('scroll', function() {
-      var y = $parent.scrollTop();
-      y += height * (0.3 + 0.7 * Math.pow(y/range, 2));
-
-      var latest = null;
-
-      for (var i in offsets) {
-        if (offsets.hasOwnProperty(i)) {
-          var offset = offsets[i];
-          if (offset.top < y) latest = offset;
-        }
-      }
-
-      if (latest && (!current || (latest.index !== current.index))) {
-        callback.call($sections,
-          latest ? latest.id : null,
-          current ? current.id : null,
-          latest ? latest.el : null,
-          current ? current.el : null);
-        current = latest;
-      }
-    });
-
-    $(window).trigger('resize');
-    $parent.trigger('scroll');
-
-    return this;
-  };
-
-})(jQuery);
-/*! Anchorjump (c) 2012, Rico Sta. Cruz. MIT License.
- *   http://github.com/rstacruz/jquery-stuff/tree/master/anchorjump */
-
-// Makes anchor jumps happen with smooth scrolling.
-//
-//    $("#menu a").anchorjump();
-//    $("#menu a").anchorjump({ offset: -30 });
-//
-//    // Via delegate:
-//    $("#menu").anchorjump({ for: 'a', offset: -30 });
-//
-// You may specify a parent. This makes it scroll down to the parent.
-// Great for tabbed views.
-//
-//     $('#menu a').anchorjump({ parent: '.anchor' });
-//
-// You can jump to a given area.
-//
-//     $.anchorjump('#bank-deposit', options);
-
+// Anchorjump (c) 2012, Rico Sta. Cruz. MIT License.
+// http://github.com/rstacruz/jquery-stuff/tree/master/anchorjump
 (function($) {
   var defaults = {
     'speed': 500,
