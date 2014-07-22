@@ -521,6 +521,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [t](https://github.com/sferik/t) - A command-line power tool for Twitter
 * [tweetstream](https://github.com/tweetstream/tweetstream) - A simple library for consuming Twitter's Streaming API
 * [ruby-gmail](https://github.com/dcparker/ruby-gmail) - A Rubyesque interface to Gmail
+* [gmail](https://github.com/nu7hatch/gmail) - A Rubyesque interface to Gmail, with all the tools you'll need.
 * [instagram-ruby-gem](https://github.com/Instagram/instagram-ruby-gem) - The official gem for the Instagram REST and Search APIs
 * [soundcloud-ruby](https://github.com/soundcloud/soundcloud-ruby) - Official SoundCloud API Wrapper for Ruby
 * [linkedin](https://github.com/hexgnu/linkedin) - Provides an easy-to-use wrapper for LinkedIn's REST APIs
