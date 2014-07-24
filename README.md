@@ -664,6 +664,23 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [JsonCompare](https://github.com/a2design-company/json-compare) - Returns the difference between two JSON files
 * [pygments.rb](https://github.com/tmm1/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter
 
+## Software/Services
+
+* [GitHub](https://github.com) - Powerful collaboration, code review, and code management for open source and private projects.
+* [GitLab](https://about.gitlab.com) -  Open source software to collaborate on code.
+* [Gitlab CI](https://about.gitlab.com/gitlab-ci/) - Integrate with your GitLab to run tests for your projects.
+* [Travis CI.org](https://travis-ci.org) - A distributed build system for the open source community.
+* [Travis CI.com](https://travis-ci.com) - Take care of running your tests and deploying your private apps.
+* [PullReview](https://pullreview.com) - Automated code review for Ruby and Rails - from style to security.
+* [HoundCI](https://houndci.com) - Review your Ruby code for style guide violations.
+* [Hakiri](https://hakiri.io) - Ship Secure Ruby Apps.
+* [CodeClimate](https://codeclimate.com) - Quality & security analysis for Ruby on Rails and Javascript.
+* [Gemnasium](https://gemnasium.com) - Monitor your project dependencies and alert you about updates and security vulnerabilities.
+* [AppSignal](https://appsignal.com) - Better monitoring for your Rails applications.
+* [Honeybadger](https://www.honeybadger.io/) - Exception, uptime, and performance monitoring for Ruby. 
+* [Errbit](http://errbit.github.io/errbit/) - The open source, self-hosted error catcher.
+* [Inch CI](http://inch-ci.org/) - Documentation badges for Ruby projects.
+
 # Resources
 
 * [GitHub Explore](https://github.com/explore)
