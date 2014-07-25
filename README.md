@@ -155,6 +155,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Camping](http://camping.io)
 * [Cuba](http://cuba.is)
 * [Pakyow](http://pakyow.com/)
+* [Ramaze](http://ramaze.net/)
 
 ## Web Servers
 
