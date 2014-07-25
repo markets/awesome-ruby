@@ -6,7 +6,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-pytho
 
 Contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/markets/awesome-ruby/blob/master/CONTRIBUTING.md) first.
 
-Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/contributors), you're awesome and wouldn't be possible without you! Thse goal is to build a categorized community-driven collection of very well-known resources.
+Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
 * [Awesome Ruby](#awesome-ruby)
   * [Coding Style Guides](#coding-style-guides)
