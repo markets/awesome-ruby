@@ -9,7 +9,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
 * [Awesome Ruby](#awesome-ruby)
-  * [Style Guide](#style-guide)
+  * [Coding Style Guides](#coding-style-guides)
   * [Package Management](#package-management)
   * [Environment Management](#environment-management)
   * [Documentation](#documentation)
@@ -84,7 +84,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Resources](#resources)
 * [Other Awesome Lists](#other-awesome-lists)
 
-## Style Guide
+## Coding Style Guides
 
 * [Ruby style guide](https://github.com/bbatsov/ruby-style-guide) - Community-driven Ruby coding style
 * [Rails style guide](https://github.com/bbatsov/rails-style-guide) - Community-driven Rails best practices and style for Rails 3 and 4
@@ -155,6 +155,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Camping](http://camping.io)
 * [Cuba](http://cuba.is)
 * [Pakyow](http://pakyow.com/)
+* [Ramaze](http://ramaze.net/)
 
 ## Web Servers
 
@@ -429,6 +430,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [MetaInspector](https://github.com/jaimeiniesta/metainspector) - Ruby gem for web scraping purposes. It scrapes a given URL, and returns you its title, meta description, meta keywords, an array with all the links, all the images in it, etc.
 * [LinkThumbnailer](https://github.com/gottfrois/link_thumbnailer) - Ruby gem that generates thumbnail images and videos from a given URL. Much like popular social website with link preview.
 * [anemone](https://github.com/chriskite/anemone) - Ruby library and CLI for crawling websites.
+* [Wombat](https://github.com/felipecsl/wombat) - Web scraper with an elegant DSL that parses structured data from web pages
 
 ## Processes and Threads
 
@@ -510,7 +512,8 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [ruby-prof](https://github.com/ruby-prof/ruby-prof) - A code profiler for MRI rubies
 * [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) - Profiler for your development and production Ruby rack apps
 * [perftools.rb](https://github.com/tmm1/perftools.rb) - gperftools (formerly known as google-perftools) for Ruby code
-* [bullet](https://github.com/flyerhzm/bullet) - help to kill N+1 queries and unused eager loading
+* [Peek](https://github.com/peek/peek) - Visual status bar showing Rails performance
+* [bullet](https://github.com/flyerhzm/bullet) - Help to kill N+1 queries and unused eager loading
 
 ## Third-party APIs
 
@@ -521,6 +524,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [t](https://github.com/sferik/t) - A command-line power tool for Twitter
 * [tweetstream](https://github.com/tweetstream/tweetstream) - A simple library for consuming Twitter's Streaming API
 * [ruby-gmail](https://github.com/dcparker/ruby-gmail) - A Rubyesque interface to Gmail
+* [gmail](https://github.com/nu7hatch/gmail) - A Rubyesque interface to Gmail, with all the tools you'll need.
 * [instagram-ruby-gem](https://github.com/Instagram/instagram-ruby-gem) - The official gem for the Instagram REST and Search APIs
 * [soundcloud-ruby](https://github.com/soundcloud/soundcloud-ruby) - Official SoundCloud API Wrapper for Ruby
 * [linkedin](https://github.com/hexgnu/linkedin) - Provides an easy-to-use wrapper for LinkedIn's REST APIs
@@ -530,8 +534,9 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [hipchat-rb](https://github.com/hipchat/hipchat-rb) - HipChat HTTP API Wrapper in Ruby with Capistrano hooks
 * [flickr](https://github.com/RaVbaker/flickr) - A Ruby interface to the Flickr API
 * [wikipedia](https://github.com/kenpratt/wikipedia-client) - Ruby client for the Wikipedia API.
-* [Dropbox](https://github.com/futuresimple/dropbox-api) -  Dropbox API Ruby Client.
+* [Dropbox](https://github.com/futuresimple/dropbox-api) - Dropbox API Ruby Client.
 * [itunes_store_transporter](https://github.com/sshaw/itunes_store_transporter) - Ruby wrapper around Apple's iTMSTransporter program
+* [Pusher](https://github.com/pusher/pusher-gem) - Ruby server library for the Pusher API.
 
 ## CMS
 * [Alchemy CMS](http://alchemy-cms.com)
@@ -549,7 +554,8 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Jekyll](http://jekyllrb.com) - Transform your plain text into static websites and blogs
 * [Middleman](http://middlemanapp.com) - A static site generator using all the shortcuts and tools in modern web development
-* [Nanoc](http://nanoc.ws/) - A static site generator, fit for building anything from a small personal blog to a large corporate web site.
+* [Nanoc](http://nanoc.ws/) - A static site generator, fit for building anything from a small personal blog to a large corporate web site
+* [High Voltage](https://github.com/thoughtbot/high_voltage) - Easily include static pages in your Rails app
 
 ## SEO
 
@@ -571,6 +577,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [ROR Ecommerce](http://www.ror-e.com)
 * [stripe-ruby](https://github.com/stripe/stripe-ruby) - Stripe Ruby bindings
 * [Paypal Merchant SDK](https://github.com/paypal/merchant-sdk-ruby) - Official Paypal Merchant SDK for Ruby
+* [Shoppe](http://tryshoppe.com) - A Rails-based e-commerce platform which allows you to easily introduce a catalogue-based store into your Rails 4 applications
 
 ## Analytics
 
@@ -640,6 +647,8 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Interactor](https://github.com/collectiveidea/interactor) - Interactor provides a common interface for performing complex interactions in a single request
 * [Light Service](https://github.com/adomokos/light-service) - Series of Actions with an emphasis on simplicity.
 * [Mutations](https://github.com/cypriss/mutations) - Compose your business logic into commands that sanitize and validate input
+* [Cells](https://github.com/apotonick/cells) - View Components for Rails
+* [Reform](https://github.com/apotonick/reform) - Form objects decoupled from models.
 
 ## Misc
 
@@ -655,6 +664,24 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [AASM](https://github.com/aasm/aasm) - A library for adding finite state machines to Ruby classes
 * [Gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 * [JsonCompare](https://github.com/a2design-company/json-compare) - Returns the difference between two JSON files
+* [pygments.rb](https://github.com/tmm1/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter
+
+## Software/Services
+
+* [GitHub](https://github.com) - Powerful collaboration, code review, and code management for open source and private projects.
+* [GitLab](https://about.gitlab.com) -  Open source software to collaborate on code.
+* [Gitlab CI](https://about.gitlab.com/gitlab-ci/) - Integrate with your GitLab to run tests for your projects.
+* [Travis CI.org](https://travis-ci.org) - A distributed build system for the open source community.
+* [Travis CI.com](https://travis-ci.com) - Take care of running your tests and deploying your private apps.
+* [PullReview](https://pullreview.com) - Automated code review for Ruby and Rails - from style to security.
+* [HoundCI](https://houndci.com) - Review your Ruby code for style guide violations.
+* [Hakiri](https://hakiri.io) - Ship Secure Ruby Apps.
+* [CodeClimate](https://codeclimate.com) - Quality & security analysis for Ruby on Rails and Javascript.
+* [Gemnasium](https://gemnasium.com) - Monitor your project dependencies and alert you about updates and security vulnerabilities.
+* [AppSignal](https://appsignal.com) - Better monitoring for your Rails applications.
+* [Honeybadger](https://www.honeybadger.io/) - Exception, uptime, and performance monitoring for Ruby. 
+* [Errbit](http://errbit.github.io/errbit/) - The open source, self-hosted error catcher.
+* [Inch CI](http://inch-ci.org/) - Documentation badges for Ruby projects.
 
 # Resources
 
