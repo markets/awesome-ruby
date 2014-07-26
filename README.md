@@ -81,6 +81,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Machine Learning](#machine-learning)
   * [Abstraction](#abstraction)
   * [Misc](#misc)
+  * [Lorem-Ipsum](#lorem-ipsum)
 * [Resources](#resources)
 * [Other Awesome Lists](#other-awesome-lists)
 
@@ -664,6 +665,12 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 * [JsonCompare](https://github.com/a2design-company/json-compare) - Returns the difference between two JSON files
 * [pygments.rb](https://github.com/tmm1/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter
+
+## Lorem-Ipsum
+
+* [Lorem Ipsum Amet](https://github.com/yagooar/lorem_ipsum_amet) - Blind text generator with tons of configuration options
+* [BetterLorem](https://github.com/caedmonjudd/betterlorem) - A better Lorem Ipsum generator for Ruby
+* [Blasphemy](https://github.com/tomash/blasphemy) - A kind of… different Lorem Ipsum generator.
 
 ## Software/Services
 
