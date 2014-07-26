@@ -137,6 +137,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [faker](https://github.com/stympy/faker) - A library for generating fake data such as names, addresses, and phone numbers.
   * [Fabrication](http://fabricationgem.org/) - A simple and powerful object generation library
   * [Machinist](https://github.com/notahat/machinist) - Fixtures aren't fun. Machinist is
+  * [Forgery](https://github.com/sevenwire/forgery) - Easy and customizable generation of forged data.
 * Mock
   * [WebMock](https://github.com/bblimke/webmock) - Library for stubbing and setting expectations on HTTP requests
 * Extra
