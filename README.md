@@ -139,6 +139,9 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Machinist](https://github.com/notahat/machinist) - Fixtures aren't fun. Machinist is
 * Mock
   * [WebMock](https://github.com/bblimke/webmock) - Library for stubbing and setting expectations on HTTP requests
+* WebDrivers
+  * [Watir](https://github.com/watir/watir/) - Web application testing in Ruby
+  * [Selenium WebDriver](http://selenium.googlecode.com/git/docs/api/rb/index.html) - This gem provides Ruby bindings for WebDriver.
 * Extra
   * [Appraisal](https://github.com/thoughtbot/appraisal) - Appraisal integrates with bundler and rake to test your library against different versions of dependencies
   * [timecop](https://github.com/travisjeffery/timecop) - Provides "time travel" and "time freezing" capabilities, making it dead simple to test time-dependent code
