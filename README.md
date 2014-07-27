@@ -81,6 +81,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Machine Learning](#machine-learning)
   * [Abstraction](#abstraction)
   * [Misc](#misc)
+* [Services and Apps](#services-and-apps)
 * [Resources](#resources)
 * [Other Awesome Lists](#other-awesome-lists)
 
@@ -670,7 +671,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [JsonCompare](https://github.com/a2design-company/json-compare) - Returns the difference between two JSON files
 * [pygments.rb](https://github.com/tmm1/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter
 
-## Software/Services
+# Services and Apps
 
 * [GitHub](https://github.com) - Powerful collaboration, code review, and code management for open source and private projects.
 * [GitLab](https://about.gitlab.com) -  Open source software to collaborate on code.
@@ -683,8 +684,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [CodeClimate](https://codeclimate.com) - Quality & security analysis for Ruby on Rails and Javascript.
 * [Gemnasium](https://gemnasium.com) - Monitor your project dependencies and alert you about updates and security vulnerabilities.
 * [AppSignal](https://appsignal.com) - Better monitoring for your Rails applications.
-* [Honeybadger](https://www.honeybadger.io/) - Exception, uptime, and performance monitoring for Ruby. 
-* [Errbit](http://errbit.github.io/errbit/) - The open source, self-hosted error catcher.
+* [Honeybadger](https://www.honeybadger.io/) - Exception, uptime, and performance monitoring for Ruby.
 * [Inch CI](http://inch-ci.org/) - Documentation badges for Ruby projects.
 
 # Resources
