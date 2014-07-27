@@ -549,6 +549,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Refinery CMS](http://refinerycms.com)
 * [Radiant](http://radiantcms.org)
 * [LocomotiveCMS](http://www.locomotivecms.com)
+* [Publify](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails
 
 ## Admin Interface
 
