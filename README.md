@@ -462,6 +462,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Configus](https://github.com/kaize/configus) - Helps you easily manage environment specific settings
 * [dotenv](https://github.com/bkeepers/dotenv) - Loads environment variables from `.env`
 * [Econfig](https://github.com/elabs/econfig) - Flexible configuration for Rails applications
+* [Figaro](https://github.com/laserlemon/figaro) - Simple, Heroku-friendly Rails app configuration using `ENV` and a single YAML file
 * [Global](https://github.com/railsware/global) - Provides accessor methods for your configuration data
 * [RailsConfig](https://github.com/railsconfig/rails_config) - Multi-environment yaml settings for Rails3
 
