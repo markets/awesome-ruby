@@ -295,9 +295,10 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Tilt](https://github.com/rtomayko/tilt) - Generic interface to multiple Ruby template engines
 * [Haml](https://github.com/haml/haml) - HTML Abstraction Markup Language
-* [Slim](https://github.com/slim-template/slim)
-* [Liquid](https://github.com/Shopify/liquid)
-* [Curly](https://github.com/zendesk/curly)
+* [Slim](https://github.com/slim-template/slim) - A template language whose goal is reduce the syntax to the essential parts without becoming cryptic
+* [Liquid](https://github.com/Shopify/liquid) - Safe, customer facing template language for flexible web apps
+* [Mustache](https://github.com/mustache/mustache) - Logic-less Ruby templates
+* [Curly](https://github.com/zendesk/curly) - A template language that completely separates structure and logic
 
 ## Assets
 
