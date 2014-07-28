@@ -153,14 +153,14 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Web Frameworks
 
-* [Ruby on Rails](http://rubyonrails.org)
-* [Sinatra](http://www.sinatrarb.com)
-* [Padrino](http://www.padrinorb.com)
-* [Lotus](http://lotusrb.org)
-* [Camping](http://camping.io)
-* [Cuba](http://cuba.is)
-* [Pakyow](http://pakyow.com/)
-* [Ramaze](http://ramaze.net/)
+* [Ruby on Rails](http://rubyonrails.org) - A web-application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern
+* [Sinatra](http://www.sinatrarb.com) - Classy web-development dressed in a DSL
+* [Padrino](http://www.padrinorb.com) - A full-stack ruby framework built upon Sinatra
+* [Lotus](http://lotusrb.org) - It aims to bring back Object Oriented Programming to web development, leveraging on a stable API, a minimal DSL, and plain objects.
+* [Camping](http://camping.io) - A web microframework which consistently stays at less than 4kB of code
+* [Cuba](http://cuba.is) - A microframework for web development
+* [Pakyow](http://pakyow.com/) - A framework for building modern web-apps in Ruby. It helps you build working software faster with a development process that remains friendly to both designers and developers
+* [Ramaze](http://ramaze.net/) - A simple, light and modular open-source web application framework written in Ruby
 
 ## Web Servers
 
@@ -222,7 +222,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## API Builder
 
 * [Grape](http://intridea.github.io/grape) - An opinionated micro-framework for creating REST-like APIs in Ruby
-* [Rails::API](https://github.com/rails-api/rails-api)
+* [Rails::API](https://github.com/rails-api/rails-api) - Rails for API only applications
 * [ActiveModel::Serializers](https://github.com/rails-api/active_model_serializers) - JSON serialization of objects
 * [Crêpe](https://github.com/crepe/crepe) - The thin API stack
 * [jbuilder](https://github.com/rails/jbuilder) - Create JSON structures via a Builder-style DSL
@@ -244,7 +244,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Devise](https://github.com/plataformatec/devise) - A flexible authentication solution for Rails based on Warden
 * [Authlogic](https://github.com/binarylogic/authlogic)
 * [OmniAuth](https://github.com/intridea/omniauth) - A library that standardizes multi-provider authentication utilizing Rack middleware
-* [Sorcery](https://github.com/NoamB/sorcery)
+* [Sorcery](https://github.com/NoamB/sorcery) - Magical Authentication for Rails 3 and 4
 * [Clearance](https://github.com/thoughtbot/clearance) - Small and simple email & password based authenticaton for Rails
 
 ## OAuth
@@ -344,8 +344,8 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Geolocation
 
-* [Geocoder](https://github.com/alexreisner/geocoder)
-* [Geokit](https://github.com/geokit/geokit)
+* [Geocoder](https://github.com/alexreisner/geocoder) - A complete geocoding solution for Ruby. With Rails it adds geocoding (by street or IP address), reverse geocoding (find street address based on given coordinates), and distance queries
+* [Geokit](https://github.com/geokit/geokit) - Geokit gem provides geocoding and distance/heading calculations
 
 ## Money
 
@@ -440,7 +440,8 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Processes and Threads
 
-* [Parallel](https://github.com/grosser/parallel)
+* [Parallel](https://github.com/grosser/parallel) - Run any code in parallel Processes (> use all CPUs) or Threads (> speedup blocking operations).
+Best suited for map-reduce or e.g. parallel downloads/uploads
 * [posix-spawn](https://github.com/rtomayko/posix-spawn) - Fast Process::spawn for Rubys >= 1.8.7 based on the posix_spawn() system interfaces
 * [childprocess](https://github.com/jarib/childprocess) - Cross-platform ruby library for managing child processes.
 * [forkoff](https://github.com/ahoward/forkoff) - brain-dead simple parallel processing for ruby
@@ -546,16 +547,16 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Pusher](https://github.com/pusher/pusher-gem) - Ruby server library for the Pusher API.
 
 ## CMS
-* [Alchemy CMS](http://alchemy-cms.com)
-* [Refinery CMS](http://refinerycms.com)
-* [Radiant](http://radiantcms.org)
-* [LocomotiveCMS](http://www.locomotivecms.com)
+* [Alchemy CMS](http://alchemy-cms.com) - A powerful, userfriendly and flexible Open Source Rails CMS
+* [Refinery CMS](http://refinerycms.com) - An open source Ruby on Rails content management system for Rails 3 and 4
+* [Radiant](http://radiantcms.org) - A no-fluff, open source content management system designed for small teams
+* [LocomotiveCMS](http://www.locomotivecms.com) - A simple but powerful CMS based on Liquid templates and Mongodb database
 * [Publify](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails
 
 ## Admin Interface
 
 * [ActiveAdmin](http://activeadmin.info) - a Ruby on Rails framework for creating elegant backends for website administration
-* [RailsAdmin](https://github.com/sferik/rails_admin)
+* [RailsAdmin](https://github.com/sferik/rails_admin) - A Rails engine that provides an easy-to-use interface for managing your data
 * [bhf](http://antpaw.github.io/bhf/) - A simple to use Rails-Engine-Gem that offers an admin interface for trusted user
 
 ## Static Site Generation
@@ -575,7 +576,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [diaspora*](https://github.com/diaspora/diaspora) - A privacy aware, distributed, open source social network
 * [Discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple
-* [Forem](https://github.com/radar/forem)
+* [Forem](https://github.com/radar/forem) - Rails 3 and Rails 4 forum engine
 * [Campo](https://github.com/chloerei/campo) - Campo is a lightweight forum application, base on Ruby on Rails.
 
 ## E-Commerce and Payments
@@ -589,7 +590,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Analytics
 
-* [Gabba](https://github.com/hybridgroup/gabba)
+* [Gabba](https://github.com/hybridgroup/gabba) - Simple way to send server-side notifications to Google Analytics
 * [Ahoy](https://github.com/ankane/ahoy) - A solid foundation to track visits and events in Ruby, JavaScript, and native apps
 * [Staccato](https://github.com/tpitale/staccato) - Track analytics into the official Google Analytics Collection API
 * [Legato](https://github.com/tpitale/legato) - Model analytics reports and queries against the official Google Analytics Reporting API
