@@ -495,6 +495,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads
 * [rails_best_practices](https://github.com/railsbp/rails_best_practices) - A code metric tool for rails projects
 * [Flay](https://github.com/seattlerb/flay) - Flay analyzes code for structural similarities. Differences in literal values, variable, class, method names, whitespace, programming style, braces vs do/end, etc are all ignored. Making this totally rad.
 * [Flog](https://github.com/seattlerb/flog) - Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
+* [Rubycritic](https://github.com/whitesmith/rubycritic) - A Ruby code quality reporter.
 * [Brakeman](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications.
 * [fukuzatsu](https://gitlab.com/coraline/fukuzatsu/tree/master) - Complexity analysis tool with a rich web front-end.
 
