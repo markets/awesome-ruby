@@ -497,6 +497,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads
 * [Flog](https://github.com/seattlerb/flog) - Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
 * [Brakeman](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications.
 * [fukuzatsu](https://gitlab.com/coraline/fukuzatsu/tree/master) - Complexity analysis tool with a rich web front-end.
+* [Reek](https://github.com/troessner/reek) - Code smell detector for Ruby
 
 ## Dashboards
 
