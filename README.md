@@ -110,6 +110,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [chruby](https://github.com/postmodern/chruby) - Change your current Ruby. No shims, no crazy options or features, ~90 LOC
 * [chgems](https://github.com/postmodern/chgems) - Chroot for RubyGems
 * [ruby-install](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, Rubinius, MagLev or MRuby
+* [fry](https://github.com/terlar/fry) - Simple ruby version manager for fish
 
 ## Documentation
 
