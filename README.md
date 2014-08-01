@@ -267,7 +267,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Cabin](https://github.com/jordansissel/ruby-cabin) - Structured+contextual logging experiments in Ruby.
 * [Yell](https://github.com/rudionrails/yell) - Your Extensible Logging Library
 * [MongoDB Logger](https://github.com/le0pard/mongodb_logger) - MongoDB logger for Rails
-* [Fluentd](https://github.com/fluent/fluentd) - Fluentd data collector.
+* [Fluentd](https://github.com/fluent/fluentd) - Fluentd collects events from various data sources and writes them to files, database or other types of storages
 * [HttpLog](https://github.com/trusche/httplog) - Log outgoing HTTP requests.
 * [Scrolls](https://github.com/asenchi/scrolls) - Simple logging
 
