@@ -677,6 +677,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads
 * [Gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 * [JsonCompare](https://github.com/a2design-company/json-compare) - Returns the difference between two JSON files
 * [pygments.rb](https://github.com/tmm1/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter
+* [Ruby Operators](http://ruby-operators.herokuapp.com/) - A webpage showing awesome names for different Ruby operators.
 
 # Services and Apps
 
