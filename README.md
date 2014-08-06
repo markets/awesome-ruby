@@ -239,6 +239,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Commander](https://github.com/visionmedia/commander) - The complete solution for Ruby command-line executables
 * [Slop](https://github.com/leejarvis/slop) - Simple Lightweight Option Parsing
 * [Main](https://github.com/ahoward/main) - A class factory and DSL for generating command line programs real quick
+* [GLI](https://github.com/davetron5000/gli) - Git-Like Interface Command Line Parser
 
 ## Authentication
 
