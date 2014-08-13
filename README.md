@@ -142,6 +142,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Forgery](https://github.com/sevenwire/forgery) - Easy and customizable generation of forged data.
 * Mock
   * [WebMock](https://github.com/bblimke/webmock) - Library for stubbing and setting expectations on HTTP requests
+  * [ActiveMocker](https://github.com/zeisler/active_mocker) - Generate mocks from ActiveRecord models for unit tests that run fast because they don’t need to load Rails or a database.
 * WebDrivers
   * [Watir](https://github.com/watir/watir/) - Web application testing in Ruby
   * [Selenium WebDriver](http://selenium.googlecode.com/git/docs/api/rb/index.html) - This gem provides Ruby bindings for WebDriver.
