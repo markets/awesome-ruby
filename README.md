@@ -123,6 +123,9 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * Frameworks
   * [RSpec](https://github.com/rspec/rspec) - Behaviour Driven Development for Ruby
+    * Formatters
+      * [Fuubar](https://github.com/thekompanee/fuubar) - The instafailing RSpec progress bar formatter
+      * [Nyan Cat](https://github.com/mattsears/nyan-cat-formatter) - Nyan Cat inspired RSpec formatter!
   * [minitest](https://github.com/seattlerb/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking
   * [Test::Unit](http://test-unit.github.io) - Test::Unit is a xUnit family unit testing framework for Ruby
   * [Cucumber](https://github.com/cucumber/cucumber) - BDD that talks to domain experts first and code second
