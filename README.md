@@ -110,6 +110,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [chruby](https://github.com/postmodern/chruby) - Change your current Ruby. No shims, no crazy options or features, ~90 LOC
 * [chgems](https://github.com/postmodern/chgems) - Chroot for RubyGems
 * [ruby-install](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, Rubinius, MagLev or MRuby
+* [gem_home](https://github.com/postmodern/gem_home) - A tool for changing your $GEM_HOME
 * [fry](https://github.com/terlar/fry) - Simple ruby version manager for fish
 
 ## Documentation
@@ -372,7 +373,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Email
 
 * [Mail](https://github.com/mikel/mail) - A Really Ruby Mail Library
-* [Pony](https://github.com/benprew/pony)- The express way to send mail from Ruby
+* [Pony](https://github.com/benprew/pony) - The express way to send mail from Ruby
 * [Mailman](https://github.com/titanous/mailman) - An incoming mail processing microframework in Ruby
 * [Incoming](https://github.com/honeybadger-io/incoming) - Incoming! helps you receive email in your Rack apps
 * [MailCatcher](http://mailcatcher.me) - Catches mail and serves it through a dream
@@ -464,7 +465,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads
 
 ## Configuration
 
-* [Configatron](https://github.com/markbates/configatron) -  Simple and feature rich configuration system for Ruby apps
+* [Configatron](https://github.com/markbates/configatron) - Simple and feature rich configuration system for Ruby apps
 * [Configus](https://github.com/kaize/configus) - Helps you easily manage environment specific settings
 * [dotenv](https://github.com/bkeepers/dotenv) - Loads environment variables from `.env`
 * [Econfig](https://github.com/elabs/econfig) - Flexible configuration for Rails applications
