@@ -143,6 +143,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * Fake Data
   * [factory_girl](https://github.com/thoughtbot/factory_girl) - A library for setting up Ruby objects as test data
   * [faker](https://github.com/stympy/faker) - A library for generating fake data such as names, addresses, and phone numbers.
+  * [ffaker](https://github.com/stympy/ffaker) - A faster Faker, generates dummy data, rewrite of faker.
   * [Fabrication](http://fabricationgem.org/) - A simple and powerful object generation library
   * [Machinist](https://github.com/notahat/machinist) - Fixtures aren't fun. Machinist is
   * [Forgery](https://github.com/sevenwire/forgery) - Easy and customizable generation of forged data.
