@@ -143,6 +143,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * Fake Data
   * [factory_girl](https://github.com/thoughtbot/factory_girl) - A library for setting up Ruby objects as test data
   * [faker](https://github.com/stympy/faker) - A library for generating fake data such as names, addresses, and phone numbers.
+  * [ffaker](https://github.com/EmmanuelOga/ffaker) - A faster Faker, generates dummy data, rewrite of faker.
   * [Fabrication](http://fabricationgem.org/) - A simple and powerful object generation library
   * [Machinist](https://github.com/notahat/machinist) - Fixtures aren't fun. Machinist is
   * [Forgery](https://github.com/sevenwire/forgery) - Easy and customizable generation of forged data.
@@ -400,6 +401,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [MiniMagick](https://github.com/minimagick/minimagick) - A ruby wrapper for ImageMagick or GraphicsMagick command line
 * [RMagick](https://github.com/rmagick/rmagick) - RMagick is an interface between Ruby and ImageMagick
+* [Skeptick](https://github.com/maxim/skeptick) - Skeptick is an all-purpose DSL for building and running ImageMagick commands.
 * [PSD.rb](https://github.com/layervault/psd.rb) - Parse Photoshop files in Ruby with ease
 
 ## Video
