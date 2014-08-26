@@ -127,6 +127,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * Frameworks
   * [RSpec](https://github.com/rspec/rspec) - Behaviour Driven Development for Ruby
     * Formatters
+	  * [Emoji-RSpec](https://github.com/cupakromer/emoji-rspec) - Custom Emoji Formatters for RSpec
       * [Fuubar](https://github.com/thekompanee/fuubar) - The instafailing RSpec progress bar formatter
       * [Nyan Cat](https://github.com/mattsears/nyan-cat-formatter) - Nyan Cat inspired RSpec formatter!
   * [minitest](https://github.com/seattlerb/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking
@@ -150,6 +151,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * Mock
   * [WebMock](https://github.com/bblimke/webmock) - Library for stubbing and setting expectations on HTTP requests
   * [ActiveMocker](https://github.com/zeisler/active_mocker) - Generate mocks from ActiveRecord models for unit tests that run fast because they don’t need to load Rails or a database.
+  * [TestXml](https://github.com/alovak/test_xml) - TestXml is a small extension for testing XML/HTML.
 * WebDrivers
   * [Watir](https://github.com/watir/watir/) - Web application testing in Ruby
   * [Selenium WebDriver](http://selenium.googlecode.com/git/docs/api/rb/index.html) - This gem provides Ruby bindings for WebDriver.
@@ -194,6 +196,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Database Tools
 
+* [Database Cleaner](https://github.com/DatabaseCleaner/database_cleaner) - Database Cleaner is a set of strategies for cleaning your database in Ruby.
 * [Seed dump](https://github.com/rroblak/seed_dump) - Rails 4 task to dump (parts) of your database to db/seeds.rb.
 * [Seed Fu](https://github.com/mbleigh/seed-fu) - Advanced seed data handling for Rails.
 
@@ -449,6 +452,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [anemone](https://github.com/chriskite/anemone) - Ruby library and CLI for crawling websites.
 * [Wombat](https://github.com/felipecsl/wombat) - Web scraper with an elegant DSL that parses structured data from web pages
 * [Mechanize](https://github.com/sparklemotion/mechanize) - Mechanize is a ruby library that makes automated web interaction easy.
+* [Upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping. Just add CSS! (Or do more.)
 
 ## Processes and Threads
 
@@ -511,6 +515,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads
 * [Brakeman](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications.
 * [fukuzatsu](https://gitlab.com/coraline/fukuzatsu/tree/master) - Complexity analysis tool with a rich web front-end.
 * [Reek](https://github.com/troessner/reek) - Code smell detector for Ruby
+* [MetricFu](https://github.com/metricfu/metric_fu) - A fist full of code metrics
 
 ## Dashboards
 
@@ -524,6 +529,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads
 * [time_diff](https://github.com/abhidsm/time_diff) - Calculates the difference between two time
 * [validates_timeliness](https://github.com/adzap/validates_timeliness) - Date and time validation plugin for ActiveModel and Rails
 * [groupdate](https://github.com/ankane/groupdate) - The simplest way to group temporal data in ActiveRecord, arrays and hashes
+* [yymmdd](https://github.com/sshaw/yymmdd) - Tiny DSL for idiomatic date parsing and formatting
 
 ## Debugging Tools
 
@@ -602,6 +608,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads
 * [stripe-ruby](https://github.com/stripe/stripe-ruby) - Stripe Ruby bindings
 * [Paypal Merchant SDK](https://github.com/paypal/merchant-sdk-ruby) - Official Paypal Merchant SDK for Ruby
 * [Shoppe](http://tryshoppe.com) - A Rails-based e-commerce platform which allows you to easily introduce a catalogue-based store into your Rails 4 applications
+* [Piggybak](https://github.com/piggybak/piggybak) - Modular, Extensible open-source ecommerce solution for Ruby on Rails
 
 ## Analytics
 
