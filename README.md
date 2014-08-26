@@ -515,6 +515,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads
 * [Brakeman](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications.
 * [fukuzatsu](https://gitlab.com/coraline/fukuzatsu/tree/master) - Complexity analysis tool with a rich web front-end.
 * [Reek](https://github.com/troessner/reek) - Code smell detector for Ruby
+* [MetricFu](https://github.com/metricfu/metric_fu) - A fist full of code metrics
 
 ## Dashboards
 
