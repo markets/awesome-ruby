@@ -529,6 +529,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads
 * [time_diff](https://github.com/abhidsm/time_diff) - Calculates the difference between two time
 * [validates_timeliness](https://github.com/adzap/validates_timeliness) - Date and time validation plugin for ActiveModel and Rails
 * [groupdate](https://github.com/ankane/groupdate) - The simplest way to group temporal data in ActiveRecord, arrays and hashes
+* [yymmdd](https://github.com/sshaw/yymmdd) - Tiny DSL for idiomatic date parsing and formatting
 
 ## Debugging Tools
 
