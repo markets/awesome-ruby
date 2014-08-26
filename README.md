@@ -127,6 +127,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * Frameworks
   * [RSpec](https://github.com/rspec/rspec) - Behaviour Driven Development for Ruby
     * Formatters
+	  * [Emoji-RSpec](https://github.com/cupakromer/emoji-rspec) - Custom Emoji Formatters for RSpec
       * [Fuubar](https://github.com/thekompanee/fuubar) - The instafailing RSpec progress bar formatter
       * [Nyan Cat](https://github.com/mattsears/nyan-cat-formatter) - Nyan Cat inspired RSpec formatter!
   * [minitest](https://github.com/seattlerb/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking
