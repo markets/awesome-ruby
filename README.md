@@ -608,6 +608,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads
 * [stripe-ruby](https://github.com/stripe/stripe-ruby) - Stripe Ruby bindings
 * [Paypal Merchant SDK](https://github.com/paypal/merchant-sdk-ruby) - Official Paypal Merchant SDK for Ruby
 * [Shoppe](http://tryshoppe.com) - A Rails-based e-commerce platform which allows you to easily introduce a catalogue-based store into your Rails 4 applications
+* [Piggybak](https://github.com/piggybak/piggybak) - Modular, Extensible open-source ecommerce solution for Ruby on Rails
 
 ## Analytics
 
