@@ -128,7 +128,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Rails Assets](https://rails-assets.org) - Bundler to Bower proxy
   * [Sprockets](https://github.com/sstephenson/sprockets) - Rack-based asset packaging system
 
-## Authentication and OAuht
+## Authentication and OAuth
 
 * [Authlogic](https://github.com/binarylogic/authlogic)
 * [Clearance](https://github.com/thoughtbot/clearance) - Small and simple email & password based authenticaton for Rails
