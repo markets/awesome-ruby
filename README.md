@@ -82,9 +82,9 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Web Frameworks](#web-frameworks)
   * [Web Servers](#web-servers)
   * [WebSocket](#websocket)
-* [Other Awesome Lists](#other-awesome-lists)
-* [Resources](#resources)
 * [Services and Apps](#services-and-apps)
+* [Resources](#resources)
+* [Other Awesome Lists](#other-awesome-lists)
 
 ## Abstraction
 
