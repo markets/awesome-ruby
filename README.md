@@ -114,6 +114,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Crêpe](https://github.com/crepe/crepe) - The thin API stack
 * [Grape](http://intridea.github.io/grape) - An opinionated micro-framework for creating REST-like APIs in Ruby
 * [jbuilder](https://github.com/rails/jbuilder) - Create JSON structures via a Builder-style DSL
+* [JSONAPI::Resources](https://github.com/cerebris/jsonapi-resources) - JSONAPI::Resources, or "JR", provides a framework for developing a server that complies with the JSON API specification.
 * [Jsonite](https://github.com/barrelage/jsonite) - A tiny, HAL-compliant JSON presenter for your APIs
 * [Pliny](https://github.com/interagent/pliny) - Opinionated template Sinatra app for writing excellent APIs in Ruby
 * [rabl](https://github.com/nesquena/rabl) - General ruby templating with json, bson, xml, plist and msgpack support
