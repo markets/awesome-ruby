@@ -248,6 +248,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Database Tools
 
 * [Database Cleaner](https://github.com/DatabaseCleaner/database_cleaner) - Database Cleaner is a set of strategies for cleaning your database in Ruby.
+* [PgHero](https://github.com/ankane/pghero) - Postgres insights made easy
 * [Seed dump](https://github.com/rroblak/seed_dump) - Rails 4 task to dump (parts) of your database to db/seeds.rb.
 * [Seed Fu](https://github.com/mbleigh/seed-fu) - Advanced seed data handling for Rails.
 
