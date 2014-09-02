@@ -73,6 +73,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Search](#search)
   * [SEO](#seo)
   * [Social Networking](#social-networking)
+  * [State Machines](#state-machines)
   * [Static Site Generation](#static-site-generation)
   * [Template Engine](#template-engine)
   * [Testing](#testing)
@@ -322,10 +323,10 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [chruby](https://github.com/postmodern/chruby) - Change your current Ruby. No shims, no crazy options or features, ~90 LOC
 * [fry](https://github.com/terlar/fry) - Simple ruby version manager for fish
 * [gem_home](https://github.com/postmodern/gem_home) - A tool for changing your $GEM_HOME
-* [rbenv](https://github.com/sstephenson/rbenv) — Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production
+* [rbenv](https://github.com/sstephenson/rbenv) - Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production
 * [ruby-build](https://github.com/sstephenson/ruby-build) - Compile and install Ruby
 * [ruby-install](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, Rubinius, MagLev or MRuby
-* [RVM](https://rvm.io) — RVM is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems
+* [RVM](https://rvm.io) - RVM is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems
 
 ## Error Handling
 
@@ -426,9 +427,9 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Markdown Processors
 
-* [kramdown](https://github.com/gettalong/kramdown) — Kramdown is yet-another-markdown-parser but fast, pure Ruby, using a strict syntax definition and supporting several common extensions
-* [Maruku](https://github.com/bhollis/maruku) — A pure-Ruby Markdown-superset interpreter
-* [Redcarpet](https://github.com/vmg/redcarpet) — A fast, safe and extensible Markdown to (X)HTML parser
+* [kramdown](https://github.com/gettalong/kramdown) - Kramdown is yet-another-markdown-parser but fast, pure Ruby, using a strict syntax definition and supporting several common extensions
+* [Maruku](https://github.com/bhollis/maruku) - A pure-Ruby Markdown-superset interpreter
+* [Redcarpet](https://github.com/vmg/redcarpet) - A fast, safe and extensible Markdown to (X)HTML parser
 
 ## Misc
 
@@ -527,10 +528,10 @@ Best suited for map-reduce or e.g. parallel downloads/uploads
 ## Queue
 
 * [active_job](https://github.com/rails/activejob) - Declare job classes that can be run by a variety of queueing backends
-* [Delayed::Job](https://github.com/collectiveidea/delayed_job) — Database backed asynchronous priority queue
-* [Resque](https://github.com/resque/resque) — A Redis-backed Ruby library for creating background jobs
-* [Sidekiq](http://sidekiq.org) — A full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
-* [Sucker Punch](https://github.com/brandonhilkert/sucker_punch) — A single process background processing library using Celluloid. Aimed to be Sidekiq's little brother.
+* [Delayed::Job](https://github.com/collectiveidea/delayed_job) - Database backed asynchronous priority queue
+* [Resque](https://github.com/resque/resque) - A Redis-backed Ruby library for creating background jobs
+* [Sidekiq](http://sidekiq.org) - A full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
+* [Sucker Punch](https://github.com/brandonhilkert/sucker_punch) - A single process background processing library using Celluloid. Aimed to be Sidekiq's little brother.
 
 ## Robotics
 
@@ -575,6 +576,13 @@ Best suited for map-reduce or e.g. parallel downloads/uploads
 * [diaspora*](https://github.com/diaspora/diaspora) - A privacy aware, distributed, open source social network
 * [Discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple
 * [Forem](https://github.com/radar/forem) - Rails 3 and Rails 4 forum engine
+
+## State Machines
+
+* [AASM](https://github.com/aasm/aasm) - State machines for Ruby classes (plain Ruby, Rails Active Record, Mongoid)
+* [simple_states](https://github.com/svenfuchs/simple_states) - A super-slim statemachine-like support library
+* [Statesman](https://github.com/gocardless/statesman) - A statesmanlike state machine library
+* [Workflow](https://github.com/geekq/workflow) - A finite-state-machine-inspired API for modeling and interacting with what we tend to refer to as 'workflow'
 
 ## Static Site Generation
 
