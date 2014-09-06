@@ -718,7 +718,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads
 * [Honeybadger](https://www.honeybadger.io/) - Exception, uptime, and performance monitoring for Ruby.
 * [HoundCI](https://houndci.com) - Review your Ruby code for style guide violations.
 * [Inch CI](http://inch-ci.org/) - Documentation badges for Ruby projects.
-* [Omniref] (https://www.omniref.com) - A comprehensive Ruby documentation site
+* [Omniref](https://www.omniref.com) - A comprehensive Ruby documentation site
 * [PullReview](https://pullreview.com) - Automated code review for Ruby and Rails - from style to security.
 * [Travis CI.com](https://travis-ci.com) - Take care of running your tests and deploying your private apps.
 * [Travis CI.org](https://travis-ci.org) - A distributed build system for the open source community.
