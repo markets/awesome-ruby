@@ -436,6 +436,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Misc
 
 * [AASM](https://github.com/aasm/aasm) - A library for adding finite state machines to Ruby classes
+* [AXLSX](https://github.com/randym/axlsx) - An excel xlsx generation library
 * [Betty](https://github.com/pickhardt/betty) - Friendly English-like interface for your command line. Don't remember a command? Ask Betty
 * [Foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications
 * [Gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
