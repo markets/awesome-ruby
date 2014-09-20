@@ -646,6 +646,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads
 ## Third-party APIs
 
 * [Dropbox](https://github.com/futuresimple/dropbox-api) - Dropbox API Ruby Client.
+* [facy](https://github.com/huydx/facy) - Command line power tool for facebook
 * [fb_graph](https://github.com/nov/fb_graph) - A full-stack Facebook Graph API wrapper
 * [flickr](https://github.com/RaVbaker/flickr) - A Ruby interface to the Flickr API
 * [gitlab](https://github.com/NARKOZ/gitlab) - Ruby wrapper and CLI for the GitLab API
