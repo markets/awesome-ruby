@@ -645,6 +645,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads
 
 ## Third-party APIs
 
+* [databasedotcom](https://github.com/heroku/databasedotcom) - Ruby client for the Salesforce's Database.com and Chatter APIs
 * [Dropbox](https://github.com/futuresimple/dropbox-api) - Dropbox API Ruby Client.
 * [fb_graph](https://github.com/nov/fb_graph) - A full-stack Facebook Graph API wrapper
 * [flickr](https://github.com/RaVbaker/flickr) - A Ruby interface to the Flickr API
