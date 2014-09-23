@@ -734,6 +734,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads
 
 * [GemBundle](http://www.gembundle.com) - A place to discover new Ruby Gems
 * [GitHub Explore](https://github.com/explore)
+* [Practicing Ruby](https://practicingruby.com) - Delightful lessons for dedicated programmers
 * [Ruby Weekly](http://rubyweekly.com) - A free, once–weekly e-mail round-up of Ruby news and articles
 * [Ruby5](http://ruby5.envylabs.com) - The latest news in the Ruby and Rails community
 * [RubyDaily](http://rubydaily.org) - Community driven news
