@@ -147,8 +147,8 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Authorization
 
-* [Authority](https://github.com/nathanl/authority) ORM-neutral way to authorize actions in your Rails app.
-* [CanCanCan](https://github.com/CanCanCommunity/cancancan)
+* [Authority](https://github.com/nathanl/authority) - ORM-neutral way to authorize actions in your Rails app.
+* [CanCanCan](https://github.com/CanCanCommunity/cancancan) - Continuation of CanCan, an authorization Gem for Ruby on Rails.
 * [Pundit](https://github.com/elabs/pundit) - Minimal authorization through OO design and pure Ruby classes
 
 ## Caching
