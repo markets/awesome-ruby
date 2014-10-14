@@ -106,6 +106,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Analytics
 
 * [Ahoy](https://github.com/ankane/ahoy) - A solid foundation to track visits and events in Ruby, JavaScript, and native apps
+* * [FnordMetric](https://github.com/paulasmuth/fnordmetric) - a ruby/redis framework for collecting and visualizing timeseries data. It enables you to build beautiful real-time analytics dashboards within minutes.
 * [Gabba](https://github.com/hybridgroup/gabba) - Simple way to send server-side notifications to Google Analytics
 * [Legato](https://github.com/tpitale/legato) - Model analytics reports and queries against the official Google Analytics Reporting API
 * [Staccato](https://github.com/tpitale/staccato) - Track analytics into the official Google Analytics Collection API
