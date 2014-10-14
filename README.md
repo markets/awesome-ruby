@@ -136,7 +136,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Authentication and OAuth
 
-* [Authlogic](https://github.com/binarylogic/authlogic)
+* [Authlogic](https://github.com/binarylogic/authlogic) - Authlogic is a clean, simple, and unobtrusive ruby authentication solution
 * [Clearance](https://github.com/thoughtbot/clearance) - Small and simple email & password based authenticaton for Rails
 * [Devise](https://github.com/plataformatec/devise) - A flexible authentication solution for Rails based on Warden
 * [OmniAuth](https://github.com/intridea/omniauth) - A library that standardizes multi-provider authentication utilizing Rack middleware
