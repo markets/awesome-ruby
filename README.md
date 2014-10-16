@@ -63,6 +63,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Package Management](#package-management)
   * [Pagination](#pagination)
   * [PDF](#pdf)
+  * [Performance Monitoring](#performance-monitoring)
   * [Process Monitoring](#process-monitoring)
   * [Processes and Threads](#processes-and-threads)
   * [Profiler](#profiler)
@@ -515,6 +516,12 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Shrimp](https://github.com/adjust/shrimp) - A phantomjs based pdf renderer
 * [Wicked Pdf](https://github.com/mileszs/wicked_pdf) - PDF generator (from HTML) plugin for Ruby on Rails
 * [Wisepdf](https://github.com/igor-alexandrov/wisepdf) - Wkhtmltopdf wrapper done right
+
+## Performance Monitoring
+
+* [New Relic](https://newrelic.com/ruby) - Find and fix Ruby errors with New Relic application monitoring and troubleshooting. 
+* [Skylight](https://www.skylight.io/) - A a smart profiler for your Rails apps that visualizes request performance.
+* [TraceView](http://www.appneta.com/products/traceview/) -  Full-stack application tracing and brilliant data visualization to build faster, more reliable web apps.
 
 ## Process Monitoring
 
