@@ -571,34 +571,32 @@ body.no-literate .content pre > code:hover::-webkit-scrollbar-thumb {
 .header li a:hover {
   color: #3a3a44;
 }
-@media (min-width: 480px) {
-  .header h1 {
-    float: left;
-  }
-  .header ul,
-  .header li {
-    display: block;
-    float: left;
-  }
-  .header h1 + ul {
-    border-left: solid 1px #dfe2e7;
-    margin-left: 15px;
-  }
-  .header li {
-    border-left: solid 1px rgba(255,255,255,0.5);
-    border-right: solid 1px #dfe2e7;
-  }
-  .header li:last-child {
-    border-right: 0;
-  }
-  .header li:first-child {
-    border-left: 0;
-  }
-  .header li a {
-    padding: 0 15px;
-  }
+.header h1 {
+  float: left;
 }
-@media (max-width: 480px) {
+.header ul,
+.header li {
+  display: block;
+  float: left;
+}
+.header h1 + ul {
+  border-left: solid 1px #dfe2e7;
+  margin-left: 15px;
+}
+.header li {
+  border-left: solid 1px rgba(255,255,255,0.5);
+  border-right: solid 1px #dfe2e7;
+}
+.header li:last-child {
+  border-right: 0;
+}
+.header li:first-child {
+  border-left: 0;
+}
+.header li a {
+  padding: 0 15px;
+}
+@media (max-width: 580px) {
   .right {
     display: none;
   }
