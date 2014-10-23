@@ -595,6 +595,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads
 * [diaspora*](https://github.com/diaspora/diaspora) - A privacy aware, distributed, open source social network
 * [Discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple
 * [Forem](https://github.com/radar/forem) - Rails 3 and Rails 4 forum engine
+* [Social Shares](https://github.com/Timrael/social_shares) - A gem to check how many times url was shared in social networks
 
 ## State Machines
 
