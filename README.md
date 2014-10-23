@@ -167,6 +167,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Rake](https://github.com/jimweirich/rake) - A make-like build utility for Ruby
 * [Slop](https://github.com/leejarvis/slop) - Simple Lightweight Option Parsing
 * [Thor](http://whatisthor.com) - A toolkit for building powerful command-line interfaces
+* [TTY](https://github.com/peter-murach/tty) - Toolbox for developing CLI clients
 
 ## CMS
 * [Alchemy CMS](http://alchemy-cms.com) - A powerful, userfriendly and flexible Open Source Rails CMS
