@@ -302,6 +302,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## E-Commerce and Payments
 
 * [Active Merchant](https://github.com/Shopify/active_merchant) - A simple payment abstraction library extracted from Shopify
+* [Payola](https://github.com/peterkeen/payola) - Drop-in Rails engine for accepting payments with Stripe
 * [Paypal Merchant SDK](https://github.com/paypal/merchant-sdk-ruby) - Official Paypal Merchant SDK for Ruby
 * [Piggybak](https://github.com/piggybak/piggybak) - Modular, Extensible open-source ecommerce solution for Ruby on Rails
 * [ROR Ecommerce](http://www.ror-e.com)
