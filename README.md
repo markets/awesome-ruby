@@ -273,7 +273,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Byebug](https://github.com/deivid-rodriguez/byebug) - A simple to use, feature rich debugger for Ruby 2
 * [debugger](https://github.com/cldwalker/debugger) - A port of ruby-debug that works on 1.9.2 and 1.9.3
-* [did_you_mean](https://github.com/yuki24/did_you_mean) - Adds class, method & attributute suggestions to error messages
 
 ## Decorators
 
