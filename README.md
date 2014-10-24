@@ -71,6 +71,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Robotics](#robotics)
   * [RSS](#rss)
   * [Scheduling](#scheduling)
+  * [Scientific](#scientific)
   * [Search](#search)
   * [SEO](#seo)
   * [Social Networking](#social-networking)
@@ -574,6 +575,52 @@ Best suited for map-reduce or e.g. parallel downloads/uploads
 * [resque-scheduler](https://github.com/resque/resque-scheduler) - A light-weight job scheduling system built on top of Resque
 * [rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) - Job scheduler for Ruby (at, cron, in and every jobs)
 * [Whenever](https://github.com/javan/whenever) - A Ruby gem that provides a clear syntax for writing and deploying cron jobs
+
+## Scientific
+
+* Numerical arrays
+  * [NMatrix](https://github.com/sciruby/nmatrix) - Dense and sparse linear algebra library for Ruby via SciRuby
+  * [NArray](https://github.com/masa16/narray) - NArray fork with NMatrix compatibility
+  * [mdarray](https://github.com/rbotafogo/mdarray) - Multidimensional array similar to NumPy and NArray
+ 
+* General
+  * [AI4R](https://github.com/sergiofierens/ai4r) - Algorithms covering several Artificial intelligence fields
+  * [ruby-band](https://github.com/arrigonialberto86/ruby-band) - Machine learning and data mining algorithms for JRuby
+  * [SciRuby](https://github.com/sciruby/sciruby) - Tools for scientific computation in Ruby/Rails
+ 
+* R
+  * [RSRuby](https://github.com/alexgutteridge/rsruby) - A bridge library for giving access to the full R statistical programming environment
+  * [RinRuby](https://sites.google.com/a/ddahl.org/rinruby-users) - Integrates the R interpreter in Ruby, making R's statistical routines and graphics available
+ 
+* Sciruby
+  * [statsample](https://github.com/sciruby/statsample) - A suite for basic and advanced statistics on Ruby
+  * [statsample-timeseries](https://github.com/sciruby/statsample-timeseries) - Bioruby Statsample TimeSeries
+  * [statsample-glm](https://github.com/sciruby/statsample-glm) - Generalized Linear Models extension for Statsample
+  * [distribution](https://github.com/sciruby/distribution) - Statistical Distributions multi library wrapper
+  * [integration](https://github.com/sciruby/integration) - Integration methods, based on original work by Beng
+  * [minimization](https://github.com/sciruby/minimization) - Minimization algorithms on pure Ruby
+  * [publisci](https://github.com/sciruby/publisci) - A toolkit for publishing scientific results to the semantic web
+  * [plotrb](https://github.com/sciruby/plotrb) - A plotting library in Ruby built on top of Vega and D3
+  * [rb-gsl](https://github.com/SciRuby/rb-gsl) - a ruby interface to GNU Scientific library, with NMatrix support
+ 
+* Specific
+  * [BioRuby](https://github.com/bioruby/bioruby) - Library for developing bioinformatics software
+  * [classifier](https://github.com/cardmagic/classifier) - A general module to allow Bayesian and other types of classifications
+  * [stuff-classifier](https://github.com/alexandru/stuff-classifier) - A library for classifying text into multiple categories
+  * [decisiontree](https://github.com/igrigorik/decisiontree) - A ruby library which implements ID3 (information gain) algorithm for decision tree learning
+  * [irtruby](https://github.com/kyoungmo-yang/irtruby) - Item Response Theory library
+ 
+* Visualization
+  * [Rubyvis](https://github.com/clbustos/rubyvis) - port of Protovis, a Javascript visualization toolkit
+
+* Bindings
+  * [ruby-opencv](https://github.com/ruby-opencv/ruby-opencv) - An OpenCV wrapper for Ruby
+  * [rb-libsvm](https://github.com/febeling/rb-libsvm) - Ruby language bindings for LIBSVM
+  * [ruby-fann](https://github.com/tangledpath/ruby-fann) - Ruby library for interfacing with FANN (Fast Artificial Neural Network)
+ 
+* Utilities
+  * [smarter_csv](https://github.com/tilo/smarter_csv) - Ruby Gem for smarter importing of CSV Files as Array(s) of Hashes
+  * [algorithms](https://github.com/kanwei/algorithms) - Library with documentation on when to use a particular structure/algorithm
 
 ## Search
 
