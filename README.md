@@ -1,3 +1,3 @@
 ## Awesome Ruby Site
 
-Source of Awesome Ruby site.
+Source code of Awesome Ruby site.
