@@ -1,4 +1,4 @@
-# <a href="http://marcanguera.net/awesome-ruby"><img src="https://raw.githubusercontent.com/markets/awesome-ruby/gh-pages/images/logo.png" align="absmiddle"/></a> Awesome Ruby
+# <a href="http://awesome-ruby.com"><img src="https://raw.githubusercontent.com/markets/awesome-ruby/gh-pages/images/logo.png" align="absmiddle"/>Awesome Ruby</a>
 
 A collection of awesome Ruby libraries, tools, frameworks and software. The essential Ruby to build modern Apps and Web Apps.
 
