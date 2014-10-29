@@ -71,6 +71,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Robotics](#robotics)
   * [RSS](#rss)
   * [Scheduling](#scheduling)
+  * [Scientific](#scientific)
   * [Search](#search)
   * [SEO](#seo)
   * [Social Networking](#social-networking)
@@ -100,15 +101,15 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Admin Interface
 
-* [ActiveAdmin](http://activeadmin.info) - a Ruby on Rails framework for creating elegant backends for website administration.
+* [ActiveAdmin](http://activeadmin.info) - A Ruby on Rails framework for creating elegant backends for website administration.
 * [bhf](http://antpaw.github.io/bhf/) - A simple to use Rails-Engine-Gem that offers an admin interface for trusted user.
 * [RailsAdmin](https://github.com/sferik/rails_admin) - A Rails engine that provides an easy-to-use interface for managing your data.
-* [Upmin Admin](https://github.com/upmin/upmin-admin-ruby) - a framework for creating powerful Ruby on Rails admin backends with minimal effort.
+* [Upmin Admin](https://github.com/upmin/upmin-admin-ruby) - A framework for creating powerful Ruby on Rails admin backends with minimal effort.
 
 ## Analytics
 
 * [Ahoy](https://github.com/ankane/ahoy) - A solid foundation to track visits and events in Ruby, JavaScript, and native apps.
-* [FnordMetric](https://github.com/paulasmuth/fnordmetric) - a ruby/redis framework for collecting and visualizing timeseries data. It enables you to build beautiful real-time analytics dashboards within minutes.
+* [FnordMetric](https://github.com/paulasmuth/fnordmetric) - A ruby/redis framework for collecting and visualizing timeseries data. It enables you to build beautiful real-time analytics dashboards within minutes.
 * [Gabba](https://github.com/hybridgroup/gabba) - Simple way to send server-side notifications to Google Analytics.
 * [Legato](https://github.com/tpitale/legato) - Model analytics reports and queries against the official Google Analytics Reporting API.
 * [Staccato](https://github.com/tpitale/staccato) - Track analytics into the official Google Analytics Collection API.
@@ -172,7 +173,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## CMS
 * [Alchemy CMS](http://alchemy-cms.com) - A powerful, userfriendly and flexible Open Source Rails CMS.
-* [Comfortable Mexican Sofa](https://github.com/comfy/comfortable-mexican-sofa) - a powerful Rails 4 CMS Engine.
+* [Comfortable Mexican Sofa](https://github.com/comfy/comfortable-mexican-sofa) - A powerful Rails 4 CMS Engine.
 * [LocomotiveCMS](http://www.locomotivecms.com) - A simple but powerful CMS based on Liquid templates and Mongodb database.
 * [Publify](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails.
 * [Radiant](http://radiantcms.org) - A no-fluff, open source content management system designed for small teams.
@@ -382,7 +383,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [git-spelunk](https://github.com/osheroff/git-spelunk) - Dig through git blame history.
 * [git-up](https://github.com/aanand/git-up) - Fetch and rebase all locally-tracked remote branches.
 * [git-whence](https://github.com/grosser/git-whence) - Find which merge a commit came from.
-* [hub](https://github.com/github/hub) - a command line tool that wraps Git in order to extend it with extra features and commands that make working with GitHub easier.
+* [hub](https://github.com/github/hub) - A command line tool that wraps Git in order to extend it with extra features and commands that make working with GitHub easier.
 * [Rugged](https://github.com/libgit2/rugged) - Ruby bindings to libgit2.
 
 ## GUI
@@ -439,6 +440,8 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Machine Learning
 
 * [PredictionIO Ruby SDK](https://github.com/PredictionIO/PredictionIO-Ruby-SDK) - The PredictionIO Ruby SDK provides a convenient API to quickly record your users' behavior and retrieve personalized predictions for them.
+* [rb-libsvm](https://github.com/febeling/rb-libsvm) - Ruby language bindings for LIBSVM. SVM is a machine learning and classification algorithm.
+* [ruby-band](https://github.com/arrigonialberto86/ruby-band) - Machine learning and data mining algorithms for JRuby.
 * [Ruby Datumbox Wrapper](https://github.com/marloncarvalho/ruby-datumbox) - It's a simple Ruby Datumbox Wrapper. At the moment the API currently allows you to build applications that make use of machine learning algorithms.
 
 ## Markdown Processors
@@ -502,7 +505,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Berkshelf](https://github.com/berkshelf/berkshelf) - A Chef Cookbook manager.
   * [CocoaPods](https://github.com/CocoaPods/CocoaPods) - The Objective-C dependency manager.
   * [fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
-  * [Homebrew-cask](https://github.com/caskroom/homebrew-cask) - a CLI workflow for the administration of Mac applications distributed as binaries.
+  * [Homebrew-cask](https://github.com/caskroom/homebrew-cask) - A CLI workflow for the administration of Mac applications distributed as binaries.
   * [Homebrew](https://github.com/Homebrew/homebrew) - The missing package manager for OS X.
 
 ## Pagination
@@ -574,6 +577,37 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [resque-scheduler](https://github.com/resque/resque-scheduler) - A light-weight job scheduling system built on top of Resque.
 * [rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) - Job scheduler for Ruby (at, cron, in and every jobs).
 * [Whenever](https://github.com/javan/whenever) - A Ruby gem that provides a clear syntax for writing and deploying cron jobs.
+
+## Scientific
+
+* Artificial intelligence
+  * [AI4R](https://github.com/sergiofierens/ai4r) - Algorithms covering several Artificial intelligence fields.
+  * [ruby-fann](https://github.com/tangledpath/ruby-fann) - Ruby library for interfacing with FANN (Fast Artificial Neural Network).
+* Bindings
+  * [ruby-opencv](https://github.com/ruby-opencv/ruby-opencv) - An OpenCV wrapper for Ruby.
+* Classifiers
+  * [classifier](https://github.com/cardmagic/classifier) - A general module to allow Bayesian and other types of classifications.
+  * [stuff-classifier](https://github.com/alexandru/stuff-classifier) - A library for classifying text into multiple categories.
+* Numerical arrays
+  * [NMatrix](https://github.com/sciruby/nmatrix) - Fast numerical linear algebra library for Ruby.
+  * [NArray](https://github.com/masa16/narray) - N-dimensional Numerical Array for Ruby.
+  * [mdarray](https://github.com/rbotafogo/mdarray) - Multi dimensional array implemented for JRuby inspired by NumPy.
+* [SciRuby](https://github.com/sciruby/sciruby) - Tools for scientific computation in Ruby/Rails.
+  * [statsample](https://github.com/sciruby/statsample) - A suite for basic and advanced statistics on Ruby.
+  * [statsample-timeseries](https://github.com/sciruby/statsample-timeseries) - Bioruby Statsample TimeSeries.
+  * [statsample-glm](https://github.com/sciruby/statsample-glm) - Generalized Linear Models extension for Statsample.
+  * [distribution](https://github.com/sciruby/distribution) - Statistical Distributions multi library wrapper.
+  * [integration](https://github.com/sciruby/integration) - Numerical integration methods, based on original work by Beng.
+  * [minimization](https://github.com/sciruby/minimization) - Minimization algorithms on pure Ruby.
+  * [publisci](https://github.com/sciruby/publisci) - A toolkit for publishing scientific results to the semantic web.
+  * [plotrb](https://github.com/sciruby/plotrb) - A plotting library in Ruby built on top of Vega and D3.
+  * [rb-gsl](https://github.com/SciRuby/rb-gsl) - A ruby interface to GNU Scientific library, with NMatrix support.
+* Specific
+  * [BioRuby](https://github.com/bioruby/bioruby) - Library for developing bioinformatics software.
+  * [decisiontree](https://github.com/igrigorik/decisiontree) - A ruby library which implements ID3 (information gain) algorithm for decision tree learning.
+* Utilities
+  * [smarter_csv](https://github.com/tilo/smarter_csv) - Ruby Gem for smarter importing of CSV Files as Array(s) of Hashes.
+  * [algorithms](https://github.com/kanwei/algorithms) - Library with documentation on when to use a particular structure/algorithm.
 
 ## Search
 
