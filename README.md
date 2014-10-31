@@ -68,7 +68,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Processes and Threads](#processes-and-threads)
   * [Profiler](#profiler)
   * [Queue](#queue)
-  * [Rails Application Generators](rails-application-generators)
+  * [Rails Application Generators](#rails-application-generators)
   * [Robotics](#robotics)
   * [RSS](#rss)
   * [Scheduling](#scheduling)
