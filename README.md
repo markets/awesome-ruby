@@ -560,7 +560,6 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Resque](https://github.com/resque/resque) - A Redis-backed Ruby library for creating background jobs.
 * [Sidekiq](http://sidekiq.org) - A full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
 * [Sucker Punch](https://github.com/brandonhilkert/sucker_punch) - A single process background processing library using Celluloid. Aimed to be Sidekiq's little brother.
-* 
 
 ##  Rails Application Generators
 
