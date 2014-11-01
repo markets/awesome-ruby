@@ -105,6 +105,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [ActiveAdmin](http://activeadmin.info) - A Ruby on Rails framework for creating elegant backends for website administration.
 * [bhf](http://antpaw.github.io/bhf/) - A simple to use Rails-Engine-Gem that offers an admin interface for trusted user.
 * [RailsAdmin](https://github.com/sferik/rails_admin) - A Rails engine that provides an easy-to-use interface for managing your data.
+* [Typus](https://github.com/typus/typus) - Ruby on Rails control panel to allow trusted users edit structured content.
 * [Upmin Admin](https://github.com/upmin/upmin-admin-ruby) - A framework for creating powerful Ruby on Rails admin backends with minimal effort.
 
 ## Analytics
