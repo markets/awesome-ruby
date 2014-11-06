@@ -270,6 +270,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [ByStar](https://github.com/radar/by_star) - Find ActiveRecord objects by year, month, fortnight, week and more!
 * [Chronic](https://github.com/mojombo/chronic) - A natural language date/time parser written in pure Ruby.
 * [groupdate](https://github.com/ankane/groupdate) - The simplest way to group temporal data in ActiveRecord, arrays and hashes.
+* [local_time](https://github.com/basecamp/local_time) - Rails Engine for cache-friendly, client-side local time.
 * [time-lord](https://github.com/krainboltgreene/time-lord) - Adds extra functionality to the time class.
 * [time_diff](https://github.com/abhidsm/time_diff) - Calculates the difference between two time.
 * [TZinfo](https://github.com/tzinfo/tzinfo) - Provides daylight savings aware transformations between times in different timezones.
