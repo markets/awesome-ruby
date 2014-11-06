@@ -618,6 +618,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [rb-gsl](https://github.com/SciRuby/rb-gsl) - A ruby interface to GNU Scientific library, with NMatrix support.
 * Specific
   * [BioRuby](https://github.com/bioruby/bioruby) - Library for developing bioinformatics software.
+  * [bloomfilter-rb](https://github.com/igrigorik/bloomfilter-rb) - BloomFilter(s) in Ruby: Native counting filter + Redis counting/non-counting filters.
   * [decisiontree](https://github.com/igrigorik/decisiontree) - A ruby library which implements ID3 (information gain) algorithm for decision tree learning.
 * Utilities
   * [smarter_csv](https://github.com/tilo/smarter_csv) - Ruby Gem for smarter importing of CSV Files as Array(s) of Hashes.
