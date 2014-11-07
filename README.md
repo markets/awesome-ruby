@@ -135,7 +135,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Less](https://github.com/cowboyd/less.rb) - Leaner CSS, in your browser or Ruby.
 * [Sass](http://sass-lang.com) - Sass makes CSS fun again.
 * Management:
-  * [Autoprefixer](https://github.com/postcss/autoprefixer) - Parse CSS and add vendor prefixes to rules by Can I Use.
+  * [Autoprefixer](https://github.com/ai/autoprefixer-rails) - Parse CSS and add vendor prefixes to rules by Can I Use.
   * [Rails Assets](https://rails-assets.org) - Bundler to Bower proxy.
   * [Sprockets](https://github.com/sstephenson/sprockets) - Rack-based asset packaging system.
 * Development:
