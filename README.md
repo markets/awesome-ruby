@@ -350,6 +350,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [ruby-build](https://github.com/sstephenson/ruby-build) - Compile and install Ruby.
 * [ruby-install](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, Rubinius, MagLev or MRuby.
 * [RVM](https://rvm.io) - RVM is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems.
+* [Tokaido](https://github.com/tokaido/tokaidoapp/releases) - Ruby, Rails, SQLite and Redis encapsulated in a single drag-and-drop OS X app, designed to make installing a working RoR environment easy for beginners.
 
 ## Error Handling
 
@@ -471,7 +472,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [pygments.rb](https://github.com/tmm1/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter.
 * [Ruby Operators](http://ruby-operators.herokuapp.com/) - A webpage showing awesome names for different Ruby operators.
 * [Termit](https://github.com/pawurb/termit) - Google Translate with speech synthesis in your terminal.
-* [Tokaido](https://github.com/tokaido/tokaidoapp/releases) - Ruby, Rails, SQLite and Redis encapsulated in a single drag-and-drop OS X app, designed to make installing a working RoR environment easy for beginners.
 * [Treetop](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser.
 * [Yomu](https://github.com/Erol/yomu) - Read text and metadata from files and documents (.doc, .docx, .pages, .odt, .rtf, .pdf).
 
