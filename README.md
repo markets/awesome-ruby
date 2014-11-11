@@ -125,6 +125,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [JSONAPI::Resources](https://github.com/cerebris/jsonapi-resources) - JSONAPI::Resources, or "JR", provides a framework for developing a server that complies with the JSON API specification.
 * [Jsonite](https://github.com/barrelage/jsonite) - A tiny, HAL-compliant JSON presenter for your APIs.
 * [Pliny](https://github.com/interagent/pliny) - Opinionated template Sinatra app for writing excellent APIs in Ruby.
+* [PostgresExt-Serializers](https://github.com/dockyard/postgres_ext-serializers) - [Significantly optimize](http://reefpoints.dockyard.com/2014/05/27/avoid-rails-when-generating-json-responses-with-postgresql.html) ActiveModel:Serializers with Postgres by pusshing JSON creation down to the database.
 * [rabl](https://github.com/nesquena/rabl) - General ruby templating with json, bson, xml, plist and msgpack support.
 * [Rails::API](https://github.com/rails-api/rails-api) - Rails for API only applications.
 * [Roar](https://github.com/apotonick/roar) - Resource-Oriented Architectures in Ruby.
