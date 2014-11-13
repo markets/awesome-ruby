@@ -12,6 +12,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Awesome Ruby](#awesome-ruby)
   * [Abstraction](#abstraction)
+  * [A/B Testing](#ab-testing)
   * [Admin Interface](#admin-interface)
   * [Analytics](#analytics)
   * [API Builder](#api-builder)
@@ -99,6 +100,11 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Light Service](https://github.com/adomokos/light-service) - Series of Actions with an emphasis on simplicity.
 * [Mutations](https://github.com/cypriss/mutations) - Compose your business logic into commands that sanitize and validate input.
 * [Reform](https://github.com/apotonick/reform) - Form objects decoupled from models.
+
+##A/B Testing
+
+* [Split](https://rubygems.org/gems/split) - Rack Based AB testing framework.
+* [Vanity](https://github.com/assaf/vanity) - an A/B testing framework for Rails that is datastore agnostic. 
 
 ## Admin Interface
 
