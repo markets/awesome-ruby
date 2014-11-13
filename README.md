@@ -104,7 +104,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ##A/B Testing
 
 * [Split](https://github.com/andrew/split) - Rack Based AB testing framework.
-* [Vanity](https://github.com/assaf/vanity) - an A/B testing framework for Rails that is datastore agnostic. 
+* [Vanity](https://github.com/assaf/vanity) - an A/B testing framework for Rails that is datastore agnostic.
 
 ## Admin Interface
 
@@ -125,7 +125,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## API Builder
 
 * [ActiveModel::Serializers](https://github.com/rails-api/active_model_serializers) - JSON serialization of objects.
-  * [PostgresExt-Serializers](https://github.com/dockyard/postgres_ext-serializers) - [Significantly optimize](http://reefpoints.dockyard.com/2014/05/27/avoid-rails-when-generating-json-responses-with-postgresql.html) ActiveModel:Serializers with Postgres by pushing JSON creation down to the database.
 * [Crêpe](https://github.com/crepe/crepe) - The thin API stack.
 * [Grape](http://intridea.github.io/grape) - An opinionated micro-framework for creating REST-like APIs in Ruby.
 * [jbuilder](https://github.com/rails/jbuilder) - Create JSON structures via a Builder-style DSL.
