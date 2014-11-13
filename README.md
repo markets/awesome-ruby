@@ -103,7 +103,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ##A/B Testing
 
-* [Split](https://rubygems.org/gems/split) - Rack Based AB testing framework.
+* [Split](https://github.com/andrew/split) - Rack Based AB testing framework.
 * [Vanity](https://github.com/assaf/vanity) - an A/B testing framework for Rails that is datastore agnostic. 
 
 ## Admin Interface
