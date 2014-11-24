@@ -504,17 +504,25 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## ORM/ODM
 
 * [ActiveRecord](https://github.com/rails/rails/tree/master/activerecord) - Object-relational mapping in Rails.
-* [DataMapper](http://datamapper.org/) - ORM which works well with legacy databases. Last release (1.2.0) was on 13 October 2011.
+* [DataMapper](https://github.com/datamapper/dm-core) - ORM which works well with legacy databases. Last release (1.2.0) was on 13 October 2011.
 * [Guacamole](https://github.com/triAGENS/guacamole) -  An ODM for ArangoDB.
-* [Mongoid](http://mongoid.org/en/mongoid/index.html) - An ODM (Object-Document-Mapper) framework for MongoDB in Ruby.
-* [MongoMapper](http://mongomapper.com/) - A Ruby Object Mapper for Mongo.
+* [Mongoid](https://github.com/mongoid/mongoid) - An ODM (Object-Document-Mapper) framework for MongoDB in Ruby.
+* [MongoMapper](https://github.com/mongomapper/mongomapper) - A Ruby Object Mapper for Mongo.
 * [MongoModel](https://github.com/spohlenz/mongomodel) -  Ruby ODM for interfacing with MongoDB databases.
-* [ohm](http://ohm.keyvalue.org/) - Object-hash mapping library for Redis.
+* [ohm](https://github.com/soveran/ohm) - Object-hash mapping library for Redis.
 * [Sequel](https://github.com/jeremyevans/sequel) - Sequel is a simple, flexible, and powerful SQL database access toolkit for Ruby.
 
 ## ORM/ODM Extensions
 
+* [ActiveRecord Reputation System](https://github.com/twitter/activerecord-reputation-system) - An Active Record Reputation System for Rails.
+* [ActsAsParanoid](https://github.com/ActsAsParanoid/acts_as_paranoid) - ActiveRecord plugin allowing you to hide and restore records without actually deleting them.
+* [ActsAsTaggableOn](https://github.com/mbleigh/acts-as-taggable-on) - A tagging plugin for ActiveRecord that allows for custom tagging along dynamic contexts.
+* [ActsAsTree](https://github.com/amerine/acts_as_tree) - Extends ActiveRecord to add simple support for organizing items into parent–children relationships.
+* [Ancestry](https://github.com/stefankroes/ancestry) - Organise ActiveRecord model into a tree structure using a variation on the materialised path pattern.
+* [Audited](https://github.com/collectiveidea/audited) - Audited is an ORM extension for ActiveRecord & MongoMapper that logs all changes to your models.
+* [Closure Tree](https://github.com/mceachen/closure_tree) - Easily and efficiently make your ActiveRecord models support hierarchies using a Closure Table.
 * [Mongoid Tree](https://github.com/benedikt/mongoid-tree) - A tree structure for Mongoid documents using the materialized path pattern.
+* [PaperTrail](https://github.com/airblade/paper_trail) - Track changes to your ActiveRecord models' data for auditing or versioning.
 
 ## Package Management
 
