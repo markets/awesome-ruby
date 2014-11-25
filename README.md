@@ -705,6 +705,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ## State Machines
 
 * [AASM](https://github.com/aasm/aasm) - State machines for Ruby classes (plain Ruby, Rails Active Record, Mongoid).
+* [FiniteMachine](https://github.com/peter-murach/finite_machine) - A plain Ruby state machine with a straightforward and expressive syntax.
 * [simple_states](https://github.com/svenfuchs/simple_states) - A super-slim statemachine-like support library.
 * [Statesman](https://github.com/gocardless/statesman) - A statesmanlike state machine library.
 * [Workflow](https://github.com/geekq/workflow) - A finite-state-machine-inspired API for modeling and interacting with what we tend to refer to as 'workflow'.
