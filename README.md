@@ -518,13 +518,34 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * Auditing
   * [ActsAsParanoid](https://github.com/ActsAsParanoid/acts_as_paranoid) - ActiveRecord plugin allowing you to hide and restore records without actually deleting them.
   * [Audited](https://github.com/collectiveidea/audited) - Audited is an ORM extension for ActiveRecord & MongoMapper that logs all changes to your models.
+  * [Destroyed At](https://github.com/dockyard/destroyed_at) - Allows you to "destroy" an object without deleting the record or associated records.
+  * [Espinita](https://github.com/continuum/espinita) - Audit activerecord models like a boss.
+  * [mongoid-history](https://github.com/aq1018/mongoid-history) - Multi-user non-linear history tracking, auditing, undo, redo for mongoid.
   * [PaperTrail](https://github.com/airblade/paper_trail) - Track changes to your ActiveRecord models' data for auditing or versioning.
+  * [PermenantRecords](https://github.com/JackDanger/permanent_records) - Soft-delete your ActiveRecord records, like an explicit version of ActsAsParanoid.
+* Misc
+  * [Acts As Tennant](https://github.com/ErwinM/acts_as_tenant) - Add multi-tenancy to a Rails app through a shared database strategy.
+  * [ActiveImporter](https://github.com/continuum/active_importer) - Define importers that load tabular data from spreadsheets or CSV files into any ActiveRecord-like ORM.
+  * [ActiveRecord::Turntable](https://github.com/drecom/activerecord-turntable) - A database sharding extension for ActiveRecord.
+  * [ActiveValidators](https://github.com/franckverrot/activevalidators) - An exhaustive collection of off-the-shelf and tested ActiveModel/ActiveRecord validations.
+  * [data_miner](https://github.com/seamusabshere/data_miner) - Download, pull out of a ZIP/TAR/GZ/BZ2 archive, parse, correct, and import XLS, ODS, XML, CSV, HTML, etc. into your ActiveRecord models.
+  * [Enumerize](https://github.com/brainspec/enumerize) - Enumerated attributes with I18n and ActiveRecord/Mongoid/MongoMapper support.
+  * [mini_record](https://github.com/DAddYE/mini_record) - ActiveRecord meets DataMapper, with MiniRecord you are be able to write schema inside your models.
 * Social
+  * [Acts As Commentable](https://github.com/jackdempsey/acts_as_commentable) - Provides a single Comment model that can be attached to any model(s) within your app.
+  * [Acts As Commentable with Threading](https://github.com/elight/acts_as_commentable_with_threading) - Similar to acts_as_commentable; however, utilizes awesome_nested_set to provide threaded comments.
+  * [acts_as_follower](https://github.com/tcocca/acts_as_follower) - Allow any ActiveRecord model to follow any other model.
   * [ActiveRecord Reputation System](https://github.com/twitter/activerecord-reputation-system) - An Active Record Reputation System for Rails.
   * [ActsAsTaggableOn](https://github.com/mbleigh/acts-as-taggable-on) - A tagging plugin for ActiveRecord that allows for custom tagging along dynamic contexts.
+  * [Acts As Votable](https://github.com/ryanto/acts_as_votable) - Allow any ActiveRecord model to be voted on, like/dislike, upvote/downvote, etc.
+  * [Unread](https://github.com/ledermann/unread) - Manage read/unread status of ActiveRecord objects - and it's fast.
+* Sorting
+  * [ActsAsList](https://github.com/swanandp/acts_as_list) - Provides the capabilities for sorting and reordering a number of objects in a list.
+  * [ranked-model](https://github.com/mixonic/ranked-model) - A modern row sorting library for ActiveRecord. It uses ARel aggressively and is better optimized than most other libraries.
 * Tree
   * [ActsAsTree](https://github.com/amerine/acts_as_tree) - Extends ActiveRecord to add simple support for organizing items into parent–children relationships.
   * [Ancestry](https://github.com/stefankroes/ancestry) - Organise ActiveRecord model into a tree structure using a variation on the materialised path pattern.
+  * [Awesome Nested Set](https://github.com/collectiveidea/awesome_nested_set) - Awesome Nested Set is an implementation of the nested set pattern for ActiveRecord models.
   * [Closure Tree](https://github.com/mceachen/closure_tree) - Easily and efficiently make your ActiveRecord models support hierarchies using a Closure Table.
   * [Mongoid Tree](https://github.com/benedikt/mongoid-tree) - A tree structure for Mongoid documents using the materialized path pattern.
 
@@ -656,12 +677,15 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [attr_searchable](https://github.com/mrkamel/attr_searchable) - Search engine like fulltext query support for ActiveRecord.
 * [elasticsearch-ruby](https://github.com/elasticsearch/elasticsearch-ruby) - Ruby integrations for Elasticsearch.
 * [has_scope](https://github.com/plataformatec/has_scope) - Has scope allows you to easily create controller filters based on your resources named scopes.
+* [Mongoid Search](https://github.com/mauriciozaffari/mongoid_search) - Simple full text search implementation for Mongoid.
 * [pg_search](https://github.com/Casecommons/pg_search) - Builds ActiveRecord named scopes that take advantage of PostgreSQL's full text search.
 * [ransack](https://github.com/activerecord-hackery/ransack/) - Object-based searching.
 * [Rroonga](https://github.com/ranguba/rroonga) - The Ruby bindings of Groonga.
+* [SearchCop](https://github.com/mrkamel/search_cop) - Extends your ActiveRecord models to support fulltext search engine like queries via simple query strings and hash-based queries.
 * [Searchkick](https://github.com/ankane/searchkick) - Searchkick learns what your users are looking for. As more people search, it gets smarter and the results get better. It’s friendly for developers - and magical for your users.
 * [Searchlogic](https://github.com/binarylogic/searchlogic) - Object based searching, common named scopes, and other useful named scope tools for ActiveRecord.
 * [Sunspot](https://github.com/sunspot/sunspot) - A Ruby library for expressive, powerful interaction with the Solr search engine.
+* [textacular](https://github.com/textacular/textacular) - Exposes full text search capabilities from PostgreSQL, and allows you to declare full text indexes. Textacular extends ActiveRecord with named_scope methods making searching easy and fun!
 * [Thinking Sphinx](https://github.com/pat/thinking-sphinx) - A library for connecting ActiveRecord to the Sphinx full-text search tool.
 
 ## SEO
