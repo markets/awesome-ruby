@@ -486,6 +486,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Pry](https://github.com/pry/pry) - A powerful alternative to the standard IRB shell for Ruby.
 * [pygments.rb](https://github.com/tmm1/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter.
 * [Ruby Operators](http://ruby-operators.herokuapp.com/) - A webpage showing awesome names for different Ruby operators.
+* [RequestStore](https://github.com/steveklabnik/request_store) - Per-request global storage for Rack as a safer alternative to Thread.current.
 * [Termit](https://github.com/pawurb/termit) - Google Translate with speech synthesis in your terminal.
 * [Treetop](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser.
 * [Yomu](https://github.com/Erol/yomu) - Read text and metadata from files and documents (.doc, .docx, .pages, .odt, .rtf, .pdf).
