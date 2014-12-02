@@ -296,7 +296,8 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Decorators
 
-* [Draper](https://github.com/drapergem/draper) - Draper adds an object-oriented layer of presentation logic to your Rails application.
+* [Draper](https://github.com/drapergem/draper) - Adds an object-oriented layer of presentation logic to your Rails application.
+* [ShowFor](https://github.com/plataformatec/show_for) - Quickly show a model information with I18n features. Like form_for for displaying model data. 
 
 ## DevOps Tools
 
@@ -347,7 +348,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [LetterOpener](https://github.com/ryanb/letter_opener) - Preview mail in the browser instead of sending.
 * [Mail](https://github.com/mikel/mail) - A Really Ruby Mail Library.
 * [MailCatcher](http://mailcatcher.me) - Catches mail and serves it through a dream.
-* [MailForm](https://github.com/plataformatec/mail_form) - Send e-mail straight from forms in Rails with I18n, validations, attachments and request information.
 * [Mailman](https://github.com/titanous/mailman) - An incoming mail processing microframework in Ruby.
 * [Pony](https://github.com/benprew/pony) - The express way to send mail from Ruby.
 
@@ -400,7 +400,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Geocoder](https://github.com/alexreisner/geocoder) - A complete geocoding solution for Ruby. With Rails it adds geocoding (by street or IP address), reverse geocoding (find street address based on given coordinates), and distance queries.
 * [Geokit](https://github.com/geokit/geokit) - Geokit gem provides geocoding and distance/heading calculations.
-* [Google Maps for Rails](https://github.com/apneadiving/Google-Maps-for-Rails) - Enables easy Google map + overlays creation in Ruby apps.
 
 ## Git Tools
 
