@@ -145,6 +145,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * Management:
   * [Asset Sync](https://github.com/rumblelabs/asset_sync) - Synchronises Assets between Rails and S3.
   * [Autoprefixer](https://github.com/ai/autoprefixer-rails) - Parse CSS and add vendor prefixes to rules by Can I Use.
+  * [Jammit](https://github.com/documentcloud/jammit) - Industrial Strength Asset Packaging for Rails.
   * [Rails Assets](https://rails-assets.org) - Bundler to Bower proxy.
   * [Sprockets](https://github.com/sstephenson/sprockets) - Rack-based asset packaging system.
 * Development:
