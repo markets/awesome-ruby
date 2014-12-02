@@ -94,12 +94,13 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Abstraction
 
 * [ActiveInteraction](https://github.com/orgsync/active_interaction) - Manage application specific business logic.
+* [Apotomo](https://github.com/apotonick/apotomo) - Based on Cells, Apotomo gives you widgets and encapsulation, bubbling events, AJAX page updates, rock-solid testing and more.
 * [Cells](https://github.com/apotonick/cells) - View Components for Rails.
 * [Decent Exposure](https://github.com/hashrocket/decent_exposure) - A helper for creating declarative interfaces in controllers.
 * [Interactor](https://github.com/collectiveidea/interactor) - Interactor provides a common interface for performing complex interactions in a single request.
 * [Light Service](https://github.com/adomokos/light-service) - Series of Actions with an emphasis on simplicity.
 * [Mutations](https://github.com/cypriss/mutations) - Compose your business logic into commands that sanitize and validate input.
-* [Responders](https://github.com/plataformatec/responders) -  set of Rails responders to dry up your application.
+* [Responders](https://github.com/plataformatec/responders) -  A set of Rails responders to dry up your application.
 
 ##A/B Testing
 
