@@ -59,6 +59,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Mobile Development](#mobile-development)
   * [Money](#money)
   * [Natural Language Processing](#natural-language-processing)
+  * [Navigation](#navigation)
   * [ORM/ODM](#ormodm)
   * [ORM/ODM Extensions](#ormodm-extensions)
   * [Package Management](#package-management)
@@ -529,6 +530,10 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Natural Language Processing
 
 * [Treat](https://github.com/louismullie/treat) - Treat is a toolkit for natural language processing and computational linguistics in Ruby.
+
+## Navigation
+
+* [Breadcrumbs on Rails](https://github.com/weppos/breadcrumbs_on_rails) - A simple Ruby on Rails plugin for creating and managing a breadcrumb navigation for a Rails project.
 
 ## ORM/ODM
 
