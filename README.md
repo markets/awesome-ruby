@@ -255,6 +255,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Data Visualization
 
+* [Chartkick](http://ankane.github.io/chartkick/) - Create beautiful Javascript charts with one line of Ruby. Works with Rails, Sinatra and most browsers (including IE 6).
 * [RailRoady](https://github.com/preston/railroady) - Ruby on Rails 3/4 model and controller UML class diagram generator.
 * [Rails Erd](https://github.com/voormedia/rails-erd) - Generate Entity-Relationship Diagrams for Rails applications.
 * [Ruby/GraphViz](https://github.com/glejeune/Ruby-Graphviz) - Ruby interface to the GraphViz graphing tool.
