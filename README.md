@@ -143,6 +143,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Sass](http://sass-lang.com) - Sass makes CSS fun again.
 * Management:
   * [Autoprefixer](https://github.com/ai/autoprefixer-rails) - Parse CSS and add vendor prefixes to rules by Can I Use.
+  * [Jammit](https://github.com/documentcloud/jammit) - Industrial Strength Asset Packaging for Rails.
   * [Rails Assets](https://rails-assets.org) - Bundler to Bower proxy.
   * [Sprockets](https://github.com/sstephenson/sprockets) - Rack-based asset packaging system.
 * Development:
