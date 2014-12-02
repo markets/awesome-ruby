@@ -165,6 +165,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Authorization
 
+* [acl9](https://github.com/be9/acl9) - Acl9 is a role-based authorization system that provides a concise DSL for securing your Rails application.
 * [Authority](https://github.com/nathanl/authority) - ORM-neutral way to authorize actions in your Rails app.
 * [CanCanCan](https://github.com/CanCanCommunity/cancancan) - Continuation of CanCan, an authorization Gem for Ruby on Rails.
 * [Declarative Authorization](https://github.com/stffn/declarative_authorization) - An authorization Rails plugin using a declarative DSL for specifying authorization rules in one place.
@@ -306,6 +307,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Decorators
 
 * [Draper](https://github.com/drapergem/draper) - Draper adds an object-oriented layer of presentation logic to your Rails application.
+* [ShowFor](https://github.com/plataformatec/show_for) - Quickly show a model information with I18n features. Like form_for for displaying model data.
 
 ## DevOps Tools
 
@@ -316,7 +318,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Logstash](https://github.com/elasticsearch/logstash) - Logs/event transport, processing, management, search.
 * [Mina](https://github.com/mina-deploy/mina) - Really fast deployer and server automation tool.
 * [Puppet](https://github.com/puppetlabs/puppet) - An automated administrative engine for your Linux, Unix, and Windows systems, performs administrative tasks (such as adding users, installing packages, and updating server configurations) based on a centralized specification.
-* [Request-log-analyzer](https://github.com/wvanbergen/request-log-analyzer) - https://github.com/wvanbergen/request-log-analyzer.
+* [Request-log-analyzer](https://github.com/wvanbergen/request-log-analyzer) - Create reports based on your log files. Supports Rails, Apache, MySQL, Delayed::Job, and other formats.
 * [Rubber](https://github.com/rubber/rubber) - The rubber plugin enables relatively complex multi-instance deployments of RubyOnRails applications to Amazon's Elastic Compute Cloud (EC2).
 * [Vagrant](http://www.vagrantup.com) - Create and configure lightweight, reproducible, and portable development environments.
 
@@ -360,6 +362,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [MailCatcher](http://mailcatcher.me) - Catches mail and serves it through a dream.
 * [MailForm](https://github.com/plataformatec/mail_form) - Send e-mail straight from forms in Rails with I18n, validations, attachments and request information.
 * [Mailman](https://github.com/titanous/mailman) - An incoming mail processing microframework in Ruby.
+* [Markerb](https://github.com/plataformatec/markerb) - Allows you to render multipart e-mails from a single template written in Markdown.
 * [Pony](https://github.com/benprew/pony) - The express way to send mail from Ruby.
 * [Roadie](https://github.com/Mange/roadie) - Roadie tries to make sending HTML emails a little less painful by inlining stylesheets and rewriting relative URLs for you inside your emails.
 
@@ -886,10 +889,11 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [GitHub Trending](https://github.com/trending?l=ruby) - Find what repositories the GitHub community is most excited about today.
 * [Green Ruby News](http://greenruby.org) - A feed of fresh links of the week about ruby, javascript, webdev and devops.
 * [Practicing Ruby](https://practicingruby.com) - Delightful lessons for dedicated programmers.
-* [Ruby Weekly](http://rubyweekly.com) - A free, once–weekly e-mail round-up of Ruby news and articles.
 * [Ruby5](http://ruby5.envylabs.com) - The latest news in the Ruby and Rails community.
+* [Ruby Bookmarks](https://github.com/dreikanter/ruby-bookmarks) - Ruby and Ruby on Rails bookmarks collection.
 * [RubyDaily](http://rubydaily.org) - Community driven news.
 * [RubyFlow](http://www.rubyflow.com) - Ruby Programming Community Link Blog.
+* [Ruby Weekly](http://rubyweekly.com) - A free, once–weekly e-mail round-up of Ruby news and articles.
 * [The Ruby Toolbox](https://www.ruby-toolbox.com) - A comprehensive catalog of Ruby and Rails plug-ins, gems, tools and resources for Ruby developers with popularity ratings based on GitHub watchers and Gem downloads.
 
 # Other Awesome Lists
