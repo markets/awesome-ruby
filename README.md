@@ -357,6 +357,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [MailForm](https://github.com/plataformatec/mail_form) - Send e-mail straight from forms in Rails with I18n, validations, attachments and request information.
 * [Mailman](https://github.com/titanous/mailman) - An incoming mail processing microframework in Ruby.
 * [Pony](https://github.com/benprew/pony) - The express way to send mail from Ruby.
+* [Roadie](https://github.com/Mange/roadie) - Roadie tries to make sending HTML emails a little less painful by inlining stylesheets and rewriting relative URLs for you inside your emails.
 
 ## Environment Management
 
