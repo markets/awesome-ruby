@@ -771,6 +771,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [Watir](https://github.com/watir/watir/) - Web application testing in Ruby.
 * Extra
   * [Appraisal](https://github.com/thoughtbot/appraisal) - Appraisal integrates with bundler and rake to test your library against different versions of dependencies.
+  * [Parallel Tests](https://github.com/grosser/parallel_tests) - Speedup Test::Unit + RSpec + Cucumber by running parallel on multiple CPUs (or cores).
   * [Ruby-JMeter](https://github.com/flood-io/ruby-jmeter) - A Ruby based DSL for building JMeter test plans.
   * [Spring](https://github.com/rails/spring) - Preloads your rails environment in the background for faster testing and Rake tasks.
   * [timecop](https://github.com/travisjeffery/timecop) - Provides "time travel" and "time freezing" capabilities, making it dead simple to test time-dependent code.
