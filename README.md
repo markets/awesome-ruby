@@ -347,6 +347,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [LetterOpener](https://github.com/ryanb/letter_opener) - Preview mail in the browser instead of sending.
 * [Mail](https://github.com/mikel/mail) - A Really Ruby Mail Library.
 * [MailCatcher](http://mailcatcher.me) - Catches mail and serves it through a dream.
+* [MailForm](https://github.com/plataformatec/mail_form) - Send e-mail straight from forms in Rails with I18n, validations, attachments and request information.
 * [Mailman](https://github.com/titanous/mailman) - An incoming mail processing microframework in Ruby.
 * [Pony](https://github.com/benprew/pony) - The express way to send mail from Ruby.
 
