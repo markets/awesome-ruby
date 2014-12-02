@@ -307,6 +307,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Logstash](https://github.com/elasticsearch/logstash) - Logs/event transport, processing, management, search.
 * [Mina](https://github.com/mina-deploy/mina) - Really fast deployer and server automation tool.
 * [Puppet](https://github.com/puppetlabs/puppet) - An automated administrative engine for your Linux, Unix, and Windows systems, performs administrative tasks (such as adding users, installing packages, and updating server configurations) based on a centralized specification.
+* [Request-log-analyzer](https://github.com/wvanbergen/request-log-analyzer) - https://github.com/wvanbergen/request-log-analyzer.
 * [Rubber](https://github.com/rubber/rubber) - The rubber plugin enables relatively complex multi-instance deployments of RubyOnRails applications to Amazon's Elastic Compute Cloud (EC2).
 * [Vagrant](http://www.vagrantup.com) - Create and configure lightweight, reproducible, and portable development environments.
 
