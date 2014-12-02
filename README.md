@@ -255,6 +255,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Data Visualization
 
+* [Chartkick](http://ankane.github.io/chartkick/) - Create beautiful Javascript charts with one line of Ruby. Works with Rails, Sinatra and most browsers (including IE 6).
 * [LazyHighCharts](https://github.com/michelson/lazy_high_charts) - A simple and extremely flexible way to use HighCharts from ruby code. Tested on Ruby on Rails, Sinatra and Nanoc, but it should work with others too.
 * [RailRoady](https://github.com/preston/railroady) - Ruby on Rails 3/4 model and controller UML class diagram generator.
 * [Rails Erd](https://github.com/voormedia/rails-erd) - Generate Entity-Relationship Diagrams for Rails applications.
@@ -394,7 +395,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Rails Bootstrap Forms](https://github.com/bootstrap-ruby/rails-bootstrap-forms) - Rails form builder that makes it super easy to create beautiful-looking forms with Twitter Bootstrap 3+.
 * [Simple Form](https://github.com/plataformatec/simple_form) - Rails forms made easy.
 * Nested Forms:
-  * [ActiveForm](https://github.com/rails/activeform) - Provides an object-oriented approach to represent your forms by building a Form Object which deals with create/update actions of nested objects in a more seamless way. 
+  * [ActiveForm](https://github.com/rails/activeform) - Provides an object-oriented approach to represent your forms by building a Form Object which deals with create/update actions of nested objects in a more seamless way.
   * [Cocoon](https://github.com/nathanvda/cocoon) - Dynamic nested forms using jQuery made easy; works with formtastic, simple_form or default forms.
   * [Reform](https://github.com/apotonick/reform) - Gives you a form object with validations and nested setup of models. It is completely framework-agnostic and doesn't care about your database.
 
