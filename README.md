@@ -837,6 +837,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [soundcloud-ruby](https://github.com/soundcloud/soundcloud-ruby) - Official SoundCloud API Wrapper for Ruby.
 * [t](https://github.com/sferik/t) - A command-line power tool for Twitter.
 * [tweetstream](https://github.com/tweetstream/tweetstream) - A simple library for consuming Twitter's Streaming API.
+* [twilio-ruby](https://github.com/twilio/twilio-ruby) - A module for using the Twilio REST API and generating valid TwiML.
 * [twitter](https://github.com/sferik/twitter) - A Ruby interface to the Twitter API.
 * [wikipedia](https://github.com/kenpratt/wikipedia-client) - Ruby client for the Wikipedia API.
 * [youtube_it](https://github.com/kylejginavan/youtube_it) - An object-oriented Ruby wrapper for the YouTube GData API.
