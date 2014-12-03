@@ -734,6 +734,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ##Security
 
 * [Metasploit](https://github.com/rapid7/metasploit-framework) - World's most used penetration testing software.
+* [RbNaCl](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
 * [SecureHeaders](https://github.com/twitter/secureheaders) - Automatically apply several headers that are related to security, including: Content Security Policy (CSP), HTTP Strict Transport Security (HSTS), X-Frame-Options (XFO), X-XSS-Protection, X-Content-Type-Options, X-Download-Options & X-Permitted-Cross-Domain-Policies.
 
 ## SEO
