@@ -50,7 +50,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [GUI](#gui)
   * [HTML/XML Parsing](#htmlxml-parsing)
   * [HTTP](#http)
-  * [Imagery](#imagery)
+  * [Image Processing](#image-processing)
   * [Internationalization](#internationalization)
   * [Logging](#logging)
   * [Machine Learning](#machine-learning)
@@ -461,9 +461,10 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Sawyer](https://github.com/lostisland/sawyer) - Secret user agent of HTTP, built on top of Faraday.
 * [Typhoeus](https://github.com/typhoeus/typhoeus) - Typhoeus wraps libcurl in order to make fast and reliable requests.
 
-## Imagery
+## Image Processing
 
 * [MiniMagick](https://github.com/minimagick/minimagick) - A ruby wrapper for ImageMagick or GraphicsMagick command line.
+* [Phasion](https://github.com/westonplatter/phashion) - Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files.
 * [PSD.rb](https://github.com/layervault/psd.rb) - Parse Photoshop files in Ruby with ease.
 * [RMagick](https://github.com/rmagick/rmagick) - RMagick is an interface between Ruby and ImageMagick.
 * [Skeptick](https://github.com/maxim/skeptick) - Skeptick is an all-purpose DSL for building and running ImageMagick commands.
