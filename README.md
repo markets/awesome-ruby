@@ -635,6 +635,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Process Monitoring
 
 * [Bluepill](https://github.com/bluepill-rb/bluepill) - Simple process monitoring tool.
+* [Eye](https://github.com/kostya/eye) — Process monitoring tool. Inspired from Bluepill and God.
 * [God](https://github.com/mojombo/god) - An easy to configure, easy to extend monitoring framework written in Ruby.
 
 ## Processes and Threads
