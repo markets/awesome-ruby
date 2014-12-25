@@ -165,6 +165,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Devise](https://github.com/plataformatec/devise) - A flexible authentication solution for Rails based on Warden.
 * [OmniAuth](https://github.com/intridea/omniauth) - A library that standardizes multi-provider authentication utilizing Rack middleware.
 * [Sorcery](https://github.com/NoamB/sorcery) - Magical Authentication for Rails 3 and 4.
+* [warden](https://github.com/hassox/warden) - General Rack Authentication Framework.
 * OAuth:
   * [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) - An OAuth2 provider for Rails.
   * [OAuth2](https://github.com/intridea/oauth2) - A Ruby wrapper for the OAuth 2.0 protocol.
