@@ -899,6 +899,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Faye](http://faye.jcoglan.com/ruby.html) - A set of tools for simple publish-subscribe messaging between web clients.
 * [Firehose](https://github.com/polleverywhere/firehose) - Build realtime Ruby web applications.
 * [Rails Realtime](https://github.com/liamks/rails-realtime) - Adding Real-Time To Your RESTful Rails App.
+* [Slanger](https://github.com/stevegraham/slanger) - Open Pusher implementation compatible with Pusher libraries.
 * [Sync](https://github.com/chrismccord/sync) - Real-time Rails Partials.
 * [Websocket-Rails](https://github.com/websocket-rails/websocket-rails) - Creates a built in WebSocket server inside a Rails application with ease, and also support streaming HTTP.
 
