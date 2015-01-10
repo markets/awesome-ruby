@@ -558,6 +558,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [MongoMapper](https://github.com/mongomapper/mongomapper) - A Ruby Object Mapper for Mongo.
 * [MongoModel](https://github.com/spohlenz/mongomodel) -  Ruby ODM for interfacing with MongoDB databases.
 * [ohm](https://github.com/soveran/ohm) - Object-hash mapping library for Redis.
+* [ROM](https://github.com/rom-rb/rom) - Ruby Object Mapper (ROM) is an experimental Ruby library with the goal to provide powerful object mapping capabilities without limiting the full power of your datastore.
 * [Sequel](https://github.com/jeremyevans/sequel) - Sequel is a simple, flexible, and powerful SQL database access toolkit for Ruby.
 
 ## ORM/ODM Extensions
