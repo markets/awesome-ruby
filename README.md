@@ -19,6 +19,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Assets](#assets)
   * [Authentication and OAuth](#authentication-and-oauth)
   * [Authorization](#authorization)
+  * [Automation](#automation)
   * [Caching](#caching)
   * [CLI Builder](#cli-builder)
   * [CMS](#cms)
@@ -179,6 +180,10 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [CanCanCan](https://github.com/CanCanCommunity/cancancan) - Continuation of CanCan, an authorization Gem for Ruby on Rails.
 * [Declarative Authorization](https://github.com/stffn/declarative_authorization) - An authorization Rails plugin using a declarative DSL for specifying authorization rules in one place.
 * [Pundit](https://github.com/elabs/pundit) - Minimal authorization through OO design and pure Ruby classes.
+
+## Automation
+
+* [Huginn](https://github.com/cantino/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
 
 ## Caching
 
