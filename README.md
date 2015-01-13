@@ -544,6 +544,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Money
 
 * [eu_central_bank](https://github.com/RubyMoney/eu_central_bank) - A gem that calculates the exchange rate using published rates from European Central Bank.
+* [Monetize](https://github.com/RubyMoney/monetize) - A library for converting various objects into Money objects.
 * [Money](https://github.com/RubyMoney/money) - A Ruby Library for dealing with money and currency conversion.
 
 ## Natural Language Processing
