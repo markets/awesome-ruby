@@ -928,6 +928,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Hakiri](https://hakiri.io) - Ship Secure Ruby Apps.
 * [Honeybadger](https://www.honeybadger.io/) - Exception, uptime, and performance monitoring for Ruby.
 * [HoundCI](https://houndci.com) - Review your Ruby code for style guide violations.
+* [HuBoard](https://huboard.com) - Kanban board for GitHub issues.
 * [Inch CI](http://inch-ci.org/) - Documentation badges for Ruby projects.
 * [Omniref](https://www.omniref.com) - A comprehensive Ruby documentation site.
 * [PullReview](https://pullreview.com) - Automated code review for Ruby and Rails - from style to security.
