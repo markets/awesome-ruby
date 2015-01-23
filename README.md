@@ -720,6 +720,8 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * Classifiers
   * [classifier](https://github.com/cardmagic/classifier) - A general module to allow Bayesian and other types of classifications.
   * [stuff-classifier](https://github.com/alexandru/stuff-classifier) - A library for classifying text into multiple categories.
+* Data Analysis, Manipulation and Visualization
+  *  [daru](https://github.com/v0dro/daru) - daru (Data Analysis in RUby) is a library for storage, analysis, manipulation and visualization of data.
 * Numerical arrays
   * [NMatrix](https://github.com/sciruby/nmatrix) - Fast numerical linear algebra library for Ruby.
   * [NArray](https://github.com/masa16/narray) - N-dimensional Numerical Array for Ruby.
