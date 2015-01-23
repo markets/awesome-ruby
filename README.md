@@ -730,6 +730,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [statsample-glm](https://github.com/sciruby/statsample-glm) - Generalized Linear Models extension for Statsample.
   * [distribution](https://github.com/sciruby/distribution) - Statistical Distributions multi library wrapper.
   * [integration](https://github.com/sciruby/integration) - Numerical integration methods, based on original work by Beng.
+  * [intepolation](https://github.com/v0dro/interpolation) - Various 1D, 2D and ND interpolation routines.
   * [minimization](https://github.com/sciruby/minimization) - Minimization algorithms on pure Ruby.
   * [publisci](https://github.com/sciruby/publisci) - A toolkit for publishing scientific results to the semantic web.
   * [plotrb](https://github.com/sciruby/plotrb) - A plotting library in Ruby built on top of Vega and D3.
