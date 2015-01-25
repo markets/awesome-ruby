@@ -29,6 +29,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Configuration](#configuration)
   * [Core Extensions](#core-extensions)
   * [Country Data](#country-data)
+  * [CRM](#crm)
   * [Dashboards](#dashboards)
   * [Data Visualization](#data-visualization)
   * [Database Drivers](#database-drivers)
@@ -267,6 +268,10 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [GlobalPhone](https://github.com/sstephenson/global_phone) - Parse, validate, and format phone numbers in Ruby using Google's libphonenumber database.
 * [i18n_data](https://github.com/grosser/i18n_data) - country/language names and 2-letter-code pairs, in 85 languages, for country/language i18n.
 * [normalize_country](https://github.com/sshaw/normalize_country) - Convert country names and codes to a standard, includes a conversion program for XMLs, CSVs and DBs.
+
+## CRM
+
+* [Fat Free CRM](https://github.com/fatfreecrm/fat_free_crm) - An open source Ruby on Rails based customer relationship management platform.
 
 ## Dashboards
 
