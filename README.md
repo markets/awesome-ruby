@@ -677,6 +677,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Peek](https://github.com/peek/peek) - Visual status bar showing Rails performance.
 * [perftools.rb](https://github.com/tmm1/perftools.rb) - gperftools (formerly known as google-perftools) for Ruby code.
 * [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) - Profiler for your development and production Ruby rack apps.
+* [Rbkit](https://github.com/code-mancers/rbkit) - profiler for Ruby. With a GUI.
 * [ruby-prof](https://github.com/ruby-prof/ruby-prof) - A code profiler for MRI rubies.
 
 ## Queue
