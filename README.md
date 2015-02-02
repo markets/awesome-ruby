@@ -678,6 +678,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Profiler
 
+* [benchmark-ips](https://github.com/evanphx/benchmark-ips) - Provides iteration per second benchmarking for Ruby.
 * [bullet](https://github.com/flyerhzm/bullet) - Help to kill N+1 queries and unused eager loading.
 * [Peek](https://github.com/peek/peek) - Visual status bar showing Rails performance.
 * [perftools.rb](https://github.com/tmm1/perftools.rb) - gperftools (formerly known as google-perftools) for Ruby code.
