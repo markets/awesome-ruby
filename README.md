@@ -889,6 +889,8 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [wikipedia](https://github.com/kenpratt/wikipedia-client) - Ruby client for the Wikipedia API.
 * [youtube_it](https://github.com/kylejginavan/youtube_it) - An object-oriented Ruby wrapper for the YouTube GData API.
 * [Yt](https://github.com/Fullscreen/yt) - An object-oriented Ruby client for YouTube API V3.
+* [netsuite](https://github.com/NetSweet/netsuite) - An object-oriented Ruby client for NetSuite's SuiteTalk SOAP API
+* [netsuite_rails](https://github.com/NetSweet/netsuite_rails) - Easily bi-directionally sync ActiveRecord data with NetSuite records
 
 ## Video
 
