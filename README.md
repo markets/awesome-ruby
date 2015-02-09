@@ -563,6 +563,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Natural Language Processing
 
+* [Pragmatic Segmenter](https://github.com/diasks2/pragmatic_segmenter) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.
 * [Text](https://github.com/threedaymonk/text) - A collection of text algorithms including Levenshtein distance, Metaphone, Soundex 2, Porter stemming & White similarity.
 * [Treat](https://github.com/louismullie/treat) - Treat is a toolkit for natural language processing and computational linguistics in Ruby.
 
@@ -879,6 +880,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [itunes_store_transporter](https://github.com/sshaw/itunes_store_transporter) - Ruby wrapper around Apple's iTMSTransporter program.
 * [linkedin](https://github.com/hexgnu/linkedin) - Provides an easy-to-use wrapper for LinkedIn's REST APIs.
 * [Octokit](http://octokit.github.io/octokit.rb) - Ruby toolkit for the GitHub API.
+* [ProZ](https://github.com/diasks2/proz) - ProZ is a Ruby wrapper for the ProZ.com API. ProZ.com is the #1 Alexa ranked translation services website.
 * [Pusher](https://github.com/pusher/pusher-gem) - Ruby server library for the Pusher API.
 * [ruby-gmail](https://github.com/dcparker/ruby-gmail) - A Rubyesque interface to Gmail.
 * [ruby-trello](https://github.com/jeremytregunna/ruby-trello) - Implementation of the Trello API for Ruby.
