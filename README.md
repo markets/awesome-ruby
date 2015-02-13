@@ -552,7 +552,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Mobile Development
 
-* [Deliver](https://github.com/KrauseFx/deliver) - Continuous Deployment for iOS. Deploy screenshots, app metadata and app updates to the App Store using just one command.
+* [fastlane](https://github.com/KrauseFx/fastlane) - Connect all iOS deployment tools into one streamlined workflow.
 * [Ruboto](http://ruboto.org) - A platform for developing full stand-alone apps for Android using the Ruby language and libraries.
 * [RubyMotion](http://www.rubymotion.com) - A revolutionary toolchain that lets you quickly develop and test full-fledged native iOS and OS X applications for iPhone, iPad, Mac and Android (beta).
 
