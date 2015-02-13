@@ -534,6 +534,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [auto_html](https://github.com/dejan/auto_html) - Rails extension for transforming URLs to appropriate resource (image, link, YouTube, Vimeo video...)
 * [AXLSX](https://github.com/randym/axlsx) - An excel xlsx generation library.
 * [Betty](https://github.com/pickhardt/betty) - Friendly English-like interface for your command line. Don't remember a command? Ask Betty.
+* [Diffy](https://github.com/samg/diffy) - Easy Diffing With Ruby.
 * [Foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications.
 * [Gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 * [gon](https://github.com/gazay/gon) - If you need to send some data to your js files and you don't want to do this with long way through views and parsing - use gon.
