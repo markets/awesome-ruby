@@ -875,7 +875,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [fb_graph](https://github.com/nov/fb_graph) - A full-stack Facebook Graph API wrapper.
 * [flickr](https://github.com/RaVbaker/flickr) - A Ruby interface to the Flickr API.
 * [gitlab](https://github.com/NARKOZ/gitlab) - Ruby wrapper and CLI for the GitLab API.
-* [gmail](https://github.com/nu7hatch/gmail) - A Rubyesque interface to Gmail, with all the tools you'll need.
+* [gmail](https://github.com/gmailgem/gmail) - A Rubyesque interface to Gmail, with all the tools you'll need.
 * [hipchat-rb](https://github.com/hipchat/hipchat-rb) - HipChat HTTP API Wrapper in Ruby with Capistrano hooks.
 * [instagram-ruby-gem](https://github.com/Instagram/instagram-ruby-gem) - The official gem for the Instagram REST and Search APIs.
 * [itunes_store_transporter](https://github.com/sshaw/itunes_store_transporter) - Ruby wrapper around Apple's iTMSTransporter program.
