@@ -81,6 +81,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Security](#security)
   * [SEO](#seo)
   * [Social Networking](#social-networking)
+  * [Spreadsheets and Documents](#spreadsheets-and-documents)
   * [State Machines](#state-machines)
   * [Static Site Generation](#static-site-generation)
   * [Template Engine](#template-engine)
@@ -532,7 +533,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Misc
 
 * [auto_html](https://github.com/dejan/auto_html) - Rails extension for transforming URLs to appropriate resource (image, link, YouTube, Vimeo video...)
-* [AXLSX](https://github.com/randym/axlsx) - An excel xlsx generation library.
 * [Betty](https://github.com/pickhardt/betty) - Friendly English-like interface for your command line. Don't remember a command? Ask Betty.
 * [Diffy](https://github.com/samg/diffy) - Easy Diffing With Ruby.
 * [Foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications.
@@ -548,7 +548,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Ruby Operators](http://ruby-operators.herokuapp.com/) - A webpage showing awesome names for different Ruby operators.
 * [Termit](https://github.com/pawurb/termit) - Google Translate with speech synthesis in your terminal.
 * [Treetop](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser.
-* [Yomu](https://github.com/Erol/yomu) - Read text and metadata from files and documents (.doc, .docx, .pages, .odt, .rtf, .pdf).
 
 ## Mobile Development
 
@@ -797,6 +796,12 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Forem](https://github.com/radar/forem) - Rails 3 and Rails 4 forum engine.
 * [Mailboxer](https://github.com/mailboxer/mailboxer) - A private message system for Rails applications.
 * [Social Shares](https://github.com/Timrael/social_shares) - A gem to check how many times url was shared in social networks.
+
+## Spreadsheets and Documents
+
+* [AXLSX](https://github.com/randym/axlsx) - An excel xlsx generation library.
+* [Roo](https://github.com/roo-rb/roo) - Implements read access for all spreadsheet types and read/write access for Google spreadsheets.
+* [Yomu](https://github.com/Erol/yomu) - Read text and metadata from files and documents (.doc, .docx, .pages, .odt, .rtf, .pdf).
 
 ## State Machines
 
