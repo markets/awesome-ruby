@@ -1012,6 +1012,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Pusher](https://github.com/pusher/pusher-http-ruby) - Ruby server library for the Pusher API.
 * [ruby-gmail](https://github.com/dcparker/ruby-gmail) - A Rubyesque interface to Gmail.
 * [ruby-trello](https://github.com/jeremytregunna/ruby-trello) - Implementation of the Trello API for Ruby.
+* [Slack Notifier](https://github.com/stevenosloan/slack-notifier) - A simple wrapper for posting to Slack channels.
 * [Slack ruby gem](https://github.com/aki017/slack-ruby-gem) - A Ruby wrapper for the Slack API.
 * [soundcloud-ruby](https://github.com/soundcloud/soundcloud-ruby) - Official SoundCloud API Wrapper for Ruby.
 * [t](https://github.com/sferik/t) - A command-line power tool for Twitter.
