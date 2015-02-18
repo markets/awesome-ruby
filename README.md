@@ -59,6 +59,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Logging](#logging)
   * [Machine Learning](#machine-learning)
   * [Markdown Processors](#markdown-processors)
+  * [Messaging](#messaging)
   * [Misc](#misc)
   * [Mobile Development](#mobile-development)
   * [Money](#money)
@@ -613,6 +614,10 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [kramdown](https://github.com/gettalong/kramdown) - Kramdown is yet-another-markdown-parser but fast, pure Ruby, using a strict syntax definition and supporting several common extensions.
 * [Maruku](https://github.com/bhollis/maruku) - A pure-Ruby Markdown-superset interpreter.
 * [Redcarpet](https://github.com/vmg/redcarpet) - A fast, safe and extensible Markdown to (X)HTML parser.
+
+## Messaging
+
+* [Slack Notifier](https://github.com/stevenosloan/slack-notifier) - A simple wrapper for posting to Slack channels.
 
 ## Misc
 
