@@ -691,6 +691,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ## Queue
 
 * [active_job](https://github.com/rails/activejob) - Declare job classes that can be run by a variety of queueing backends.
+* [Backburner](https://github.com/nesquena/backburner) - Backburner is a beanstalkd-powered job queue that can handle a very high volume of jobs.
 * [Delayed::Job](https://github.com/collectiveidea/delayed_job) - Database backed asynchronous priority queue.
 * [Resque](https://github.com/resque/resque) - A Redis-backed Ruby library for creating background jobs.
 * [Que](https://github.com/chanks/que) - A Ruby job queue that uses PostgreSQL's advisory locks for speed and reliability.
