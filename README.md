@@ -314,6 +314,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Date and Time Processing
 
+* [biz](https://github.com/zendesk/biz) - Time calculations using business hours.
 * [business_time](https://github.com/bokmann/business_time) - Support for doing time math in business hours and days.
 * [ByStar](https://github.com/radar/by_star) - Find ActiveRecord objects by year, month, fortnight, week and more!
 * [Chronic](https://github.com/mojombo/chronic) - A natural language date/time parser written in pure Ruby.
