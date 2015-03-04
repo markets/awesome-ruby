@@ -147,6 +147,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Roar](https://github.com/apotonick/roar) - Resource-Oriented Architectures in Ruby.
 * [Version Cake](https://github.com/bwillis/versioncake) - An unobtrusive way to version APIs in your Rails app.
 * [versionist](https://github.com/bploetz/versionist) - A plugin for versioning Rails based RESTful APIs.
+* [Lina ](https://github.com/windy/lina) - 一个基于 Rails 的 RESTful API 框架
 
 ## Assets
 
