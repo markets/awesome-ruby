@@ -107,6 +107,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Mutations](https://github.com/cypriss/mutations) - Compose your business logic into commands that sanitize and validate input.
 * [Responders](https://github.com/plataformatec/responders) -  A set of Rails responders to dry up your application.
 * [Trailblazer](https://github.com/apotonick/trailblazer) - Trailblazer is a thin layer on top of Rails. It gently enforces encapsulation, an intuitive code structure and gives you an object-oriented architecture.
+* [wisper](https://github.com/krisleech/wisper) - A micro library providing Ruby objects with Publish-Subscribe capabilities.
 
 ##A/B Testing
 
