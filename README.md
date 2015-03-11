@@ -954,6 +954,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [CodeClimate](https://codeclimate.com) - Quality & security analysis for Ruby on Rails and Javascript.
 * [Gemnasium](https://gemnasium.com) - Monitor your project dependencies and alert you about updates and security vulnerabilities.
 * [GitHub](https://github.com) - Powerful collaboration, code review, and code management for open source and private projects.
+* [Github Changelog Generator](https://github.com/skywinder/Github-Changelog-Generator) — automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 * [Gitlab CI](https://about.gitlab.com/gitlab-ci/) - Integrate with your GitLab to run tests for your projects.
 * [GitLab](https://about.gitlab.com) -  Open source software to collaborate on code.
 * [Hakiri](https://hakiri.io) - Ship Secure Ruby Apps.
