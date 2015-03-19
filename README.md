@@ -664,6 +664,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Performance Monitoring
 
 * [New Relic](https://github.com/newrelic/rpm) - Find and fix Ruby errors with New Relic application monitoring and troubleshooting.
+* [ProfileIt] (https://profileit.io) - Live production profiling for Ruby on Rails(Always FREE for development).
 * [Skylight](https://github.com/skylightio/skylight-ruby) - A smart profiler for your Rails apps that visualizes request performance.
 * [TraceView](https://github.com/appneta/oboe-ruby) -  Full-stack application tracing and brilliant data visualization to build faster, more reliable web apps.
 
