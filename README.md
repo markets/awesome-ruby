@@ -169,6 +169,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Authlogic](https://github.com/binarylogic/authlogic) - Authlogic is a clean, simple, and unobtrusive ruby authentication solution.
 * [Clearance](https://github.com/thoughtbot/clearance) - Small and simple email & password based authenticaton for Rails.
 * [Devise](https://github.com/plataformatec/devise) - A flexible authentication solution for Rails based on Warden.
+* [JWT](https://github.com/progrium/ruby-jwt) - JSON Web Token implementation in Ruby.
 * [OmniAuth](https://github.com/intridea/omniauth) - A library that standardizes multi-provider authentication utilizing Rack middleware.
 * [Shield](https://github.com/cyx/shield) - Authentication protocol for use in your routing and model context.
 * [Sorcery](https://github.com/NoamB/sorcery) - Magical Authentication for Rails 3 and 4.
