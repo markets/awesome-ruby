@@ -664,7 +664,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Performance Monitoring
 
 * [New Relic](https://github.com/newrelic/rpm) - Find and fix Ruby errors with New Relic application monitoring and troubleshooting.
-* [ProfileIt] (https://profileit.io) - Live production profiling for Ruby on Rails(Always FREE for development).
 * [Skylight](https://github.com/skylightio/skylight-ruby) - A smart profiler for your Rails apps that visualizes request performance.
 * [TraceView](https://github.com/appneta/oboe-ruby) -  Full-stack application tracing and brilliant data visualization to build faster, more reliable web apps.
 
@@ -964,6 +963,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Inch CI](http://inch-ci.org/) - Documentation badges for Ruby projects.
 * [Omniref](https://www.omniref.com) - A comprehensive Ruby documentation site.
 * [PullReview](https://pullreview.com) - Automated code review for Ruby and Rails - from style to security.
+* [ProfileIt] (https://profileit.io) - Live production profiling for Ruby on Rails(Always FREE for development).
 * [SemaphoreCI](https://semaphoreapp.com/) - Hosted continuous integration and deployment service for open source and private projects.
 * [Traveling Ruby](http://phusion.github.io/traveling-ruby/) - Traveling Ruby lets you create self-contained Ruby app packages for Linux and OS X.
 * [Travis CI.com](https://travis-ci.com) - Take care of running your tests and deploying your private apps.
