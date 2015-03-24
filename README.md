@@ -53,6 +53,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [HTML/XML Parsing](#htmlxml-parsing)
   * [HTTP](#http)
   * [Image Processing](#image-processing)
+  * [Implementations/Compilers](#implementations-compilers)
   * [Internationalization](#internationalization)
   * [Logging](#logging)
   * [Machine Learning](#machine-learning)
@@ -501,6 +502,10 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [RMagick](https://github.com/rmagick/rmagick) - RMagick is an interface between Ruby and ImageMagick.
 * [Skeptick](https://github.com/maxim/skeptick) - Skeptick is an all-purpose DSL for building and running ImageMagick commands.
 
+## Implementations/Compilers
+
+* [Opal](https://github.com/opal/opal) - Ruby to Javascript compiler.
+
 ## Internationalization
 
 * [FastGettext](https://github.com/grosser/fast_gettext) - Ruby internationalization tool with less memory, simple, clean namespace and threadsafe.
@@ -545,7 +550,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [gon](https://github.com/gazay/gon) - If you need to send some data to your js files and you don't want to do this with long way through views and parsing - use gon.
 * [Guard](https://github.com/guard/guard) - A command line tool to easily handle events on file system modifications.
 * [JsonCompare](https://github.com/a2design-company/json-compare) - Returns the difference between two JSON files.
-* [Opal](https://github.com/opal/opal) - Ruby to Javascript compiler.
 * [play ►](https://github.com/play/play) - Your company's dj.
 * [Pry Debugger](https://github.com/nixme/pry-debugger) - Pry navigation commands via debugger (formerly ruby-debug).
 * [Pry](https://github.com/pry/pry) - A powerful alternative to the standard IRB shell for Ruby.
