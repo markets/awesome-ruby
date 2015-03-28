@@ -305,7 +305,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [mongo-ruby-driver](https://github.com/mongodb/mongo-ruby-driver) - MongoDB Ruby driver.
 * [moped](http://mongoid.org/en/moped/index.html) - A MongoDB driver for Ruby.
 * [mysql2](https://github.com/brianmario/mysql2) - A modern, simple and very fast Mysql library for Ruby (binding to libmysql).
-* [Neo4j.rb](http://neo4jrb.io) - A Neo4j OGM (Object-Graph-Mapper) for use in Ruby on Rails and Rack frameworks heavily inspired by ActiveRecord.
 * [Neography](https://github.com/maxdemarzi/neography) - A thin Ruby wrapper to the Neo4j Rest API.
 * [Redic](https://github.com/amakawa/redic) - Lightweight Redis Client.
 * [redis-rb](https://github.com/redis/redis-rb) - A Ruby client that tries to match Redis' API one-to-one, while still providing an idiomatic interface.
@@ -602,6 +601,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Mongoid](https://github.com/mongoid/mongoid) - An ODM (Object-Document-Mapper) framework for MongoDB in Ruby.
 * [MongoMapper](https://github.com/mongomapper/mongomapper) - A Ruby Object Mapper for Mongo.
 * [MongoModel](https://github.com/spohlenz/mongomodel) -  Ruby ODM for interfacing with MongoDB databases.
+* [Neo4j.rb](http://neo4jrb.io) - A Neo4j OGM (Object-Graph-Mapper) for use in Ruby on Rails and Rack frameworks heavily inspired by ActiveRecord.
 * [Ohm](https://github.com/soveran/ohm) - Object-hash mapping library for Redis.
 * [Perpetuity](https://github.com/jgaskins/perpetuity) - Persistence gem for Ruby objects using the Data Mapper pattern.
 * [ROM](https://github.com/rom-rb/rom) - Ruby Object Mapper (ROM) is an experimental Ruby library with the goal to provide powerful object mapping capabilities without limiting the full power of your datastore.
