@@ -842,6 +842,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Jekyll](http://jekyllrb.com) - Transform your plain text into static websites and blogs.
 * [Middleman](http://middlemanapp.com) - A static site generator using all the shortcuts and tools in modern web development.
 * [Nanoc](http://nanoc.ws/) - A static site generator, fit for building anything from a small personal blog to a large corporate web site.
+* [Octopress](https://github.com/octopress/octopress) - Octopress is an obsessively designed toolkit for writing and deploying Jekyll blogs.
 
 ## Template Engine
 
