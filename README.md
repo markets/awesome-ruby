@@ -491,7 +491,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [excon](https://github.com/excon/excon) - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
 * [Faraday](https://github.com/lostisland/faraday) - an HTTP client lib that provides a common interface over many adapters (such as Net::HTTP) and embraces the concept of Rack middleware when processing the request/response cycle.
 * [Http Client](https://github.com/nahi/httpclient) - Gives something like the functionality of libwww-perl (LWP) in Ruby.
-* [http](https://github.com/tarcieri/http) - The HTTP Gem: a simple Ruby DSL for making HTTP requests.
+* [HTTP](https://github.com/httprb/http.rb) - The HTTP Gem: a simple Ruby DSL for making HTTP requests.
 * [httparty](https://github.com/jnunemaker/httparty) - Makes http fun again!
 * [Patron](https://github.com/toland/patron) - Patron is a Ruby HTTP client library based on libcurl.
 * [RESTClient](https://github.com/rest-client/rest-client) - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
