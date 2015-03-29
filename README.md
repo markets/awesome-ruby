@@ -164,6 +164,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Rails Assets](https://rails-assets.org) - Bundler to Bower proxy.
   * [Sprockets](https://github.com/sstephenson/sprockets) - Rack-based asset packaging system.
 * Development:
+  * [KSS](https://github.com/kneath/kss) - A methodology for documenting CSS and generating styleguides.
   * [Quiet Assets](https://github.com/evrone/quiet_assets) - Mute assets pipeline log messages.
 
 ## Authentication and OAuth
