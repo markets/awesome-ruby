@@ -153,6 +153,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Assets
 
+* [Compass](https://github.com/Compass/compass) - Compass is a Stylesheet Authoring Environment that makes your website design simpler to implement and easier to maintain.
 * [Emoji](https://github.com/steveklabnik/emoji) - Exposes the Phantom Open Emoji library unicode/image assets and APIs for working with them.
 * [Less Rails](https://github.com/metaskills/less-rails) - The dynamic stylesheet language for the Rails asset pipeline.
 * [Less](https://github.com/cowboyd/less.rb) - Leaner CSS, in your browser or Ruby.
