@@ -886,6 +886,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * WebDrivers
   * [Selenium WebDriver](http://selenium.googlecode.com/git/docs/api/rb/index.html) - This gem provides Ruby bindings for WebDriver.
   * [API Taster](https://github.com/fredwu/api_taster) - A quick and easy way to visually test your Rails application's API.
+  * [Poltergeist](https://github.com/teampoltergeist/poltergeist) - A PhantomJS driver for Capybara.
   * [Watir](https://github.com/watir/watir/) - Web application testing in Ruby.
 * Extra
   * [Appraisal](https://github.com/thoughtbot/appraisal) - Appraisal integrates with bundler and rake to test your library against different versions of dependencies.
