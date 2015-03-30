@@ -212,6 +212,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Cloud
 
+* [AWS SDK for Ruby](https://github.com/aws/aws-sdk-ruby) - The official AWS SDK for Ruby.
 * [Fog](https://github.com/fog/fog) - The Ruby cloud services library.
 
 ## CMS
