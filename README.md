@@ -992,6 +992,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [HuBoard](https://huboard.com) - Kanban board for GitHub issues.
 * [Inch CI](http://inch-ci.org/) - Documentation badges for Ruby projects.
 * [Omniref](https://www.omniref.com) - A comprehensive Ruby documentation site.
+* [PR Dashboard](http://prs.crowdint.com/) - Review open Pull Requests from your organizations and leave a "LGTM" comment.
 * [PullReview](https://pullreview.com) - Automated code review for Ruby and Rails - from style to security.
 * [ProfileIt] (https://profileit.io) - Live production profiling for Ruby on Rails(Always FREE for development).
 * [SemaphoreCI](https://semaphoreapp.com/) - Hosted continuous integration and deployment service for open source and private projects.
