@@ -619,6 +619,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## ORM/ODM Extensions
 
 * Auditing
+  * [acts_as_archival](https://github.com/expectedbehavior/acts_as_archival) - ActiveRecord plugin for atomic object tree archiving.
   * [ActsAsParanoid](https://github.com/ActsAsParanoid/acts_as_paranoid) - ActiveRecord plugin allowing you to hide and restore records without actually deleting them.
   * [Audited](https://github.com/collectiveidea/audited) - Audited is an ORM extension for ActiveRecord & MongoMapper that logs all changes to your models.
   * [Destroyed At](https://github.com/dockyard/destroyed_at) - Allows you to "destroy" an object without deleting the record or associated records.
