@@ -203,6 +203,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## CLI Builder
 
+* [cmdparse](http://cmdparse.gettalong.org) - An advanced command line parser supporting nested commands
 * [Cocaine](https://github.com/thoughtbot/cocaine) - A small library for doing (command) lines.
 * [Commander](https://github.com/visionmedia/commander) - The complete solution for Ruby command-line executables.
 * [GLI](https://github.com/davetron5000/gli) - Git-Like Interface Command Line Parser.
