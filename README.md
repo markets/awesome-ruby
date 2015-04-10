@@ -136,6 +136,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Legato](https://github.com/tpitale/legato) - Model analytics reports and queries against the official Google Analytics Reporting API.
 * [Rack::Tracker](https://github.com/railslove/rack-tracker) - Rack middleware that can be hooked up to multiple services and exposing them in a unified fashion.
 * [Staccato](https://github.com/tpitale/staccato) - Track analytics into the official Google Analytics Collection API.
+* [Audit Rails](https://github.com/gouravtiwari/audit_rails) - Generate audit-trails for Rails application and provide analytics view out-of-the-box .
 
 ## API Builder
 
