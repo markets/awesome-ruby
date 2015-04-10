@@ -729,7 +729,8 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Sidekiq](http://sidekiq.org) - A full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
 * [Sneakers](https://github.com/jondot/sneakers) - A fast background processing framework for Ruby and RabbitMQ.
 * [Sucker Punch](https://github.com/brandonhilkert/sucker_punch) - A single process background processing library using Celluloid. Aimed to be Sidekiq's little brother.
-
+* [Coney Island](http://edraut.github.io/coney_island) - A full-featured, fast background processing framework for Ruby using RabbitMQ
+* 
 ## Rails Application Generators
 
 * [Bootstrappers](https://github.com/xdite/bootstrappers) - Bootstrappers generates a base Rails app using Bootstrap template and other goodies.
