@@ -70,6 +70,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Pagination](#pagination)
   * [PDF](#pdf)
   * [Performance Monitoring](#performance-monitoring)
+  * [Presentation Programs](#presentation-programs)
   * [Process Monitoring](#process-monitoring)
   * [Processes and Threads](#processes-and-threads)
   * [Profiler](#profiler)
@@ -694,6 +695,10 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [New Relic](https://github.com/newrelic/rpm) - Find and fix Ruby errors with New Relic application monitoring and troubleshooting.
 * [Skylight](https://github.com/skylightio/skylight-ruby) - A smart profiler for your Rails apps that visualizes request performance.
 * [TraceView](https://github.com/appneta/oboe-ruby) -  Full-stack application tracing and brilliant data visualization to build faster, more reliable web apps.
+
+## Presentation Programs
+
+* [Middleman Presentation](https://github.com/fedux-org/middleman-presentation) - Build wonderful presentations based on HTML and JavaScript by using ruby.
 
 ## Process Monitoring
 
