@@ -340,6 +340,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [time-lord](https://github.com/krainboltgreene/time-lord) - Adds extra functionality to the time class.
 * [time_diff](https://github.com/abhidsm/time_diff) - Calculates the difference between two time.
 * [TZinfo](https://github.com/tzinfo/tzinfo) - Provides daylight savings aware transformations between times in different timezones.
+* [validates_overlap](https://github.com/robinbortlik/validates_overlap) - Date and time overlap validation for ActiveRecord
 * [validates_timeliness](https://github.com/adzap/validates_timeliness) - Date and time validation plugin for ActiveModel and Rails.
 * [yymmdd](https://github.com/sshaw/yymmdd) - Tiny DSL for idiomatic date parsing and formatting.
 
