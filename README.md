@@ -130,13 +130,13 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Ahoy](https://github.com/ankane/ahoy) - A solid foundation to track visits and events in Ruby, JavaScript, and native apps.
 * [Analytical](https://github.com/jkrall/analytical) - Gem for managing multiple analytics services in your rails app.
+* [Audit Rails](https://github.com/gouravtiwari/audit_rails) - Generate audit-trails for Rails application and provide analytics view out-of-the-box .
 * [FnordMetric](https://github.com/paulasmuth/fnordmetric) - A ruby/redis framework for collecting and visualizing timeseries data. It enables you to build beautiful real-time analytics dashboards within minutes.
 * [Gabba](https://github.com/hybridgroup/gabba) - Simple way to send server-side notifications to Google Analytics.
 * [Impressionist](https://github.com/charlotte-ruby/impressionist) - Rails Plugin that tracks impressions and page views.
 * [Legato](https://github.com/tpitale/legato) - Model analytics reports and queries against the official Google Analytics Reporting API.
 * [Rack::Tracker](https://github.com/railslove/rack-tracker) - Rack middleware that can be hooked up to multiple services and exposing them in a unified fashion.
 * [Staccato](https://github.com/tpitale/staccato) - Track analytics into the official Google Analytics Collection API.
-* [Audit Rails](https://github.com/gouravtiwari/audit_rails) - Generate audit-trails for Rails application and provide analytics view out-of-the-box .
 
 ## API Builder
 
