@@ -568,6 +568,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Guard](https://github.com/guard/guard) - A command line tool to easily handle events on file system modifications.
 * [irbtools](https://github.com/janlelis/irbtools) - Improvements for Ruby's IRB.
 * [JsonCompare](https://github.com/a2design-company/json-compare) - Returns the difference between two JSON files.
+* [Parslet](http://kschiess.github.io/parslet/) - A small Ruby library for constructing parsers in the PEG (Parsing Expression Grammar) fashion.
 * [play ►](https://github.com/play/play) - Your company's dj.
 * [Pry Debugger](https://github.com/nixme/pry-debugger) - Pry navigation commands via debugger (formerly ruby-debug).
 * [Pry](https://github.com/pry/pry) - A powerful alternative to the standard IRB shell for Ruby.
@@ -961,6 +962,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Ramaze](http://ramaze.net/) - A simple, light and modular open-source web application framework written in Ruby.
 * [Roda](http://roda.jeremyevans.net/) - A routing tree web framework.
 * [Ruby on Rails](http://rubyonrails.org) - A web-application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern.
+* [Scorched](http://scorchedrb.com) - Light-weight, inheritable and composable web framework, inspired by Sinatra.
 * [Sinatra](http://www.sinatrarb.com) - Classy web-development dressed in a DSL.
 * [Volt](https://github.com/voltrb/volt) - A Ruby web framework where your ruby code runs on both the server and the client.
 
