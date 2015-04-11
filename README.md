@@ -160,6 +160,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Less Rails](https://github.com/metaskills/less-rails) - The dynamic stylesheet language for the Rails asset pipeline.
 * [Less](https://github.com/cowboyd/less.rb) - Leaner CSS, in your browser or Ruby.
 * [Sass](http://sass-lang.com) - Sass makes CSS fun again.
+* [Turbolinks](https://github.com/rails/turbolinks) - Keeps current page instance alive and replaces only the body and title in the head instead of letting the browser recompile the JavaScript and CSS between each page change.
 * Management:
   * [Asset Sync](https://github.com/rumblelabs/asset_sync) - Synchronises Assets between Rails and S3.
   * [Autoprefixer](https://github.com/ai/autoprefixer-rails) - Parse CSS and add vendor prefixes to rules by Can I Use.
