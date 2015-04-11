@@ -918,6 +918,8 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [Ruby-JMeter](https://github.com/flood-io/ruby-jmeter) - A Ruby based DSL for building JMeter test plans.
   * [Spring](https://github.com/rails/spring) - Preloads your rails environment in the background for faster testing and Rake tasks.
   * [timecop](https://github.com/travisjeffery/timecop) - Provides "time travel" and "time freezing" capabilities, making it dead simple to test time-dependent code.
+  * [Test Server](https://github.com/fedux-org/test_server) - Rails Application which acts as end point for your HTTP proxy test suite. 
+
   * [vcr](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
   * [Zapata](https://github.com/Nedomas/zapata) - Who has time to write tests? This is a revolutionary tool to make them write themselves.
 
