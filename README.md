@@ -876,6 +876,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
       * [Emoji-RSpec](https://github.com/cupakromer/emoji-rspec) - Custom Emoji Formatters for RSpec.
       * [Fuubar](https://github.com/thekompanee/fuubar) - The instafailing RSpec progress bar formatter.
       * [Nyan Cat](https://github.com/mattsears/nyan-cat-formatter) - Nyan Cat inspired RSpec formatter!
+  * [Aruba](https://github.com/cucumber/aruba) - Testing command line applications with cucumber and rspec.
   * [Bacon](https://github.com/chneukirchen/bacon) - A small RSpec clone.
   * [Capybara](http://jnicklas.github.io/capybara) - Acceptance test framework for web applications.
   * [Cucumber](https://github.com/cucumber/cucumber) - BDD that talks to domain experts first and code second.
