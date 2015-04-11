@@ -561,6 +561,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [auto_html](https://github.com/dejan/auto_html) - Rails extension for transforming URLs to appropriate resource (image, link, YouTube, Vimeo video...)
 * [Betty](https://github.com/pickhardt/betty) - Friendly English-like interface for your command line. Don't remember a command? Ask Betty.
+* [Device Detector](https://github.com/podigee/device_detector) - A precise and fast user agent parser and device detector, backed by the largest and most up-to-date user agent database.
 * [Diffy](https://github.com/samg/diffy) - Easy Diffing With Ruby.
 * [Foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications.
 * [Gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
