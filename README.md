@@ -420,6 +420,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Pony](https://github.com/benprew/pony) - The express way to send mail from Ruby.
 * [premailer-rails](https://github.com/fphilipe/premailer-rails) - CSS styled emails without the hassle.
 * [Roadie](https://github.com/Mange/roadie) - Roadie tries to make sending HTML emails a little less painful by inlining stylesheets and rewriting relative URLs for you inside your emails.
+* [Sup](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client.
 
 ## Environment Management
 
