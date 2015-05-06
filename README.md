@@ -583,7 +583,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [pygments.rb](https://github.com/tmm1/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter.
 * [RubyDNS](https://github.com/ioquatix/rubydns) - A high-performance DNS server which can be easily integrated into other projects or used as a stand-alone daemon.
 * [Ruby Operators](http://ruby-operators.herokuapp.com/) - A webpage showing awesome names for different Ruby operators.
-* [Ruby Push Notifications](https://github.com/calonso/ruby-push-notifications) - iOS, Android and Windows Phone Push notifications made easy.
 * [Termit](https://github.com/pawurb/termit) - Google Translate with speech synthesis in your terminal.
 * [Treetop](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser.
 
@@ -592,6 +591,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [fastlane](https://github.com/KrauseFx/fastlane) - Connect all iOS deployment tools into one streamlined workflow.
 * [Ruboto](http://ruboto.org) - A platform for developing full stand-alone apps for Android using the Ruby language and libraries.
 * [RubyMotion](http://www.rubymotion.com) - A revolutionary toolchain that lets you quickly develop and test full-fledged native iOS and OS X applications for iPhone, iPad, Mac and Android (beta).
+* [Ruby Push Notifications](https://github.com/calonso/ruby-push-notifications) - iOS, Android and Windows Phone Push notifications made easy.
 
 ## Money
 
