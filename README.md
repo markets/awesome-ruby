@@ -591,6 +591,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [fastlane](https://github.com/KrauseFx/fastlane) - Connect all iOS deployment tools into one streamlined workflow.
 * [Ruboto](http://ruboto.org) - A platform for developing full stand-alone apps for Android using the Ruby language and libraries.
 * [RubyMotion](http://www.rubymotion.com) - A revolutionary toolchain that lets you quickly develop and test full-fledged native iOS and OS X applications for iPhone, iPad, Mac and Android (beta).
+* [Ruby Push Notifications](https://github.com/calonso/ruby-push-notifications) - iOS, Android and Windows Phone Push notifications made easy.
 
 ## Money
 
