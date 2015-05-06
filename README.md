@@ -876,6 +876,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Template Engine
 
+* [Ate](https://github.com/TheBlasfem/ate) - Attractive Template Engine for minimalist people.
 * [Curly](https://github.com/zendesk/curly) - A template language that completely separates structure and logic.
 * [Haml](https://github.com/haml/haml) - HTML Abstraction Markup Language.
 * [Liquid](https://github.com/Shopify/liquid) - Safe, customer facing template language for flexible web apps.
