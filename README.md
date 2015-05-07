@@ -685,7 +685,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 * [benchmark-ips](https://github.com/evanphx/benchmark-ips) - Provides iteration per second benchmarking for Ruby.
 * [bullet](https://github.com/flyerhzm/bullet) - Help to kill N+1 queries and unused eager loading.
-* [Derailed Benchmarks](https://github.com/schneems/derailed_benchmarks) - A series of things you can use to benchmark a Rails app.
+* [Derailed Benchmarks](https://github.com/schneems/derailed_benchmarks) - A series of things you can use to benchmark any Rack based app.
 * [Peek](https://github.com/peek/peek) - Visual status bar showing Rails performance.
 * [perftools.rb](https://github.com/tmm1/perftools.rb) - gperftools (formerly known as google-perftools) for Ruby code.
 * [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) - Profiler for your development and production Ruby rack apps.
