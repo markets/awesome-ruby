@@ -205,7 +205,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## CLI Builder
 
 * [Cocaine](https://github.com/thoughtbot/cocaine) - A small library for doing (command) lines.
-* [Commander](https://github.com/visionmedia/commander) - The complete solution for Ruby command-line executables.
+* [Commander](https://github.com/commander-rb/commander) - The complete solution for Ruby command-line executables.
 * [GLI](https://github.com/davetron5000/gli) - Git-Like Interface Command Line Parser.
 * [Main](https://github.com/ahoward/main) - A class factory and DSL for generating command line programs real quick.
 * [Rake](https://github.com/jimweirich/rake) - A make-like build utility for Ruby.
