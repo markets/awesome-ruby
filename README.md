@@ -22,6 +22,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Automation](#automation)
   * [Caching](#caching)
   * [CLI Builder](#cli-builder)
+  * [CLI Utilities](#cli-utilities)
   * [Cloud](#cloud)
   * [CMS](#cms)
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
@@ -214,6 +215,10 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Thor](http://whatisthor.com) - A toolkit for building powerful command-line interfaces.
 * [Trollop](https://github.com/manageiq/trollop) - A commandline option parser for Ruby that just gets out of your way.
 * [TTY](https://github.com/peter-murach/tty) - Toolbox for developing CLI clients.
+
+## CLI Utilities
+
+* [Ruby/Progressbar](https://github.com/jfelchner/ruby-progressbar) - The most flexible text progress bar library for Ruby.
 
 ## Cloud
 
