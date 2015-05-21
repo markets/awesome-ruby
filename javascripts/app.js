@@ -7,6 +7,10 @@ $(document).ready(function(){
     $(".content ul:first").remove();
 
     $('.menu a').anchorjump();
+
+    if (location.hash != "") {
+      $.anchorjump(location.hash);
+    }
   });
 
   $(function() {
