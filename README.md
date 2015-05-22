@@ -17,6 +17,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Analytics](#analytics)
   * [API Builder](#api-builder)
   * [Assets](#assets)
+  * [Audited](#audit-trails)
   * [Authentication and OAuth](#authentication-and-oauth)
   * [Authorization](#authorization)
   * [Automation](#automation)
@@ -69,6 +70,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [ORM/ODM Extensions](#ormodm-extensions)
   * [Package Management](#package-management)
   * [Pagination](#pagination)
+  * [Paper Trai](#audit-trails)
   * [PDF](#pdf)
   * [Performance Monitoring](#performance-monitoring)
   * [Presentation Programs](#presentation-programs)
@@ -170,6 +172,11 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Sprockets](https://github.com/sstephenson/sprockets) - Rack-based asset packaging system.
 * Development:
   * [Quiet Assets](https://github.com/evrone/quiet_assets) - Mute assets pipeline log messages.
+
+## Audit Trails
+
+* [Audited](https://github.com/collectiveidea/audited) - Audited (formerly acts_as_audited) is an ORM extension that logs all changes to your Rails models.
+* [Paper Trail](https://github.com/airblade/paper_trail) - Track changes to your models' data. Good for auditing or versioning.
 
 ## Authentication and OAuth
 
