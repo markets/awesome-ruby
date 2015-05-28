@@ -726,6 +726,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Bluepill](https://github.com/bluepill-rb/bluepill) - Simple process monitoring tool.
 * [Eye](https://github.com/kostya/eye) — Process monitoring tool. Inspired from Bluepill and God.
 * [God](https://github.com/mojombo/god) - An easy to configure, easy to extend monitoring framework written in Ruby.
+* [Monit](https://mmonit.com/monit/) - A small Open Source utility for managing and monitoring Unix systems. There is also a paid version named [M/Monit](https://mmonit.com/) which provides monitoring and management of all your Monit enabled hosts via a user interface.
 
 ## Processes and Threads
 
