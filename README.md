@@ -33,6 +33,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Country Data](#country-data)
   * [CRM](#crm)
   * [Dashboards](#dashboards)
+  * [Data Processing and ETL](#data-processing-and-etl)
   * [Data Visualization](#data-visualization)
   * [Database Drivers](#database-drivers)
   * [Database Tools](#database-tools)
@@ -303,6 +304,10 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Dashing](http://shopify.github.io/dashing/) - A Sinatra based framework that lets you build beautiful dashboards.
 * [Dashing-Rails](https://github.com/gottfrois/dashing-rails) - The exceptionally handsome dashboard framework for Rails.
 
+## Data Processing and ETL
+
+* [Kiba](http://www.kiba-etl.org) - A lightweight data processing / ETL framework for Ruby.
+ 
 ## Data Visualization
 
 * [Chartkick](http://ankane.github.io/chartkick/) - Create beautiful Javascript charts with one line of Ruby. Works with Rails, Sinatra and most browsers (including IE 6).
