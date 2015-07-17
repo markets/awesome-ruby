@@ -484,6 +484,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Http Client](https://github.com/nahi/httpclient) - Gives something like the functionality of libwww-perl (LWP) in Ruby.
 * [http](https://github.com/tarcieri/http) - The HTTP Gem: a simple Ruby DSL for making HTTP requests.
 * [httparty](https://github.com/jnunemaker/httparty) - Makes http fun again!
+* [Http-2](https://github.com/igrigorik/http-2) - Pure Ruby implementation of HTTP/2 protocol
 * [Patron](https://github.com/toland/patron) - Patron is a Ruby HTTP client library based on libcurl.
 * [RESTClient](https://github.com/rest-client/rest-client) - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
 * [Savon](https://github.com/savonrb/savon) - Savon is a SOAP client for the Ruby programming language.
@@ -547,6 +548,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Pry Debugger](https://github.com/nixme/pry-debugger) - Pry navigation commands via debugger (formerly ruby-debug).
 * [Pry](https://github.com/pry/pry) - A powerful alternative to the standard IRB shell for Ruby.
 * [pygments.rb](https://github.com/tmm1/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter.
+* [QR-code](https://github.com/whomwah/rqrcode) - A Ruby library that encodes QR Codes
 * [RubyDNS](https://github.com/ioquatix/rubydns) - A high-performance DNS server which can be easily integrated into other projects or used as a stand-alone daemon.
 * [Ruby Operators](http://ruby-operators.herokuapp.com/) - A webpage showing awesome names for different Ruby operators.
 * [Termit](https://github.com/pawurb/termit) - Google Translate with speech synthesis in your terminal.
