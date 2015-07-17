@@ -547,11 +547,11 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Pry Debugger](https://github.com/nixme/pry-debugger) - Pry navigation commands via debugger (formerly ruby-debug).
 * [Pry](https://github.com/pry/pry) - A powerful alternative to the standard IRB shell for Ruby.
 * [pygments.rb](https://github.com/tmm1/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter.
+* [QR-code] (https://github.com/whomwah/rqrcode) - A Ruby library that encodes QR Codes.
 * [RubyDNS](https://github.com/ioquatix/rubydns) - A high-performance DNS server which can be easily integrated into other projects or used as a stand-alone daemon.
 * [Ruby Operators](http://ruby-operators.herokuapp.com/) - A webpage showing awesome names for different Ruby operators.
 * [Termit](https://github.com/pawurb/termit) - Google Translate with speech synthesis in your terminal.
 * [Treetop](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser.
-* [QR-code] (https://github.com/whomwah/rqrcode) - A Ruby library that encodes QR Codes.
 
 ## Mobile Development
 
