@@ -551,6 +551,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Ruby Operators](http://ruby-operators.herokuapp.com/) - A webpage showing awesome names for different Ruby operators.
 * [Termit](https://github.com/pawurb/termit) - Google Translate with speech synthesis in your terminal.
 * [Treetop](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser.
+* [QR-code} (https://github.com/whomwah/rqrcode) - A Ruby library that encodes QR Codes.
 
 ## Mobile Development
 
