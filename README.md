@@ -95,6 +95,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Video](#video)
   * [Web Crawling](#web-crawling)
   * [Web Frameworks](#web-frameworks)
+  * [Rails Generators](#rails-generators)
   * [Web Servers](#web-servers)
   * [WebSocket](#websocket)
 * [Services and Apps](#services-and-apps)
@@ -1002,6 +1003,15 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Sinatra](http://www.sinatrarb.com) - Classy web-development dressed in a DSL.
 * [Volt](https://github.com/voltrb/volt) - A Ruby web framework where your ruby code runs on both the server and the client.
 
+## Rails Generators
+
+* [Rails Bricks](http://www.railsbricks.net/) - Enables you to create Rails apps much faster by automating mundane setup tasks and configuring useful common gems for you.
+* [Rails Composer](https://github.com/RailsApps/rails-composer) - The Rails generator on steroids for starter apps.
+* [Prelang](http://prelang.com/) - Rapidly develop a Rails web application online with Prelang.
+* [Hobo](http://www.hobocentral.net/) - We love making web apps with Ruby and Rails. Less time constructing, more time creating. Less code, more fun.
+
+[Comparison](https://github.com/juanpastas/awesome-rails/tree/patch-1#generators).
+
 ## Web Servers
 
 * [Goliath](https://github.com/postrank-labs/goliath) - A non-blocking Ruby web server framework.
@@ -1056,6 +1066,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Ruby Rouges](http://devchat.tv/ruby-rogues) - Weekly panel discussion about programming, primarily in Ruby.
 * [Ruby Weekly](http://rubyweekly.com) - A free, once–weekly e-mail round-up of Ruby news and articles.
 * [The Ruby Toolbox](https://www.ruby-toolbox.com) - A comprehensive catalog of Ruby and Rails plug-ins, gems, tools and resources for Ruby developers with popularity ratings based on GitHub watchers and Gem downloads.
+* [Awesome Rails List](https://github.com/ekremkaraca/awesome-rails) An awesome list of Rails resources.
 
 # Other Awesome Lists
 
