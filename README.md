@@ -697,6 +697,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * Packages and Applications
   * [Berkshelf](https://github.com/berkshelf/berkshelf) - A Chef Cookbook manager.
   * [CocoaPods](https://github.com/CocoaPods/CocoaPods) - The Objective-C dependency manager.
+  * [GitCompound](https://github.com/grzesiek/git_compound) - Git-based dependency manager that combines features of Bundler, Composer and Git submodules.
   * [fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
   * [Homebrew-cask](https://github.com/caskroom/homebrew-cask) - A CLI workflow for the administration of Mac applications distributed as binaries.
   * [Homebrew](https://github.com/Homebrew/homebrew) - The missing package manager for OS X.
