@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/markets/awesome-ruby/gh-pages/images/logo.png" align="absmiddle"/> <a href="http://awesome-ruby.com">Awesome Ruby</a>
+# <img src="https://raw.githubusercontent.com/markets/awesome-ruby/gh-pages/images/logo.png" align="absmiddle"/> <a href="http://awesome-ruby.com">Awesome Ruby</a> [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collection of awesome Ruby libraries, tools, frameworks and software. The essential Ruby to build modern Apps and Web Apps.
 
