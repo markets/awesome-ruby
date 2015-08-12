@@ -178,6 +178,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Clearance](https://github.com/thoughtbot/clearance) - Small and simple email & password based authenticaton for Rails.
 * [Devise](https://github.com/plataformatec/devise) - A flexible authentication solution for Rails based on Warden.
 * [JWT](https://github.com/progrium/ruby-jwt) - JSON Web Token implementation in Ruby.
+* [Knock](https://github.com/nsarno/knock) - Seamless JWT authentication for Rails API.
 * [OmniAuth](https://github.com/intridea/omniauth) - A library that standardizes multi-provider authentication utilizing Rack middleware.
 * [Shield](https://github.com/cyx/shield) - Authentication protocol for use in your routing and model context.
 * [Sorcery](https://github.com/NoamB/sorcery) - Magical Authentication for Rails 3 and 4.
