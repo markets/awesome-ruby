@@ -873,6 +873,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ## Spreadsheets and Documents
 
 * [AXLSX](https://github.com/randym/axlsx) - An excel xlsx generation library.
+* [RobustExcelOle](https://github.com/Thomas008/robust_excel_ole) - A toolset for complex operations on Excel workbooks via the OLE interface. (Windows only ;( ...) 
 * [Roo](https://github.com/roo-rb/roo) - Implements read access for all spreadsheet types and read/write access for Google spreadsheets.
 * [Yomu](https://github.com/Erol/yomu) - Read text and metadata from files and documents (.doc, .docx, .pages, .odt, .rtf, .pdf).
 
