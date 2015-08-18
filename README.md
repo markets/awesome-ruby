@@ -309,7 +309,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Data Processing and ETL
 
 * [Kiba](http://www.kiba-etl.org) - A lightweight data processing / ETL framework for Ruby.
- 
+
 ## Data Visualization
 
 * [Chartkick](http://ankane.github.io/chartkick/) - Create beautiful Javascript charts with one line of Ruby. Works with Rails, Sinatra and most browsers (including IE 6).
@@ -494,12 +494,14 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Google Maps for Rails](https://github.com/apneadiving/Google-Maps-for-Rails) - Enables easy Google map + overlays creation in Ruby apps.
 
 ## Git Tools
+
 * [ginatra](https://github.com/NARKOZ/ginatra) - A web frontend for Git repositories.
 * [git-auto-bisect](https://github.com/grosser/git-autobisect) - Find the commit that broke master.
 * [git-spelunk](https://github.com/osheroff/git-spelunk) - Dig through git blame history.
 * [git-up](https://github.com/aanand/git-up) - Fetch and rebase all locally-tracked remote branches.
 * [git-whence](https://github.com/grosser/git-whence) - Find which merge a commit came from.
 * [hub](https://github.com/github/hub) - A command line tool that wraps Git in order to extend it with extra features and commands that make working with GitHub easier.
+* [Overcommit](https://github.com/brigade/overcommit) - A fully configurable and extendable Git hook manager.
 * [Rugged](https://github.com/libgit2/rugged) - Ruby bindings to libgit2.
 
 ## GUI
