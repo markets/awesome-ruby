@@ -170,7 +170,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Rails Assets](https://rails-assets.org) - Bundler to Bower proxy.
   * [Sprockets](https://github.com/sstephenson/sprockets) - Rack-based asset packaging system.
 * Development:
-  * [Hologram](https://github.com/trulia/hologram) - A markdown based documentation system for style guides.
   * [Quiet Assets](https://github.com/evrone/quiet_assets) - Mute assets pipeline log messages.
 
 ## Authentication and OAuth
@@ -405,6 +404,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Documentation](https://github.com/adamcooke/documentation) - A Rails engine to provider the ability to add documentation to a Rails application.
 * [GitHub Changelog Generator](https://github.com/skywinder/github-changelog-generator) — Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 * [grape-swagger](https://github.com/tim-vandecasteele/grape-swagger) - Add swagger compliant documentation to your Grape API.
+* [Hologram](https://github.com/trulia/hologram) - A markdown based documentation system for style guides. It parses comments in your CSS and helps you turn them into a beautiful style guide.
 * [Inch](https://github.com/rrrene/inch) - Inch is a documentation measurement and evalutation tool for Ruby code, based on YARD.
 * [RDoc](https://github.com/rdoc/rdoc) - RDoc produces HTML and command-line documentation for Ruby projects.
 * [YARD](http://yardoc.org) - YARD enables the user to generate consistent, usable documentation that can be exported to a number of formats very easily.
