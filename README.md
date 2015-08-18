@@ -811,8 +811,9 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * Classifiers
   * [classifier-reborn](https://github.com/jekyll/classifier-reborn) - An active fork of Classifier, and general module to allow Bayesian and other types of classifications.
   * [stuff-classifier](https://github.com/alexandru/stuff-classifier) - A library for classifying text into multiple categories.
-* Data structures
- * [Rgl](https://github.com/monora/rgl) - A framework for graph data structures and algorithms. 
+* Data analysis/structures
+  * [daru](https://github.com/v0dro/daru) - A library for storage, analysis, manipulation and visualization of data in pure Ruby.
+  * [Rgl](https://github.com/monora/rgl) - A framework for graph data structures and algorithms.
 * Numerical arrays
   * [NMatrix](https://github.com/sciruby/nmatrix) - Fast numerical linear algebra library for Ruby.
   * [NArray](https://github.com/masa16/narray) - N-dimensional Numerical Array for Ruby.
