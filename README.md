@@ -727,6 +727,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Prawn](https://github.com/prawnpdf/prawn) - Fast, Nimble PDF Writer for Ruby.
 * [RGhost](https://github.com/shairontoledo/rghost) - RGhost is a document creation and conversion API.
 * [Shrimp](https://github.com/adjust/shrimp) - A phantomjs based pdf renderer.
+* [Squid](https://github.com/fullscreen/squid) - Squid · A Ruby library to plot charts in PDF files
 * [Wicked Pdf](https://github.com/mileszs/wicked_pdf) - PDF generator (from HTML) plugin for Ruby on Rails.
 * [Wisepdf](https://github.com/igor-alexandrov/wisepdf) - Wkhtmltopdf wrapper done right.
 
