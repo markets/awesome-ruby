@@ -964,6 +964,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [timecop](https://github.com/travisjeffery/timecop) - Provides "time travel" and "time freezing" capabilities, making it dead simple to test time-dependent code.
   * [vcr](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
   * [Zapata](https://github.com/Nedomas/zapata) - Who has time to write tests? This is a revolutionary tool to make them write themselves.
+  * [Wrong](https://github.com/sconover/wrong) - Wrong provides a general assert method that takes a predicate block. Assertion failure messages are rich in detail.
 
 ## Third-party APIs
 
