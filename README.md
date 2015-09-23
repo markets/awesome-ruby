@@ -62,6 +62,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Machine Learning](#machine-learning)
   * [Markdown Processors](#markdown-processors)
   * [Misc](#misc)
+  * [Messaging](#messaging)
   * [Mobile Development](#mobile-development)
   * [Money](#money)
   * [Natural Language Processing](#natural-language-processing)
@@ -615,6 +616,10 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Ruby Operators](http://ruby-operators.herokuapp.com/) - A webpage showing awesome names for different Ruby operators.
 * [Termit](https://github.com/pawurb/termit) - Google Translate with speech synthesis in your terminal.
 * [Treetop](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser.
+
+## Messaging
+
+* [Net::TCPClient](https://github.com/reidmorrison/net_tcp_client) - TCP Socket Client with built-in timeouts, retries, and logging.
 
 ## Mobile Development
 
