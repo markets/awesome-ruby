@@ -45,6 +45,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Ebook](#ebook)
   * [Email](#email)
+  * [Encryption](#encryption)
   * [Environment Management](#environment-management)
   * [Error Handling](#error-handling)
   * [File Upload](#file-upload)
@@ -447,6 +448,10 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [premailer-rails](https://github.com/fphilipe/premailer-rails) - CSS styled emails without the hassle.
 * [Roadie](https://github.com/Mange/roadie) - Roadie tries to make sending HTML emails a little less painful by inlining stylesheets and rewriting relative URLs for you inside your emails.
 * [Sup](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client.
+
+## Encryption
+
+* [Symmetric Encryption](http://reidmorrison.github.io/symmetric-encryption/) - Transparently encrypt ActiveRecord, Mongoid, and MongoMapper attributes. Encrypt passwords in configuration files. Encrypt entire files at rest.
 
 ## Environment Management
 
