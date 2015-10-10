@@ -214,7 +214,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [formatador](https://github.com/geemus/formatador) - STDOUT text formatting.
 * [GLI](https://github.com/davetron5000/gli) - Git-Like Interface Command Line Parser.
 * [Main](https://github.com/ahoward/main) - A class factory and DSL for generating command line programs real quick.
-* [Rake](https://github.com/jimweirich/rake) - A make-like build utility for Ruby.
+* [Rake](https://github.com/ruby/rake) - A make-like build utility for Ruby.
 * [Ru](https://github.com/tombenner/ru) - Ruby in your shell.
 * [Slop](https://github.com/leejarvis/slop) - Simple Lightweight Option Parsing.
 * [Thor](http://whatisthor.com) - A toolkit for building powerful command-line interfaces.
@@ -346,7 +346,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Large Hadron Migrator](https://github.com/soundcloud/lhm) - Online MySQL schema migrations without locking the table.
 * [Lol DBA](https://github.com/plentz/lol_dba) - Scan your models and displays a list of columns that probably should be indexed.
 * [PgHero](https://github.com/ankane/pghero) - Postgres insights made easy.
-* [SchemaPlus](https://github.com/SchemaPlus/schema_plus) — SchemaPlus provides a collection of enhancements and extensions to ActiveRecord
+* [SchemaPlus](https://github.com/SchemaPlus/schema_plus) - SchemaPlus provides a collection of enhancements and extensions to ActiveRecord
 * [Seedbank](https://github.com/james2m/seedbank) - Seedbank allows you to structure your Rails seed data instead of having it all dumped into one large file.
 * [Seed dump](https://github.com/rroblak/seed_dump) - Rails 4 task to dump (parts) of your database to db/seeds.rb.
 * [Seed Fu](https://github.com/mbleigh/seed-fu) - Advanced seed data handling for Rails.
@@ -406,7 +406,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Apipie](https://github.com/Apipie/apipie-rails) - Rails API documentation and display tool using Ruby syntax.
 * [Asciidoctor](http://asciidoctor.org) - A fast, Ruby-based text processor & publishing toolchain for converting AsciiDoc to HTML5, DocBook, EPUB3, PDF & more.
 * [Documentation](https://github.com/adamcooke/documentation) - A Rails engine to provider the ability to add documentation to a Rails application.
-* [GitHub Changelog Generator](https://github.com/skywinder/github-changelog-generator) — Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+* [GitHub Changelog Generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 * [grape-swagger](https://github.com/tim-vandecasteele/grape-swagger) - Add swagger compliant documentation to your Grape API.
 * [Hologram](https://github.com/trulia/hologram) - A markdown based documentation system for style guides. It parses comments in your CSS and helps you turn them into a beautiful style guide.
 * [Inch](https://github.com/rrrene/inch) - Inch is a documentation measurement and evalutation tool for Ruby code, based on YARD.
@@ -754,7 +754,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Process Monitoring
 
 * [Bluepill](https://github.com/bluepill-rb/bluepill) - Simple process monitoring tool.
-* [Eye](https://github.com/kostya/eye) — Process monitoring tool. Inspired from Bluepill and God.
+* [Eye](https://github.com/kostya/eye) - Process monitoring tool. Inspired from Bluepill and God.
 * [God](https://github.com/mojombo/god) - An easy to configure, easy to extend monitoring framework written in Ruby.
 
 ## Processes and Threads
@@ -905,7 +905,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [FiniteMachine](https://github.com/peter-murach/finite_machine) - A plain Ruby state machine with a straightforward and expressive syntax.
 * [simple_states](https://github.com/svenfuchs/simple_states) - A super-slim statemachine-like support library.
 * [Statesman](https://github.com/gocardless/statesman) - A statesmanlike state machine library.
-* [transitions](https://github.com/troessner/transitions) — A ruby state machine implementatio.
+* [transitions](https://github.com/troessner/transitions) - A ruby state machine implementatio.
 * [Workflow](https://github.com/geekq/workflow) - A finite-state-machine-inspired API for modeling and interacting with what we tend to refer to as 'workflow'.
 
 ## Static Site Generation
