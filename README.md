@@ -794,7 +794,6 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Hobo](https://github.com/Hobo/hobo) - The web app builder for Rails.
 * [orats](https://github.com/nickjj/orats) - Opinionated rails application templates.
 * [Rails Composer](https://github.com/RailsApps/rails-composer) - The Rails generator on steroids for starter apps.
-* [RailsBricks](https://github.com/nicoschuele/railsbricks) - Boost your Rails development productivity.
 * [Raygun](https://github.com/carbonfive/raygun) - Builds applications with the common customization stuff already done.
 * [Suspenders](https://github.com/thoughtbot/suspenders) - Suspenders is the base Rails application used at thoughtbot.
 
