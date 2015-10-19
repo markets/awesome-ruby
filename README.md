@@ -1084,6 +1084,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Ruby Rouges](http://devchat.tv/ruby-rogues) - Weekly panel discussion about programming, primarily in Ruby.
 * [Ruby Weekly](http://rubyweekly.com) - A free, once–weekly e-mail round-up of Ruby news and articles.
 * [The Ruby Toolbox](https://www.ruby-toolbox.com) - A comprehensive catalog of Ruby and Rails plug-ins, gems, tools and resources for Ruby developers with popularity ratings based on GitHub watchers and Gem downloads.
+* [Open Source Rails](http://www.opensourcerails.com/) - A gallery of the best open source rack and Ruby on Rails web applications.
 
 # Other Awesome Lists
 
