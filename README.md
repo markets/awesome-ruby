@@ -731,6 +731,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## PDF
 
+* [DocRaptor](https://github.com/expectedbehavior/doc_raptor_gem) - For use with [DocRaptor](https://docraptor.com), convert html to pdf with ease and precision.
 * [Gimli](https://github.com/walle/gimli) - Utility for converting markup files to pdf files.
 * [Kitabu](https://github.com/fnando/kitabu) - A framework for creating e-books from Markdown/Textile text markup using Ruby.
 * [Pdfkit](https://github.com/pdfkit/pdfkit) - HTML+CSS to PDF using wkhtmltopdf.
