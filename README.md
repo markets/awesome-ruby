@@ -275,6 +275,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Configuration
 
 * [Configatron](https://github.com/markbates/configatron) - Simple and feature rich configuration system for Ruby apps.
+* [Configurability](https://github.com/ged/configurability) - A Ruby mixin that allows you to add configurability to one or more objects or classes.
 * [Configus](https://github.com/kaize/configus) - Helps you easily manage environment specific settings.
 * [dotenv](https://github.com/bkeepers/dotenv) - Loads environment variables from `.env`.
 * [Econfig](https://github.com/elabs/econfig) - Flexible configuration for Rails applications.
