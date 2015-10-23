@@ -494,6 +494,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Simple Form](https://github.com/plataformatec/simple_form) - Rails forms made easy.
 * Nested Forms:
   * [ActiveForm](https://github.com/rails/activeform) - Provides an object-oriented approach to represent your forms by building a Form Object which deals with create/update actions of nested objects in a more seamless way.
+  * [ActiveType](https://github.com/makandra/active_type) - is "presenter models" (or "form models") in Rails
   * [Cocoon](https://github.com/nathanvda/cocoon) - Dynamic nested forms using jQuery made easy; works with formtastic, simple_form or default forms.
   * [Reform](https://github.com/apotonick/reform) - Gives you a form object with validations and nested setup of models. It is completely framework-agnostic and doesn't care about your database.
 
