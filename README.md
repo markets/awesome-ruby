@@ -927,6 +927,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Mustache](https://github.com/mustache/mustache) - Logic-less Ruby templates.
 * [Slim](https://github.com/slim-template/slim) - A template language whose goal is reduce the syntax to the essential parts without becoming cryptic.
 * [Tilt](https://github.com/rtomayko/tilt) - Generic interface to multiple Ruby template engines.
+* [Inversion](http://deveiate.org/projects/Inversion) - Inversion is a templating system for Ruby. It uses the "Inversion of Control" principle to decouple the contents and structure of templates from the code that uses them, making it easier to separate concerns, keep your tests simple, and avoid polluting scopes with ephemeral data. 
 
 ## Testing
 
