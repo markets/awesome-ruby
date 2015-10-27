@@ -1024,7 +1024,6 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Lotus](http://lotusrb.org) - It aims to bring back Object Oriented Programming to web development, leveraging on a stable API, a minimal DSL, and plain objects.
 * [Padrino](http://www.padrinorb.com) - A full-stack ruby framework built upon Sinatra.
 * [Pakyow](http://pakyow.com/) - A framework for building modern web-apps in Ruby. It helps you build working software faster with a development process that remains friendly to both designers and developers.
-* [Plezi](https://github.com/boazsegev/plezi) - A  Websockets, RESTful routing and HTTP streaming application framework that doesn't use Rack, but is happy to play together with your existing Rack application (i.e. Rails/Sinatra).
 * [Ramaze](http://ramaze.net/) - A simple, light and modular open-source web application framework written in Ruby.
 * [Roda](http://roda.jeremyevans.net/) - A routing tree web framework.
 * [Ruby on Rails](http://rubyonrails.org) - A web-application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern.
@@ -1047,7 +1046,6 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 * [Faye](http://faye.jcoglan.com/ruby.html) - A set of tools for simple publish-subscribe messaging between web clients.
 * [Firehose](https://github.com/polleverywhere/firehose) - Build realtime Ruby web applications.
-* [Plezi](https://github.com/boazsegev/plezi) - the easy way to support Websockets, RESTful routing and HTTP streaming in your application (i.e. Rails/Sinatra), as well as an independent framework.
 * [Rails Realtime](https://github.com/liamks/rails-realtime) - Adding Real-Time To Your RESTful Rails App.
 * [Slanger](https://github.com/stevegraham/slanger) - Open Pusher implementation compatible with Pusher libraries.
 * [Sync](https://github.com/chrismccord/sync) - Real-time Rails Partials.
