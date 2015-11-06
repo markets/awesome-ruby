@@ -1071,6 +1071,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [PullReview](https://pullreview.com) - Automated code review for Ruby and Rails - from style to security.
 * [ProfileIt](https://profileit.io) - Live production profiling for Ruby on Rails (always FREE for development).
 * [SemaphoreCI](https://semaphoreapp.com/) - Hosted continuous integration and deployment service for open source and private projects.
+* [SideCI](https://www.sideci.com) - Automated Code Review with GitHub PR. - Monitoring Style Violations, Quality, Security, Dependencies.
 * [Traveling Ruby](http://phusion.github.io/traveling-ruby/) - Traveling Ruby lets you create self-contained Ruby app packages for Linux and OS X.
 * [Travis CI.com](https://travis-ci.com) - Take care of running your tests and deploying your private apps.
 * [Travis CI.org](https://travis-ci.org) - A distributed build system for the open source community.
