@@ -899,6 +899,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 * [FriendlyId](https://github.com/norman/friendly_id) - The "Swiss Army bulldozer" of slugging and permalink plugins for Active Record.
 * [MetaTags](https://github.com/kpumuk/meta-tags) - A gem to make your Rails application SEO-friendly.
+* [RailsFriendyURLs](https://github.com/calonso/rails_friendly_urls) - Rails gem to dynamically configure absolutely any url in your project into a SEO friendly one.
 * [SitemapGenerator](https://github.com/kjvarga/sitemap_generator) - A framework-agnostic XML Sitemap generator written in Ruby.
 
 ## Social Networking
