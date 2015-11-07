@@ -1065,6 +1065,8 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 # Services and Apps
 
+Online tools, services and APIs to simplify development.
+
 * [AppSignal](https://appsignal.com) - Better monitoring for your Rails applications.
 * [CodeClimate](https://codeclimate.com) - Quality & security analysis for Ruby on Rails and Javascript.
 * [Gemnasium](https://gemnasium.com) - Monitor your project dependencies and alert you about updates and security vulnerabilities.
@@ -1087,6 +1089,8 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Vexor CI](https://vexor.io) - A distributed cloud web-service for building and testing software, a continuous integration tool for private apps with pay-per-minute billing model.
 
 # Resources
+
+Where to discover new Ruby libraries, projects and trends.
 
 * [GitHub Trending](https://github.com/trending?l=ruby) - Find what repositories the GitHub community is most excited about today.
 * [Green Ruby News](http://greenruby.org) - A feed of fresh links of the week about ruby, javascript, webdev and devops.
