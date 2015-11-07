@@ -167,6 +167,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Less Rails](https://github.com/metaskills/less-rails) - The dynamic stylesheet language for the Rails asset pipeline.
 * [Less](https://github.com/cowboyd/less.rb) - Leaner CSS, in your browser or Ruby.
 * [Sass](http://sass-lang.com) - Sass makes CSS fun again.
+* [Twitter Bootsrap for Rails](https://github.com/seyhunak/twitter-bootstrap-rails) - Integrates Bootstrap CSS toolkit for Rails Asset Pipeline.
 * Management:
   * [Asset Sync](https://github.com/AssetSync/asset_sync) - Synchronises Assets between Rails and S3.
   * [Autoprefixer](https://github.com/ai/autoprefixer-rails) - Parse CSS and add vendor prefixes to rules by Can I Use.
