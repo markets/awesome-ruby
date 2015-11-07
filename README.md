@@ -937,6 +937,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 * [Curly](https://github.com/zendesk/curly) - A template language that completely separates structure and logic.
 * [Haml](https://github.com/haml/haml) - HTML Abstraction Markup Language.
+* [Hamlit](https://github.com/k0kubun/hamlit) - Hamlit is a high performance Haml implementation.
 * [Liquid](https://github.com/Shopify/liquid) - Safe, customer facing template language for flexible web apps.
 * [Mustache](https://github.com/mustache/mustache) - Logic-less Ruby templates.
 * [Slim](https://github.com/slim-template/slim) - A template language whose goal is reduce the syntax to the essential parts without becoming cryptic.
