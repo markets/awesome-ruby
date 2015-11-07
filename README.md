@@ -255,6 +255,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Flog](https://github.com/seattlerb/flog) - Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
 * [fukuzatsu](https://gitlab.com/coraline/fukuzatsu/tree/master) - Complexity analysis tool with a rich web front-end.
 * [MetricFu](https://github.com/metricfu/metric_fu) - A fist full of code metrics.
+* [Pippi](https://github.com/tcopeland/pippi) - A utility for finding suboptimal Ruby class API usage, focused on runtime analysis.
 * [Pronto](https://github.com/mmozuras/pronto) - Quick automated code review of your changes.
 * [rails_best_practices](https://github.com/railsbp/rails_best_practices) - A code metric tool for rails projects.
 * [Reek](https://github.com/troessner/reek) - Code smell detector for Ruby.
