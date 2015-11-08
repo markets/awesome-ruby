@@ -795,6 +795,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 * [Backburner](https://github.com/nesquena/backburner) - Backburner is a beanstalkd-powered job queue that can handle a very high volume of jobs.
 * [Delayed::Job](https://github.com/collectiveidea/delayed_job) - Database backed asynchronous priority queue.
+* [March Hare](https://github.com/ruby-amqp/march_hare) - Idiomatic, fast and well-maintained JRuby client for RabbitMQ.
 * [Resque](https://github.com/resque/resque) - A Redis-backed Ruby library for creating background jobs.
 * [Que](https://github.com/chanks/que) - A Ruby job queue that uses PostgreSQL's advisory locks for speed and reliability.
 * [RocketJob](http://rocketjob.io) - Enterprise Batch Processing System focused on performance, scalability, reliability, and visibility of every job in the system. Outgrown existing solutions? Or, start small and scale up later.
