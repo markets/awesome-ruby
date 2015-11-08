@@ -794,6 +794,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ## Queue
 
 * [Backburner](https://github.com/nesquena/backburner) - Backburner is a beanstalkd-powered job queue that can handle a very high volume of jobs.
+* [Bunny](https://github.com/ruby-amqp/bunny) - Bunny is a popular, easy to use, well-maintained Ruby client for RabbitMQ (3.3+).
 * [Delayed::Job](https://github.com/collectiveidea/delayed_job) - Database backed asynchronous priority queue.
 * [Resque](https://github.com/resque/resque) - A Redis-backed Ruby library for creating background jobs.
 * [Que](https://github.com/chanks/que) - A Ruby job queue that uses PostgreSQL's advisory locks for speed and reliability.
