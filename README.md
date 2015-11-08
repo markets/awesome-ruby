@@ -901,7 +901,6 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Social Networking
 
-* [Campo](https://github.com/chloerei/campo) - Campo is a lightweight forum application, base on Ruby on Rails.
 * [diaspora*](https://github.com/diaspora/diaspora) - A privacy aware, distributed, open source social network.
 * [Discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 * [Forem](https://github.com/radar/forem) - Rails 3 and Rails 4 forum engine.
