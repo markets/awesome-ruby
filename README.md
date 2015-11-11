@@ -620,7 +620,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [irbtools](https://github.com/janlelis/irbtools) - Improvements for Ruby's IRB.
 * [JsonCompare](https://github.com/a2design-inc/json-compare) - Returns the difference between two JSON files.
 * [play ►](https://github.com/play/play) - Your company's dj.
-* [Pry Debugger](https://github.com/nixme/pry-debugger) - Pry navigation commands via debugger (formerly ruby-debug).
 * [Pry](https://github.com/pry/pry) - A powerful alternative to the standard IRB shell for Ruby.
 * [pygments.rb](https://github.com/tmm1/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter.
 * [QR-code](https://github.com/whomwah/rqrcode) - A Ruby library that encodes QR Codes
