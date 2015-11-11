@@ -579,6 +579,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [i18n-tasks](https://github.com/glebm/i18n-tasks) - Manage missing and unused translations with the awesome power of static analysis.
 * [i18n](https://github.com/svenfuchs/i18n) - Ruby Internationalization and localization solution.
 * [r18n](https://github.com/ai/r18n) - Advanced i18n library for Rails, Sinatra, desktop apps, models, works well with complex languages like Russian.
+* [Termit](https://github.com/pawurb/termit) - Google Translate with speech synthesis in your terminal.
 * [twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) - Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
 
 ## IRB
@@ -629,7 +630,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [QR-code](https://github.com/whomwah/rqrcode) - A Ruby library that encodes QR Codes
 * [RubyDNS](https://github.com/ioquatix/rubydns) - A high-performance DNS server which can be easily integrated into other projects or used as a stand-alone daemon.
 * [Ruby Operators](http://ruby-operators.herokuapp.com/) - A webpage showing awesome names for different Ruby operators.
-* [Termit](https://github.com/pawurb/termit) - Google Translate with speech synthesis in your terminal.
 
 ## Mobile Development
 
