@@ -55,6 +55,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Image Processing](#image-processing)
   * [Implementations/Compilers](#implementationscompilers)
   * [Internationalization](#internationalization)
+  * [IRB](#irb)
   * [Logging](#logging)
   * [Machine Learning](#machine-learning)
   * [Markdown Processors](#markdown-processors)
@@ -580,6 +581,12 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [r18n](https://github.com/ai/r18n) - Advanced i18n library for Rails, Sinatra, desktop apps, models, works well with complex languages like Russian.
 * [twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) - Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
 
+## IRB
+
+* [Hirb](https://github.com/cldwalker/hirb) - A mini view framework for console/irb that's easy to use, even while under its influence. Console goodies include a no-wrap table, auto-pager, tree and menu.
+* [irbtools](https://github.com/janlelis/irbtools) - Improvements for Ruby's IRB.
+* [Pry](https://github.com/pry/pry) - A powerful alternative to the standard IRB shell for Ruby.
+
 ## Logging
 
 * [Cabin](https://github.com/jordansissel/ruby-cabin) - Structured+contextual logging experiments in Ruby.
@@ -616,11 +623,8 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 * [gon](https://github.com/gazay/gon) - If you need to send some data to your js files and you don't want to do this with long way through views and parsing - use gon.
 * [Guard](https://github.com/guard/guard) - A command line tool to easily handle events on file system modifications.
-* [Hirb](https://github.com/cldwalker/hirb) - A mini view framework for console/irb that's easy to use, even while under its influence. Console goodies include a no-wrap table, auto-pager, tree and menu.
-* [irbtools](https://github.com/janlelis/irbtools) - Improvements for Ruby's IRB.
 * [JsonCompare](https://github.com/a2design-inc/json-compare) - Returns the difference between two JSON files.
 * [play ►](https://github.com/play/play) - Your company's dj.
-* [Pry](https://github.com/pry/pry) - A powerful alternative to the standard IRB shell for Ruby.
 * [pygments.rb](https://github.com/tmm1/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter.
 * [QR-code](https://github.com/whomwah/rqrcode) - A Ruby library that encodes QR Codes
 * [RubyDNS](https://github.com/ioquatix/rubydns) - A high-performance DNS server which can be easily integrated into other projects or used as a stand-alone daemon.
