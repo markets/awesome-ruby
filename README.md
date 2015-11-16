@@ -446,6 +446,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Email
 
+* [Chaskiq](https://github.com/michelson/chaskiq) - Rails Engine to send newsletters.
 * [Griddler](https://github.com/thoughtbot/griddler) - Simplify receiving email in Rails
 * [Incoming](https://github.com/honeybadger-io/incoming) - Incoming! helps you receive email in your Rack apps.
 * [LetterOpener](https://github.com/ryanb/letter_opener) - Preview mail in the browser instead of sending.
