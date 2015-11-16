@@ -453,6 +453,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [MailCatcher](http://mailcatcher.me) - Catches mail and serves it through a dream.
 * [MailForm](https://github.com/plataformatec/mail_form) - Send e-mail straight from forms in Rails with I18n, validations, attachments and request information.
 * [Mailman](https://github.com/mailman/mailman) - An incoming mail processing microframework in Ruby.
+* [MailyHerald](https://github.com/Sology/maily_herald) - Rails engine for managing and sending email.
 * [Markerb](https://github.com/plataformatec/markerb) - Allows you to render multipart e-mails from a single template written in Markdown.
 * [Pony](https://github.com/benprew/pony) - The express way to send mail from Ruby.
 * [premailer-rails](https://github.com/fphilipe/premailer-rails) - CSS styled emails without the hassle.
