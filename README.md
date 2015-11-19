@@ -696,6 +696,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [PermenantRecords](https://github.com/JackDanger/permanent_records) - Soft-delete your ActiveRecord records, like an explicit version of ActsAsParanoid.
 * Import
   * [ActiveImporter](https://github.com/continuum/active_importer) - Define importers that load tabular data from spreadsheets or CSV files into any ActiveRecord-like ORM.
+  * [ActiveRecord Import](https://github.com/zdennis/activerecord-import) - a library for bulk inserting data using ActiveRecord.
   * [data_miner](https://github.com/seamusabshere/data_miner) - Download, pull out of a ZIP/TAR/GZ/BZ2 archive, parse, correct, and import XLS, ODS, XML, CSV, HTML, etc. into your ActiveRecord models.
   * [ferry](https://github.com/cmu-is-projects/ferry) - A ruby gem for easy data transfer.
 * Misc
