@@ -224,6 +224,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## CLI Utilities
 
+* [Paint](https://github.com/janlelis/paint) - Simple and fast way to set ANSI terminal colors.
 * [Pastel](https://github.com/peter-murach/pastel) - Terminal output styling with intuitive and clean API.
 * [Ruby/Progressbar](https://github.com/jfelchner/ruby-progressbar) - The most flexible text progress bar library for Ruby.
 
