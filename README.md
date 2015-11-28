@@ -1108,7 +1108,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [Ruby Bookmarks](https://github.com/dreikanter/ruby-bookmarks) - Ruby and Ruby on Rails bookmarks collection.
 * [RubyDaily](http://rubydaily.org) - Community driven news.
 * [RubyFlow](http://www.rubyflow.com) - Ruby Programming Community Link Blog.
-* [Ruby Rouges](http://devchat.tv/ruby-rogues) - Weekly panel discussion about programming, primarily in Ruby.
+* [Ruby Rogues](http://devchat.tv/ruby-rogues) - Weekly panel discussion about programming, primarily in Ruby.
 * [Ruby Weekly](http://rubyweekly.com) - A free, once–weekly e-mail round-up of Ruby news and articles.
 * [The Ruby Toolbox](https://www.ruby-toolbox.com) - A comprehensive catalog of Ruby and Rails plug-ins, gems, tools and resources for Ruby developers with popularity ratings based on GitHub watchers and Gem downloads.
 
