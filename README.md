@@ -674,6 +674,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [ActiveRecord](https://github.com/rails/rails/tree/master/activerecord) - Object-relational mapping in Rails.
 * [DataMapper](https://github.com/datamapper/dm-core) - ORM which works well with legacy databases. Last release (1.2.0) was on 13 October 2011.
 * [Guacamole](https://github.com/triAGENS/guacamole) -  An ODM for ArangoDB.
+* [Lotus::Model](https://github.com/lotus/model) - A lean Repository-pattern based ORM framework for Lotus and modern Ruby applications.
 * [Mongoid](https://github.com/mongoid/mongoid) - An ODM (Object-Document-Mapper) framework for MongoDB in Ruby.
 * [MongoMapper](https://github.com/mongomapper/mongomapper) - A Ruby Object Mapper for Mongo.
 * [MongoModel](https://github.com/spohlenz/mongomodel) -  Ruby ODM for interfacing with MongoDB databases.
