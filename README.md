@@ -462,7 +462,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Encryption
 
-* [Symmetric Encryption](http://reidmorrison.github.io/symmetric-encryption/) - Transparently encrypt ActiveRecord, Mongoid, and MongoMapper attributes. Encrypt passwords in configuration files. Encrypt entire files at rest.
+* [Symmetric Encryption](http://rocketjob.github.io/symmetric-encryption/) - Transparently encrypt ActiveRecord, Mongoid, and MongoMapper attributes. Encrypt passwords in configuration files. Encrypt entire files at rest.
 
 ## Environment Management
 
@@ -599,7 +599,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Lograge](https://github.com/roidrage/lograge) - An attempt to tame Rails' default policy to log everything.
 * [MongoDB Logger](https://github.com/le0pard/mongodb_logger) - MongoDB logger for Rails.
 * [Scrolls](https://github.com/asenchi/scrolls) - Simple logging.
-* [Semantic Logger](https://github.com/rocketjob/semantic_logger) - Scalable, next generation logging for Ruby.
+* [Semantic Logger](https://rocketjob.github.io/semantic_logger/) - Scalable, next generation enterprise logging for Ruby.
 * [Yell](https://github.com/rudionrails/yell) - Your Extensible Logging Library.
 
 ## Machine Learning
