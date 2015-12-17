@@ -584,7 +584,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [r18n](https://github.com/ai/r18n) - Advanced i18n library for Rails, Sinatra, desktop apps, models, works well with complex languages like Russian.
 * [Termit](https://github.com/pawurb/termit) - Google Translate with speech synthesis in your terminal.
 * [twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) - Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
-
+* [rails-i18n](https://github.com/svenfuchs/rails-i18n) - Rails Locale Data Repository.
 ## IRB
 
 * [Hirb](https://github.com/cldwalker/hirb) - A mini view framework for console/irb that's easy to use, even while under its influence. Console goodies include a no-wrap table, auto-pager, tree and menu.
