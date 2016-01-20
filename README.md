@@ -369,6 +369,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [business_time](https://github.com/bokmann/business_time) - Support for doing time math in business hours and days.
 * [ByStar](https://github.com/radar/by_star) - Find ActiveRecord objects by year, month, fortnight, week and more!
 * [Chronic](https://github.com/mojombo/chronic) - A natural language date/time parser written in pure Ruby.
+* [clavius](https://github.com/craiglittle/clavius) - Date calculations based on a schedule.
 * [groupdate](https://github.com/ankane/groupdate) - The simplest way to group temporal data in ActiveRecord, arrays and hashes.
 * [ice_cube](https://github.com/seejohnrun/ice_cube) - A date recurrence library which allows easy creation of recurrence rules and fast querying.
 * [local_time](https://github.com/basecamp/local_time) - Rails Engine for cache-friendly, client-side local time.
