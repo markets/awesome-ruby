@@ -294,7 +294,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Addressable](https://github.com/sporkmonger/addressable) - Addressable is a replacement for the URI implementation that is part of Ruby's standard library. It more closely conforms to RFC 3986, RFC 3987, and RFC 6570 (level 4), providing support for IRIs and URI templates.
 * [Finishing Moves](https://github.com/forgecrafted/finishing_moves) - Small, focused, incredibly useful methods added to core Ruby classes. Includes the endlessly useful `nil_chain`.
 * [Hamster](https://github.com/hamstergem/hamster) - Efficient, immutable, and thread-safe collection classes for Ruby.
-* [Lotus::Utils](https://github.com/lotus/utils) - Lightweight, non-monkey-patch class utilities for Lotus and Ruby app.
+* [Hanami::Utils](https://github.com/hanami/utils) - Lightweight, non-monkey-patch class utilities for Hanami and Ruby app.
 * [Ruby Facets](https://github.com/rubyworks/facets) - The premiere collection of general purpose method extensions and standard additions for Ruby.
 * Attributes
   * [ActiveAttr](https://github.com/cgriego/active_attr) - What ActiveModel left out.
@@ -679,7 +679,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [ActiveRecord](https://github.com/rails/rails/tree/master/activerecord) - Object-relational mapping in Rails.
 * [DataMapper](https://github.com/datamapper/dm-core) - ORM which works well with legacy databases. Last release (1.2.0) was on 13 October 2011.
 * [Guacamole](https://github.com/triAGENS/guacamole) -  An ODM for ArangoDB.
-* [Lotus::Model](https://github.com/lotus/model) - A lean Repository-pattern based ORM framework for Lotus and modern Ruby applications.
+* [Hanami::Model](https://github.com/hanami/model) - A lean Repository-pattern based ORM framework for Hanami and modern Ruby applications.
 * [Mongoid](https://github.com/mongoid/mongoid) - An ODM (Object-Document-Mapper) framework for MongoDB in Ruby.
 * [MongoMapper](https://github.com/mongomapper/mongomapper) - A Ruby Object Mapper for Mongo.
 * [MongoModel](https://github.com/spohlenz/mongomodel) -  Ruby ODM for interfacing with MongoDB databases.
@@ -1050,7 +1050,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Camping](http://camping.io) - A web microframework which consistently stays at less than 4kB of code.
 * [Cuba](http://cuba.is) - A microframework for web development.
 * [Hobbit](https://github.com/patriciomacadden/hobbit) - A minimalistic microframework built on top of Rack.
-* [Lotus](http://lotusrb.org) - It aims to bring back Object Oriented Programming to web development, leveraging on a stable API, a minimal DSL, and plain objects.
+* [Hanami](http://hanamirb.org) - It aims to bring back Object Oriented Programming to web development, leveraging on a stable API, a minimal DSL, and plain objects.
 * [Padrino](http://www.padrinorb.com) - A full-stack ruby framework built upon Sinatra.
 * [Pakyow](http://pakyow.com/) - A framework for building modern web-apps in Ruby. It helps you build working software faster with a development process that remains friendly to both designers and developers.
 * [Ramaze](http://ramaze.net/) - A simple, light and modular open-source web application framework written in Ruby.
