@@ -242,6 +242,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Publify](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails.
 * [Radiant](http://radiantcms.org) - A no-fluff, open source content management system designed for small teams.
 * [Refinery CMS](http://refinerycms.com) - An open source Ruby on Rails content management system for Rails 3 and 4.
+* [Spina CMS](http://www.spinacms.com) - A beautiful CMS for Rails developers.
 * [Storytime](https://github.com/CultivateLabs/storytime) - Rails 4+ CMS and bloging engine, with a core focus on content.
 
 ## Code Analysis and Metrics
