@@ -303,6 +303,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [ActiveAttr](https://github.com/cgriego/active_attr) - What ActiveModel left out.
   * [FastAttributes](https://github.com/applift/fast_attributes) - FastAttributes adds attributes with their types to the class.
   * [Virtus](https://github.com/solnic/virtus) - Attributes on Steroids for Plain Old Ruby Objects.
+  * [AttrExtras](https://github.com/barsoom/attr_extras) - Takes some boilerplate out of Ruby with methods like attr_initialize.
 * Hash
   * [Hashie](https://github.com/intridea/hashie) - A collection of tools that extend Hashes and make them more useful.
 
