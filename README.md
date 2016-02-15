@@ -933,6 +933,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ## Spreadsheets and Documents
 
 * [AXLSX](https://github.com/randym/axlsx) - An excel xlsx generation library.
+* [Docsplit](http://documentcloud.github.io/docsplit) - Gem to convert Microsoft Word (and other) documents into images, pdf, pages or text.
 * [Roo](https://github.com/roo-rb/roo) - Implements read access for all spreadsheet types and read/write access for Google spreadsheets.
 * [Yomu](https://github.com/Erol/yomu) - Read text and metadata from files and documents (.doc, .docx, .pages, .odt, .rtf, .pdf).
 
