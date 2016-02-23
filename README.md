@@ -637,6 +637,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Guard](https://github.com/guard/guard) - A command line tool to easily handle events on file system modifications.
 * [JsonCompare](https://github.com/a2design-inc/json-compare) - Returns the difference between two JSON files.
 * [play ►](https://github.com/play/play) - Your company's dj.
+* [PassiveRecord](https://github.com/deepcerulean/passive_record) - no-database relational semantics for Ruby objects
 * [PluggableJs](https://github.com/peresleguine/pluggable_js) - Page-specific javascript for Rails applications with the ability of passing data from a controller.
 * [pygments.rb](https://github.com/tmm1/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter.
 * [QR-code](https://github.com/whomwah/rqrcode) - A Ruby library that encodes QR Codes
