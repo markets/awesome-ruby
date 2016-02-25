@@ -518,6 +518,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Gosu](http://www.libgosu.org) - A 2D game development library for the Ruby and C++ programming languages.
 * [Yeah](https://github.com/yeahrb/yeah) - Practical Ruby video game framework.
+* [Gioco](https://github.com/GiocoApp/gioco) - A gamification gem to Ruby on Rails applications.
 
 ## Geolocation
 
