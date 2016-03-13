@@ -1124,6 +1124,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [Green Ruby News](http://greenruby.org) - A feed of fresh links of the week about ruby, javascript, webdev and devops.
 * [iwanttolearnruby](http://iwanttolearnruby.com/) - A collection of Ruby tutorials, excercises, puzzles, screencasts, blogs, podcasts, conference recordings, and other resources to help you learn Ruby.
 * [Open Source Rails](http://www.opensourcerails.com/) - A gallery of the best open source rack and Ruby on Rails web applications.
+* [Practicing Ruby](https://practicingruby.com/) - An open-access collection of lessons for experienced Ruby developers.
 * [Ruby5](http://ruby5.envylabs.com) - The latest news in the Ruby and Rails community.
 * [Ruby Bookmarks](https://github.com/dreikanter/ruby-bookmarks) - Ruby and Ruby on Rails bookmarks collection.
 * [RubyDaily](http://rubydaily.org) - Community driven news.
