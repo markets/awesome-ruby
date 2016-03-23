@@ -474,7 +474,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Environment Management
 
-* [chgems](https://github.com/postmodern/chgems) - Chroot for RubyGems.
 * [chruby](https://github.com/postmodern/chruby) - Change your current Ruby. No shims, no crazy options or features, ~90 LOC.
 * [fry](https://github.com/terlar/fry) - Simple ruby version manager for fish.
 * [gem_home](https://github.com/postmodern/gem_home) - A tool for changing your $GEM_HOME.
