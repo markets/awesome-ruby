@@ -323,7 +323,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Dashing](http://shopify.github.io/dashing/) - A Sinatra based framework that lets you build beautiful dashboards.
 * [Dashing-Rails](https://github.com/gottfrois/dashing-rails) - The exceptionally handsome dashboard framework for Rails.
-* [Faalis](http://faalis.io) - A Rails engine which provides a robust platform to develop web applications. It contains a very simple yet powerful admin/dashboard interface too.
 
 ## Data Processing and ETL
 
