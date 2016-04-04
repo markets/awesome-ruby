@@ -142,7 +142,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## API Builder
 
 * [ActiveModel::Serializers](https://github.com/rails-api/active_model_serializers) - JSON serialization of objects.
-* [Blanket](https://github.com/inf0rmer/blanket) - A dead simple API wrapper.
 * [Crêpe](https://github.com/crepe/crepe) - The thin API stack.
 * [Grape](http://www.ruby-grape.org) - An opinionated micro-framework for creating REST-like APIs in Ruby.
 * [Her](https://github.com/remiprev/her) - an ORM that maps REST resources to Ruby objects. Designed to build applications that are powered by a RESTful API instead of a database.
@@ -553,6 +552,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## HTTP
 
+* [Blanket](https://github.com/inf0rmer/blanket) - A dead simple API wrapper.
 * [excon](https://github.com/excon/excon) - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
 * [Faraday](https://github.com/lostisland/faraday) - an HTTP client lib that provides a common interface over many adapters (such as Net::HTTP) and embraces the concept of Rack middleware when processing the request/response cycle.
 * [Http Client](https://github.com/nahi/httpclient) - Gives something like the functionality of libwww-perl (LWP) in Ruby.
