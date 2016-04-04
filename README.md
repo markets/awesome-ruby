@@ -867,6 +867,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * Data analysis/structures
   * [daru](https://github.com/v0dro/daru) - A library for storage, analysis, manipulation and visualization of data in pure Ruby.
   * [Rgl](https://github.com/monora/rgl) - A framework for graph data structures and algorithms.
+  * [SciCom](https://github.com/rbotafogo/scicom) - Very tigh integration between R and Ruby, based on Renjin, for the JVM.
 * Numerical arrays
   * [NMatrix](https://github.com/sciruby/nmatrix) - Fast numerical linear algebra library for Ruby.
   * [NArray](https://github.com/masa16/narray) - N-dimensional Numerical Array for Ruby.
