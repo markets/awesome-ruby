@@ -1070,6 +1070,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Scorched](http://scorchedrb.com) - Light-weight, inheritable and composable web framework, inspired by Sinatra.
 * [Sinatra](http://www.sinatrarb.com) - Classy web-development dressed in a DSL.
 * [Volt](https://github.com/voltrb/volt) - A Ruby web framework where your ruby code runs on both the server and the client.
+* [Eldr](https://github.com/eldr-rb/eldr) - A minimal microframework with an emphasis on understandable code.
 
 ## Web Servers
 
