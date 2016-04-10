@@ -997,6 +997,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [Machinist](https://github.com/notahat/machinist) - Fixtures aren't fun. Machinist is.
 * Mock
   * [ActiveMocker](https://github.com/zeisler/active_mocker) - Generate mocks from ActiveRecord models for unit tests that run fast because they don’t need to load Rails or a database.
+  * [DuckRails](https://github.com/iridakos/duckrails) - Tool for mocking API endpoints quickly & dynamically.
   * [TestXml](https://github.com/alovak/test_xml) - TestXml is a small extension for testing XML/HTML.
   * [WebMock](https://github.com/bblimke/webmock) - Library for stubbing and setting expectations on HTTP requests.
 * WebDrivers
