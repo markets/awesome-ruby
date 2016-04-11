@@ -409,6 +409,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Lita](https://www.lita.io/) - ChatOps for Ruby: A pluggable chat bot framework usable with any chat service.
 * [Logstash](https://github.com/elastic/logstash) - Logs/event transport, processing, management, search.
 * [Mina](https://github.com/mina-deploy/mina) - Really fast deployer and server automation tool.
+* [Passages](https://github.com/yez/passages) - Ruby on Rails Engine for routes inspection and search.
 * [Puppet](https://github.com/puppetlabs/puppet) - An automated administrative engine for your Linux, Unix, and Windows systems, performs administrative tasks (such as adding users, installing packages, and updating server configurations) based on a centralized specification.
 * [Request-log-analyzer](https://github.com/wvanbergen/request-log-analyzer) - Create reports based on your log files. Supports Rails, Apache, MySQL, Delayed::Job, and other formats.
 * [Rubber](https://github.com/rubber/rubber) - The rubber plugin enables relatively complex multi-instance deployments of RubyOnRails applications to Amazon's Elastic Compute Cloud (EC2).
@@ -719,6 +720,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Enumerize](https://github.com/brainspec/enumerize) - Enumerated attributes with I18n and ActiveRecord/Mongoid/MongoMapper support.
   * [Goldiloader](https://github.com/salsify/goldiloader) - Automatic ActiveRecord eager loading.
   * [mini_record](https://github.com/DAddYE/mini_record) - ActiveRecord meets DataMapper, with MiniRecord you are be able to write schema inside your models.
+  * [validates_type](https://github.com/yez/validates_type) - ActiveModel::Validations compliant type validator.
 * Multi-tenancy
   * [Acts As Tennant](https://github.com/ErwinM/acts_as_tenant) - Add multi-tenancy to a Rails app through a shared database strategy.
   * [Apartment](https://github.com/influitive/apartment) - Multi-tenancy for Rails and ActiveRecord.
