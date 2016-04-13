@@ -170,6 +170,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [bower-rails](https://github.com/rharriso/bower-rails) - Bower support for Rails projects.
   * [Rails Assets](https://rails-assets.org) - Bundler to Bower proxy.
   * [Sprockets](https://github.com/sstephenson/sprockets) - Rack-based asset packaging system.
+  * [Torba](https://github.com/torba-rb/torba) - Bower-less bundler for Sprockets.
 * Development:
   * [Quiet Assets](https://github.com/evrone/quiet_assets) - Mute assets pipeline log messages.
 
