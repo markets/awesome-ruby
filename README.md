@@ -751,6 +751,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * Gems
   * [Bundler](http://bundler.io) - Manage your application's gem dependencies with less pain.
   * [RubyGems](https://rubygems.org) - Community's gem hosting service.
+  * [gemdiff](https://github.com/teeparham/gemdiff) - Find source repositories for gems. Open, compare, and update outdated gem versions.
 * Packages and Applications
   * [Berkshelf](https://github.com/berkshelf/berkshelf) - A Chef Cookbook manager.
   * [CocoaPods](https://github.com/CocoaPods/CocoaPods) - The Objective-C dependency manager.
