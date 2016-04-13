@@ -211,6 +211,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## CLI Builder
 
+* [Clamp](https://github.com/mdub/clamp) - A command-line application framework.
 * [Cocaine](https://github.com/thoughtbot/cocaine) - A small library for doing (command) lines.
 * [Commander](https://github.com/commander-rb/commander) - The complete solution for Ruby command-line executables.
 * [formatador](https://github.com/geemus/formatador) - STDOUT text formatting.
