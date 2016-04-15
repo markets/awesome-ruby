@@ -1039,6 +1039,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [instagram-ruby-gem](https://github.com/Instagram/instagram-ruby-gem) - The official gem for the Instagram REST and Search APIs.
 * [itunes_store_transporter](https://github.com/sshaw/itunes_store_transporter) - Ruby wrapper around Apple's iTMSTransporter program.
 * [linkedin](https://github.com/hexgnu/linkedin) - Provides an easy-to-use wrapper for LinkedIn's REST APIs.
+* [MediaWiki-Butt](https://github.com/FTB-Gamepedia/MediaWiki-Butt-Ruby) - Easy-to-use feature-rich client for the MediaWiki API.
 * [Octokit](http://octokit.github.io/octokit.rb) - Ruby toolkit for the GitHub API.
 * [Pusher](https://github.com/pusher/pusher-http-ruby) - Ruby server library for the Pusher API.
 * [ruby-gmail](https://github.com/dcparker/ruby-gmail) - A Rubyesque interface to Gmail.
