@@ -536,6 +536,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [ginatra](https://github.com/NARKOZ/ginatra) - A web frontend for Git repositories.
 * [git-auto-bisect](https://github.com/grosser/git-autobisect) - Find the commit that broke master.
+* [git_reflow](https://github.com/reenhanced/gitreflow) - An automated quality control workflow for Agile teams.
 * [git-spelunk](https://github.com/osheroff/git-spelunk) - Dig through git blame history.
 * [git-up](https://github.com/aanand/git-up) - Fetch and rebase all locally-tracked remote branches.
 * [git-whence](https://github.com/grosser/git-whence) - Find which merge a commit came from.
