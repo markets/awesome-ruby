@@ -511,7 +511,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Form Builder
 
 * [Abracadabra](https://github.com/TrevorHinesley/abracadabra) - The gem that swaps out text with a fully-compliant Rails form in one click.
-* [Bh](https://github.com/fullscreen/bh) - Bootstrap Helpers for Ruby.
 * [Formtastic](https://github.com/justinfrench/formtastic) - A Rails form builder plugin with semantically rich and accessible markup.
 * [Rails Bootstrap Forms](https://github.com/bootstrap-ruby/rails-bootstrap-forms) - Rails form builder that makes it super easy to create beautiful-looking forms with Twitter Bootstrap 3+.
 * [Simple Form](https://github.com/plataformatec/simple_form) - Rails forms made easy.
@@ -634,6 +633,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [auto_html](https://github.com/dejan/auto_html) - Rails extension for transforming URLs to appropriate resource (image, link, YouTube, Vimeo video...)
 * [Betty](https://github.com/pickhardt/betty) - Friendly English-like interface for your command line. Don't remember a command? Ask Betty.
+* [Bh](https://github.com/fullscreen/bh) - Bootstrap Helpers for Ruby.
 * [Clipboard](https://github.com/janlelis/clipboard) - Access to the system clipboard on Linux, MacOS and Windows.
 * [Device Detector](https://github.com/podigee/device_detector) - A precise and fast user agent parser and device detector, backed by the largest and most up-to-date user agent database.
 * [Diffy](https://github.com/samg/diffy) - Easy Diffing With Ruby.
