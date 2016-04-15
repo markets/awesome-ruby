@@ -1023,6 +1023,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Third-party APIs
 
+* [aptly_cli](https://github.com/sepulworld/aptly_cli) - A CLI to interact with Aptly package management servers.
 * [databasedotcom](https://github.com/heroku/databasedotcom) - Ruby client for the Salesforce's Database.com and Chatter APIs.
 * [Dropbox](https://github.com/futuresimple/dropbox-api) - Dropbox API Ruby Client.
 * [facy](https://github.com/huydx/facy) - Command line power tool for facebook.
