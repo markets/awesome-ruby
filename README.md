@@ -59,6 +59,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Logging](#logging)
   * [Machine Learning](#machine-learning)
   * [Markdown Processors](#markdown-processors)
+  * [Messaging](#messaging)
   * [Misc](#misc)
   * [Mobile Development](#mobile-development)
   * [Money](#money)
@@ -407,9 +408,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [BOSH](https://github.com/cloudfoundry/bosh) - Cloud Foundry BOSH is an open source tool chain for release engineering, deployment and lifecycle management of large scale distributed services.
 * [Capistrano](http://capistranorb.com) - A remote server automation and deployment tool written in Ruby.
 * [Centurion](https://github.com/newrelic/centurion) - A mass deployment tool for Docker fleets.
-* [Chef](https://github.com/chef/chef) - A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
-* [Deployinator](https://github.com/etsy/deployinator) - Deployinator is a deployment framework extracted from Etsy.
-* [Einhorn](https://github.com/stripe/einhorn) - Einhorn will open one or more shared sockets and run multiple copies of your process. You can seamlessly reload your code, dynamically reconfigure Einhorn, and more.
+* [Heroku CLI](https://github.com/heroku/heroku) - The Heroku CLI is used to manage Heroku apps from the command line.
 * [Kochiku](https://github.com/square/kochiku) - Kochiku is a distributed platform for test automation.
 * [Lita](https://www.lita.io/) - ChatOps for Ruby: A pluggable chat bot framework usable with any chat service.
 * [Logstash](https://github.com/elastic/logstash) - Logs/event transport, processing, management, search.
@@ -629,6 +628,10 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Maruku](https://github.com/bhollis/maruku) - A pure-Ruby Markdown-superset interpreter.
 * [Redcarpet](https://github.com/vmg/redcarpet) - A fast, safe and extensible Markdown to (X)HTML parser.
 * [word-to-markdown](https://github.com/benbalter/word-to-markdown) - Gem to convert Microsoft Word documents to Markdown.
+
+## Messaging
+
+* [Slack Notifier](https://github.com/stevenosloan/slack-notifier) - A simple wrapper for posting to Slack channels.
 
 ## Misc
 
