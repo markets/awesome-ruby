@@ -647,6 +647,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [PluggableJs](https://github.com/peresleguine/pluggable_js) - Page-specific javascript for Rails applications with the ability of passing data from a controller.
 * [pygments.rb](https://github.com/tmm1/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter.
 * [QR-code](https://github.com/whomwah/rqrcode) - A Ruby library that encodes QR Codes
+* [Rouge](https://github.com/jneen/rouge) - A pure Ruby code highlighter that is compatible with Pygments.
 * [RubyDNS](https://github.com/ioquatix/rubydns) - A high-performance DNS server which can be easily integrated into other projects or used as a stand-alone daemon.
 * [Ruby Operators](http://ruby-operators.herokuapp.com/) - A webpage showing awesome names for different Ruby operators.
 
