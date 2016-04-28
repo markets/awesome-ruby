@@ -843,6 +843,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Rails Composer](https://github.com/RailsApps/rails-composer) - The Rails generator on steroids for starter apps.
 * [Raygun](https://github.com/carbonfive/raygun) - Builds applications with the common customization stuff already done.
 * [Suspenders](https://github.com/thoughtbot/suspenders) - Suspenders is the base Rails application used at thoughtbot.
+* [Onotole](https://github.com/kvokka/onotole) - Generator, which will cut all starting routine in maximum flexible mode
 
 ## Robotics
 
