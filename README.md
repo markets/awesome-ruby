@@ -560,7 +560,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [PSD.rb](https://github.com/layervault/psd.rb) - Parse Photoshop files in Ruby with ease.
 * [RMagick](https://github.com/rmagick/rmagick) - RMagick is an interface between Ruby and ImageMagick.
 * [Skeptick](https://github.com/maxim/skeptick) - Skeptick is an all-purpose DSL for building and running ImageMagick commands.
-* [CarrierWave::Backgrounder](https://github.com/lardawge/carrierwave_backgrounder) - Offloads processing or storage/processing to a background task. 
 
 ## Implementations/Compilers
 
