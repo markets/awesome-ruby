@@ -363,6 +363,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Large Hadron Migrator](https://github.com/soundcloud/lhm) - Online MySQL schema migrations without locking the table.
 * [Lol DBA](https://github.com/plentz/lol_dba) - Scan your models and displays a list of columns that probably should be indexed.
 * [PgHero](https://github.com/ankane/pghero) - Postgres insights made easy.
+* [Postgres DB Connections Dropper](https://github.com/zencodepro/rtask-db-drop-connections) - Drops all current connections to Postgres database
 * [Rails DB](https://github.com/igorkasyanchuk/rails_db) - Database Viewer and SQL Query Runner.
 * [Scenic](https://github.com/thoughtbot/scenic) - Versioned database views for Rails.
 * [SchemaPlus](https://github.com/SchemaPlus/schema_plus) - SchemaPlus provides a collection of enhancements and extensions to ActiveRecord
