@@ -1141,6 +1141,7 @@ Online tools, services and APIs to simplify development.
 
 Where to discover new Ruby libraries, projects and trends.
 
+* [Awesome Ruby @LibHunt](https://ruby.libhunt.com) - Your go-to Ruby Toolbox. The Awesome Ruby collection + ordering by popularity, additional metadata and comparisons.
 * [GitHub Trending](https://github.com/trending?l=ruby) - Find what repositories the GitHub community is most excited about today.
 * [Green Ruby News](http://greenruby.org) - A feed of fresh links of the week about ruby, javascript, webdev and devops.
 * [Open Source Rails](http://www.opensourcerails.com/) - A gallery of the best open source rack and Ruby on Rails web applications.
@@ -1151,7 +1152,6 @@ Where to discover new Ruby libraries, projects and trends.
 * [Ruby Rogues](http://devchat.tv/ruby-rogues) - Weekly panel discussion about programming, primarily in Ruby.
 * [Ruby Weekly](http://rubyweekly.com) - A free, once–weekly e-mail round-up of Ruby news and articles.
 * [The Ruby Toolbox](https://www.ruby-toolbox.com) - A comprehensive catalog of Ruby and Rails plug-ins, gems, tools and resources for Ruby developers with popularity ratings based on GitHub watchers and Gem downloads.
-* [Awesome Ruby @LibHunt](https://ruby.libhunt.com) - Your go-to Ruby Toolbox. The Awesome Ruby collection + ordering by popularity, additional metadata and comparisons.
 
 # Other Awesome Lists
 
