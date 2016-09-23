@@ -1093,6 +1093,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Ruby on Rails](http://rubyonrails.org) - A web-application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern.
 * [Scorched](http://scorchedrb.com) - Light-weight, inheritable and composable web framework, inspired by Sinatra.
 * [Sinatra](http://www.sinatrarb.com) - Classy web-development dressed in a DSL.
+* [Syro](https://github.com/soveran/syro/) - Simple router for web applications.
 * [Volt](https://github.com/voltrb/volt) - A Ruby web framework where your ruby code runs on both the server and the client.
 
 ## Web Servers
