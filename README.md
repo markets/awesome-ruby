@@ -1093,6 +1093,7 @@ Online tools, services and APIs to simplify development.
 * [ProfileIt](https://profileit.io) - Live production profiling for Ruby on Rails (always FREE for development).
 * [SemaphoreCI](https://semaphoreapp.com/) - Hosted continuous integration and deployment service for open source and private projects.
 * [SideCI](https://www.sideci.com) - Automated Code Review with GitHub PR. - Monitoring Style Violations, Quality, Security, Dependencies.
+* [Sqreen](https://www.sqreen.io/) - Automated and Real-Time Security for Ruby Apps. Protect your app in 30 seconds.
 * [Traveling Ruby](http://phusion.github.io/traveling-ruby/) - Traveling Ruby lets you create self-contained Ruby app packages for Linux and OS X.
 * [Travis CI.com](https://travis-ci.com) - Take care of running your tests and deploying your private apps.
 * [Travis CI.org](https://travis-ci.org) - A distributed build system for the open source community.
