@@ -950,6 +950,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 * [Forem](https://github.com/radar/forem) - Rails 3 and Rails 4 forum engine.
 * [Mailboxer](https://github.com/mailboxer/mailboxer) - A private message system for Rails applications.
+* [Mastodon](https://github.com/Gargron/mastodon) - A GNU Social-compatible microblogging server
 * [Social Shares](https://github.com/Timrael/social_shares) - A gem to check how many times url was shared in social networks.
 * [Thredded](https://github.com/thredded/thredded) - Rails 4.2+ forum/messageboard engine. Its goal is to be as simple and feature rich as possible.
 
