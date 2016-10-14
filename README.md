@@ -1018,6 +1018,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [ffaker](https://github.com/ffaker/ffaker) - A faster Faker, generates dummy data, rewrite of faker.
   * [Forgery](https://github.com/sevenwire/forgery) - Easy and customizable generation of forged data.
   * [Machinist](https://github.com/notahat/machinist) - Fixtures aren't fun. Machinist is.
+  * [RubyTest](https://rubyworks.github.com/rubytest) - RubyTest is meta-testing framework. It makes it easy to write any varity of test suite including customized suites to specifcally match the needs of an application. There are a number of general purpose test frameworks built on top of RubyTest, such as [Lemon](https://github.com/rubyworks/lemon) and [microTest](https://github.com/rubyworks/microtest), a MiniTest clone.
 * Mock
   * [ActiveMocker](https://github.com/zeisler/active_mocker) - Generate mocks from ActiveRecord models for unit tests that run fast because they don’t need to load Rails or a database.
   * [DuckRails](https://github.com/iridakos/duckrails) - Tool for mocking API endpoints quickly & dynamically.
