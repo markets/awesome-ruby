@@ -1085,6 +1085,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 * [Camping](http://camping.io) - A web microframework which consistently stays at less than 4kB of code.
 * [Cuba](http://cuba.is) - A microframework for web development.
+* [EM Midori](https://github.com/heckpsi-lab/em-midori) - EventMachine-based Web Framework written in pure Ruby, providing high performance and proper abstraction.
 * [Hobbit](https://github.com/patriciomacadden/hobbit) - A minimalistic microframework built on top of Rack.
 * [Hanami](http://hanamirb.org) - It aims to bring back Object Oriented Programming to web development, leveraging on a stable API, a minimal DSL, and plain objects.
 * [Padrino](http://www.padrinorb.com) - A full-stack ruby framework built upon Sinatra.
