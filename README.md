@@ -1087,6 +1087,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Cuba](http://cuba.is) - A microframework for web development.
 * [Hobbit](https://github.com/patriciomacadden/hobbit) - A minimalistic microframework built on top of Rack.
 * [Hanami](http://hanamirb.org) - It aims to bring back Object Oriented Programming to web development, leveraging on a stable API, a minimal DSL, and plain objects.
+* [Keight.rb](https://github.com/kwatch/keight) - Keight.rb is the very fast web application framework for Ruby. It runs about 100 times faster than Rails, and 20 times faster than Sinatra.
 * [Padrino](http://www.padrinorb.com) - A full-stack ruby framework built upon Sinatra.
 * [Pakyow](http://pakyow.com/) - A framework for building modern web-apps in Ruby. It helps you build working software faster with a development process that remains friendly to both designers and developers.
 * [Ramaze](http://ramaze.net/) - A simple, light and modular open-source web application framework written in Ruby.
