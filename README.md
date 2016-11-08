@@ -432,6 +432,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Asciidoctor](http://asciidoctor.org) - A fast, Ruby-based text processor & publishing toolchain for converting AsciiDoc to HTML5, DocBook, EPUB3, PDF & more.
 * [Doctor](https://github.com/minio/doctor) - Doctor is a Documentation Server for all your docs in github.
 * [Documentation](https://github.com/adamcooke/documentation) - A Rails engine to provider the ability to add documentation to a Rails application.
+* [Dictum](https://github.com/Wolox/dictum) - A tool that let's you create automatic documentation of your Rails API endpoints through your tests.
 * [GitHub Changelog Generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 * [grape-swagger](https://github.com/ruby-grape/grape-swagger) - Add swagger compliant documentation to your Grape API.
 * [Hanna](https://github.com/rdoc/hanna-nouveau) - An RDoc formatter built with simplicity, beauty and ease of browsing in mind.
