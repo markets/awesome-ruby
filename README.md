@@ -385,6 +385,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [groupdate](https://github.com/ankane/groupdate) - The simplest way to group temporal data in ActiveRecord, arrays and hashes.
 * [ice_cube](https://github.com/seejohnrun/ice_cube) - A date recurrence library which allows easy creation of recurrence rules and fast querying.
 * [local_time](https://github.com/basecamp/local_time) - Rails Engine for cache-friendly, client-side local time.
+* [montrose](https://github.com/rossta/montrose) - a simple library for expressing, serializing, and enumerating recurring events in Ruby
 * [time-lord](https://github.com/krainboltgreene/time-lord) - Adds extra functionality to the time class.
 * [time_diff](https://github.com/abhidsm/time_diff) - Calculates the difference between two time.
 * [TZinfo](https://github.com/tzinfo/tzinfo) - Provides daylight savings aware transformations between times in different timezones.
