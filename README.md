@@ -869,7 +869,6 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Scheduling
 
-* [clockwork](https://github.com/adamwiggins/clockwork) - A scheduler process to replace cron.
 * [minicron](https://github.com/jamesrwhite/minicron) - A system to manage and monitor cron jobs.
 * [resque-scheduler](https://github.com/resque/resque-scheduler) - A light-weight job scheduling system built on top of Resque.
 * [rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) - Job scheduler for Ruby (at, cron, in and every jobs).
