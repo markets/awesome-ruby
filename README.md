@@ -1002,6 +1002,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [Capybara](http://jnicklas.github.io/capybara) - Acceptance test framework for web applications.
   * [Cucumber](https://github.com/cucumber/cucumber) - BDD that talks to domain experts first and code second.
   * [Cutest](https://github.com/djanowski/cutest) - Isolated tests in Ruby.
+  * [Fix](https://github.com/fixrb/fix) - Specing framework for Ruby.
   * [Howitzer](https://github.com/strongqa/howitzer) - Ruby based framework for acceptance testing
   * [Konacha](https://github.com/jfirebaugh/konacha) - Test your Rails application's JavaScript with the mocha test framework and chai assertion library.
   * [minitest](https://github.com/seattlerb/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking.
