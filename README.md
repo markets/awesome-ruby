@@ -788,6 +788,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [CombinePDF](https://github.com/boazsegev/combine_pdf) - A Pure ruby library to merge or stump PDF files, number pages and more.
 * [Gimli](https://github.com/walle/gimli) - Utility for converting markup files to pdf files.
+* [HexaPDF](https://github.com/gettalong/hexapdf) - A Versatile PDF Creation and Manipulation Library For Ruby.
 * [Kitabu](https://github.com/fnando/kitabu) - A framework for creating e-books from Markdown/Textile text markup using Ruby.
 * [Pdfkit](https://github.com/pdfkit/pdfkit) - HTML+CSS to PDF using wkhtmltopdf.
 * [Prawn](https://github.com/prawnpdf/prawn) - Fast, Nimble PDF Writer for Ruby.
