@@ -853,7 +853,6 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 * [Bootstrappers](https://github.com/xdite/bootstrappers) - Bootstrappers generates a base Rails app using Bootstrap template and other goodies.
 * [Hobo](https://github.com/Hobo/hobo) - The web app builder for Rails.
-* [Kazan](https://github.com/khusnetdinov/kazan) - Other tool for create rails application with predefined settings and gems.
 * [orats](https://github.com/nickjj/orats) - Opinionated rails application templates.
 * [Rails Composer](https://github.com/RailsApps/rails-composer) - The Rails generator on steroids for starter apps.
 * [Raygun](https://github.com/carbonfive/raygun) - Builds applications with the common customization stuff already done.
@@ -1153,6 +1152,7 @@ Online tools, services and APIs to simplify development.
 Where to discover new Ruby libraries, projects and trends.
 
 * [Awesome Ruby @LibHunt](https://ruby.libhunt.com) - Your go-to Ruby Toolbox. The Awesome Ruby collection + ordering by popularity, additional metadata and comparisons.
+* [Fundamental Ruby](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
 * [GitHub Trending](https://github.com/trending?l=ruby) - Find what repositories the GitHub community is most excited about today.
 * [Green Ruby News](http://greenruby.org) - A feed of fresh links of the week about ruby, javascript, webdev and devops.
 * [Open Source Rails](http://www.opensourcerails.com/) - A gallery of the best open source rack and Ruby on Rails web applications.
