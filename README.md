@@ -911,6 +911,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * Utilities
   * [smarter_csv](https://github.com/tilo/smarter_csv) - Ruby Gem for smarter importing of CSV Files as Array(s) of Hashes.
   * [algorithms](https://github.com/kanwei/algorithms) - Library with documentation on when to use a particular structure/algorithm.
+  * [jaro_winkler](https://github.com/tonytonyjan/jaro_winkler) - Ruby & C implementation of Jaro-Winkler distance algorithm which supports UTF-8 string.
 
 ## Search
 
