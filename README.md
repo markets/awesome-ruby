@@ -219,6 +219,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## CLI Builder
 
 * [Clamp](https://github.com/mdub/clamp) - A command-line application framework.
+* [Cliqr](https://github.com/anshulverma/cliqr) - A lightweight framework to build a command line application in Ruby.
 * [Cocaine](https://github.com/thoughtbot/cocaine) - A small library for doing (command) lines.
 * [Commander](https://github.com/commander-rb/commander) - The complete solution for Ruby command-line executables.
 * [formatador](https://github.com/geemus/formatador) - STDOUT text formatting.
