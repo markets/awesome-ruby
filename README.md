@@ -485,6 +485,8 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Encryption
 
 * [Symmetric Encryption](http://rocketjob.github.io/symmetric-encryption/) - Transparently encrypt ActiveRecord, Mongoid, and MongoMapper attributes. Encrypt passwords in configuration files. Encrypt entire files at rest.
+* [Themis](https://github.com/cossacklabs/themis) - crypto library for painless data security, providing symmetric and asymmetric encryption, secure sockets with forward secrecy, for mobile and server platforms.
+
 
 ## Environment Management
 
