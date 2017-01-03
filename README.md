@@ -218,7 +218,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## CLI Builder
 
-* [Bumpversion](https://github.com/dlanileonardo/bumpversion) - Bump version your project in command line.
 * [Clamp](https://github.com/mdub/clamp) - A command-line application framework.
 * [Cocaine](https://github.com/thoughtbot/cocaine) - A small library for doing (command) lines.
 * [Commander](https://github.com/commander-rb/commander) - The complete solution for Ruby command-line executables.
@@ -234,6 +233,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## CLI Utilities
 
+* [Bumpversion](https://github.com/dlanileonardo/bumpversion) - Bump version your project in command line.
 * [Paint](https://github.com/janlelis/paint) - Simple and fast way to set ANSI terminal colors.
 * [Pastel](https://github.com/peter-murach/pastel) - Terminal output styling with intuitive and clean API.
 * [Ruby/Progressbar](https://github.com/jfelchner/ruby-progressbar) - The most flexible text progress bar library for Ruby.
