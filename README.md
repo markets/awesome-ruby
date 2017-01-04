@@ -1131,6 +1131,7 @@ Online tools, services and APIs to simplify development.
 * [Codacy](https://www.codacy.com) - Automated Code Review for Ruby, Rails, JS, PHP, Python etc. Security, Coverage & Quality.
 * [CodeClimate](https://codeclimate.com) - Quality & security analysis for Ruby on Rails and Javascript.
 * [deppbot](https://www.deppbot.com) - Automated Security and Dependency Updates.
+* [Deveo](https://deveo.com/) - Free, private Git, Mercurial, and SVN repository management platform. Intuitive hosting and management of all your software-related assets.
 * [Gemnasium](https://gemnasium.com) - Monitor your project dependencies and alert you about updates and security vulnerabilities.
 * [GitHub](https://github.com) - Powerful collaboration, code review, and code management for open source and private projects.
 * [Gitlab CI](https://about.gitlab.com/gitlab-ci/) - Integrate with your GitLab to run tests for your projects.
