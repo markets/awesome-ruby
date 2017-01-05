@@ -337,6 +337,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Data Processing and ETL
 
 * [Kiba](http://www.kiba-etl.org) - A lightweight data processing / ETL framework for Ruby.
+* [ruby-stemmer](https://github.com/aurelian/ruby-stemmer) - It Provides Snowball algorithm for stemming purposes.
 
 ## Data Visualization
 
