@@ -1064,6 +1064,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Slack ruby gem](https://github.com/aki017/slack-ruby-gem) - A Ruby wrapper for the Slack API.
 * [soundcloud-ruby](https://github.com/soundcloud/soundcloud-ruby) - Official SoundCloud API Wrapper for Ruby.
 * [t](https://github.com/sferik/t) - A command-line power tool for Twitter.
+* [terjira](https://github.com/keepcosmos/terjira) - A command-line power tool for Jira.
 * [tweetstream](https://github.com/tweetstream/tweetstream) - A simple library for consuming Twitter's Streaming API.
 * [twilio-ruby](https://github.com/twilio/twilio-ruby) - A module for using the Twilio REST API and generating valid TwiML.
 * [twitter](https://github.com/sferik/twitter) - A Ruby interface to the Twitter API.
