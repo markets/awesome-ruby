@@ -484,9 +484,9 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Encryption
 
+* [RbNaCl](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
 * [Symmetric Encryption](http://rocketjob.github.io/symmetric-encryption/) - Transparently encrypt ActiveRecord, Mongoid, and MongoMapper attributes. Encrypt passwords in configuration files. Encrypt entire files at rest.
 * [Themis](https://github.com/cossacklabs/themis) - crypto library for painless data security, providing symmetric and asymmetric encryption, secure sockets with forward secrecy, for mobile and server platforms.
-
 
 ## Environment Management
 
@@ -941,7 +941,6 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Metasploit](https://github.com/rapid7/metasploit-framework) - World's most used penetration testing software.
 * [Rack::Attack](https://github.com/kickstarter/rack-attack) - Rack middleware for blocking & throttling abusive requests.
 * [Rack::Protection](https://github.com/sinatra/rack-protection) - Rack middleware for protecting against typical Web attacks.
-* [RbNaCl](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
 * [SecureHeaders](https://github.com/twitter/secureheaders) - Automatically apply several headers that are related to security, including: Content Security Policy (CSP), HTTP Strict Transport Security (HSTS), X-Frame-Options (XFO), X-XSS-Protection, X-Content-Type-Options, X-Download-Options & X-Permitted-Cross-Domain-Policies.
 
 ## SEO
