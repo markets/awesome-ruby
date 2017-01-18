@@ -220,6 +220,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Clamp](https://github.com/mdub/clamp) - A command-line application framework.
 * [Cocaine](https://github.com/thoughtbot/cocaine) - A small library for doing (command) lines.
 * [Commander](https://github.com/commander-rb/commander) - The complete solution for Ruby command-line executables.
+* [docopt](https://github.com/docopt/docopt.rb) - Parse command line arguments from nothing more than a usage message.
 * [formatador](https://github.com/geemus/formatador) - STDOUT text formatting.
 * [GLI](https://github.com/davetron5000/gli) - Git-Like Interface Command Line Parser.
 * [Main](https://github.com/ahoward/main) - A class factory and DSL for generating command line programs real quick.
