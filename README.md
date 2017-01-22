@@ -804,6 +804,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Performance Monitoring
 
+* [Instana](https://github.com/instana/ruby-sensor) - Dynamic APM for microservice applications.
 * [Instrumental](https://github.com/expectedbehavior/instrumental_agent) - Measure your application in real time with [Instrumental](http://instrumentalapp.com).
 * [New Relic](https://github.com/newrelic/rpm) - Find and fix Ruby errors with New Relic application monitoring and troubleshooting.
 * [Skylight](https://github.com/skylightio/skylight-ruby) - A smart profiler for your Rails apps that visualizes request performance.
