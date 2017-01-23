@@ -61,6 +61,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Machine Learning](#machine-learning)
   * [Markdown Processors](#markdown-processors)
   * [Misc](#misc)
+  * [Messaging](#messaging)
   * [Mobile Development](#mobile-development)
   * [Money](#money)
   * [Music and Sound](#music-and-sound)
@@ -672,6 +673,10 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [QR-code](https://github.com/whomwah/rqrcode) - A Ruby library that encodes QR Codes
 * [RubyDNS](https://github.com/ioquatix/rubydns) - A high-performance DNS server which can be easily integrated into other projects or used as a stand-alone daemon.
 * [Ruby Operators](http://ruby-operators.herokuapp.com/) - A webpage showing awesome names for different Ruby operators.
+
+## Messaging
+
+* [Net::TCPClient](https://github.com/reidmorrison/net_tcp_client) - TCP Socket Client with built-in timeouts, retries, and logging.
 
 ## Mobile Development
 
