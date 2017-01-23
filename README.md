@@ -1086,6 +1086,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ## Video
 
 * [Streamio FFMPEG](https://github.com/streamio/streamio-ffmpeg) - Simple yet powerful wrapper around the ffmpeg command for reading metadata and transcoding movies.
+* [Video Transcoding](https://github.com/donmelton/video_transcoding) - Tools to transcode, inspect and convert videos.
 
 ## Web Crawling
 
