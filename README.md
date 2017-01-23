@@ -8,7 +8,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Awesome Ruby](#awesome-ruby)
   * [Abstraction](#abstraction)
-  * [A/B Testing](#ab-testing)
   * [Admin Interface](#admin-interface)
   * [Analytics](#analytics)
   * [API Builder and Discovery](#api-builder-and-discovery)
@@ -45,6 +44,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Encryption](#encryption)
   * [Environment Management](#environment-management)
   * [Error Handling](#error-handling)
+  * [Feature Flippers and A/B Testing](#feature-flippers-and-ab-testing)
   * [File Upload](#file-upload)
   * [Form Builder](#form-builder)
   * [Game Development](#game-development)
@@ -115,12 +115,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Surrounded](https://github.com/saturnflyer/surrounded) - Encapsulated related objects in a single system to add behavior during runtime. Extensible implementation of DCI.
 * [Trailblazer](https://github.com/apotonick/trailblazer) - Trailblazer is a thin layer on top of Rails. It gently enforces encapsulation, an intuitive code structure and gives you an object-oriented architecture.
 * [wisper](https://github.com/krisleech/wisper) - A micro library providing Ruby objects with Publish-Subscribe capabilities.
-
-## A/B Testing
-
-* [Rollout](https://github.com/FetLife/rollout) - Feature flippers.
-* [Split](https://github.com/splitrb/split) - Rack Based AB testing framework.
-* [Vanity](https://github.com/assaf/vanity) - an A/B testing framework for Rails that is datastore agnostic.
 
 ## Admin Interface
 
@@ -521,6 +515,14 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Honeybadger](https://www.honeybadger.io/) - Exception, uptime, and performance monitoring for Ruby.
 * [Nesty](https://github.com/skorks/nesty) - Nested exceptions for Ruby.
 * [Raven Ruby](https://github.com/getsentry/raven-ruby) - Raven is a Ruby client for Sentry.
+
+## Feature Flippers and A/B Testing
+
+* [Motorhead](https://github.com/amatsuda/motorhead) - A Rails Engine framework that helps safe and rapid feature prototyping.
+* [flipper](https://github.com/jnunemaker/flipper) - Feature flipping for ANYTHING. Make turning features on/off so easy that everyone does it. Whatever your data store, throughput, or experience.
+* [Rollout](https://github.com/FetLife/rollout) - Feature flippers.
+* [Split](https://github.com/splitrb/split) - Rack Based AB testing framework.
+* [Vanity](https://github.com/assaf/vanity) - an A/B testing framework for Rails that is datastore agnostic.
 
 ## File Upload
 
