@@ -302,6 +302,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Configuration
 
 * [Configatron](https://github.com/markbates/configatron) - Simple and feature rich configuration system for Ruby apps.
+* [Configurability](https://github.com/ged/configurability) - A Ruby mixin that allows you to add configurability to one or more objects or classes.
 * [Configus](https://github.com/kaize/configus) - Helps you easily manage environment specific settings.
 * [dotenv](https://github.com/bkeepers/dotenv) - Loads environment variables from `.env`.
 * [Econfig](https://github.com/elabs/econfig) - Flexible configuration for Rails applications.
@@ -999,6 +1000,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 * [Curly](https://github.com/zendesk/curly) - A template language that completely separates structure and logic.
 * [Haml](https://github.com/haml/haml) - HTML Abstraction Markup Language.
+* [Inversion](https://github.com/ged/inversion) - Inversion is a templating system for Ruby. It uses the "Inversion of Control" principle to decouple the contents and structure of templates from the code that uses them, making it easier to separate concerns, keep your tests simple, and avoid polluting scopes with ephemeral data. 
 * [Liquid](https://github.com/Shopify/liquid) - Safe, customer facing template language for flexible web apps.
 * [Mustache](https://github.com/mustache/mustache) - Logic-less Ruby templates.
 * [Slim](https://github.com/slim-template/slim) - A template language whose goal is reduce the syntax to the essential parts without becoming cryptic.
