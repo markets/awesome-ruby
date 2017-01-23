@@ -11,7 +11,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [A/B Testing](#ab-testing)
   * [Admin Interface](#admin-interface)
   * [Analytics](#analytics)
-  * [API Builder](#api-builder)
+  * [API Builder and Discovery](#api-builder-and-discovery)
   * [Assets](#assets)
   * [Authentication and OAuth](#authentication-and-oauth)
   * [Authorization](#authorization)
@@ -52,7 +52,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Git Tools](#git-tools)
   * [GUI](#gui)
   * [HTML/XML Parsing](#htmlxml-parsing)
-  * [HTTP](#http)
+  * [HTTP Clients](#http-clients)
   * [Image Processing](#image-processing)
   * [Implementations/Compilers](#implementationscompilers)
   * [Internationalization](#internationalization)
@@ -141,7 +141,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Rack::Tracker](https://github.com/railslove/rack-tracker) - Rack middleware that can be hooked up to multiple services and exposing them in a unified fashion.
 * [Staccato](https://github.com/tpitale/staccato) - Track analytics into the official Google Analytics Collection API.
 
-## API Builder
+## API Builder and Discovery
 
 * [ActiveModel::Serializers](https://github.com/rails-api/active_model_serializers) - JSON serialization of objects.
 * [Blanket](https://github.com/inf0rmer/blanket) - A dead simple API wrapper.
@@ -155,6 +155,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [rabl](https://github.com/nesquena/rabl) - General ruby templating with json, bson, xml, plist and msgpack support.
 * [Rails::API](https://github.com/rails-api/rails-api) - Rails for API only applications.
 * [Roar](https://github.com/apotonick/roar) - Resource-Oriented Architectures in Ruby.
+* [Spyke](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
 * [Version Cake](https://github.com/bwillis/versioncake) - An unobtrusive way to version APIs in your Rails app.
 * [versionist](https://github.com/bploetz/versionist) - A plugin for versioning Rails based RESTful APIs.
 
@@ -580,7 +581,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Ox](https://github.com/ohler55/ox) - A fast XML parser and Object marshaller.
 * [ROXML](https://github.com/Empact/roxml) - Custom mapping and bidirectional marshalling between Ruby and XML using annotation-style class methods, via Nokogiri or LibXML.
 
-## HTTP
+## HTTP Clients
 
 * [excon](https://github.com/excon/excon) - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
 * [Faraday](https://github.com/lostisland/faraday) - an HTTP client lib that provides a common interface over many adapters (such as Net::HTTP) and embraces the concept of Rack middleware when processing the request/response cycle.
@@ -592,7 +593,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [RESTClient](https://github.com/rest-client/rest-client) - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
 * [Savon](https://github.com/savonrb/savon) - Savon is a SOAP client for the Ruby programming language.
 * [Sawyer](https://github.com/lostisland/sawyer) - Secret user agent of HTTP, built on top of Faraday.
-* [Spyke](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
 * [Typhoeus](https://github.com/typhoeus/typhoeus) - Typhoeus wraps libcurl in order to make fast and reliable requests.
 
 ## Image Processing
