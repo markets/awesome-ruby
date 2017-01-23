@@ -1018,7 +1018,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
       * [Nyan Cat](https://github.com/mattsears/nyan-cat-formatter) - Nyan Cat inspired RSpec formatter!
   * [Aruba](https://github.com/cucumber/aruba) - Testing command line applications with cucumber and rspec.
   * [Bacon](https://github.com/chneukirchen/bacon) - A small RSpec clone.
-  * [Capybara](http://jnicklas.github.io/capybara) - Acceptance test framework for web applications.
+  * [Capybara](https://github.com/teamcapybara/capybara) - Acceptance test framework for web applications.
   * [Cucumber](https://github.com/cucumber/cucumber) - BDD that talks to domain experts first and code second.
   * [Cutest](https://github.com/djanowski/cutest) - Isolated tests in Ruby.
   * [Howitzer](https://github.com/strongqa/howitzer) - Ruby based framework for acceptance testing
