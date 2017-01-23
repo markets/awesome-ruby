@@ -118,6 +118,9 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## A/B Testing
 
+* [Chili](https://github.com/balvig/chili) - Feature flipper.
+* [Flip](https://github.com/pda/flip) - Feature flipper.
+* [Motorhead](https://github.com/amatsuda/motorhead) - Prototype Rails (toggle Rails engines on/off), feature flippers.
 * [Rollout](https://github.com/FetLife/rollout) - Feature flippers.
 * [Split](https://github.com/splitrb/split) - Rack Based AB testing framework.
 * [Vanity](https://github.com/assaf/vanity) - an A/B testing framework for Rails that is datastore agnostic.
