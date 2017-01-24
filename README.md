@@ -790,7 +790,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
   * [Linuxbrew](https://github.com/Homebrew/linuxbrew) - A fork of Homebrew for Linux.
   * [Homebrew-cask](https://github.com/caskroom/homebrew-cask) - A CLI workflow for the administration of Mac applications distributed as binaries.
-  * [Homebrew](https://github.com/Homebrew/homebrew) - The missing package manager for OS X.
+  * [Homebrew](https://github.com/Homebrew/brew) - The missing package manager for OS X.
 
 ## Pagination
 
