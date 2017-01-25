@@ -1041,7 +1041,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [TestXml](https://github.com/alovak/test_xml) - TestXml is a small extension for testing XML/HTML.
   * [WebMock](https://github.com/bblimke/webmock) - Library for stubbing and setting expectations on HTTP requests.
 * WebDrivers
-  * [Selenium WebDriver](http://selenium.googlecode.com/git/docs/api/rb/index.html) - This gem provides Ruby bindings for WebDriver.
+  * [Selenium WebDriver](https://github.com/SeleniumHQ/selenium/tree/master/rb) - Ruby bindings for WebDriver.
   * [API Taster](https://github.com/fredwu/api_taster) - A quick and easy way to visually test your Rails application's API.
   * [Poltergeist](https://github.com/teampoltergeist/poltergeist) - A PhantomJS driver for Capybara.
   * [Watir](https://github.com/watir/watir/) - Web application testing in Ruby.
@@ -1156,8 +1156,7 @@ Online tools, services and APIs to simplify development.
 * [OctoLinker](https://github.com/OctoLinker/browser-extension) - Navigate through projects on GitHub.com efficiently with the OctoLinker browser extension.
 * [Omniref](https://www.omniref.com) - A comprehensive Ruby documentation site.
 * [PR Dashboard](http://prs.crowdint.com/) - Review open Pull Requests from your organizations and leave a "LGTM" comment.
-* [PullReview](https://pullreview.com) - Automated code review for Ruby and Rails - from style to security.
-* [ProfileIt](https://profileit.io) - Live production profiling for Ruby on Rails (always FREE for development).
+* [PullReview](https://www.pullreview.com/) - Automated code review for Ruby and Rails - from style to security.
 * [SemaphoreCI](https://semaphoreapp.com/) - Hosted continuous integration and deployment service for open source and private projects.
 * [SideCI](https://www.sideci.com) - Automated Code Review with GitHub PR. - Monitoring Style Violations, Quality, Security, Dependencies.
 * [Traveling Ruby](http://phusion.github.io/traveling-ruby/) - Traveling Ruby lets you create self-contained Ruby app packages for Linux and OS X.
