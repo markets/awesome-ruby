@@ -1154,7 +1154,6 @@ Online tools, services and APIs to simplify development.
 * [HuBoard](https://huboard.com) - Kanban board for GitHub issues.
 * [Inch CI](http://inch-ci.org/) - Documentation badges for Ruby projects.
 * [OctoLinker](https://github.com/OctoLinker/browser-extension) - Navigate through projects on GitHub.com efficiently with the OctoLinker browser extension.
-* [Omniref](https://www.omniref.com) - A comprehensive Ruby documentation site.
 * [PR Dashboard](http://prs.crowdint.com/) - Review open Pull Requests from your organizations and leave a "LGTM" comment.
 * [PullReview](https://www.pullreview.com/) - Automated code review for Ruby and Rails - from style to security.
 * [SemaphoreCI](https://semaphoreapp.com/) - Hosted continuous integration and deployment service for open source and private projects.
