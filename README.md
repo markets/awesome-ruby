@@ -821,6 +821,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Presentation Programs
 
 * [Middleman Presentation](https://github.com/fedux-org/middleman-presentation) - Build wonderful presentations based on HTML and JavaScript by using ruby.
+* [Slide Show (S9)](https://github.com/slideshow-s9/slideshow) - Write your slides / talks / presentations in plain text with markdown formatting conventions and generate (static) web pages; template packs incl. deck.js, impress.js, reveal.js, shower, s6, s5 and more.
 
 ## Process Monitoring
 
