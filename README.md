@@ -409,6 +409,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Draper](https://github.com/drapergem/draper) - Draper adds an object-oriented layer of presentation logic to your Rails application.
 * [ShowFor](https://github.com/plataformatec/show_for) - Quickly show a model information with I18n features. Like form_for for displaying model data.
+* [Light Decorator](https://github.com/light-ruby/light-decorator) - Tiny and fast realization of Decorator pattern for Rails 4/5
 
 ## DevOps Tools
 
