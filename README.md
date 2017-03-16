@@ -497,7 +497,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [chruby](https://github.com/postmodern/chruby) - Change your current Ruby. No shims, no crazy options or features, ~90 LOC.
 * [fry](https://github.com/terlar/fry) - Simple ruby version manager for fish.
 * [gem_home](https://github.com/postmodern/gem_home) - A tool for changing your $GEM_HOME.
-* [Nanobox](https://nanobox.io/) - A tool for creating isolated Ruby environments for consistency across entire teams and application stages (dev, staging, production, etc.).
+* [Nanobox](https://github.com/nanobox-io/nanobox) - A tool for creating isolated Ruby environments for consistency across teams and application stages (dev, staging, production, etc.) https://nanobox.io.
 * [rbenv](https://github.com/sstephenson/rbenv) - Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production.
 * [ruby-build](https://github.com/sstephenson/ruby-build) - Compile and install Ruby.
 * [ruby-install](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, Rubinius, MagLev or MRuby.
