@@ -1066,6 +1066,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [facy](https://github.com/huydx/facy) - Command line power tool for facebook.
 * [fb_graph2](https://github.com/nov/fb_graph2) - A full-stack Facebook Graph API wrapper.
 * [flickr](https://github.com/RaVbaker/flickr) - A Ruby interface to the Flickr API.
+* [github_api](https://github.com/peter-murach/github) - A Ruby client for the official GitHub API.
 * [gitlab](https://github.com/NARKOZ/gitlab) - Ruby wrapper and CLI for the GitLab API.
 * [google-api-ads-ruby](https://github.com/googleads/google-api-ads-ruby) - Google Adwords Ruby client
 * [gmail](https://github.com/gmailgem/gmail) - A Rubyesque interface to Gmail, with all the tools you'll need.
