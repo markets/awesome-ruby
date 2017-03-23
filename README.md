@@ -1118,6 +1118,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Sinatra](http://www.sinatrarb.com) - Classy web-development dressed in a DSL.
 * [Syro](https://github.com/soveran/syro/) - Simple router for web applications.
 * [Volt](https://github.com/voltrb/volt) - A Ruby web framework where your ruby code runs on both the server and the client.
+* [Eldr](https://github.com/eldr-rb/eldr) - A minimal microframework with an emphasis on understandable code.
 
 ## Web Servers
 
