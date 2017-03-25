@@ -152,6 +152,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Spyke](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
 * [Version Cake](https://github.com/bwillis/versioncake) - An unobtrusive way to version APIs in your Rails app.
 * [versionist](https://github.com/bploetz/versionist) - A plugin for versioning Rails based RESTful APIs.
+* [Lina ](https://github.com/windy/lina) - 一个基于 Rails 的 RESTful API 框架
 
 ## Assets
 
