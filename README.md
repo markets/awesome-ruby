@@ -757,6 +757,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * Multi-tenancy
   * [Acts As Tennant](https://github.com/ErwinM/acts_as_tenant) - Add multi-tenancy to a Rails app through a shared database strategy.
   * [Apartment](https://github.com/influitive/apartment) - Multi-tenancy for Rails and ActiveRecord.
+  * [Milia](https://github.com/jekuno/milia) - Non-invasive multi-tenancy for Rails which supports Devise authentication out of the box.
 * Social
   * [Acts As Commentable](https://github.com/jackdempsey/acts_as_commentable) - Provides a single Comment model that can be attached to any model(s) within your app.
   * [Acts As Commentable with Threading](https://github.com/elight/acts_as_commentable_with_threading) - Similar to acts_as_commentable; however, utilizes awesome_nested_set to provide threaded comments.
