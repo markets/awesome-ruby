@@ -8,7 +8,7 @@ The following is a set of guidelines for contributing to Awesome Ruby. These are
 
 ### Creating Issues
 
-Do you know any cool Ruby project that isn't listed here? It isn't also on the [open issues](https://github.com/markets/awesome-issues/issues)?
+Do you know any cool Ruby project that isn't listed here? It isn't also on the [open issues](https://github.com/markets/awesome-ruby/issues) or [pull-requests](https://github.com/markets/awesome-ruby/pulls)?
 Please create a new issue or submit a pull request, we will be happy to receive it!
 
 ### Submitting Pull Requests
