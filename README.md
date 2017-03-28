@@ -143,6 +143,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Her](https://github.com/remiprev/her) - an ORM that maps REST resources to Ruby objects. Designed to build applications that are powered by a RESTful API instead of a database.
 * [jbuilder](https://github.com/rails/jbuilder) - Create JSON structures via a Builder-style DSL.
 * [JSONAPI::Resources](https://github.com/cerebris/jsonapi-resources) - JSONAPI::Resources, or "JR", provides a framework for developing a server that complies with the JSON API specification.
+* [JSONAPI::Utils](https://github.com/tiagopog/jsonapi-utils) - JSONAPI::Utils is built on top of JSONAPI::Resources taking advantage of its resource-driven style and bringing an easy way to build modern JSON APIs with no or less learning curve.
 * [Jsonite](https://github.com/crepe/jsonite) - A tiny, HAL-compliant JSON presenter for your APIs.
 * [Pliny](https://github.com/interagent/pliny) - Opinionated template Sinatra app for writing excellent APIs in Ruby.
 * [rabl](https://github.com/nesquena/rabl) - General ruby templating with json, bson, xml, plist and msgpack support.
