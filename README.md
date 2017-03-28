@@ -99,7 +99,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [WebSocket](#websocket)
 * [Services and Apps](#services-and-apps)
 * [Resources](#resources)
-* [Other Awesome Lists](#other-awesome-lists)
 
 ## Abstraction
 
@@ -1181,7 +1180,3 @@ Where to discover new Ruby libraries, projects and trends.
 * [Ruby Rogues](http://devchat.tv/ruby-rogues) - Weekly panel discussion about programming, primarily in Ruby.
 * [Ruby Weekly](http://rubyweekly.com) - A free, once–weekly e-mail round-up of Ruby news and articles.
 * [The Ruby Toolbox](https://www.ruby-toolbox.com) - A comprehensive catalog of Ruby and Rails plug-ins, gems, tools and resources for Ruby developers with popularity ratings based on GitHub watchers and Gem downloads.
-
-# Other Awesome Lists
-
-Other amazingly awesome lists can be found in the [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) list.
