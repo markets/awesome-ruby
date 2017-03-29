@@ -159,6 +159,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Emoji](https://github.com/wpeterson/emoji) - Exposes the Phantom Open Emoji library unicode/image assets and APIs for working with them.
 * [Less Rails](https://github.com/metaskills/less-rails) - The dynamic stylesheet language for the Rails asset pipeline.
 * [Less](https://github.com/cowboyd/less.rb) - Leaner CSS, in your browser or Ruby.
+* [Lotus::Assets](https://github.com/lotus/assets) - A lean assets management for Lotus and Ruby application.
 * [Sass](http://sass-lang.com) - Sass makes CSS fun again.
 * Management:
   * [Asset Sync](https://github.com/AssetSync/asset_sync) - Synchronises Assets between Rails and S3.
