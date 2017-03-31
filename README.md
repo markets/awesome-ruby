@@ -221,6 +221,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Thor](http://whatisthor.com) - A toolkit for building powerful command-line interfaces.
 * [Trollop](https://github.com/manageiq/trollop) - A commandline option parser for Ruby that just gets out of your way.
 * [TTY](https://github.com/peter-murach/tty) - Toolbox for developing CLI clients.
+* [TTY-Prompt](https://github.com/piotrmurach/tty-prompt) - A beautiful and powerful interactive command line prompt (Independent prompt component for TTY toolkit)
 
 ## CLI Utilities
 
