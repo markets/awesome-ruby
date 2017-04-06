@@ -954,6 +954,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Rack::Attack](https://github.com/kickstarter/rack-attack) - Rack middleware for blocking & throttling abusive requests.
 * [Rack::Protection](https://github.com/sinatra/rack-protection) - Rack middleware for protecting against typical Web attacks.
 * [SecureHeaders](https://github.com/twitter/secureheaders) - Automatically apply several headers that are related to security, including: Content Security Policy (CSP), HTTP Strict Transport Security (HSTS), X-Frame-Options (XFO), X-XSS-Protection, X-Content-Type-Options, X-Download-Options & X-Permitted-Cross-Domain-Policies.
+* [BeEF](http://beefproject.com) - BeEF is short for The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser.
 
 ## SEO
 
