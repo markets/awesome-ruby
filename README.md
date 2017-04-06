@@ -538,6 +538,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Abracadabra](https://github.com/TrevorHinesley/abracadabra) - The gem that swaps out text with a fully-compliant Rails form in one click.
 * [Formtastic](https://github.com/justinfrench/formtastic) - A Rails form builder plugin with semantically rich and accessible markup.
 * [Rails Bootstrap Forms](https://github.com/bootstrap-ruby/rails-bootstrap-forms) - Rails form builder that makes it super easy to create beautiful-looking forms with Twitter Bootstrap 3+.
+* [John Hancock](https://github.com/Brantron/john_hancock) - A gem that allows cross device touch enabled signature capture within your form.
 * [Simple Form](https://github.com/plataformatec/simple_form) - Rails forms made easy.
 * Nested Forms:
   * [ActiveForm](https://github.com/railsgsoc/actionform) - Provides an object-oriented approach to represent your forms by building a Form Object which deals with create/update actions of nested objects in a more seamless way.
