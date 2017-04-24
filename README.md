@@ -175,6 +175,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Devise](https://github.com/plataformatec/devise) - A flexible authentication solution for Rails based on Warden.
 * [JWT](https://github.com/jwt/ruby-jwt) - JSON Web Token implementation in Ruby.
 * [Knock](https://github.com/nsarno/knock) - Seamless JWT authentication for Rails API.
+* [Monban](https://github.com/halogenandtoast/monban) - A very simple and extensible user authentication library for rails.
 * [OmniAuth](https://github.com/intridea/omniauth) - A library that standardizes multi-provider authentication utilizing Rack middleware.
 * [Rodauth](https://github.com/jeremyevans/rodauth) - Authentication and account management framework for Rack applications.
 * [Shield](https://github.com/cyx/shield) - Authentication protocol for use in your routing and model context.
