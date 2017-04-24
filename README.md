@@ -949,6 +949,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Security
 
+* [BeEF](http://beefproject.com) - BeEF is short for The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser.
 * [bundler-audit](https://github.com/rubysec/bundler-audit) - Patch-level security verification for Bundler.
 * [Gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations.
 * [Metasploit](https://github.com/rapid7/metasploit-framework) - World's most used penetration testing software.
