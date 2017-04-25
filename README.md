@@ -463,7 +463,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Spree](https://github.com/spree/spree) - Spree is a complete open source e-commerce solution for Ruby on Rails.
 * [stripe-ruby](https://github.com/stripe/stripe-ruby) - Stripe Ruby bindings.
 
-
 ## Ebook
 
 * [Bookshop](https://github.com/worlduniting/bookshop) - Bookshop is a an open-source agile book development and publishing framework for authors, editors.
