@@ -452,6 +452,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Active Merchant](https://github.com/activemerchant/active_merchant) - A simple payment abstraction library extracted from Shopify.
 * [Braintree](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
+* [Conekta](https://github.com/conekta/conekta-ruby) - Conekta Ruby bindings.
 * [credit_card_validations](https://github.com/Fivell/credit_card_validations) - A ruby gem for validating credit card numbers, generating valid numbers, Luhn checks.
 * [Koudoku](https://github.com/andrewculver/koudoku) - Robust subscription support for Ruby on Rails apps using Stripe, including out-of-the-box pricing pages, payment pages, and subscription management.
 * [Payola](https://github.com/peterkeen/payola) - Drop-in Rails engine for accepting payments with Stripe.
