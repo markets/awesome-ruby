@@ -883,6 +883,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 * [Feed normalizer](https://github.com/aasmith/feed-normalizer) - Extensible Ruby wrapper for Atom and RSS parsers.
 * [Feedjira](https://github.com/feedjira/feedjira) - A feed fetching and parsing library.
+* [feedparser](https://github.com/feedparser/feedparser) - A feed parser and normalizer (Atom, RSS, JSON, etc) library.
 * [Ratom](https://github.com/seangeo/ratom) - A fast, libxml based, Ruby Atom library.
 * [Simple rss](https://github.com/cardmagic/simple-rss) - A simple, flexible, extensible, and liberal RSS and Atom reader.
 * [Stringer](https://github.com/swanson/stringer) - A self-hosted, anti-social RSS reader.
