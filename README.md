@@ -756,6 +756,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Enumerize](https://github.com/brainspec/enumerize) - Enumerated attributes with I18n and ActiveRecord/Mongoid/MongoMapper support.
   * [Goldiloader](https://github.com/salsify/goldiloader) - Automatic ActiveRecord eager loading.
   * [mini_record](https://github.com/DAddYE/mini_record) - ActiveRecord meets DataMapper, with MiniRecord you are be able to write schema inside your models.
+  * [rails_or](https://github.com/khiav223577/rails_or) - Support && Add syntax sugar to #or query method in Rails 3, 4, 5.
 * Multi-tenancy
   * [Acts As Tennant](https://github.com/ErwinM/acts_as_tenant) - Add multi-tenancy to a Rails app through a shared database strategy.
   * [Apartment](https://github.com/influitive/apartment) - Multi-tenancy for Rails and ActiveRecord.
