@@ -1128,6 +1128,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ## Web Servers
 
 * [Goliath](https://github.com/postrank-labs/goliath) - A non-blocking Ruby web server framework.
+* [Iodine](https://github.com/boazsegev/iodine) - An non-blocking HTTP and Websocket web server optimized for Linux/BDS/macOS and Ruby MRI.
 * [Phusion Passenger](https://www.phusionpassenger.com) - Fast and robust web server and application server.
 * [Puma](https://github.com/puma/puma) - A modern, concurrent web server for Ruby.
 * [Rack](http://rack.github.io) - A common Ruby web server interface. By itself, it's just a specification and utility library, but all Ruby web servers implement this interface.
