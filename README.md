@@ -431,6 +431,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [SSHKey](https://github.com/bensie/sshkey) - SSH private and public key generator in pure Ruby (RSA & DSA).
 * [Ruby-LXC](https://github.com/lxc/ruby-lxc) - Native ruby binding for Linux containers.
 * [Vagrant](http://www.vagrantup.com) - Create and configure lightweight, reproducible, and portable development environments.
+* [Whales](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications.
 
 ## Documentation
 
