@@ -225,6 +225,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## CLI Utilities
 
+* [colorls](https://github.com/athityakumar/colorls) - Beautifies the `ls` command, with color and font-awesome icons.
 * [formatador](https://github.com/geemus/formatador) - STDOUT text formatting.
 * [Paint](https://github.com/janlelis/paint) - Simple and fast way to set ANSI terminal colors.
 * [Pastel](https://github.com/peter-murach/pastel) - Terminal output styling with intuitive and clean API.
