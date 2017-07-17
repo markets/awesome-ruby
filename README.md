@@ -1068,7 +1068,6 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Third-party APIs
 
-* [databasedotcom](https://github.com/heroku/databasedotcom) - Ruby client for the Salesforce's Database.com and Chatter APIs.
 * [Dropbox](https://github.com/futuresimple/dropbox-api) - Dropbox API Ruby Client.
 * [facy](https://github.com/huydx/facy) - Command line power tool for facebook.
 * [fb_graph2](https://github.com/nov/fb_graph2) - A full-stack Facebook Graph API wrapper.
@@ -1082,6 +1081,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [linkedin](https://github.com/hexgnu/linkedin) - Provides an easy-to-use wrapper for LinkedIn's REST APIs.
 * [Octokit](http://octokit.github.io/octokit.rb) - Ruby toolkit for the GitHub API.
 * [Pusher](https://github.com/pusher/pusher-http-ruby) - Ruby server library for the Pusher API.
+* [Restforce](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
 * [ruby-gmail](https://github.com/dcparker/ruby-gmail) - A Rubyesque interface to Gmail.
 * [ruby-trello](https://github.com/jeremytregunna/ruby-trello) - Implementation of the Trello API for Ruby.
 * [simple-slack-bot](https://github.com/kciter/simple-slack-bot) - You can easily make Slack Bot.
