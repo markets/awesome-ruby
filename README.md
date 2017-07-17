@@ -950,6 +950,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Sunspot](https://github.com/sunspot/sunspot) - A Ruby library for expressive, powerful interaction with the Solr search engine.
 * [textacular](https://github.com/textacular/textacular) - Exposes full text search capabilities from PostgreSQL, and allows you to declare full text indexes. Textacular extends ActiveRecord with named_scope methods making searching easy and fun!
 * [Thinking Sphinx](https://github.com/pat/thinking-sphinx) - A library for connecting ActiveRecord to the Sphinx full-text search tool.
+* [redis-search](https://github.com/huacnlee/redis-search) - High performance real-time search (Support Chinese), index in Redis for Rails application.
 
 ## Security
 
