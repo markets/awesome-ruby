@@ -296,6 +296,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Configuration
 
+* [Chamber](https://github.com/thekompanee/chamber) - Surprisingly customizable convention-based approach to managing your app's configuration.
 * [Configatron](https://github.com/markbates/configatron) - Simple and feature rich configuration system for Ruby apps.
 * [Configus](https://github.com/kaize/configus) - Helps you easily manage environment specific settings.
 * [dotenv](https://github.com/bkeepers/dotenv) - Loads environment variables from `.env`.
