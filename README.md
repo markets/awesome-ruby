@@ -251,7 +251,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Refinery CMS](http://refinerycms.com) - An open source Ruby on Rails content management system for Rails 3 and 4.
 * [Spina CMS](http://www.spinacms.com) - A beautiful CMS for Rails developers.
 * [Storytime](https://github.com/CultivateLabs/storytime) - Rails 4+ CMS and bloging engine, with a core focus on content.
-* [Shopr](https://github.com/kirylpl/shopr/) - Rails 5/Devise e-commetce CMS, fork of abandoned Shoppe gem with 900 stars. Focus on simplicity and flexible customizations.
+* [Shopr](https://github.com/kirylpl/shopr/) - Rails 5/Devise e-commetce CMS, fork of abandoned Shoppe gem with 900 stars. Focus on simplicity and flexible customizations. Example shop application and extenstions avialable here: https://github.com/shoprgem
 
 ## Code Analysis and Metrics
 
