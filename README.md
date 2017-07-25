@@ -50,6 +50,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Game Development](#game-development)
   * [Geolocation](#geolocation)
   * [Git Tools](#git-tools)
+  * [GraphQL](#graphql)
   * [GUI](#gui)
   * [HTML/XML Parsing](#htmlxml-parsing)
   * [HTTP Clients](#http-clients)
@@ -571,6 +572,13 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [git-whence](https://github.com/grosser/git-whence) - Find which merge a commit came from.
 * [Overcommit](https://github.com/brigade/overcommit) - A fully configurable and extendable Git hook manager.
 * [Rugged](https://github.com/libgit2/rugged) - Ruby bindings to libgit2.
+
+## GraphQL
+
+* [graphql-batch](https://github.com/Shopify/graphql-batch) – A query batching executor.
+* [graphql-client](https://github.com/github/graphql-client) - A library for declaring, composing and executing GraphQL queries.
+* [graphql-guard](https://github.com/exAspArk/graphql-guard) - A simple field-level authorization.
+* [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL.
 
 ## GUI
 
