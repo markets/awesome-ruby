@@ -246,6 +246,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Alchemy CMS](http://alchemy-cms.com) - A powerful, userfriendly and flexible Open Source Rails CMS.
 * [Camaleon CMS](http://camaleon.tuzitio.com/) - A dynamic and advanced content management system based on Ruby on Rails 4.
 * [Comfortable Mexican Sofa](https://github.com/comfy/comfortable-mexican-sofa) - A powerful Rails 4 CMS Engine.
+* [KMS](https://github.com/webgradus/kms) - Simple and powerful Ruby on Rails CMS for developers.
 * [LocomotiveCMS](http://www.locomotivecms.com) - A simple but powerful CMS based on Liquid templates and Mongodb database.
 * [Publify](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails.
 * [PushType](http://www.pushtype.org/) - A next generation, open source content management system for Ruby on Rails.
