@@ -143,6 +143,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Grape](http://www.ruby-grape.org) - An opinionated micro-framework for creating REST-like APIs in Ruby.
 * [Her](https://github.com/remiprev/her) - an ORM that maps REST resources to Ruby objects. Designed to build applications that are powered by a RESTful API instead of a database.
 * [jbuilder](https://github.com/rails/jbuilder) - Create JSON structures via a Builder-style DSL.
+* [jsonapi-rb](http://jsonapi-rb.org) – Efficient and convenient JSON API (de)serialization library.
 * [JSONAPI::Resources](https://github.com/cerebris/jsonapi-resources) - JSONAPI::Resources, or "JR", provides a framework for developing a server that complies with the JSON API specification.
 * [JSONAPI::Utils](https://github.com/tiagopog/jsonapi-utils) - JSONAPI::Utils is built on top of JSONAPI::Resources taking advantage of its resource-driven style and bringing an easy way to build modern JSON APIs with no or less learning curve.
 * [Jsonite](https://github.com/crepe/jsonite) - A tiny, HAL-compliant JSON presenter for your APIs.
