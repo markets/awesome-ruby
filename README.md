@@ -770,6 +770,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Scrolls](https://github.com/asenchi/scrolls) - Simple logging.
 * [Semantic Logger](https://rocketjob.github.io/semantic_logger/) - Scalable, next generation enterprise logging for Ruby.
 * [Syslogger](https://github.com/crohr/syslogger) - A drop-in replacement for the standard Logger Ruby library, that logs to the syslog instead of a log file.
+* [Timber](https://github.com/timberio/timber-ruby) - Simple structured logging with context.
 * [Yell](https://github.com/rudionrails/yell) - Your Extensible Logging Library.
 
 ## Machine Learning
