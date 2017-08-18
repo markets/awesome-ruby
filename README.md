@@ -652,6 +652,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [MongoDB Logger](https://github.com/le0pard/mongodb_logger) - MongoDB logger for Rails.
 * [Scrolls](https://github.com/asenchi/scrolls) - Simple logging.
 * [Semantic Logger](https://rocketjob.github.io/semantic_logger/) - Scalable, next generation enterprise logging for Ruby.
+* [Timber](https://github.com/timberio/timber-ruby) - Simple structured logging with context.
 * [Yell](https://github.com/rudionrails/yell) - Your Extensible Logging Library.
 
 ## Machine Learning
