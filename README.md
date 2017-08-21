@@ -545,6 +545,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Formtastic](https://github.com/justinfrench/formtastic) - A Rails form builder plugin with semantically rich and accessible markup.
 * [Rails Bootstrap Forms](https://github.com/bootstrap-ruby/rails-bootstrap-forms) - Rails form builder that makes it super easy to create beautiful-looking forms with Twitter Bootstrap 3+.
 * [Simple Form](https://github.com/plataformatec/simple_form) - Rails forms made easy.
+* [Trix](https://github.com/maclover7/trix) - Basecamp's awesome Trix WYSIWYG editor as a Gem. Trix is a rich text editor for everyday writing.
 * Nested Forms:
   * [ActiveForm](https://github.com/railsgsoc/actionform) - Provides an object-oriented approach to represent your forms by building a Form Object which deals with create/update actions of nested objects in a more seamless way.
   * [Cocoon](https://github.com/nathanvda/cocoon) - Dynamic nested forms using jQuery made easy; works with formtastic, simple_form or default forms.
