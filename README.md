@@ -157,18 +157,18 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Assets
 
-* [Compass](https://github.com/Compass/compass) - Compass is a Stylesheet Authoring Environment that makes your website design simpler to implement and easier to maintain.
+* [Asset Sync](https://github.com/AssetSync/asset_sync) - Synchronises Assets between Rails and S3.
+* [Autoprefixer](https://github.com/ai/autoprefixer-rails) - Parse CSS and add vendor prefixes to rules by Can I Use.
+* [Bourbon](https://github.com/thoughtbot/bourbon) - A Lightweight Sass Tool Set.
+* [bower-rails](https://github.com/rharriso/bower-rails) - Bower support for Rails projects.
 * [Emoji](https://github.com/wpeterson/emoji) - Exposes the Phantom Open Emoji library unicode/image assets and APIs for working with them.
 * [Less Rails](https://github.com/metaskills/less-rails) - The dynamic stylesheet language for the Rails asset pipeline.
 * [Less](https://github.com/cowboyd/less.rb) - Leaner CSS, in your browser or Ruby.
+* [Rails Assets](https://rails-assets.org) - Bundler to Bower proxy.
 * [Sass](http://sass-lang.com) - Sass makes CSS fun again.
-* Management:
-  * [Asset Sync](https://github.com/AssetSync/asset_sync) - Synchronises Assets between Rails and S3.
-  * [Autoprefixer](https://github.com/ai/autoprefixer-rails) - Parse CSS and add vendor prefixes to rules by Can I Use.
-  * [bower-rails](https://github.com/rharriso/bower-rails) - Bower support for Rails projects.
-  * [Rails Assets](https://rails-assets.org) - Bundler to Bower proxy.
-  * [Sprockets](https://github.com/sstephenson/sprockets) - Rack-based asset packaging system.
-  * [Torba](https://github.com/torba-rb/torba) - Bower-less bundler for Sprockets.
+* [Sprockets](https://github.com/sstephenson/sprockets) - Rack-based asset packaging system.
+* [Torba](https://github.com/torba-rb/torba) - Bower-less bundler for Sprockets.
+* [Webpacker](https://github.com/rails/webpacker) - Use Webpack to manage app-like JavaScript modules in Rails.
 
 ## Authentication and OAuth
 
