@@ -76,7 +76,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Presentation Programs](#presentation-programs)
   * [Process Monitoring](#process-monitoring)
   * [Processes and Threads](#processes-and-threads)
-  * [Profiler](#profiler)
+  * [Profiler and Optimization](#profiler-and-optimization)
   * [Queue](#queue)
   * [Rails Application Generators](#rails-application-generators)
   * [Robotics](#robotics)
@@ -850,8 +850,9 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [posix-spawn](https://github.com/rtomayko/posix-spawn) - Fast Process::spawn for Rubys >= 1.8.7 based on the posix_spawn() system interfaces.
 
-## Profiler
+## Profiler and Optimization
 
+* [batch-loader](https://github.com/exaspark/batch-loader) – A generic lazy batching mechanism to avoid N+1 DB queries, HTTP queries, etc.
 * [benchmark-ips](https://github.com/evanphx/benchmark-ips) - Provides iteration per second benchmarking for Ruby.
 * [bullet](https://github.com/flyerhzm/bullet) - Help to kill N+1 queries and unused eager loading.
 * [Derailed Benchmarks](https://github.com/schneems/derailed_benchmarks) - A series of things you can use to benchmark any Rack based app.
