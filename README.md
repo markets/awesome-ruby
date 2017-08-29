@@ -1,4 +1,13 @@
-# <img src="https://raw.githubusercontent.com/markets/awesome-ruby/gh-pages/images/logo.png" align="absmiddle"/> <a href="http://awesome-ruby.com">Awesome Ruby</a> [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<div>
+  <p align="center">
+    <a href="http://awesome-ruby.com"><img src="https://raw.githubusercontent.com/markets/awesome-ruby/gh-pages/images/logo_big.png"></a>
+  </p>
+  <h3 align="center"><a href="http://awesome-ruby.com">Awesome Ruby</a></h3>
+  <p align="center">
+    <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
+  </p>
+  <hr>
+</div>
 
 A categorized community-driven collection of awesome Ruby libraries, tools, frameworks and software. The essential Ruby to build modern Apps and Web Apps.
 
