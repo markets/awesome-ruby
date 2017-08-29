@@ -3,8 +3,9 @@ $(document).ready(function(){
   var $document = $(document);
 
   $document.on('flatdoc:ready', function() {
-    $(".content h1 img").remove();
+    $(".content div:first").html("<h1>Awesome Ruby</h1>");
     $(".content ul:first").remove();
+    $(".menu .level-0 li.level-1:first").remove();
 
     $('.menu a').anchorjump();
 
