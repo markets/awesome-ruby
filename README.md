@@ -434,6 +434,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Chef](https://github.com/chef/chef) - A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
 * [Deployinator](https://github.com/etsy/deployinator) - Deployinator is a deployment framework extracted from Etsy.
 * [Einhorn](https://github.com/stripe/einhorn) - Einhorn will open one or more shared sockets and run multiple copies of your process. You can seamlessly reload your code, dynamically reconfigure Einhorn, and more.
+* [Itamae](https://github.com/itamae-kitchen/itamae) - Simple and lightweight configuration management tool inspired by Chef.
 * [Kochiku](https://github.com/square/kochiku) - Kochiku is a distributed platform for test automation.
 * [Lita](https://www.lita.io/) - ChatOps for Ruby: A pluggable chat bot framework usable with any chat service.
 * [Logstash](https://github.com/elastic/logstash) - Logs/event transport, processing, management, search.
