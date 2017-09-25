@@ -579,6 +579,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [git-spelunk](https://github.com/osheroff/git-spelunk) - Dig through git blame history.
 * [git-up](https://github.com/aanand/git-up) - Fetch and rebase all locally-tracked remote branches.
 * [git-whence](https://github.com/grosser/git-whence) - Find which merge a commit came from.
+* [Git Cop](https://github.com/bkuhlmann/git-cop) - Enforces consistent Git commits.
 * [Overcommit](https://github.com/brigade/overcommit) - A fully configurable and extendable Git hook manager.
 * [Rugged](https://github.com/libgit2/rugged) - Ruby bindings to libgit2.
 
