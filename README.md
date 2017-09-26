@@ -1013,6 +1013,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 * [AASM](https://github.com/aasm/aasm) - State machines for Ruby classes (plain Ruby, Rails Active Record, Mongoid).
 * [FiniteMachine](https://github.com/peter-murach/finite_machine) - A plain Ruby state machine with a straightforward and expressive syntax.
+* [MicroMachine](https://github.com/soveran/micromachine) - A minimal finite state machine implementation in less than 50 lines of code.
 * [simple_states](https://github.com/svenfuchs/simple_states) - A super-slim statemachine-like support library.
 * [Statesman](https://github.com/gocardless/statesman) - A statesmanlike state machine library.
 * [state_machines](https://github.com/state-machines/state_machines) - Adds support for creating state machines for attributes on any Ruby class.
