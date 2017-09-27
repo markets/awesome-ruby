@@ -684,6 +684,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Clipboard](https://github.com/janlelis/clipboard) - Access to the system clipboard on Linux, MacOS and Windows.
 * [Device Detector](https://github.com/podigee/device_detector) - A precise and fast user agent parser and device detector, backed by the largest and most up-to-date user agent database.
 * [Diffy](https://github.com/samg/diffy) - Easy Diffing With Ruby.
+* [Dnsruby](https://github.com/alexdalitz/dnsruby) -  A complete client side DNS library and recursive resolver, including DNSSEC support
 * [Foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications.
 * [Gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 * [gon](https://github.com/gazay/gon) - If you need to send some data to your js files and you don't want to do this with long way through views and parsing - use gon.
