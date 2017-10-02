@@ -461,7 +461,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Hanna](https://github.com/rdoc/hanna-nouveau) - An RDoc formatter built with simplicity, beauty and ease of browsing in mind.
 * [Hologram](https://github.com/trulia/hologram) - A markdown based documentation system for style guides. It parses comments in your CSS and helps you turn them into a beautiful style guide.
 * [Inch](https://github.com/rrrene/inch) - Inch is a documentation measurement and evalutation tool for Ruby code, based on YARD.
-* [RDoc](https://github.com/rdoc/rdoc) - RDoc produces HTML and command-line documentation for Ruby projects.
+* [RDoc](https://github.com/ruby/rdoc) - RDoc produces HTML and command-line documentation for Ruby projects.
 * [rspec_api_documentation](https://github.com/zipmark/rspec_api_documentation) - Automatically generate API documentation from RSpec.
 * [YARD](http://yardoc.org) - YARD enables the user to generate consistent, usable documentation that can be exported to a number of formats very easily.
 
@@ -476,7 +476,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Paypal Merchant SDK](https://github.com/paypal/merchant-sdk-ruby) - Official Paypal Merchant SDK for Ruby.
 * [Piggybak](https://github.com/piggybak/piggybak) - Modular, Extensible open-source ecommerce solution for Ruby on Rails.
 * [ROR Ecommerce](https://github.com/drhenner/ror_ecommerce) - A Rails e-commerce platform.
-* [Shoppe](http://tryshoppe.com) - A Rails-based e-commerce platform which allows you to easily introduce a catalogue-based store into your Rails 4 applications.
 * [Solidus](https://github.com/solidusio/solidus) - An open source, eCommerce application for high volume retailers.
 * [Spree](https://github.com/spree/spree) - Spree is a complete open source e-commerce solution for Ruby on Rails.
 * [stripe-ruby](https://github.com/stripe/stripe-ruby) - Stripe Ruby bindings.
@@ -848,7 +847,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Presentation Programs
 
-* [Middleman Presentation](https://github.com/fedux-org/middleman-presentation) - Build wonderful presentations based on HTML and JavaScript by using ruby.
 * [Slide Show (S9)](https://github.com/slideshow-s9/slideshow) - Write your slides / talks / presentations in plain text with markdown formatting conventions and generate (static) web pages; template packs incl. deck.js, impress.js, reveal.js, shower, s6, s5 and more.
 
 ## Process Monitoring
@@ -1140,7 +1138,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Cuba](http://cuba.is) - A microframework for web development.
 * [Hobbit](https://github.com/patriciomacadden/hobbit) - A minimalistic microframework built on top of Rack.
 * [Hanami](http://hanamirb.org) - It aims to bring back Object Oriented Programming to web development, leveraging on a stable API, a minimal DSL, and plain objects.
-* [Hyperloop](http://ruby-hyperloop.io/) - A Complete Isomorphic Ruby Framework using React, Rails and Opal
+* [Hyperloop](http://ruby-hyperloop.org/) - A Complete Isomorphic Ruby Framework using React, Rails and Opal
 * [Padrino](http://www.padrinorb.com) - A full-stack ruby framework built upon Sinatra.
 * [Pakyow](https://www.pakyow.org/) - A framework for building modern web-apps in Ruby. It helps you build working software faster with a development process that remains friendly to both designers and developers.
 * [Ramaze](http://ramaze.net/) - A simple, light and modular open-source web application framework written in Ruby.
