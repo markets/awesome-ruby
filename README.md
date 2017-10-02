@@ -176,6 +176,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Emoji](https://github.com/wpeterson/emoji) - Exposes the Phantom Open Emoji library unicode/image assets and APIs for working with them.
 * [Less Rails](https://github.com/metaskills/less-rails) - The dynamic stylesheet language for the Rails asset pipeline.
 * [Less](https://github.com/cowboyd/less.rb) - Leaner CSS, in your browser or Ruby.
+* [jquery-rails-cdn](https://github.com/kenn/jquery-rails-cdn) - Add CDN support to jquery-rails
 * [Rails Assets](https://rails-assets.org) - Bundler to Bower proxy.
 * [Sass](http://sass-lang.com) - Sass makes CSS fun again.
 * [Sprockets](https://github.com/sstephenson/sprockets) - Rack-based asset packaging system.
