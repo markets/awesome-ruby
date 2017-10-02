@@ -696,7 +696,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [play ►](https://github.com/play/play) - Your company's dj.
 * [PluggableJs](https://github.com/peresleguine/pluggable_js) - Page-specific javascript for Rails applications with the ability of passing data from a controller.
 * [QR-code](https://github.com/whomwah/rqrcode) - A Ruby library that encodes QR Codes
-* [RubyDNS](https://github.com/ioquatix/rubydns) - A high-performance DNS server which can be easily integrated into other projects or used as a stand-alone daemon.
 * [Ruby Operators](http://ruby-operators.herokuapp.com/) - A webpage showing awesome names for different Ruby operators.
 
 ## Mobile Development
@@ -737,6 +736,11 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Gretel](https://github.com/lassebunk/gretel) - A Ruby on Rails plugin that makes it easy yet flexible to create breadcrumbs.
 * [loaf](https://github.com/peter-murach/loaf) - Manages and displays breadcrumb trails in Rails app - lean & mean.
 * [Simple Navigation](https://github.com/codeplant/simple-navigation) - A ruby gem for creating navigation (html list, link list or breadcrumbs with multiple levels) for your Rails 2, 3 & 4, Sinatra or Padrino.
+
+## Networking
+
+* [mac-wifi](https://github.com/keithrbennett/macwifi) -  A command line tool to manage Mac wifi, including an interactive shell.
+* [RubyDNS](https://github.com/ioquatix/rubydns) - A high-performance DNS server which can be easily integrated into other projects or used as a stand-alone daemon.
 
 ## ORM/ODM
 
