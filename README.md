@@ -25,6 +25,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Authorization](#authorization)
   * [Automation](#automation)
   * [Caching](#caching)
+  * [Captchas and anti-spam](#captchas-and-anti-spam)
   * [CLI Builder](#cli-builder)
   * [CLI Utilities](#cli-utilities)
   * [Cloud](#cloud)
@@ -226,6 +227,13 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Record Cache](https://github.com/orslumen/record-cache) - Cache Active Model Records in Rails 3.
 * [redis-store](http://redis-store.org/) - Redis Store provides a full set of stores (Cache, I18n, Session, HTTP Cache) for modern Ruby frameworks like: Ruby on Rails, Sinatra, Rack, Rack::Cache and I18n. It supports object marshalling, timeouts, single or multiple nodes, and namespaces.
 * [Second Level Cache](https://github.com/hooopo/second_level_cache) - Write-Through and Read-Through caching library for ActiveRecord 4.
+
+## Captchas and anti-spam
+
+* [Invisible Captcha](https://github.com/markets/invisible_captcha) - Unobtrusive and flexible spam protection based on the honeypot strategy. It also provides a time-sensitive form submission.
+* [Rakismet](https://github.com/joshfrench/rakismet) - Easy Akismet and TypePad AntiSpam integration for Rails.
+* [reCAPTCHA](https://github.com/ambethia/recaptcha) - reCaptcha API helpers for ruby apps.
+* [Voight-Kampff](https://github.com/biola/Voight-Kampff) - A Ruby gem that detects bots, spiders, crawlers and replicants.
 
 ## CLI Builder
 
