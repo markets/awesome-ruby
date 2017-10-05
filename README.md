@@ -147,6 +147,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Impressionist](https://github.com/charlotte-ruby/impressionist) - Rails Plugin that tracks impressions and page views.
 * [Legato](https://github.com/tpitale/legato) - Model analytics reports and queries against the official Google Analytics Reporting API.
 * [Rack::Tracker](https://github.com/railslove/rack-tracker) - Rack middleware that can be hooked up to multiple services and exposing them in a unified fashion.
+* [Roguelytics](https://www.roguelytics.com) - OnPage Analytics and [GEM](https://rubygems.org/gems/roguelytics).
 * [Staccato](https://github.com/tpitale/staccato) - Track analytics into the official Google Analytics Collection API.
 
 ## API Builder and Discovery
