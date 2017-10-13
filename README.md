@@ -689,6 +689,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Misc
 
 * [Clipboard](https://github.com/janlelis/clipboard) - Access to the system clipboard on Linux, MacOS and Windows.
+* [Compel](https://github.com/joaquimadraz/compel) - Ruby Object Coercion and Validation
 * [Device Detector](https://github.com/podigee/device_detector) - A precise and fast user agent parser and device detector, backed by the largest and most up-to-date user agent database.
 * [Diffy](https://github.com/samg/diffy) - Easy Diffing With Ruby.
 * [Foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications.
