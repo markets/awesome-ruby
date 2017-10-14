@@ -32,7 +32,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
   * [Code Highlighting](#code-highlighting)
   * [Coding Style Guides](#coding-style-guides)
-  * [Concurrency](#concurrency)
+  * [Concurrency and Parallelism](#concurrency-and-parallelism)
   * [Configuration](#configuration)
   * [Core Extensions](#core-extensions)
   * [Country Data](#country-data)
@@ -46,6 +46,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Debugging Tools](#debugging-tools)
   * [Decorators](#decorators)
   * [DevOps Tools](#devops-tools)
+  * [Diff](#diff)
   * [Documentation](#documentation)
   * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Ebook](#ebook)
@@ -55,6 +56,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Error Handling](#error-handling)
   * [Feature Flippers and A/B Testing](#feature-flippers-and-ab-testing)
   * [File Upload](#file-upload)
+  * [File System](#file-system)
   * [Form Builder](#form-builder)
   * [Game Development](#game-development)
   * [Geolocation](#geolocation)
@@ -62,7 +64,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [GraphQL](#graphql)
   * [GUI](#gui)
   * [HTML/XML Parsing](#htmlxml-parsing)
-  * [HTTP Clients](#http-clients)
+  * [HTTP Clients and tools](#http-clients-and-tools)
   * [Image Processing](#image-processing)
   * [Implementations/Compilers](#implementationscompilers)
   * [Internationalization](#internationalization)
@@ -70,7 +72,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Logging](#logging)
   * [Machine Learning](#machine-learning)
   * [Markdown Processors](#markdown-processors)
-  * [Misc](#misc)
   * [Mobile Development](#mobile-development)
   * [Money](#money)
   * [Music and Sound](#music-and-sound)
@@ -85,8 +86,9 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Performance Monitoring](#performance-monitoring)
   * [Presentation Programs](#presentation-programs)
   * [Process Monitoring](#process-monitoring)
-  * [Processes and Threads](#processes-and-threads)
+  * [Processes](#processes)
   * [Profiler and Optimization](#profiler-and-optimization)
+  * [QR](#qr)
   * [Queue](#queue)
   * [Rails Application Generators](#rails-application-generators)
   * [Robotics](#robotics)
@@ -308,11 +310,14 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Ruby Operators](http://ruby-operators.herokuapp.com/) - A webpage showing awesome names for different Ruby operators.
 * [Ruby style guide](https://github.com/bbatsov/ruby-style-guide) - Community-driven Ruby coding style.
 
-## Concurrency
+## Concurrency and Parallelism
 
 * [Celluloid](http://celluloid.io) - Actor-based concurrent object framework for Ruby.
 * [Concurrent Ruby](https://github.com/ruby-concurrency/concurrent-ruby) - Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
 * [EventMachine](https://github.com/eventmachine/eventmachine) - An event-driven I/O and lightweight concurrency library for Ruby.
+* [forkoff](https://github.com/ahoward/forkoff) - brain-dead simple parallel processing for ruby.
+* [Parallel](https://github.com/grosser/parallel) - Run any code in parallel Processes (> use all CPUs) or Threads (> speedup blocking operations).
+Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Configuration
 
@@ -454,6 +459,12 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Ruby-LXC](https://github.com/lxc/ruby-lxc) - Native ruby binding for Linux containers.
 * [Vagrant](http://www.vagrantup.com) - Create and configure lightweight, reproducible, and portable development environments.
 
+## Diff
+
+* [Diffy](https://github.com/samg/diffy) - Easy Diffing With Ruby.
+* [gemdiff](https://github.com/teeparham/gemdiff) - Find source repositories for gems. Open, compare, and update outdated gem versions.
+* [JsonCompare](https://github.com/a2design-inc/json-compare) - Returns the difference between two JSON files.
+
 ## Documentation
 
 * [Annotate](https://github.com/ctran/annotate_models) - Add a comment documenting the current schema to the top or bottom of each of your ActiveRecord models.
@@ -556,7 +567,11 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [PaperClip](https://github.com/thoughtbot/paperclip) - Easy file attachment management for ActiveRecord.
 * [rack-secure-upload](https://github.com/dtaniwaki/rack-secure-upload) - Upload files securely.
 * [Refile](https://github.com/refile/refile) - A modern file upload library for Ruby applications, Refile is an attempt by CarrierWave's original author to fix the design mistakes and overengineering in CarrierWave.
-* [Shrine](https://github.com/janko-m/shrine) - Toolkit for handling file uploads in Ruby
+* [Shrine](https://github.com/janko-m/shrine) - Toolkit for handling file uploads in Ruby.
+
+## File System
+
+* [Guard](https://github.com/guard/guard) - A command line tool to easily handle events on file system modifications.
 
 ## Form Builder
 
@@ -614,10 +629,11 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Ox](https://github.com/ohler55/ox) - A fast XML parser and Object marshaller.
 * [ROXML](https://github.com/Empact/roxml) - Custom mapping and bidirectional marshalling between Ruby and XML using annotation-style class methods, via Nokogiri or LibXML.
 
-## HTTP Clients
+## HTTP Clients and tools
 
 * [excon](https://github.com/excon/excon) - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
 * [Faraday](https://github.com/lostisland/faraday) - an HTTP client lib that provides a common interface over many adapters (such as Net::HTTP) and embraces the concept of Rack middleware when processing the request/response cycle.
+* [Device Detector](https://github.com/podigee/device_detector) - A precise and fast user agent parser and device detector, backed by the largest and most up-to-date user agent database.
 * [Http Client](https://github.com/nahi/httpclient) - Gives something like the functionality of libwww-perl (LWP) in Ruby.
 * [HTTP](https://github.com/httprb/http) - The HTTP Gem: a simple Ruby DSL for making HTTP requests.
 * [httparty](https://github.com/jnunemaker/httparty) - Makes http fun again!
@@ -655,6 +671,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## IRB
 
+* [Clipboard](https://github.com/janlelis/clipboard) - Access to the system clipboard on Linux, MacOS and Windows.
 * [Hirb](https://github.com/cldwalker/hirb) - A mini view framework for console/irb that's easy to use, even while under its influence. Console goodies include a no-wrap table, auto-pager, tree and menu.
 * [irbtools](https://github.com/janlelis/irbtools) - Improvements for Ruby's IRB.
 * [Pry](https://github.com/pry/pry) - A powerful alternative to the standard IRB shell for Ruby.
@@ -685,16 +702,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Maruku](https://github.com/bhollis/maruku) - A pure-Ruby Markdown-superset interpreter.
 * [Redcarpet](https://github.com/vmg/redcarpet) - A fast, safe and extensible Markdown to (X)HTML parser.
 * [word-to-markdown](https://github.com/benbalter/word-to-markdown) - Gem to convert Microsoft Word documents to Markdown.
-
-## Misc
-
-* [Clipboard](https://github.com/janlelis/clipboard) - Access to the system clipboard on Linux, MacOS and Windows.
-* [Device Detector](https://github.com/podigee/device_detector) - A precise and fast user agent parser and device detector, backed by the largest and most up-to-date user agent database.
-* [Diffy](https://github.com/samg/diffy) - Easy Diffing With Ruby.
-* [Foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications.
-* [Guard](https://github.com/guard/guard) - A command line tool to easily handle events on file system modifications.
-* [JsonCompare](https://github.com/a2design-inc/json-compare) - Returns the difference between two JSON files.
-* [QR-code](https://github.com/whomwah/rqrcode) - A Ruby library that encodes QR Codes
 
 ## Mobile Development
 
@@ -811,10 +818,10 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * Gems
   * [Bundler](http://bundler.io) - Manage your application's gem dependencies with less pain.
   * [RubyGems](https://rubygems.org) - Community's gem hosting service.
-  * [gemdiff](https://github.com/teeparham/gemdiff) - Find source repositories for gems. Open, compare, and update outdated gem versions.
 * Packages and Applications
   * [Berkshelf](https://github.com/berkshelf/berkshelf) - A Chef Cookbook manager.
   * [CocoaPods](https://github.com/CocoaPods/CocoaPods) - The Objective-C dependency manager.
+  * [Foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications.
   * [fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
   * [Linuxbrew](https://github.com/Homebrew/linuxbrew) - A fork of Homebrew for Linux.
   * [Homebrew-cask](https://github.com/caskroom/homebrew-cask) - A CLI workflow for the administration of Mac applications distributed as binaries.
@@ -858,12 +865,9 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Eye](https://github.com/kostya/eye) - Process monitoring tool. Inspired from Bluepill and God.
 * [God](https://github.com/mojombo/god) - An easy to configure, easy to extend monitoring framework written in Ruby.
 
-## Processes and Threads
+## Processes
 
 * [childprocess](https://github.com/jarib/childprocess) - Cross-platform ruby library for managing child processes.
-* [forkoff](https://github.com/ahoward/forkoff) - brain-dead simple parallel processing for ruby.
-* [Parallel](https://github.com/grosser/parallel) - Run any code in parallel Processes (> use all CPUs) or Threads (> speedup blocking operations).
-Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [posix-spawn](https://github.com/rtomayko/posix-spawn) - Fast Process::spawn for Rubys >= 1.8.7 based on the posix_spawn() system interfaces.
 
 ## Profiler and Optimization
@@ -877,6 +881,10 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) - Profiler for your development and production Ruby rack apps.
 * [Rbkit](https://github.com/code-mancers/rbkit) - profiler for Ruby. With a GUI.
 * [ruby-prof](https://github.com/ruby-prof/ruby-prof) - A code profiler for MRI rubies.
+
+## QR
+
+* [QR-code](https://github.com/whomwah/rqrcode) - A Ruby library that encodes QR Codes
 
 ## Queue
 
