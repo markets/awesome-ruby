@@ -90,7 +90,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Processes](#processes)
   * [Profiler and Optimization](#profiler-and-optimization)
   * [QR](#qr)
-  * [Queues and Messaging](#queue-and-messaging)
+  * [Queues and Messaging](#queues-and-messaging)
   * [Rails Application Generators](#rails-application-generators)
   * [Robotics](#robotics)
   * [RSS](#rss)
@@ -1169,6 +1169,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Hyperloop](http://ruby-hyperloop.org/) - A Complete Isomorphic Ruby Framework using React, Rails and Opal
 * [Padrino](http://www.padrinorb.com) - A full-stack ruby framework built upon Sinatra.
 * [Pakyow](https://www.pakyow.org/) - A framework for building modern web-apps in Ruby. It helps you build working software faster with a development process that remains friendly to both designers and developers.
+* [Rack::App](https://github.com/rack-app/rack-app) - Bare bone minimalistic framework for building rack apps.
 * [Ramaze](http://ramaze.net/) - A simple, light and modular open-source web application framework written in Ruby.
 * [Roda](http://roda.jeremyevans.net/) - A routing tree web framework.
 * [Ruby on Rails](http://rubyonrails.org) - A web-application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern.
