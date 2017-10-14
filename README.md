@@ -109,6 +109,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Web Frameworks](#web-frameworks)
   * [Web Servers](#web-servers)
   * [WebSocket](#websocket)
+  * [Workflows](#workflows)
 * [Services and Apps](#services-and-apps)
 * [Resources](#resources)
 
@@ -1180,6 +1181,10 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Slanger](https://github.com/stevegraham/slanger) - Open Pusher implementation compatible with Pusher libraries.
 * [RenderSync](https://github.com/chrismccord/render_sync) - Real-time Rails Partials.
 * [Websocket-Rails](https://github.com/websocket-rails/websocket-rails) - Creates a built in WebSocket server inside a Rails application with ease, and also support streaming HTTP.
+
+## Workflows
+
+* [Tumugi](https://github.com/tumugi/tumugi) - Tumugi is a ruby library to build, run and manage complex workflows.
 
 # Services and Apps
 
