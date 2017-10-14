@@ -448,6 +448,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## DevOps Tools
 
+* [aptly_cli](https://github.com/sepulworld/aptly_cli) - A CLI to interact with Aptly package management servers.
 * [Backup](https://github.com/backup/backup) - Provides an elegant DSL in Ruby for performing backups on UNIX-like systems.
 * [Blender](https://github.com/PagerDuty/blender) - A modular system orchestration framework with pluggable driver and host discovery.
 * [BOSH](https://github.com/cloudfoundry/bosh) - Cloud Foundry BOSH is an open source tool chain for release engineering, deployment and lifecycle management of large scale distributed services.
