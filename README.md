@@ -1025,6 +1025,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 * [AXLSX](https://github.com/randym/axlsx) - An excel xlsx generation library.
 * [Docsplit](http://documentcloud.github.io/docsplit) - Gem to convert Microsoft Word (and other) documents into images, pdf, pages or text.
+* [Fastsheet](https://github.com/dkkoval/fastsheet) - Fast spreadsheet parser using Rust native extensions.
 * [Roo](https://github.com/roo-rb/roo) - Implements read access for all spreadsheet types and read/write access for Google spreadsheets.
 * [Spreadsheet Architect](https://github.com/westonganger/spreadsheet_architect) - Turn any activerecord relation or ruby object collection into a XLSX, ODS, or CSV spreadsheet.
 * [Yomu](https://github.com/Erol/yomu) - Read text and metadata from files and documents (.doc, .docx, .pages, .odt, .rtf, .pdf).
