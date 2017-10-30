@@ -406,6 +406,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Large Hadron Migrator](https://github.com/soundcloud/lhm) - Online MySQL schema migrations without locking the table.
 * [Lol DBA](https://github.com/plentz/lol_dba) - Scan your models and displays a list of columns that probably should be indexed.
 * [Polo](https://github.com/IFTTT/polo) - Creates sample database snapshots to work with real world data in development.
+* [PgDriveBackup](https://github.com/kirillshevch/pg_drive_backup) - Simple solution to make encrypted with ccrypt PostgreSQL backups and storing on Google Drive.
 * [PgHero](https://github.com/ankane/pghero) - Postgres insights made easy.
 * [Rails DB](https://github.com/igorkasyanchuk/rails_db) - Database Viewer and SQL Query Runner.
 * [Scenic](https://github.com/thoughtbot/scenic) - Versioned database views for Rails.
