@@ -156,7 +156,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [ActiveModel::Serializers](https://github.com/rails-api/active_model_serializers) - JSON serialization of objects.
 * [Blanket](https://github.com/inf0rmer/blanket) - A dead simple API wrapper.
-* [Crêpe](https://github.com/crepe/crepe) - The thin API stack.
+* [Crepe](https://github.com/crepe/crepe) - The thin API stack.
 * [Grape](http://www.ruby-grape.org) - An opinionated micro-framework for creating REST-like APIs in Ruby.
 * [Her](https://github.com/remiprev/her) - an ORM that maps REST resources to Ruby objects. Designed to build applications that are powered by a RESTful API instead of a database.
 * [jbuilder](https://github.com/rails/jbuilder) - Create JSON structures via a Builder-style DSL.
