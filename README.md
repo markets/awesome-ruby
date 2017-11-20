@@ -650,6 +650,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [RESTClient](https://github.com/rest-client/rest-client) - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
 * [Savon](https://github.com/savonrb/savon) - Savon is a SOAP client for the Ruby programming language.
 * [Sawyer](https://github.com/lostisland/sawyer) - Secret user agent of HTTP, built on top of Faraday.
+* [Sniffer](https://github.com/aderyabin/sniffer) – Tool to log and debug outgoing HTTP requests across multiple ruby libraries.
 * [Typhoeus](https://github.com/typhoeus/typhoeus) - Typhoeus wraps libcurl in order to make fast and reliable requests.
 
 ## Image Processing
