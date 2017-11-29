@@ -684,6 +684,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [irbtools](https://github.com/janlelis/irbtools) - Improvements for Ruby's IRB.
 * [Looksee](https://github.com/oggy/looksee) - A tool for illustrating the ancestry and method lookup path of objects. Handy for exploring unfamiliar codebases.
 * [Pry](https://github.com/pry/pry) - A powerful alternative to the standard IRB shell for Ruby.
+* [rib](http://rib.godfat.org) - A lightweight and extensible IRB replacement.
 
 ## Logging
 
