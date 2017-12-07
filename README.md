@@ -516,8 +516,8 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Email
 
-* [Gibbon](https://github.com/amro/gibbon) - API wrapper for the Mailchimp e-mail marketing platform
-* [Griddler](https://github.com/thoughtbot/griddler) - Simplify receiving email in Rails
+* [Gibbon](https://github.com/amro/gibbon) - API wrapper for the Mailchimp e-mail marketing platform.
+* [Griddler](https://github.com/thoughtbot/griddler) - Simplify receiving email in Rails.
 * [Incoming](https://github.com/honeybadger-io/incoming) - Incoming! helps you receive email in your Rack apps.
 * [LetterOpener](https://github.com/ryanb/letter_opener) - Preview mail in the browser instead of sending.
 * [Mail](https://github.com/mikel/mail) - A Really Ruby Mail Library.
@@ -896,7 +896,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## QR
 
-* [QR-code](https://github.com/whomwah/rqrcode) - A Ruby library that encodes QR Codes
+* [QR-code](https://github.com/whomwah/rqrcode) - A Ruby library that encodes QR Codes.
 
 ## Queues and Messaging
 
@@ -1150,7 +1150,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## View helpers
 
-* [auto_html](https://github.com/dejan/auto_html) - Rails extension for transforming URLs to appropriate resource (image, link, YouTube, Vimeo video...)
+* [auto_html](https://github.com/dejan/auto_html) - Rails extension for transforming URLs to appropriate resource (image, link, YouTube, Vimeo video...).
 * [Bh](https://github.com/fullscreen/bh) - Bootstrap Helpers for Ruby.
 * [gon](https://github.com/gazay/gon) - If you need to send some data to your js files and you don't want to do this with long way through views and parsing - use gon.
 * [PluggableJs](https://github.com/peresleguine/pluggable_js) - Page-specific javascript for Rails applications with the ability of passing data from a controller.
