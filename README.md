@@ -516,6 +516,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Email
 
+* [Gibbon](https://github.com/amro/gibbon) - API wrapper for the Mailchimp e-mail marketing platform
 * [Griddler](https://github.com/thoughtbot/griddler) - Simplify receiving email in Rails
 * [Incoming](https://github.com/honeybadger-io/incoming) - Incoming! helps you receive email in your Rack apps.
 * [LetterOpener](https://github.com/ryanb/letter_opener) - Preview mail in the browser instead of sending.
