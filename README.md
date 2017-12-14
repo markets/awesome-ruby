@@ -168,6 +168,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [rabl](https://github.com/nesquena/rabl) - General ruby templating with json, bson, xml, plist and msgpack support.
 * [Rails::API](https://github.com/rails-api/rails-api) - Rails for API only applications.
 * [Roar](https://github.com/apotonick/roar) - Resource-Oriented Architectures in Ruby.
+* [Sinja](https://github.com/mwpastore/sinja) - Sinatra plugin for building JSONAPIs using jsonapi-serializers.
 * [Spyke](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
 * [Version Cake](https://github.com/bwillis/versioncake) - An unobtrusive way to version APIs in your Rails app.
 * [versionist](https://github.com/bploetz/versionist) - A plugin for versioning Rails based RESTful APIs.
