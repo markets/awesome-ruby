@@ -1210,6 +1210,7 @@ Online tools, services and APIs to simplify development.
 * [AppSignal](https://appsignal.com) - Better monitoring for your Rails applications.
 * [Codacy](https://www.codacy.com) - Automated Code Review for Ruby, Rails, JS, PHP, Python etc. Security, Coverage & Quality.
 * [CodeClimate](https://codeclimate.com) - Quality & security analysis for Ruby on Rails and Javascript.
+* [Dependabot](https://dependabot.com) - Automated dependency update pull requests.
 * [deppbot](https://www.deppbot.com) - Automated Security and Dependency Updates.
 * [Gemnasium](https://gemnasium.com) - Monitor your project dependencies and alert you about updates and security vulnerabilities.
 * [GitHub](https://github.com) - Powerful collaboration, code review, and code management for open source and private projects.
