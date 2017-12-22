@@ -55,6 +55,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Encryption](#encryption)
   * [Environment Management](#environment-management)
   * [Error Handling](#error-handling)
+  * [Event-driven architecture](#event-driven-architecture)
   * [Feature Flippers and A/B Testing](#feature-flippers-and-ab-testing)
   * [File Upload](#file-upload)
   * [File System](#file-system)
@@ -559,6 +560,10 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Honeybadger](https://www.honeybadger.io/) - Exception, uptime, and performance monitoring for Ruby.
 * [Nesty](https://github.com/skorks/nesty) - Nested exceptions for Ruby.
 * [Raven Ruby](https://github.com/getsentry/raven-ruby) - Raven is a Ruby client for Sentry.
+
+## Event-driven architecture
+
+* [Rails Event Store (RES)](https://github.com/RailsEventStore/rails_event_store) - a library for publishing, consuming, storing and retrieving events. It's your best companion for going with an event-driven architecture for your Rails application.
 
 ## Feature Flippers and A/B Testing
 
