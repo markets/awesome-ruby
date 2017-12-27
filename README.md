@@ -38,6 +38,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Core Extensions](#core-extensions)
   * [Country Data](#country-data)
   * [CRM](#crm)
+  * [Cryptocurrencies and Blockchains](#cryptocurrencies-and-blockchains)
   * [Dashboards](#dashboards)
   * [Data Processing and ETL](#data-processing-and-etl)
   * [Data Visualization](#data-visualization)
@@ -365,6 +366,10 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ## CRM
 
 * [Fat Free CRM](https://github.com/fatfreecrm/fat_free_crm) - An open source Ruby on Rails based customer relationship management platform.
+
+## Cryptocurrencies and Blockchains
+
+* [Blockchain Lite](https://github.com/openblockchains/blockchain.lite.rb) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time.
 
 ## Dashboards
 
