@@ -254,6 +254,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## CLI Utilities
 
+* [Awesome Print](https://github.com/awesome-print/awesome_print) - Pretty print your Ruby objects with style -- in full color and with proper indentation
 * [Betty](https://github.com/pickhardt/betty) - Friendly English-like interface for your command line. Don't remember a command? Ask Betty.
 * [colorls](https://github.com/athityakumar/colorls) - Beautifies the `ls` command, with color and font-awesome icons.
 * [formatador](https://github.com/geemus/formatador) - STDOUT text formatting.
