@@ -1037,6 +1037,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Roo](https://github.com/roo-rb/roo) - Implements read access for all spreadsheet types and read/write access for Google spreadsheets.
 * [Spreadsheet Architect](https://github.com/westonganger/spreadsheet_architect) - Turn any activerecord relation or ruby object collection into a XLSX, ODS, or CSV spreadsheet.
 * [Yomu](https://github.com/Erol/yomu) - Read text and metadata from files and documents (.doc, .docx, .pages, .odt, .rtf, .pdf).
+* [SimpleCsvCreator](https://github.com/wendy0402/simple_csv_creator) - DSL for creating Csv. Highly Inspired by ActiveAdmin
 
 ## State Machines
 
