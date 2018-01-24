@@ -415,6 +415,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Polo](https://github.com/IFTTT/polo) - Creates sample database snapshots to work with real world data in development.
 * [PgHero](https://github.com/ankane/pghero) - Postgres insights made easy.
 * [Rails DB](https://github.com/igorkasyanchuk/rails_db) - Database Viewer and SQL Query Runner.
+* [Redis Dashboard](https://github.com/BaseSecrete/redis_dashboard) - Sinatra app to monitor Redis servers.
 * [Scenic](https://github.com/thoughtbot/scenic) - Versioned database views for Rails.
 * [SchemaPlus](https://github.com/SchemaPlus/schema_plus) - SchemaPlus provides a collection of enhancements and extensions to ActiveRecord
 * [Seedbank](https://github.com/james2m/seedbank) - Seedbank allows you to structure your Rails seed data instead of having it all dumped into one large file.
@@ -873,6 +874,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 * [Instrumental](https://github.com/expectedbehavior/instrumental_agent) - Measure your application in real time with [Instrumental](http://instrumentalapp.com).
 * [New Relic](https://github.com/newrelic/rpm) - Find and fix Ruby errors with New Relic application monitoring and troubleshooting.
+* [RoRvsWild](https://github.com/BaseSecrete/rorvswild) - Performances and quality insights for Rails developers.
 * [Skylight](https://github.com/skylightio/skylight-ruby) - A smart profiler for your Rails apps that visualizes request performance.
 * [TraceView](https://github.com/appneta/ruby-traceview) -  Full-stack application tracing and brilliant data visualization to build faster, more reliable web apps.
 
