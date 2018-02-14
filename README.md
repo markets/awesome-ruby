@@ -372,6 +372,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ## Cryptocurrencies and Blockchains
 
 * [Blockchain Lite](https://github.com/openblockchains/blockchain.lite.rb) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time.
+* [Peatio](https://github.com/rubykube/peatio) - Most Advanced Cryptocurrency open-source assets exchange.
 
 ## Dashboards
 
