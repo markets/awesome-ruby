@@ -588,6 +588,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ## File System
 
 * [Guard](https://github.com/guard/guard) - A command line tool to easily handle events on file system modifications.
+* [Listen](https://github.com/guard/listen) - The Listen gem listens to file modifications and notifies you about the changes.
 
 ## Form Builder
 
