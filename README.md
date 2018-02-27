@@ -338,6 +338,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [dotenv](https://github.com/bkeepers/dotenv) - Loads environment variables from `.env`.
 * [Econfig](https://github.com/elabs/econfig) - Flexible configuration for Rails applications.
 * [ENVied](https://github.com/eval/envied) - ensure presence and type of your app's ENV-variables
+* [Envyable](https://github.com/philnash/envyable) - The simplest YAML to ENV config loader.
 * [Figaro](https://github.com/laserlemon/figaro) - Simple, Heroku-friendly Rails app configuration using `ENV` and a single YAML file.
 * [Global](https://github.com/railsware/global) - Provides accessor methods for your configuration data.
 * [RailsConfig](https://github.com/railsconfig/config) - Multi-environment yaml settings for Rails3.
