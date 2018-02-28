@@ -1,8 +1,8 @@
-**Thanks for contributing to Awesome Ruby! Please take a look at the [contribution guidelines and quality standard](https://github.com/markets/awesome-ruby/blob/master/CONTRIBUTING.md) first.**
+**Thanks for contributing to Awesome Ruby! Please take a look at the [contribution guidelines and quality standard](https://github.com/markets/awesome-ruby/blob/master/CONTRIBUTING.md) first and :scissors: remove this line.**
 
 ## Project
 
-Title and url.
+Title and urls (GitHub, RubyGems, project page, blog posts, ...).
 
 ## What is this Ruby project?
 
@@ -14,4 +14,4 @@ Enumerate comparisons.
 
 ---
 
-Please help us to maintain this collection by using reactions (:+1:, :-1:, ...) and comments to express your feelings.
+Please help us to maintain this collection by using reactions (:+1:, :-1:) and comments to express your feelings.
