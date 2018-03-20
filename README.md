@@ -506,6 +506,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Conekta](https://github.com/conekta/conekta-ruby) - Conekta Ruby bindings.
 * [credit_card_validations](https://github.com/Fivell/credit_card_validations) - A ruby gem for validating credit card numbers, generating valid numbers, Luhn checks.
 * [Koudoku](https://github.com/andrewculver/koudoku) - Robust subscription support for Ruby on Rails apps using Stripe, including out-of-the-box pricing pages, payment pages, and subscription management.
+* [moip-sdk-ruby](https://github.com/moip/moip-sdk-ruby) - Official Moip Pagamentos Ruby SDK.
 * [Payola](https://github.com/peterkeen/payola) - Drop-in Rails engine for accepting payments with Stripe.
 * [Paypal Merchant SDK](https://github.com/paypal/merchant-sdk-ruby) - Official Paypal Merchant SDK for Ruby.
 * [Piggybak](https://github.com/piggybak/piggybak) - Modular, Extensible open-source ecommerce solution for Ruby on Rails.
