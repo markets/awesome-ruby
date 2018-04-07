@@ -745,6 +745,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Music and Sound
 
+* [Coltrane](https://github.com/pedrozath/coltrane) -  A music theory library with a command-line interface.
 * [Sonic Pi](https://github.com/samaaron/sonic-pi) - A live coding synth for everyone originally designed to support computing and music lessons.
 * [play ►](https://github.com/play/play) - Your company's dj.
 
