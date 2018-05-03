@@ -659,6 +659,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [httparty](https://github.com/jnunemaker/httparty) - Makes http fun again!
 * [Http-2](https://github.com/igrigorik/http-2) - Pure Ruby implementation of HTTP/2 protocol
 * [Patron](https://github.com/toland/patron) - Patron is a Ruby HTTP client library based on libcurl.
+* [ResponseCode](https://github.com/torokmark/response_code) Response Code in readable way.
 * [RESTClient](https://github.com/rest-client/rest-client) - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
 * [Savon](https://github.com/savonrb/savon) - Savon is a SOAP client for the Ruby programming language.
 * [Sawyer](https://github.com/lostisland/sawyer) - Secret user agent of HTTP, built on top of Faraday.
