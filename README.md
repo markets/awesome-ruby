@@ -1091,11 +1091,14 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [Cutest](https://github.com/djanowski/cutest) - Isolated tests in Ruby.
   * [Howitzer](https://github.com/strongqa/howitzer) - Ruby based framework for acceptance testing
   * [Konacha](https://github.com/jfirebaugh/konacha) - Test your Rails application's JavaScript with the mocha test framework and chai assertion library.
+  * [Lemon](https://github.com/rubyworks/lemon) - A unit testing framework that enforces method coverage, built with RubyTest.
+  * [microTest](https://github.com/rubyworks/microtest) - a minitest clone built with RubyTest.
   * [minitest](https://github.com/seattlerb/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking.
   * [RR](https://github.com/rr/rr) - A test double framework that features a rich selection of double techniques and a terse syntax.
   * [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - Provides Test::Unit- and RSpec-compatible one-liners that test common Rails functionality. These tests would otherwise be much longer, more complex, and error-prone.
   * [Spinach](https://github.com/codegram/spinach) - Spinach is a high-level BDD framework that leverages the expressive Gherkin language (used by Cucumber) to help you define executable specifications of your application or library's acceptance criteria.
   * [Spork](https://github.com/sporkrb/spork) - A DRb server for testing frameworks (RSpec / Cucumber currently).
+  * [RubyTest](https://rubyworks.github.com/rubytest) - Meta-testing framework for writing other test frameworks, either general-purpose or specialized to the needs of an application. Some general purpose test frameworks built with RubyTest are Lemon and microTest.
   * [Test::Unit](http://test-unit.github.io) - Test::Unit is a xUnit family unit testing framework for Ruby.
 * Fake Data
   * [Fabrication](http://fabricationgem.org/) - A simple and powerful object generation library.
