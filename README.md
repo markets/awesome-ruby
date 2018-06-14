@@ -93,6 +93,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [QR](#qr)
   * [Queues and Messaging](#queues-and-messaging)
   * [Rails Application Generators](#rails-application-generators)
+  * [Rating](#rating)
   * [Robotics](#robotics)
   * [RSS](#rss)
   * [Scheduling](#scheduling)
@@ -927,6 +928,10 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Sidekiq](http://sidekiq.org) - A full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
 * [Sneakers](https://github.com/jondot/sneakers) - A fast background processing framework for Ruby and RabbitMQ.
 * [Sucker Punch](https://github.com/brandonhilkert/sucker_punch) - A single process background processing library using Celluloid. Aimed to be Sidekiq's little brother.
+
+## Rating
+
+* [Rating](https://github.com/wbotelhos/rating) - A true Bayesian rating system with scope and cache enabled.
 
 ## Rails Application Generators
 
