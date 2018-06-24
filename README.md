@@ -128,6 +128,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Light Service](https://github.com/adomokos/light-service) - Series of Actions with an emphasis on simplicity.
 * [Mutations](https://github.com/cypriss/mutations) - Compose your business logic into commands that sanitize and validate input.
 * [Responders](https://github.com/plataformatec/responders) -  A set of Rails responders to dry up your application.
+* [Resultr](https://github.com/leocamelo/resultr) - A simple interface to work with methods results.
 * [Surrounded](https://github.com/saturnflyer/surrounded) - Encapsulated related objects in a single system to add behavior during runtime. Extensible implementation of DCI.
 * [Trailblazer](https://github.com/apotonick/trailblazer) - Trailblazer is a thin layer on top of Rails. It gently enforces encapsulation, an intuitive code structure and gives you an object-oriented architecture.
 * [Waterfall](https://github.com/apneadiving/waterfall) - A slice of functional programming to chain ruby services and blocks, thus providing a new approach to flow control.
@@ -248,7 +249,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Main](https://github.com/ahoward/main) - A class factory and DSL for generating command line programs real quick.
 * [Rake](https://github.com/ruby/rake) - A make-like build utility for Ruby.
 * [Slop](https://github.com/leejarvis/slop) - Simple Lightweight Option Parsing.
-* [Terrapin](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine). 
+* [Terrapin](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
 * [Thor](http://whatisthor.com) - A toolkit for building powerful command-line interfaces.
 * [Trollop](https://github.com/manageiq/trollop) - A commandline option parser for Ruby that just gets out of your way.
 * [TTY](https://github.com/peter-murach/tty) - Toolbox for developing CLI clients.
