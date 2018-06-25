@@ -375,6 +375,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ## Cryptocurrencies and Blockchains
 
 * [Blockchain Lite](https://github.com/openblockchains/blockchain.lite.rb) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time.
+* [Ciri](https://github.com/ciri-ethereum/ciri) - Ruby implementation of Ethereum.
 
 ## Dashboards
 
