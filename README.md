@@ -1130,6 +1130,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Third-party APIs
 
+* [Buffer](https://github.com/bufferapp/buffer-ruby) - Buffer API Ruby Library
 * [Dropbox](https://github.com/futuresimple/dropbox-api) - Dropbox API Ruby Client.
 * [facy](https://github.com/huydx/facy) - Command line power tool for facebook.
 * [fb_graph2](https://github.com/nov/fb_graph2) - A full-stack Facebook Graph API wrapper.
