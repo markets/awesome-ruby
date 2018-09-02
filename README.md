@@ -536,6 +536,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Mailman](https://github.com/mailman/mailman) - An incoming mail processing microframework in Ruby.
 * [Maily](https://github.com/markets/maily) - A Rails Engine to manage, test and navigate through all your email templates of your app, being able to preview them directly in your browser.
 * [Markerb](https://github.com/plataformatec/markerb) - Allows you to render multipart e-mails from a single template written in Markdown.
+* [MidiSmtpServer](https://github.com/4commerce-technologies-AG/midi-smtp-server) - A small and highly customizable ruby SMTP-Server class with builtin support for AUTH and SSL/STARTTLS.
 * [Pony](https://github.com/benprew/pony) - The express way to send mail from Ruby.
 * [premailer-rails](https://github.com/fphilipe/premailer-rails) - CSS styled emails without the hassle.
 * [Roadie](https://github.com/Mange/roadie) - Roadie tries to make sending HTML emails a little less painful by inlining stylesheets and rewriting relative URLs for you inside your emails.
