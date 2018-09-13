@@ -364,7 +364,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 * [Carmen](https://github.com/jim/carmen) - A repository of geographic regions.
 * [Countries](https://github.com/hexorx/countries) - All sorts of useful information about every country packaged as pretty little country objects.
-* [GlobalPhone](https://github.com/sstephenson/global_phone) - Parse, validate, and format phone numbers in Ruby using Google's libphonenumber database.
+* [telephone_number](https://github.com/mobi/telephone_number) - Parse, validate, and format phone numbers in Ruby using Google's libphonenumber database.
 * [i18n_data](https://github.com/grosser/i18n_data) - country/language names and 2-letter-code pairs, in 85 languages, for country/language i18n.
 * [normalize_country](https://github.com/sshaw/normalize_country) - Convert country names and codes to a standard, includes a conversion program for XMLs, CSVs and DBs.
 
