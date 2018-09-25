@@ -426,6 +426,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Seed Fu](https://github.com/mbleigh/seed-fu) - Advanced seed data handling for Rails.
 * [Upsert](https://github.com/seamusabshere/upsert) - Upsert on MySQL, PostgreSQL, and SQLite3. Transparently creates functions (UDF) for MySQL and PostgreSQL; on SQLite3, uses INSERT OR IGNORE.
 * [SecondBase](https://github.com/customink/secondbase) - Seamless second database integration for Rails. SecondBase provides support for Rails to manage dual databases by extending ActiveRecord tasks that create, migrate, and test your application.
+* [awesome_explain](https://rubygems.org/gems/awesome_explain) - An awesome and simple approach to explain Mongoid queries that provides winning plan stages and overall statistics
 
 ## Date and Time Processing
 
