@@ -614,6 +614,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ## Gem Generators
 
 * [Gemsmith](https://github.com/bkuhlmann/gemsmith) - A command line interface for smithing new Ruby gems.
+* [Hoe](http://www.zenspider.com/projects/hoe.html) - Hoe is a Rake/RubyGems helper for project Rakefiles.
 
 ## Geolocation
 
