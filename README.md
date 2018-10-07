@@ -629,7 +629,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Git Cop](https://github.com/bkuhlmann/git-cop) - Enforces consistent Git commits.
 * [Overcommit](https://github.com/brigade/overcommit) - A fully configurable and extendable Git hook manager.
 * [Rugged](https://github.com/libgit2/rugged) - Ruby bindings to libgit2.
-
+* [gitarro](https://github.com/openSUSE/gitarro) - Run all your test against GitHub Pull Requests 
 ## GraphQL
 
 * [graphql-batch](https://github.com/Shopify/graphql-batch) – A query batching executor.
