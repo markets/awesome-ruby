@@ -61,6 +61,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [File System](#file-system)
   * [Form Builder](#form-builder)
   * [Game Development](#game-development)
+  * [Gem Generators](#gem-generators)
   * [Geolocation](#geolocation)
   * [Git Tools](#git-tools)
   * [GraphQL](#graphql)
@@ -609,6 +610,11 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 * [Gosu](http://www.libgosu.org) - A 2D game development library for the Ruby and C++ programming languages.
 * [Yeah](https://github.com/yeahrb/yeah) - Practical Ruby video game framework.
+
+## Gem Generators
+
+* [Gemsmith](https://github.com/bkuhlmann/gemsmith) - A command line interface for smithing new Ruby gems.
+* [Hoe](http://www.zenspider.com/projects/hoe.html) - Hoe is a Rake/RubyGems helper for project Rakefiles.
 
 ## Geolocation
 
