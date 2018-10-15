@@ -137,7 +137,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Admin Interface
 
 * [ActiveAdmin](http://activeadmin.info) - A Ruby on Rails framework for creating elegant backends for website administration.
-* [ActiveScaffold](https://github.com/activescaffold/active_scaffold) - ActiveScaffold provides quick and powerful user interfaces for CRUD (create, read, update, delete) operations for Rails applications. It's excellent for generating admin interfaces, managing Data-Heavy Applications, creating Widgets or for quick prototyping. ActiveScaffold is completly customizable and offers a bunch of additonal features including searching, pagination, layout control and overrides of fields, forms and templates.
+* [ActiveScaffold](https://github.com/activescaffold/active_scaffold) - ActiveScaffold provides quick and powerful user interfaces for CRUD (create, read, update, delete) operations for Rails applications. It's excellent for generating admin interfaces, managing Data-Heavy Applications, creating Widgets or for quick prototyping. ActiveScaffold is completly customizable and offers a bunch of additional features including searching, pagination, layout control and overrides of fields, forms and templates.
 * [Administrate](https://github.com/thoughtbot/administrate) - A Rails engine that helps you put together a super-flexible admin dashboard, by Thoughtbot.
 * [bhf](http://antpaw.github.io/bhf/) - A simple to use Rails-Engine-Gem that offers an admin interface for trusted user.
 * [Faalis](http://faalis.io) - A Rails engine which provides a robust platform to develop web applications. It contains a very simple yet powerful admin/dashboard interface too.
@@ -194,7 +194,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Authentication and OAuth
 
 * [Authlogic](https://github.com/binarylogic/authlogic) - Authlogic is a clean, simple, and unobtrusive ruby authentication solution.
-* [Clearance](https://github.com/thoughtbot/clearance) - Small and simple email & password based authenticaton for Rails.
+* [Clearance](https://github.com/thoughtbot/clearance) - Small and simple email & password based authentication for Rails.
 * [Devise](https://github.com/plataformatec/devise) - A flexible authentication solution for Rails based on Warden.
 * [JWT](https://github.com/jwt/ruby-jwt) - JSON Web Token implementation in Ruby.
 * [Knock](https://github.com/nsarno/knock) - Seamless JWT authentication for Rails API.
@@ -1128,7 +1128,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [Watir](https://github.com/watir/watir/) - Web application testing in Ruby.
 * Extra
   * [Appraisal](https://github.com/thoughtbot/appraisal) - Appraisal integrates with bundler and rake to test your library against different versions of dependencies.
-  * [gitarro](https://github.com/openSUSE/gitarro) - Run, retrigger, handle all type and OS-indipendent tests against your GitHub Pull Requests.
+  * [gitarro](https://github.com/openSUSE/gitarro) - Run, retrigger, handle all type and OS-independent tests against your GitHub Pull Requests.
   * [Knapsack](https://github.com/ArturT/knapsack) - Optimal test suite parallelisation across CI nodes for RSpec, Cucumber, Minitest, Spinach and Turnip.
   * [mutant](https://github.com/mbj/mutant) - Mutant is a mutation testing tool for Ruby.
   * [Parallel Tests](https://github.com/grosser/parallel_tests) - Speedup Test::Unit + RSpec + Cucumber by running parallel on multiple CPUs (or cores).
