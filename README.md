@@ -81,6 +81,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Natural Language Processing](#natural-language-processing)
   * [Navigation](#navigation)
   * [Networking](#networking)
+  * [Optimizations](#optimizations)
   * [ORM/ODM](#ormodm)
   * [ORM/ODM Extensions](#ormodm-extensions)
   * [Package Management](#package-management)
@@ -786,6 +787,12 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ## Networking
 
 * [RubyDNS](https://github.com/ioquatix/rubydns) - A high-performance DNS server which can be easily integrated into other projects or used as a stand-alone daemon.
+
+## Optimizations
+
+* [bootsnap](https://github.com/Shopify/bootsnap) - Boot large Ruby/Rails apps faster.
+* [fast_blank](https://github.com/SamSaffron/fast_blank) - Provides a C-optimized method for determining if a string is blank.
+* [yajl-ruby](https://github.com/brianmario/yajl-ruby) - A streaming JSON parsing and encoding library for Ruby (C bindings to yajl).
 
 ## ORM/ODM
 
