@@ -696,6 +696,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Globalize](https://github.com/globalize/globalize) - Globalize builds on the I18n API in Ruby on Rails to add model translations to ActiveRecord models.
 * [i18n-tasks](https://github.com/glebm/i18n-tasks) - Manage missing and unused translations with the awesome power of static analysis.
 * [i18n](https://github.com/svenfuchs/i18n) - Ruby Internationalization and localization solution.
+* [rails-i18n](https://github.com/svenfuchs/rails-i18n) - Repository for collecting Locale data for Rails I18n as well as other interesting, Rails related I18n stuff.
 * [r18n](https://github.com/ai/r18n) - Advanced i18n library for Rails, Sinatra, desktop apps, models, works well with complex languages like Russian.
 * [Termit](https://github.com/pawurb/termit) - Translations with speech synthesis in your terminal.
 * [Tolk](https://github.com/tolk/tolk) - A web interface for doing i18n translations packaged as a Rails engine.
