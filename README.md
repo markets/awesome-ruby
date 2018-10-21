@@ -540,6 +540,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Markerb](https://github.com/plataformatec/markerb) - Allows you to render multipart e-mails from a single template written in Markdown.
 * [MidiSmtpServer](https://github.com/4commerce-technologies-AG/midi-smtp-server) - A small and highly customizable ruby SMTP-Server class with builtin support for AUTH and SSL/STARTTLS.
 * [Pony](https://github.com/benprew/pony) - The express way to send mail from Ruby.
+* [Postal](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
 * [premailer-rails](https://github.com/fphilipe/premailer-rails) - CSS styled emails without the hassle.
 * [Roadie](https://github.com/Mange/roadie) - Roadie tries to make sending HTML emails a little less painful by inlining stylesheets and rewriting relative URLs for you inside your emails.
 * [Sup](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client.
