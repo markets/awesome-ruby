@@ -125,12 +125,12 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Cells](https://github.com/apotonick/cells) - View Components for Rails.
 * [Decent Exposure](https://github.com/hashrocket/decent_exposure) - A helper for creating declarative interfaces in controllers.
 * [Docile](https://github.com/ms-ati/docile) - A tiny library that lets you map a DSL (domain specific language) to your Ruby objects in a snap.
-* [dry-rb](https://github.com/dry-rb) -  dry-rb is a collection of next-generation Ruby libraries, each intended to encapsulate a common task.
+* [dry-rb](https://github.com/dry-rb) - dry-rb is a collection of next-generation Ruby libraries, each intended to encapsulate a common task.
 * [Interactor](https://github.com/collectiveidea/interactor) - Interactor provides a common interface for performing complex interactions in a single request.
 * [Light Service](https://github.com/adomokos/light-service) - Series of Actions with an emphasis on simplicity.
 * [Mutations](https://github.com/cypriss/mutations) - Compose your business logic into commands that sanitize and validate input.
 * [Rails Event Store (RES)](https://github.com/RailsEventStore/rails_event_store) - A library for publishing, consuming, storing and retrieving events. It's your best companion for going with an event-driven architecture for your Rails application.
-* [Responders](https://github.com/plataformatec/responders) -  A set of Rails responders to dry up your application.
+* [Responders](https://github.com/plataformatec/responders) - A set of Rails responders to dry up your application.
 * [Surrounded](https://github.com/saturnflyer/surrounded) - Encapsulated related objects in a single system to add behavior during runtime. Extensible implementation of DCI.
 * [Trailblazer](https://github.com/apotonick/trailblazer) - Trailblazer is a thin layer on top of Rails. It gently enforces encapsulation, an intuitive code structure and gives you an object-oriented architecture.
 * [Waterfall](https://github.com/apneadiving/waterfall) - A slice of functional programming to chain ruby services and blocks, thus providing a new approach to flow control.
@@ -189,7 +189,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Less](https://github.com/cowboyd/less.rb) - Leaner CSS, in your browser or Ruby.
 * [Rails Assets](https://rails-assets.org) - Bundler to Bower proxy.
 * [Sass](http://sass-lang.com) - Sass makes CSS fun again.
-* [Sprockets](https://github.com/sstephenson/sprockets) - Rack-based asset packaging system.
+* [Sprockets](https://github.com/rails/sprockets) - Rack-based asset packaging system.
 * [Torba](https://github.com/torba-rb/torba) - Bower-less bundler for Sprockets.
 * [Webpacker](https://github.com/rails/webpacker) - Use Webpack to manage app-like JavaScript modules in Rails.
 
@@ -300,7 +300,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Fasterer](https://github.com/DamirSvrtan/fasterer) - Make your Rubies go faster with this command line tool highly inspired by fast-ruby and Sferik's talk at Baruco Conf.
 * [Flay](https://github.com/seattlerb/flay) - Flay analyzes code for structural similarities. Differences in literal values, variable, class, method names, whitespace, programming style, braces vs do/end, etc are all ignored. Making this totally rad.
 * [Flog](https://github.com/seattlerb/flog) - Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
-* [fukuzatsu](https://gitlab.com/coraline/fukuzatsu/tree/master) - Complexity analysis tool with a rich web front-end.
+* [fukuzatsu](https://gitlab.com/coraline/fukuzatsu#fukuzatsu) - Complexity analysis tool with a rich web front-end.
 * [MetricFu](https://github.com/metricfu/metric_fu) - A fist full of code metrics.
 * [Pippi](https://github.com/tcopeland/pippi) - A utility for finding suboptimal Ruby class API usage, focused on runtime analysis.
 * [Pronto](https://github.com/mmozuras/pronto) - Quick automated code review of your changes.
@@ -762,7 +762,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Music and Sound
 
-* [Coltrane](https://github.com/pedrozath/coltrane) -  A music theory library with a command-line interface.
+* [Coltrane](https://github.com/pedrozath/coltrane) - A music theory library with a command-line interface.
 * [Sonic Pi](https://github.com/samaaron/sonic-pi) - A live coding synth for everyone originally designed to support computing and music lessons.
 * [play ►](https://github.com/play/play) - Your company's dj.
 
@@ -800,11 +800,10 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 * [ActiveRecord](https://github.com/rails/rails/tree/master/activerecord) - Object-relational mapping in Rails.
 * [DataMapper](https://github.com/datamapper/dm-core) - ORM which works well with legacy databases. Last release (1.2.0) was on 13 October 2011.
-* [Guacamole](https://github.com/triAGENS/guacamole) -  An ODM for ArangoDB.
 * [Hanami::Model](https://github.com/hanami/model) - A lean Repository-pattern based ORM framework for Hanami and modern Ruby applications.
 * [Mongoid](https://github.com/mongodb/mongoid) - An ODM (Object-Document-Mapper) framework for MongoDB in Ruby.
 * [MongoMapper](https://github.com/mongomapper/mongomapper) - A Ruby Object Mapper for Mongo.
-* [MongoModel](https://github.com/spohlenz/mongomodel) -  Ruby ODM for interfacing with MongoDB databases.
+* [MongoModel](https://github.com/spohlenz/mongomodel) - Ruby ODM for interfacing with MongoDB databases.
 * [Neo4j.rb](http://neo4jrb.io) - A Neo4j OGM (Object-Graph-Mapper) for use in Ruby on Rails and Rack frameworks heavily inspired by ActiveRecord.
 * [NoBrainer](https://github.com/nviennot/nobrainer/) - A RethinkDB ORM for Ruby
 * [Ohm](https://github.com/soveran/ohm) - Object-hash mapping library for Redis.
@@ -904,7 +903,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [New Relic](https://github.com/newrelic/rpm) - Find and fix Ruby errors with New Relic application monitoring and troubleshooting.
 * [Scout](https://github.com/scoutapp/scout_apm_ruby) - Scout Ruby Application Monitoring Agent.
 * [Skylight](https://github.com/skylightio/skylight-ruby) - A smart profiler for your Rails apps that visualizes request performance.
-* [TraceView](https://github.com/appneta/ruby-traceview) -  Full-stack application tracing and brilliant data visualization to build faster, more reliable web apps.
+* [TraceView](https://github.com/appneta/ruby-traceview) - Full-stack application tracing and brilliant data visualization to build faster, more reliable web apps.
 
 ## Presentation Programs
 
@@ -1256,7 +1255,7 @@ Online tools, services and APIs to simplify development.
 * [Gemnasium](https://gemnasium.com) - Monitor your project dependencies and alert you about updates and security vulnerabilities.
 * [GitHub](https://github.com) - Powerful collaboration, code review, and code management for open source and private projects.
 * [Gitlab CI](https://about.gitlab.com/gitlab-ci/) - Integrate with your GitLab to run tests for your projects.
-* [GitLab](https://about.gitlab.com) -  Open source software to collaborate on code.
+* [GitLab](https://about.gitlab.com) - Open source software to collaborate on code.
 * [Hakiri](https://hakiri.io) - Ship Secure Ruby Apps.
 * [HoundCI](https://houndci.com) - Review your Ruby code for style guide violations.
 * [HuBoard](https://huboard.com) - Kanban board for GitHub issues.
