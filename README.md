@@ -75,6 +75,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Logging](#logging)
   * [Machine Learning](#machine-learning)
   * [Markdown Processors](#markdown-processors)
+  * [Measurements](#measurements)
   * [Mobile Development](#mobile-development)
   * [Money](#money)
   * [Music and Sound](#music-and-sound)
@@ -746,6 +747,11 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Maruku](https://github.com/bhollis/maruku) - A pure-Ruby Markdown-superset interpreter.
 * [Redcarpet](https://github.com/vmg/redcarpet) - A fast, safe and extensible Markdown to (X)HTML parser.
 * [word-to-markdown](https://github.com/benbalter/word-to-markdown) - Gem to convert Microsoft Word documents to Markdown.
+
+## Measurements
+
+* [Measured](https://github.com/Shopify/measured) - Wrapper objects which encapsulate measurements and their associated units in Ruby.
+* [Ruby Units](https://github.com/olbrich/ruby-units) - Provides classes and methods to perform unit math and conversions.
 
 ## Mobile Development
 
