@@ -66,6 +66,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Git Tools](#git-tools)
   * [GraphQL](#graphql)
   * [GUI](#gui)
+  * [Health Monitoring](#health-monitoring)
   * [HTML/XML Parsing](#htmlxml-parsing)
   * [HTTP Clients and tools](#http-clients-and-tools)
   * [Image Processing](#image-processing)
@@ -657,6 +658,10 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [qtbindings](https://github.com/ryanmelt/qtbindings) - Allows the QT Gui toolkit to be used from Ruby.
 * [RubyGnome2](http://ruby-gnome2.sourceforge.jp/) - Ruby language bindings for the GNOME 2.0 development environment.
 * [Shoes](http://shoesrb.com) - Shoes makes building little graphical programs for Mac, Windows, and Linux super simple.
+
+## Health Monitoring
+
+* [health-monitor-rails](https://github.com/lbeder/health-monitor-rails) - A mountable Rails plug-in to check health of services (Database, Cache, Sidekiq, Redis, e.t.c.) used by the Rails app.
 
 ## HTML/XML Parsing
 
