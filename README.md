@@ -1221,7 +1221,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Cuba](http://cuba.is) - A microframework for web development.
 * [Hobbit](https://github.com/patriciomacadden/hobbit) - A minimalistic microframework built on top of Rack.
 * [Hanami](http://hanamirb.org) - It aims to bring back Object Oriented Programming to web development, leveraging on a stable API, a minimal DSL, and plain objects.
-* [Hyperloop](http://ruby-hyperloop.org/) - A Complete Isomorphic Ruby Framework using React, Rails and Opal
+* [Hyperstack](https://hyperstack.org/) - A Complete Isomorphic Ruby Framework using React and Opal.
 * [Padrino](http://www.padrinorb.com) - A full-stack ruby framework built upon Sinatra.
 * [Pakyow](https://www.pakyow.org/) - A framework for building modern web-apps in Ruby. It helps you build working software faster with a development process that remains friendly to both designers and developers.
 * [Rack::App](https://github.com/rack-app/rack-app) - Bare bone minimalistic framework for building rack apps.
