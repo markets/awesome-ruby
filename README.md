@@ -375,6 +375,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [normalize_country](https://github.com/sshaw/normalize_country) - Convert country names and codes to a standard, includes a conversion program for XMLs, CSVs and DBs.
 * [Phonelib](https://github.com/daddyz/phonelib) - Ruby gem for phone validation and formatting using Google libphonenumber library data.
 * [Phony](https://github.com/floere/phony) - Fast international phone number (E164 standard) normalizing, splitting and formatting.
+* [validates_zipcode](https://github.com/dgilperez/validates_zipcode) - Multi-country zipcode validation for Rails with support for 259 countries.
 
 ## CRM
 
