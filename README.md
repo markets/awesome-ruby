@@ -411,6 +411,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Database Tools
 
+* [awesome_explain](https://rubygems.org/gems/awesome_explain) - An awesome and simple approach to explain Mongoid queries that provides winning plan stages and overall statistics.
 * [connection_pool](https://github.com/mperham/connection_pool) - Generic connection pooling for Ruby, that can be used with anything, e.g. Redis, Dalli, etc.
 * [Database Cleaner](https://github.com/DatabaseCleaner/database_cleaner) - Database Cleaner is a set of strategies for cleaning your database in Ruby.
 * [Foreigner](https://github.com/matthuhiggins/foreigner) - Adds foreign key helpers to migrations and correctly dumps foreign keys to schema.rb.
@@ -426,7 +427,6 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Seed Fu](https://github.com/mbleigh/seed-fu) - Advanced seed data handling for Rails.
 * [Upsert](https://github.com/seamusabshere/upsert) - Upsert on MySQL, PostgreSQL, and SQLite3. Transparently creates functions (UDF) for MySQL and PostgreSQL; on SQLite3, uses INSERT OR IGNORE.
 * [SecondBase](https://github.com/customink/secondbase) - Seamless second database integration for Rails. SecondBase provides support for Rails to manage dual databases by extending ActiveRecord tasks that create, migrate, and test your application.
-* [awesome_explain](https://rubygems.org/gems/awesome_explain) - An awesome and simple approach to explain Mongoid queries that provides winning plan stages and overall statistics
 
 ## Date and Time Processing
 
