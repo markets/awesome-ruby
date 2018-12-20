@@ -743,6 +743,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [rb-libsvm](https://github.com/febeling/rb-libsvm) - Ruby language bindings for LIBSVM. SVM is a machine learning and classification algorithm.
 * [Ruby Datumbox Wrapper](https://github.com/marloncarvalho/ruby-datumbox) - It's a simple Ruby Datumbox Wrapper. At the moment the API currently allows you to build applications that make use of machine learning algorithms.
 * [weka](https://github.com/paulgoetze/weka-jruby) - Machine learning and data mining algorithms for JRuby.
+* [tensor_stream](https://github.com/jedld/tensor_stream) - A ground-up and standalone reimplementation of TensorFlow for ruby.
 
 ## Markdown Processors
 
@@ -1215,6 +1216,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [MetaInspector](https://github.com/jaimeiniesta/metainspector) - Ruby gem for web scraping purposes.
 * [Upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping.
 * [Wombat](https://github.com/felipecsl/wombat) - Web scraper with an elegant DSL that parses structured data from web pages.
+* [kimuraframework](https://github.com/vifreefly/kimuraframework) - Modern web scraping framework written in Ruby which works out of box with Headless Chromium/Firefox, PhantomJS, or simple HTTP requests and allows to scrape and interact with JavaScript rendered websites.
 
 ## Web Frameworks
 
