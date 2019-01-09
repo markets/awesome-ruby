@@ -89,6 +89,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Pagination](#pagination)
   * [PDF](#pdf)
   * [Performance Monitoring](#performance-monitoring)
+  * [Plain Text Parsing](#plain-text-parsing)
   * [Presentation Programs](#presentation-programs)
   * [Process Monitoring](#process-monitoring)
   * [Processes](#processes)
@@ -916,6 +917,10 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Scout](https://github.com/scoutapp/scout_apm_ruby) - Scout Ruby Application Monitoring Agent.
 * [Skylight](https://github.com/skylightio/skylight-ruby) - A smart profiler for your Rails apps that visualizes request performance.
 * [TraceView](https://github.com/appneta/ruby-traceview) - Full-stack application tracing and brilliant data visualization to build faster, more reliable web apps.
+
+## Plain Text Parsing
+
+* [Estratto](https://github.com/Rynaro/estratto) - Easy to use data parsing from plain text fixed width format.
 
 ## Presentation Programs
 
