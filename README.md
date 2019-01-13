@@ -1008,7 +1008,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [Rgl](https://github.com/monora/rgl) - A framework for graph data structures and algorithms.
 * Numerical arrays
   * [NMatrix](https://github.com/sciruby/nmatrix) - Fast numerical linear algebra library for Ruby.
-  * [NArray](https://github.com/masa16/narray) - N-dimensional Numerical Array for Ruby.
+  * [Numo::NArray](https://github.com/ruby-numo/numo-narray) - N-dimensional Numerical Array for Ruby.
   * [mdarray](https://github.com/rbotafogo/mdarray) - Multi dimensional array implemented for JRuby inspired by NumPy.
 * [SciRuby](https://github.com/sciruby/sciruby) - Tools for scientific computation in Ruby/Rails.
   * [statsample](https://github.com/sciruby/statsample) - A suite for basic and advanced statistics on Ruby.
