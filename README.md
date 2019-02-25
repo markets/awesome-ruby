@@ -1171,6 +1171,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Third-party APIs
 
+* [discordrb](https://github.com/meew0/discordrb) - An implementation of the Discord API.
 * [Dropbox](https://github.com/Jesus/dropbox_api) - Ruby client for Dropbox API v2.
 * [facy](https://github.com/huydx/facy) - Command line power tool for facebook.
 * [fb_graph2](https://github.com/nov/fb_graph2) - A full-stack Facebook Graph API wrapper.
