@@ -352,7 +352,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Figaro](https://github.com/laserlemon/figaro) - Simple, Heroku-friendly Rails app configuration using `ENV` and a single YAML file.
 * [Global](https://github.com/railsware/global) - Provides accessor methods for your configuration data.
 * [RailsConfig](https://github.com/railsconfig/config) - Multi-environment yaml settings for Rails3.
-* [Sail](https://github.com/vinistock/sail) - A lightweight Rails engine that brings an admin panel for managing configuration settings on a live Rails app
+* [Sail](https://github.com/vinistock/sail) - A lightweight Rails engine that brings an admin panel for managing configuration settings on a live Rails app.
 
 ## Core Extensions
 
@@ -992,6 +992,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Stringer](https://github.com/swanson/stringer) - A self-hosted, anti-social RSS reader.
 
 ## Serverless
+
 * [FaaStRuby](https://faastruby.io) - Serverless Software Development Platform for Ruby and Crystal developers.
 
 ## Scheduling
@@ -1216,7 +1217,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [auto_html](https://github.com/dejan/auto_html) - Rails extension for transforming URLs to appropriate resource (image, link, YouTube, Vimeo video...).
 * [Bh](https://github.com/fullscreen/bh) - Bootstrap Helpers for Ruby.
 * [gon](https://github.com/gazay/gon) - If you need to send some data to your js files and you don't want to do this with long way through views and parsing - use gon.
-* [Komponent](https://github.com/komposable/komponent) An opinionated way of organizing front-end code in Ruby on Rails, based on components
+* [Komponent](https://github.com/komposable/komponent) - An opinionated way of organizing front-end code in Rails, based on components.
 * [PluggableJs](https://github.com/peresleguine/pluggable_js) - Page-specific javascript for Rails applications with the ability of passing data from a controller.
 
 ## Web Crawling
