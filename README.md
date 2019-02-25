@@ -98,6 +98,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Rails Application Generators](#rails-application-generators)
   * [Robotics](#robotics)
   * [RSS](#rss)
+  * [Serverless](#serverless)
   * [Scheduling](#scheduling)
   * [Scientific](#scientific)
   * [Search](#search)
@@ -988,6 +989,9 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Ratom](https://github.com/seangeo/ratom) - A fast, libxml based, Ruby Atom library.
 * [Simple rss](https://github.com/cardmagic/simple-rss) - A simple, flexible, extensible, and liberal RSS and Atom reader.
 * [Stringer](https://github.com/swanson/stringer) - A self-hosted, anti-social RSS reader.
+
+## Serverless
+* [FaaStRuby](https://faastruby.io) - Serverless Software Development Platform for Ruby and Crystal developers.
 
 ## Scheduling
 
