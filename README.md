@@ -351,6 +351,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Figaro](https://github.com/laserlemon/figaro) - Simple, Heroku-friendly Rails app configuration using `ENV` and a single YAML file.
 * [Global](https://github.com/railsware/global) - Provides accessor methods for your configuration data.
 * [RailsConfig](https://github.com/railsconfig/config) - Multi-environment yaml settings for Rails3.
+* [Sail](https://github.com/vinistock/sail) - A lightweight Rails engine that brings an admin panel for managing configuration settings on a live Rails app
 
 ## Core Extensions
 
