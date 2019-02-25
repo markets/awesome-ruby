@@ -804,6 +804,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Networking
 
+* [Dnsruby](https://github.com/alexdalitz/dnsruby) - A pure Ruby DNS client library which implements a stub resolver. It aims to comply with all DNS RFCs.
 * [RubyDNS](https://github.com/ioquatix/rubydns) - A high-performance DNS server which can be easily integrated into other projects or used as a stand-alone daemon.
 
 ## Optimizations
