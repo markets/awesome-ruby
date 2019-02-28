@@ -996,6 +996,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ## Serverless
 
 * [FaaStRuby](https://faastruby.io) - Serverless Software Development Platform for Ruby and Crystal developers.
+* [Jets](https://github.com/tongueroo/jets) - A Ruby Serverless Framework to create and deploy serverless microservices with ease, and to seamlessly glue AWS services.
 
 ## Scheduling
 
