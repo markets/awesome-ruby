@@ -1013,6 +1013,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [ruby-fann](https://github.com/tangledpath/ruby-fann) - Ruby library for interfacing with FANN (Fast Artificial Neural Network).
 * Bindings
   * [ruby-opencv](https://github.com/ruby-opencv/ruby-opencv) - An OpenCV wrapper for Ruby.
+  * [PyCall](https://github.com/mrkn/pycall.rb) - Calling Python functions from the Ruby language.
 * Classifiers
   * [classifier-reborn](https://github.com/jekyll/classifier-reborn) - An active fork of Classifier, and general module to allow Bayesian and other types of classifications.
   * [stuff-classifier](https://github.com/alexandru/stuff-classifier) - A library for classifying text into multiple categories.
