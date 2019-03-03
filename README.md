@@ -1030,7 +1030,6 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [distribution](https://github.com/sciruby/distribution) - Statistical Distributions multi library wrapper.
   * [integration](https://github.com/sciruby/integration) - Numerical integration methods, based on original work by Beng.
   * [minimization](https://github.com/sciruby/minimization) - Minimization algorithms on pure Ruby.
-  * [publisci](https://github.com/sciruby/publisci) - A toolkit for publishing scientific results to the semantic web.
   * [plotrb](https://github.com/sciruby/plotrb) - A plotting library in Ruby built on top of Vega and D3.
   * [rb-gsl](https://github.com/SciRuby/rb-gsl) - A ruby interface to GNU Scientific library, with NMatrix support.
 * Specific
