@@ -743,10 +743,12 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Machine Learning
 
+* [AI4R](https://github.com/sergiofierens/ai4r) - Algorithms covering several Artificial intelligence fields.
 * [Awesome Machine Learning with Ruby](https://github.com/arbox/machine-learning-with-ruby) - A Curated List of Ruby Machine Learning Links and Resources.
 * [PredictionIO Ruby SDK](https://github.com/PredictionIO/PredictionIO-Ruby-SDK) - The PredictionIO Ruby SDK provides a convenient API to quickly record your users' behavior and retrieve personalized predictions for them.
 * [rb-libsvm](https://github.com/febeling/rb-libsvm) - Ruby language bindings for LIBSVM. SVM is a machine learning and classification algorithm.
 * [Ruby Datumbox Wrapper](https://github.com/marloncarvalho/ruby-datumbox) - It's a simple Ruby Datumbox Wrapper. At the moment the API currently allows you to build applications that make use of machine learning algorithms.
+* [ruby-fann](https://github.com/tangledpath/ruby-fann) - Ruby library for interfacing with FANN (Fast Artificial Neural Network).
 * [weka](https://github.com/paulgoetze/weka-jruby) - Machine learning and data mining algorithms for JRuby.
 
 ## Markdown Processors
@@ -1009,17 +1011,14 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ## Scientific
 
 * Bindings
-  * [ruby-opencv](https://github.com/ruby-opencv/ruby-opencv) - An OpenCV wrapper for Ruby.
   * [PyCall](https://github.com/mrkn/pycall.rb) - Calling Python functions from the Ruby language.
+  * [ruby-opencv](https://github.com/ruby-opencv/ruby-opencv) - An OpenCV wrapper for Ruby.
 * Classifiers
   * [classifier-reborn](https://github.com/jekyll/classifier-reborn) - An active fork of Classifier, and general module to allow Bayesian and other types of classifications.
   * [stuff-classifier](https://github.com/alexandru/stuff-classifier) - A library for classifying text into multiple categories.
 * Data analysis/structures
   * [daru](https://github.com/v0dro/daru) - A library for storage, analysis, manipulation and visualization of data in pure Ruby.
   * [Rgl](https://github.com/monora/rgl) - A framework for graph data structures and algorithms.
-* Machine learning
-  * [AI4R](https://github.com/sergiofierens/ai4r) - Algorithms covering several Artificial intelligence fields.
-  * [ruby-fann](https://github.com/tangledpath/ruby-fann) - Ruby library for interfacing with FANN (Fast Artificial Neural Network).
 * Numerical arrays
   * [NMatrix](https://github.com/sciruby/nmatrix) - Fast numerical linear algebra library for Ruby.
   * [Numo::NArray](https://github.com/ruby-numo/numo-narray) - N-dimensional Numerical Array for Ruby.
