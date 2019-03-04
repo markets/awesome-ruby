@@ -90,7 +90,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [PDF](#pdf)
   * [Performance Monitoring](#performance-monitoring)
   * [Presentation Programs](#presentation-programs)
-  * [Process Monitoring](#process-monitoring)
+  * [Process Management and Monitoring](#process-management-and-monitoring)
   * [Processes](#processes)
   * [Profiler and Optimization](#profiler-and-optimization)
   * [QR](#qr)
@@ -889,7 +889,6 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * Packages and Applications
   * [Berkshelf](https://github.com/berkshelf/berkshelf) - A Chef Cookbook manager.
   * [CocoaPods](https://github.com/CocoaPods/CocoaPods) - The Objective-C dependency manager.
-  * [Foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications.
   * [fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
   * [Linuxbrew](https://github.com/Homebrew/linuxbrew) - A fork of Homebrew for Linux.
   * [Homebrew-cask](https://github.com/caskroom/homebrew-cask) - A CLI workflow for the administration of Mac applications distributed as binaries.
@@ -930,11 +929,13 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 * [Slide Show (S9)](https://github.com/slideshow-s9/slideshow) - Write your slides / talks / presentations in plain text with markdown formatting conventions and generate (static) web pages; template packs incl. deck.js, impress.js, reveal.js, shower, s6, s5 and more.
 
-## Process Monitoring
+## Process Management and Monitoring
 
 * [Bluepill](https://github.com/bluepill-rb/bluepill) - Simple process monitoring tool.
 * [Eye](https://github.com/kostya/eye) - Process monitoring tool. Inspired from Bluepill and God.
+* [Foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications.
 * [God](https://github.com/mojombo/god) - An easy to configure, easy to extend monitoring framework written in Ruby.
+* [Procodile](https://github.com/adamcooke/procodile) - Run processes in the background (and foreground) on Mac & Linux from a Procfile.
 
 ## Processes
 
