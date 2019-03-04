@@ -1008,17 +1008,18 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Scientific
 
-* Artificial intelligence
-  * [AI4R](https://github.com/sergiofierens/ai4r) - Algorithms covering several Artificial intelligence fields.
-  * [ruby-fann](https://github.com/tangledpath/ruby-fann) - Ruby library for interfacing with FANN (Fast Artificial Neural Network).
 * Bindings
   * [ruby-opencv](https://github.com/ruby-opencv/ruby-opencv) - An OpenCV wrapper for Ruby.
+  * [PyCall](https://github.com/mrkn/pycall.rb) - Calling Python functions from the Ruby language.
 * Classifiers
   * [classifier-reborn](https://github.com/jekyll/classifier-reborn) - An active fork of Classifier, and general module to allow Bayesian and other types of classifications.
   * [stuff-classifier](https://github.com/alexandru/stuff-classifier) - A library for classifying text into multiple categories.
 * Data analysis/structures
   * [daru](https://github.com/v0dro/daru) - A library for storage, analysis, manipulation and visualization of data in pure Ruby.
   * [Rgl](https://github.com/monora/rgl) - A framework for graph data structures and algorithms.
+* Machine learning
+  * [AI4R](https://github.com/sergiofierens/ai4r) - Algorithms covering several Artificial intelligence fields.
+  * [ruby-fann](https://github.com/tangledpath/ruby-fann) - Ruby library for interfacing with FANN (Fast Artificial Neural Network).
 * Numerical arrays
   * [NMatrix](https://github.com/sciruby/nmatrix) - Fast numerical linear algebra library for Ruby.
   * [Numo::NArray](https://github.com/ruby-numo/numo-narray) - N-dimensional Numerical Array for Ruby.
@@ -1030,7 +1031,6 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [distribution](https://github.com/sciruby/distribution) - Statistical Distributions multi library wrapper.
   * [integration](https://github.com/sciruby/integration) - Numerical integration methods, based on original work by Beng.
   * [minimization](https://github.com/sciruby/minimization) - Minimization algorithms on pure Ruby.
-  * [publisci](https://github.com/sciruby/publisci) - A toolkit for publishing scientific results to the semantic web.
   * [rb-gsl](https://github.com/SciRuby/rb-gsl) - A ruby interface to GNU Scientific library, with NMatrix support.
 * Specific
   * [BioRuby](https://github.com/bioruby/bioruby) - Library for developing bioinformatics software.
