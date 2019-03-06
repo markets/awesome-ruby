@@ -274,6 +274,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [TablePrint](https://github.com/arches/table_print) - Slice your data from multiple DB tables into a single CLI view.
 * [Terminal Table](https://github.com/tj/terminal-table) - Ruby ASCII Table Generator, simple and feature rich.
 * [Tmuxinator](https://github.com/tmuxinator/tmuxinator) - Create and manage complex tmux sessions easily.
+* [Whirly](https://github.com/janlelis/whirly) - A simple, colorful and customizable terminal spinner library for Ruby.
 
 ## Cloud
 
