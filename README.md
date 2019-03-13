@@ -441,6 +441,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Seed Fu](https://github.com/mbleigh/seed-fu) - Advanced seed data handling for Rails.
 * [Standby](https://github.com/kenn/standby) - Read from standby databases for ActiveRecord (formerly Slavery).
 * [Upsert](https://github.com/seamusabshere/upsert) - Upsert on MySQL, PostgreSQL, and SQLite3. Transparently creates functions (UDF) for MySQL and PostgreSQL; on SQLite3, uses INSERT OR IGNORE.
+* [execute_sql](https://github.com/igorkasyanchuk/execute_sql) - execute SQL queries directly in rails console and whole app.
 
 ## Date and Time Processing
 
@@ -921,6 +922,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Squid](https://github.com/fullscreen/squid) - Squid · A Ruby library to plot charts in PDF files
 * [Wicked Pdf](https://github.com/mileszs/wicked_pdf) - PDF generator (from HTML) plugin for Ruby on Rails.
 * [Wisepdf](https://github.com/igor-alexandrov/wisepdf) - Wkhtmltopdf wrapper done right.
+* [rails_pdf](https://github.com/igorkasyanchuk/rails_pdf) - wrapper around Chrome headless.  Support HTML/CSS/JS/Charts. Has build-in templates with common pdf-layouts.
 
 ## Performance Monitoring
 
