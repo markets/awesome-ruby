@@ -1030,6 +1030,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [Numo::NArray](https://github.com/ruby-numo/numo-narray) - N-dimensional Numerical Array for Ruby.
   * [mdarray](https://github.com/rbotafogo/mdarray) - Multi dimensional array implemented for JRuby inspired by NumPy.
 * [SciRuby](https://github.com/sciruby/sciruby) - Tools for scientific computation in Ruby/Rails.
+  * [IRuby](https://github.com/SciRuby/iruby) - A Ruby kernel for Jupyter.
   * [statsample](https://github.com/sciruby/statsample) - A suite for basic and advanced statistics on Ruby.
   * [statsample-timeseries](https://github.com/sciruby/statsample-timeseries) - Bioruby Statsample TimeSeries.
   * [statsample-glm](https://github.com/sciruby/statsample-glm) - Generalized Linear Models extension for Statsample.
