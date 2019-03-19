@@ -941,8 +941,8 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Eye](https://github.com/kostya/eye) - Process monitoring tool. Inspired from Bluepill and God.
 * [Foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications.
 * [God](https://github.com/mojombo/god) - An easy to configure, easy to extend monitoring framework written in Ruby.
-* [Procodile](https://github.com/adamcooke/procodile) - Run processes in the background (and foreground) on Mac & Linux from a Procfile.
 * [Health Monitor Rails](https://github.com/lbeder/health-monitor-rails) - A mountable Rails plug-in to check health of services (Database, Cache, Sidekiq, Redis, e.t.c.) used by the Rails app.
+* [Procodile](https://github.com/adamcooke/procodile) - Run processes in the background (and foreground) on Mac & Linux from a Procfile.
 
 ## Processes
 
