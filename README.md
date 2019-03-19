@@ -66,7 +66,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Git Tools](#git-tools)
   * [GraphQL](#graphql)
   * [GUI](#gui)
-  * [Health Monitoring](#health-monitoring)
   * [HTML/XML Parsing](#htmlxml-parsing)
   * [HTTP Clients and tools](#http-clients-and-tools)
   * [Image Processing](#image-processing)
@@ -668,10 +667,6 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [RubyGnome2](http://ruby-gnome2.sourceforge.jp/) - Ruby language bindings for the GNOME 2.0 development environment.
 * [Shoes](http://shoesrb.com) - Shoes makes building little graphical programs for Mac, Windows, and Linux super simple.
 
-## Health Monitoring
-
-* [health-monitor-rails](https://github.com/lbeder/health-monitor-rails) - A mountable Rails plug-in to check health of services (Database, Cache, Sidekiq, Redis, e.t.c.) used by the Rails app.
-
 ## HTML/XML Parsing
 
 * [HappyMapper](https://github.com/dam5s/happymapper) - Object to XML mapping library, using Nokogiri.
@@ -947,6 +942,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications.
 * [God](https://github.com/mojombo/god) - An easy to configure, easy to extend monitoring framework written in Ruby.
 * [Procodile](https://github.com/adamcooke/procodile) - Run processes in the background (and foreground) on Mac & Linux from a Procfile.
+* [Health Monitor Rails](https://github.com/lbeder/health-monitor-rails) - A mountable Rails plug-in to check health of services (Database, Cache, Sidekiq, Redis, e.t.c.) used by the Rails app.
 
 ## Processes
 
