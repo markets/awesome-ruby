@@ -454,6 +454,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [montrose](https://github.com/rossta/montrose) - a simple library for expressing, serializing, and enumerating recurring events in Ruby
 * [time-lord](https://github.com/krainboltgreene/time-lord) - Adds extra functionality to the time class.
 * [time_diff](https://github.com/abhidsm/time_diff) - Calculates the difference between two time.
+* [timezone](https://github.com/panthomakos/timezone) - Accurate current and historical timezones and transformations, with support for Geonames and Google latitude - longitude timezone lookups.
 * [TZinfo](https://github.com/tzinfo/tzinfo) - Provides daylight savings aware transformations between times in different timezones.
 * [validates_timeliness](https://github.com/adzap/validates_timeliness) - Date and time validation plugin for ActiveModel and Rails.
 * [yymmdd](https://github.com/sshaw/yymmdd) - Tiny DSL for idiomatic date parsing and formatting.
