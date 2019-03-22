@@ -1320,3 +1320,4 @@ Where to discover new Ruby libraries, projects and trends.
 * [Ruby Weekly](https://rubyweekly.com/) - A free, once–weekly e-mail round-up of Ruby news and articles.
 * [The Ruby Bibliography](https://rubybib.org) - Research papers about Ruby.
 * [The Ruby Toolbox](https://www.ruby-toolbox.com) - A comprehensive catalog of Ruby and Rails plug-ins, gems, tools and resources for Ruby developers with popularity ratings based on GitHub watchers and Gem downloads.
+* [RoR E-Commerce: Demo included](https://snipcart.com/blog/rails-ecommerce-tutorial-refinery-cms) - A project where we built an e-commerce site using Ruby on Rails and Refinery CMS. Demo included. 
