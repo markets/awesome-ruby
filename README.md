@@ -441,6 +441,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Seed Fu](https://github.com/mbleigh/seed-fu) - Advanced seed data handling for Rails.
 * [Standby](https://github.com/kenn/standby) - Read from standby databases for ActiveRecord (formerly Slavery).
 * [Upsert](https://github.com/seamusabshere/upsert) - Upsert on MySQL, PostgreSQL, and SQLite3. Transparently creates functions (UDF) for MySQL and PostgreSQL; on SQLite3, uses INSERT OR IGNORE.
+* [Yeet DBA](https://github.com/KevinColemanInc/yeet_dba) - Automatically add foreign key constraints to your rails db
 
 ## Date and Time Processing
 
