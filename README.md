@@ -754,6 +754,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Awesome Machine Learning with Ruby](https://github.com/arbox/machine-learning-with-ruby) - A Curated List of Ruby Machine Learning Links and Resources.
 * [PredictionIO Ruby SDK](https://github.com/PredictionIO/PredictionIO-Ruby-SDK) - The PredictionIO Ruby SDK provides a convenient API to quickly record your users' behavior and retrieve personalized predictions for them.
 * [rb-libsvm](https://github.com/febeling/rb-libsvm) - Ruby language bindings for LIBSVM. SVM is a machine learning and classification algorithm.
+* [Red Chainer](https://github.com/red-data-tools/red-chainer) - A deep learning framework purely written in Ruby.
 * [ruby-fann](https://github.com/tangledpath/ruby-fann) - Ruby library for interfacing with FANN (Fast Artificial Neural Network).
 * [Rumale](https://github.com/yoshoku/rumale) - A machine learninig library with interfaces similar to Scikit-Learn.
 * [weka](https://github.com/paulgoetze/weka-jruby) - Machine learning and data mining algorithms for JRuby.
