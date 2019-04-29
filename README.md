@@ -58,7 +58,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Error Handling](#error-handling)
   * [Feature Flippers and A/B Testing](#feature-flippers-and-ab-testing)
   * [File Upload](#file-upload)
-  * [File System](#file-system)
+  * [File System Listener](#file-system-listener)
   * [Form Builder](#form-builder)
   * [Game Development](#game-development)
   * [Gem Generators](#gem-generators)
@@ -614,10 +614,12 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Refile](https://github.com/refile/refile) - A modern file upload library for Ruby applications, Refile is an attempt by CarrierWave's original author to fix the design mistakes and overengineering in CarrierWave.
 * [Shrine](https://github.com/janko-m/shrine) - Toolkit for handling file uploads in Ruby.
 
-## File System
+## File System Listener
 
 * [Guard](https://github.com/guard/guard) - A command line tool to easily handle events on file system modifications.
+* [Guard::LiveReload](https://github.com/guard/guard-livereload) - Automatically reload your browser when 'view' files are modified.
 * [Listen](https://github.com/guard/listen) - The Listen gem listens to file modifications and notifies you about the changes.
+* [Rerun](https://github.com/alexch/rerun) - Restarts an app when the filesystem changes. Uses growl and FSEventStream if on OS X.
 
 ## Form Builder
 
