@@ -1305,6 +1305,7 @@ Online tools, services and APIs to simplify development.
 * [OctoLinker](https://github.com/OctoLinker/browser-extension) - Navigate through projects on GitHub.com efficiently with the OctoLinker browser extension.
 * [SemaphoreCI](https://semaphoreci.com) - Hosted continuous integration and deployment service for open source and private projects.
 * [SideCI](https://www.sideci.com) - Automated Code Review with GitHub PR. - Monitoring Style Violations, Quality, Security, Dependencies.
+* [Sqreen](https://www.sqreen.io/) - Automated and Real-Time Security for Ruby Apps. Protect your app in 30 seconds.
 * [Travis CI.com](https://travis-ci.com) - Take care of running your tests and deploying your private apps.
 * [Travis CI.org](https://travis-ci.org) - A distributed build system for the open source community.
 * [Vexor CI](https://vexor.io) - A distributed cloud web-service for building and testing software, a continuous integration tool for private apps with pay-per-minute billing model.
