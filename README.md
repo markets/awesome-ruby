@@ -746,6 +746,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Logging](https://github.com/TwP/logging) - A flexible logging library for use in Ruby programs based on the design of Java's log4j library.
 * [Lograge](https://github.com/roidrage/lograge) - An attempt to tame Rails' default policy to log everything.
 * [MongoDB Logger](https://github.com/le0pard/mongodb_logger) - MongoDB logger for Rails.
+* [Rails Pretty logger](https://github.com/kekik/rails-pretty-logger/) - Check and search logs from dashboard, use hightlight to spot easily, add hourly rotation if needed.
 * [Scrolls](https://github.com/asenchi/scrolls) - Simple logging.
 * [Semantic Logger](https://rocketjob.github.io/semantic_logger/) - Scalable, next generation enterprise logging for Ruby.
 * [Syslogger](https://github.com/crohr/syslogger) - A drop-in replacement for the standard Logger Ruby library, that logs to the syslog instead of a log file.
