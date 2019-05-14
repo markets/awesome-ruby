@@ -825,8 +825,8 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 * [bootsnap](https://github.com/Shopify/bootsnap) - Boot large Ruby/Rails apps faster.
 * [fast_blank](https://github.com/SamSaffron/fast_blank) - Provides a C-optimized method for determining if a string is blank.
-* [yajl-ruby](https://github.com/brianmario/yajl-ruby) - A streaming JSON parsing and encoding library for Ruby (C bindings to yajl).
 * [render_async](https://github.com/renderedtext/render_async) - Render partials to your views asynchronously and increase load performance of your pages.
+* [yajl-ruby](https://github.com/brianmario/yajl-ruby) - A streaming JSON parsing and encoding library for Ruby (C bindings to yajl).
 
 ## ORM/ODM
 
