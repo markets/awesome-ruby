@@ -534,6 +534,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [ROR Ecommerce](https://github.com/drhenner/ror_ecommerce) - A Rails e-commerce platform.
 * [Solidus](https://github.com/solidusio/solidus) - An open source, eCommerce application for high volume retailers.
 * [Spree](https://github.com/spree/spree) - Spree is a complete open source e-commerce solution for Ruby on Rails.
+* [SquareConnect](https://github.com/square/connect-ruby-sdk) - Square's SDK for payments and other Square APIs.
 * [stripe-ruby](https://github.com/stripe/stripe-ruby) - Stripe Ruby bindings.
 
 ## Ebook
