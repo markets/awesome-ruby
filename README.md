@@ -968,6 +968,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [perftools.rb](https://github.com/tmm1/perftools.rb) - gperftools (formerly known as google-perftools) for Ruby code.
 * [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) - Profiler for your development and production Ruby rack apps.
 * [Rbkit](https://github.com/code-mancers/rbkit) - profiler for Ruby. With a GUI.
+* [rbspy](https://github.com/rbspy/rbspy) - Sampling profiler for any Ruby process.
 * [ruby-prof](https://github.com/ruby-prof/ruby-prof) - A code profiler for MRI rubies.
 
 ## QR
