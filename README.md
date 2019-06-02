@@ -276,6 +276,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Terminal Table](https://github.com/tj/terminal-table) - Ruby ASCII Table Generator, simple and feature rich.
 * [Tmuxinator](https://github.com/tmuxinator/tmuxinator) - Create and manage complex tmux sessions easily.
 * [Whirly](https://github.com/janlelis/whirly) - A simple, colorful and customizable terminal spinner library for Ruby.
+* [XDG](https://github.com/bkuhlmann/xdg) - Provides an implementation of the XDG Base Directory Specification.
 
 ## Cloud
 
