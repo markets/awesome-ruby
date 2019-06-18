@@ -852,10 +852,10 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [Destroyed At](https://github.com/dockyard/ruby-destroyed_at) - Allows you to "destroy" an object without deleting the record or associated records.
   * [Discard](https://github.com/jhawthorn/discard) - A simple ActiveRecord mixin to add conventions for flagging records as discarded.
   * [Espinita](https://github.com/continuum/espinita) - Audit activerecord models like a boss.
+  * [Logidze](https://github.com/palkan/logidze) - Database changes log for Rails.
   * [marginalia](https://github.com/basecamp/marginalia) - Attach comments to your ActiveRecord queries. By default, it adds the application, controller, and action names as a comment at the end of each query.
   * [mongoid-history](https://github.com/aq1018/mongoid-history) - Multi-user non-linear history tracking, auditing, undo, redo for mongoid.
   * [PaperTrail](https://github.com/airblade/paper_trail) - Track changes to your ActiveRecord models' data for auditing or versioning.
-  * [Logidze](https://github.com/palkan/logidze) - Database changes log for Rails.
   * [Paranoia](https://github.com/radar/paranoia) - A re-implementation of acts_as_paranoid for Rails 3 and 4, using much, much, much less code.
   * [PermenantRecords](https://github.com/JackDanger/permanent_records) - Soft-delete your ActiveRecord records, like an explicit version of ActsAsParanoid.
 * Import
