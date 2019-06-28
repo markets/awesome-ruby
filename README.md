@@ -315,6 +315,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Rubycritic](https://github.com/whitesmith/rubycritic) - A Ruby code quality reporter.
 * [Scientist](https://github.com/github/scientist) - A Ruby library for carefully refactoring critical paths.
 * [SimpleCov](https://github.com/colszowka/simplecov) - Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites.
+* [Sorbet](https://github.com/sorbet/sorbet) - A static type checker for Ruby.
 * [Suture](https://github.com/testdouble/suture) - A Ruby gem that helps you refactor your legacy code.
 * [Traceroute](https://github.com/amatsuda/traceroute) - A Rake task gem that helps you find the dead routes and actions for your Rails 3+ app
 
