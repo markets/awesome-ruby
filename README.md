@@ -1275,6 +1275,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Web Servers
 
+* [Agoo](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
 * [Goliath](https://github.com/postrank-labs/goliath) - A non-blocking Ruby web server framework.
 * [Iodine](https://github.com/boazsegev/iodine) - An non-blocking HTTP and Websocket web server optimized for Linux/BDS/macOS and Ruby MRI.
 * [Phusion Passenger](https://www.phusionpassenger.com) - Fast and robust web server and application server.
