@@ -282,6 +282,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [AWS SDK for Ruby](https://github.com/aws/aws-sdk-ruby) - The official AWS SDK for Ruby.
 * [browse-everything](https://github.com/projecthydra/browse-everything) - Multi-provider Rails engine providing access to files in cloud storage.
 * [Fog](https://github.com/fog/fog) - The Ruby cloud services library.
+* [humidifier](https://github.com/kddeisz/humidifier) - Programmatically generate and manage AWS CloudFormation templates, stacks, and change sets.
 
 ## CMS
 * [Alchemy CMS](https://alchemy-cms.com) - A powerful, userfriendly and flexible Open Source Rails CMS.
