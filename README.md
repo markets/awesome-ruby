@@ -1029,6 +1029,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ## Scheduling
 
 * [minicron](https://github.com/jamesrwhite/minicron) - A system to manage and monitor cron jobs.
+* [que-scheduler](https://github.com/hlascelles/que-scheduler) - A lightweight cron scheduler for the async job worker Que.
 * [resque-scheduler](https://github.com/resque/resque-scheduler) - A light-weight job scheduling system built on top of Resque.
 * [rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) - Job scheduler for Ruby (at, cron, in and every jobs).
 * [Sidekiq-Cron](https://github.com/ondrejbartas/sidekiq-cron) - A scheduling add-on for Sidekiq.
