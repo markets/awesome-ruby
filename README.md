@@ -31,6 +31,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Cloud](#cloud)
   * [CMS](#cms)
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
+  * [Code Formatting](#code-formatting)
   * [Code Highlighting](#code-highlighting)
   * [Coding Style Guides](#coding-style-guides)
   * [Concurrency and Parallelism](#concurrency-and-parallelism)
@@ -282,6 +283,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [AWS SDK for Ruby](https://github.com/aws/aws-sdk-ruby) - The official AWS SDK for Ruby.
 * [browse-everything](https://github.com/projecthydra/browse-everything) - Multi-provider Rails engine providing access to files in cloud storage.
 * [Fog](https://github.com/fog/fog) - The Ruby cloud services library.
+* [humidifier](https://github.com/kddeisz/humidifier) - Programmatically generate and manage AWS CloudFormation templates, stacks, and change sets.
 
 ## CMS
 * [Alchemy CMS](https://alchemy-cms.com) - A powerful, userfriendly and flexible Open Source Rails CMS.
@@ -292,7 +294,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Publify](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails.
 * [PushType](http://www.pushtype.org/) - A next generation, open source content management system for Ruby on Rails.
 * [Radiant](http://radiantcms.org) - A no-fluff, open source content management system designed for small teams.
-* [Refinery CMS](https://www.refinerycms.com) - An open source Ruby on Rails content management system for Rails 3 and 4.
+* [Refinery CMS](https://www.refinerycms.com) - An open source Ruby on Rails content management system for Rails 5.2+.
 * [Spina CMS](https://www.spinacms.com) - A beautiful CMS for Rails developers.
 * [Storytime](https://github.com/CultivateLabs/storytime) - Rails 4+ CMS and bloging engine, with a core focus on content.
 
@@ -311,13 +313,17 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Pronto](https://github.com/mmozuras/pronto) - Quick automated code review of your changes.
 * [rails_best_practices](https://github.com/railsbp/rails_best_practices) - A code metric tool for rails projects.
 * [Reek](https://github.com/troessner/reek) - Code smell detector for Ruby.
-* [RuboCop](https://github.com/rubocop-hq/rubocop) - A static code analyzer, based on the community Ruby style guide.
 * [Rubycritic](https://github.com/whitesmith/rubycritic) - A Ruby code quality reporter.
 * [Scientist](https://github.com/github/scientist) - A Ruby library for carefully refactoring critical paths.
 * [SimpleCov](https://github.com/colszowka/simplecov) - Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites.
 * [Sorbet](https://github.com/sorbet/sorbet) - A static type checker for Ruby.
 * [Suture](https://github.com/testdouble/suture) - A Ruby gem that helps you refactor your legacy code.
 * [Traceroute](https://github.com/amatsuda/traceroute) - A Rake task gem that helps you find the dead routes and actions for your Rails 3+ app
+
+## Code Formatting
+
+* [prettier](https://github.com/prettier/plugin-ruby) - A prettier plugin for the Ruby language.
+* [RuboCop](https://github.com/rubocop-hq/rubocop) - A static code analyzer, based on the community Ruby style guide.
 
 ## Code Highlighting
 
@@ -1274,6 +1280,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Web Servers
 
+* [Agoo](https://github.com/ohler55/agoo) - A high performance HTTP server for Ruby that includes GraphQL and WebSocket support.
 * [Goliath](https://github.com/postrank-labs/goliath) - A non-blocking Ruby web server framework.
 * [Iodine](https://github.com/boazsegev/iodine) - An non-blocking HTTP and Websocket web server optimized for Linux/BDS/macOS and Ruby MRI.
 * [Phusion Passenger](https://www.phusionpassenger.com) - Fast and robust web server and application server.
