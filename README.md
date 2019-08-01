@@ -226,6 +226,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Danger](https://github.com/danger/danger) - Automate your team's conventions surrounding code review.
 * [Huginn](https://github.com/cantino/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
+* [Runbook](https://github.com/braintree/runbook) - A framework and Ruby DSL for progressive system automation.
 
 ## Caching
 
