@@ -1010,6 +1010,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Robotics
 
+* [Arli](https://github.com/kigster/arli) - Arli is the CLI tool for searching, installing, and packaging Arduino libraries with a project using a YAML-based Arlifile. It's a "Bundler for Arduino Development". 
 * [Artoo](http://artoo.io) - Next generation robotics framework with support for different platforms: Arduino, Leap Motion, Pebble, Raspberry Pi, etc.
 
 ## RSS
