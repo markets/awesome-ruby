@@ -441,6 +441,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Polo](https://github.com/IFTTT/polo) - Creates sample database snapshots to work with real world data in development.
 * [PgHero](https://github.com/ankane/pghero) - Postgres insights made easy.
 * [Rails DB](https://github.com/igorkasyanchuk/rails_db) - Database Viewer and SQL Query Runner.
+* [Rein](https://github.com/nullobject/rein) - Database constraints made easy for ActiveRecord.
 * [Scenic](https://github.com/thoughtbot/scenic) - Versioned database views for Rails.
 * [SchemaPlus](https://github.com/SchemaPlus/schema_plus) - SchemaPlus provides a collection of enhancements and extensions to ActiveRecord
 * [SecondBase](https://github.com/customink/secondbase) - Seamless second database integration for Rails. SecondBase provides support for Rails to manage dual databases by extending ActiveRecord tasks that create, migrate, and test your application.
