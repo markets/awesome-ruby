@@ -33,6 +33,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
   * [Code Formatting](#code-formatting)
   * [Code Highlighting](#code-highlighting)
+  * [Code Loaders](#code-loaders)
   * [Coding Style Guides](#coding-style-guides)
   * [Concurrency and Parallelism](#concurrency-and-parallelism)
   * [Configuration](#configuration)
@@ -335,6 +336,10 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [CodeRay](https://github.com/rubychan/coderay) - Fast and easy syntax highlighting for selected languages.
 * [pygments.rb](https://github.com/tmm1/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter.
 * [Rouge](https://github.com/jneen/rouge) - A pure Ruby code highlighter that is compatible with Pygments.
+
+## Code Loaders
+
+* [Zeitwerk](https://github.com/fxn/zeitwerk) - An efficient and thread-safe Ruby code loader.
 
 ## Coding Style Guides
 
