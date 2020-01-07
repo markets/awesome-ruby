@@ -647,6 +647,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Cocoon](https://github.com/nathanvda/cocoon) - Dynamic nested forms using jQuery made easy; works with formtastic, simple_form or default forms.
 * [Formtastic](https://github.com/justinfrench/formtastic) - A Rails form builder plugin with semantically rich and accessible markup.
 * [Rails Bootstrap Forms](https://github.com/bootstrap-ruby/rails-bootstrap-forms) - Rails form builder that makes it super easy to create beautiful-looking forms with Twitter Bootstrap 3+.
+* [Rapidfire](https://github.com/code-mancers/rapidfire) - Making dynamic surveys should be easy!
 * [Reform](https://github.com/apotonick/reform) - Gives you a form object with validations and nested setup of models. It is completely framework-agnostic and doesn't care about your database.
 * [Simple Form](https://github.com/plataformatec/simple_form) - Rails forms made easy.
 
