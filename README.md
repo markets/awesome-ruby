@@ -326,11 +326,9 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [prettier](https://github.com/prettier/plugin-ruby) - A prettier plugin for the Ruby language.
 * [RuboCop](https://github.com/rubocop-hq/rubocop) - A static code analyzer, based on the community Ruby style guide.
-  * Extensions
-    * [Rubocop Rails](https://github.com/rubocop-hq/rubocop-rails) - A RuboCop extension focused on enforcing Rails best practices and coding conventions.
-    * [Rubocop Rspec](https://github.com/rubocop-hq/rubocop-rspec) - Code style checking for RSpec files
-    * [Rubocop Performance](https://github.com/rubocop-hq/rubocop-performance) - A RuboCop extension focused on code performance checks.
-
+  * [Rubocop Rails](https://github.com/rubocop-hq/rubocop-rails) - A RuboCop extension focused on enforcing Rails best practices and coding conventions.
+  * [Rubocop Rspec](https://github.com/rubocop-hq/rubocop-rspec) - Code style checking for RSpec files
+  * [Rubocop Performance](https://github.com/rubocop-hq/rubocop-performance) - A RuboCop extension focused on code performance checks.
 
 ## Code Highlighting
 
@@ -1065,6 +1063,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [NMatrix](https://github.com/sciruby/nmatrix) - Fast numerical linear algebra library for Ruby.
   * [Numo::NArray](https://github.com/ruby-numo/numo-narray) - N-dimensional Numerical Array for Ruby.
   * [mdarray](https://github.com/rbotafogo/mdarray) - Multi dimensional array implemented for JRuby inspired by NumPy.
+* [Red Data Tools](https://github.com/red-data-tools) - Data processing tools for Ruby.
 * [SciRuby](https://github.com/sciruby/sciruby) - Tools for scientific computation in Ruby/Rails.
   * [IRuby](https://github.com/SciRuby/iruby) - A Ruby kernel for Jupyter.
   * [statsample](https://github.com/sciruby/statsample) - A suite for basic and advanced statistics on Ruby.
