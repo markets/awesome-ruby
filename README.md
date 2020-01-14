@@ -163,6 +163,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## API Builder and Discovery
 
 * [ActiveModel::Serializers](https://github.com/rails-api/active_model_serializers) - JSON serialization of objects.
+* [ApiStruct](https://github.com/rubygarage/api_struct) - API wrapper builder with response serialization.
 * [Blanket](https://github.com/inf0rmer/blanket) - A dead simple API wrapper.
 * [Crepe](https://github.com/crepe/crepe) - The thin API stack.
 * [Fast JSON API](https://github.com/Netflix/fast_jsonapi) - A lightning fast JSON:API serializer for Ruby Objects.
