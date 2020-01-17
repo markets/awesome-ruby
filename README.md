@@ -164,6 +164,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [ActiveModel::Serializers](https://github.com/rails-api/active_model_serializers) - JSON serialization of objects.
 * [Blanket](https://github.com/inf0rmer/blanket) - A dead simple API wrapper.
+* [cache_crispies](https://github.com/codenoble/cache-crispies) - Speedy Rails JSON serialization with built-in caching.
 * [Crepe](https://github.com/crepe/crepe) - The thin API stack.
 * [Fast JSON API](https://github.com/Netflix/fast_jsonapi) - A lightning fast JSON:API serializer for Ruby Objects.
 * [Grape](http://www.ruby-grape.org) - An opinionated micro-framework for creating REST-like APIs in Ruby.
