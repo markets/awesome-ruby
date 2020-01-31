@@ -998,7 +998,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## QR
 
-* [QR-code](https://github.com/whomwah/rqrcode) - A Ruby library that encodes QR Codes.
+* [RQRCode](https://github.com/whomwah/rqrcode) - RQRCode is a library for creating and rendering QR codes into various formats.
 
 ## Queues and Messaging
 
