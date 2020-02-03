@@ -125,6 +125,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Abstraction
 
 * [ActiveInteraction](https://github.com/orgsync/active_interaction) - Manage application specific business logic.
+* [ActionView::Component](https://github.com/github/actionview-component) - View components for Rails.
 * [Apotomo](https://github.com/apotonick/apotomo) - Based on Cells, Apotomo gives you widgets and encapsulation, bubbling events, AJAX page updates, rock-solid testing and more.
 * [Cells](https://github.com/trailblazer/cells) - View Components for Rails.
 * [Decent Exposure](https://github.com/hashrocket/decent_exposure) - A helper for creating declarative interfaces in controllers.
