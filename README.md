@@ -531,7 +531,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Apipie](https://github.com/Apipie/apipie-rails) - Rails API documentation and display tool using Ruby syntax.
 * [Asciidoctor](https://asciidoctor.org) - A fast, Ruby-based text processor & publishing toolchain for converting AsciiDoc to HTML5, DocBook, EPUB3, PDF & more.
 * [Doctor](https://github.com/minio/doctor) - Doctor is a Documentation Server for all your docs in github.
-* [Documentation](https://github.com/adamcooke/documentation) - A Rails engine to provider the ability to add documentation to a Rails application.
+* [Documentation](https://github.com/adamcooke/documentation) - A Rails engine to provide the ability to add documentation to a Rails application.
 * [GitHub Changelog Generator](https://github.com/skywinder/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 * [Gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 * [grape-swagger](https://github.com/ruby-grape/grape-swagger) - Add swagger compliant documentation to your Grape API.
