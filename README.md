@@ -656,7 +656,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ## Game Development
 
 * [Gosu](http://www.libgosu.org) - A 2D game development library for the Ruby and C++ programming languages.
-* [Yeah](https://github.com/yeahrb/yeah) - Practical Ruby video game framework.
+* [Ruby 2D](https://github.com/ruby2d/ruby2d) - Create cross-platform 2D applications, games, and visualizations with ease.
 
 ## Gem Generators
 
