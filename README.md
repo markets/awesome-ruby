@@ -137,6 +137,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Responders](https://github.com/plataformatec/responders) - A set of Rails responders to dry up your application.
 * [Surrounded](https://github.com/saturnflyer/surrounded) - Encapsulated related objects in a single system to add behavior during runtime. Extensible implementation of DCI.
 * [Trailblazer](https://github.com/trailblazer/trailblazer) - Trailblazer is a thin layer on top of Rails. It gently enforces encapsulation, an intuitive code structure and gives you an object-oriented architecture.
+* [ViewComponent](https://github.com/github/view_component) - View components for Rails.
 * [Waterfall](https://github.com/apneadiving/waterfall) - A slice of functional programming to chain ruby services and blocks, thus providing a new approach to flow control.
 * [wisper](https://github.com/krisleech/wisper) - A micro library providing Ruby objects with Publish-Subscribe capabilities.
 
