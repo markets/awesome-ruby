@@ -1325,7 +1325,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 Online tools, services and APIs to simplify development.
 
 * [AppSignal](https://appsignal.com) - Better monitoring for your Rails applications.
-* [Bearer.sh](https://www.bearer.sh) - Monitor, control and log all your requests to external and internal APIs
+* [Bearer.sh](https://www.bearer.sh) - Automated API Request Monitoring, Anomaly Detection & Circuit Breaker for Ruby Apps.
 * [Codacy](https://www.codacy.com) - Automated Code Review for Ruby, Rails, JS, PHP, Python etc. Security, Coverage & Quality.
 * [CodeClimate](https://codeclimate.com) - Quality & security analysis for Ruby on Rails and Javascript.
 * [Dependabot](https://dependabot.com) - Automated dependency update pull requests.
