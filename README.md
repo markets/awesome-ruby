@@ -996,6 +996,8 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Rbkit](https://github.com/code-mancers/rbkit) - profiler for Ruby. With a GUI.
 * [rbspy](https://github.com/rbspy/rbspy) - Sampling profiler for any Ruby process.
 * [ruby-prof](https://github.com/ruby-prof/ruby-prof) - A code profiler for MRI rubies.
+* [stackprof](https://github.com/tmm1/stackprof) - A sampling call-stack profiler for ruby 2.1+.
+* [test-prof](https://github.com/palkan/test-prof) - Ruby Tests Profiling Toolbox
 
 ## QR
 
