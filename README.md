@@ -678,7 +678,6 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [git-auto-bisect](https://github.com/grosser/git-autobisect) - Find the commit that broke master.
 * [git_reflow](https://github.com/reenhanced/gitreflow) - An automated quality control workflow for Agile teams.
 * [git-spelunk](https://github.com/osheroff/git-spelunk) - Dig through git blame history.
-* [git-up](https://github.com/aanand/git-up) - Fetch and rebase all locally-tracked remote branches.
 * [git-whence](https://github.com/grosser/git-whence) - Find which merge a commit came from.
 * [Git Cop](https://github.com/bkuhlmann/git-cop) - Enforces consistent Git commits.
 * [Overcommit](https://github.com/brigade/overcommit) - A fully configurable and extendable Git hook manager.
