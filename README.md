@@ -676,6 +676,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 * [ginatra](https://github.com/NARKOZ/ginatra) - A web frontend for Git repositories.
 * [git-auto-bisect](https://github.com/grosser/git-autobisect) - Find the commit that broke master.
+* [git_curate](https://github.com/matt-harvey/git_curate) - Peruse and delete git branches ergonomically.
 * [git_reflow](https://github.com/reenhanced/gitreflow) - An automated quality control workflow for Agile teams.
 * [git-spelunk](https://github.com/osheroff/git-spelunk) - Dig through git blame history.
 * [git-up](https://github.com/aanand/git-up) - Fetch and rebase all locally-tracked remote branches.
