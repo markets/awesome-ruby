@@ -244,6 +244,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Captchas and anti-spam
 
+* [ActsAsTextcaptcha](https://github.com/matthutchinson/acts_as_textcaptcha) - Protection for Rails models with text-based logic question captchas (from Rob Tuley's textcaptcha.com)
 * [Invisible Captcha](https://github.com/markets/invisible_captcha) - Unobtrusive and flexible spam protection based on the honeypot strategy. It also provides a time-sensitive form submission.
 * [Rakismet](https://github.com/joshfrench/rakismet) - Easy Akismet and TypePad AntiSpam integration for Rails.
 * [reCAPTCHA](https://github.com/ambethia/recaptcha) - reCaptcha API helpers for ruby apps.
