@@ -440,7 +440,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Neography](https://github.com/maxdemarzi/neography) - A thin Ruby wrapper to the Neo4j Rest API.
 * [Redic](https://github.com/amakawa/redic) - Lightweight Redis Client.
 * [redis-rb](https://github.com/redis/redis-rb) - A Ruby client that tries to match Redis' API one-to-one, while still providing an idiomatic interface.
-* [ruby-pg](https://bitbucket.org/ged/ruby-pg) - Ruby interface to PostgreSQL 8.3 and later.
+* [ruby-pg](https://github.com/ged/ruby-pg) - Ruby interface to PostgreSQL 8.3 and later.
 * [SQLite3](https://github.com/sparklemotion/sqlite3-ruby) - Ruby bindings for the SQLite3 embedded database.
 * [SQL Server](https://github.com/rails-sqlserver/activerecord-sqlserver-adapter) - The SQL Server adapter for ActiveRecord.
 * [TinyTDS](https://github.com/rails-sqlserver/tiny_tds) - FreeTDS bindings for Ruby using DB-Library.
@@ -1034,7 +1034,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Robotics
 
-* [Arli](https://github.com/kigster/arli) - Arli is the CLI tool for searching, installing, and packaging Arduino libraries with a project using a YAML-based Arlifile. It's a "Bundler for Arduino Development". 
+* [Arli](https://github.com/kigster/arli) - Arli is the CLI tool for searching, installing, and packaging Arduino libraries with a project using a YAML-based Arlifile. It's a "Bundler for Arduino Development".
 * [Artoo](http://artoo.io) - Next generation robotics framework with support for different platforms: Arduino, Leap Motion, Pebble, Raspberry Pi, etc.
 
 ## RSS
@@ -1315,7 +1315,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Puma](https://github.com/puma/puma) - A modern, concurrent web server for Ruby.
 * [Rack](http://rack.github.io) - A common Ruby web server interface. By itself, it's just a specification and utility library, but all Ruby web servers implement this interface.
 * [Reel](https://github.com/celluloid/reel) - Celluloid::IO-powered web server.
-* [Thin](http://code.macournoyer.com/thin) - Tiny, fast & funny HTTP server.
+* [Thin](https://github.com/macournoyer/thin) - Tiny, fast & funny HTTP server.
 * [TorqueBox](https://github.com/torquebox/torquebox) - A Ruby application server built on JBoss AS7 and JRuby.
 * [Unicorn](http://unicorn.bogomips.org) - Rack HTTP server for fast clients and Unix.
 
