@@ -532,7 +532,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Active Merchant](https://github.com/activemerchant/active_merchant) - A simple payment abstraction library extracted from Shopify.
 * [Braintree](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
 * [Conekta](https://github.com/conekta/conekta-ruby) - Conekta Ruby bindings.
-* [credit_card_validations](https://github.com/Fivell/credit_card_validations) - A ruby gem for validating credit card numbers, generating valid numbers, Luhn checks.
+* [credit_card_validations](https://github.com/didww/credit_card_validations) - A ruby gem for validating credit card numbers, generating valid numbers, Luhn checks.
 * [Paypal Merchant SDK](https://github.com/paypal/merchant-sdk-ruby) - Official Paypal Merchant SDK for Ruby.
 * [Piggybak](https://github.com/piggybak/piggybak) - Modular, Extensible open-source ecommerce solution for Ruby on Rails.
 * [ROR Ecommerce](https://github.com/drhenner/ror_ecommerce) - A Rails e-commerce platform.
