@@ -509,6 +509,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 * [Diffy](https://github.com/samg/diffy) - Easy Diffing With Ruby.
 * [gemdiff](https://github.com/teeparham/gemdiff) - Find source repositories for gems. Open, compare, and update outdated gem versions.
+* [JsonCompare](https://github.com/a2design-inc/json-compare) - Returns the difference between two JSON files.
 
 ## Documentation
 
@@ -895,6 +896,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [Berkshelf](https://github.com/berkshelf/berkshelf) - A Chef Cookbook manager.
   * [CocoaPods](https://github.com/CocoaPods/CocoaPods) - The Objective-C dependency manager.
   * [fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
+  * [Linuxbrew](https://github.com/Homebrew/linuxbrew-core) - A fork of Homebrew for Linux.
   * [Homebrew-cask](https://github.com/caskroom/homebrew-cask) - A CLI workflow for the administration of Mac applications distributed as binaries.
   * [Homebrew](https://github.com/Homebrew/brew) - The missing package manager for OS X.
   * [Traveling Ruby](http://phusion.github.io/traveling-ruby/) - Traveling Ruby lets you create self-contained Ruby app packages for Linux and OS X.
@@ -934,6 +936,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Bluepill](https://github.com/bluepill-rb/bluepill) - Simple process monitoring tool.
 * [Eye](https://github.com/kostya/eye) - Process monitoring tool. Inspired from Bluepill and God.
 * [Foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications.
+* [God](https://github.com/mojombo/god) - An easy to configure, easy to extend monitoring framework written in Ruby.
 * [Health Monitor Rails](https://github.com/lbeder/health-monitor-rails) - A mountable Rails plug-in to check health of services (Database, Cache, Sidekiq, Redis, e.t.c.) used by the Rails app.
 * [Procodile](https://github.com/adamcooke/procodile) - Run processes in the background (and foreground) on Mac & Linux from a Procfile.
 
@@ -1068,6 +1071,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [bundler-audit](https://github.com/rubysec/bundler-audit) - Patch-level security verification for Bundler.
 * [Metasploit](https://github.com/rapid7/metasploit-framework) - World's most used penetration testing software.
 * [Rack::Attack](https://github.com/kickstarter/rack-attack) - Rack middleware for blocking & throttling abusive requests.
+* [Rack::Protection](https://github.com/sinatra/sinatra/tree/master/rack-protection) - Rack middleware for protecting against typical Web attacks.
 * [SecureHeaders](https://github.com/twitter/secureheaders) - Automatically apply several headers that are related to security, including: Content Security Policy (CSP), HTTP Strict Transport Security (HSTS), X-Frame-Options (XFO), X-XSS-Protection, X-Content-Type-Options, X-Download-Options & X-Permitted-Cross-Domain-Policies.
 
 ## SEO
