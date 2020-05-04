@@ -429,7 +429,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Neography](https://github.com/maxdemarzi/neography) - A thin Ruby wrapper to the Neo4j Rest API.
 * [Redic](https://github.com/amakawa/redic) - Lightweight Redis Client.
 * [redis-rb](https://github.com/redis/redis-rb) - A Ruby client that tries to match Redis' API one-to-one, while still providing an idiomatic interface.
-* [ruby-pg](https://bitbucket.org/ged/ruby-pg) - Ruby interface to PostgreSQL 8.3 and later.
+* [ruby-pg](https://github.com/ged/ruby-pg) - Ruby interface to PostgreSQL 8.3 and later.
 * [SQLite3](https://github.com/sparklemotion/sqlite3-ruby) - Ruby bindings for the SQLite3 embedded database.
 * [SQL Server](https://github.com/rails-sqlserver/activerecord-sqlserver-adapter) - The SQL Server adapter for ActiveRecord.
 * [TinyTDS](https://github.com/rails-sqlserver/tiny_tds) - FreeTDS bindings for Ruby using DB-Library.
@@ -1257,7 +1257,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Phusion Passenger](https://www.phusionpassenger.com) - Fast and robust web server and application server.
 * [Puma](https://github.com/puma/puma) - A modern, concurrent web server for Ruby.
 * [Rack](http://rack.github.io) - A common Ruby web server interface. By itself, it's just a specification and utility library, but all Ruby web servers implement this interface.
-* [Thin](http://code.macournoyer.com/thin) - Tiny, fast & funny HTTP server.
+* [Thin](https://github.com/macournoyer/thin) - Tiny, fast & funny HTTP server.
 * [TorqueBox](https://github.com/torquebox/torquebox) - A Ruby application server built on JBoss AS7 and JRuby.
 * [Unicorn](http://unicorn.bogomips.org) - Rack HTTP server for fast clients and Unix.
 
