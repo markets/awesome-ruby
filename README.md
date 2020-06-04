@@ -1245,7 +1245,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Hanami](http://hanamirb.org) - It aims to bring back Object Oriented Programming to web development, leveraging on a stable API, a minimal DSL, and plain objects.
 * [Hyperstack](https://hyperstack.org/) - A Complete Isomorphic Ruby Framework using React and Opal.
 * [Padrino](http://www.padrinorb.com) - A full-stack ruby framework built upon Sinatra.
-* [Pakyow](https://www.pakyow.org/) - A framework for building modern web-apps in Ruby. It helps you build working software faster with a development process that remains friendly to both designers and developers.
+* [Pakyow](https://pakyow.com/) - A framework for building modern web-apps in Ruby. It helps you build working software faster with a development process that remains friendly to both designers and developers.
 * [Rack::App](https://github.com/rack-app/rack-app) - Bare bone minimalistic framework for building rack apps.
 * [Ramaze](http://ramaze.net/) - A simple, light and modular open-source web application framework written in Ruby.
 * [Roda](http://roda.jeremyevans.net/) - A routing tree web framework.
