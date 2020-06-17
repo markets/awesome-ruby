@@ -629,7 +629,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ## Form Builder
 
 * [Cocoon](https://github.com/nathanvda/cocoon) - Dynamic nested forms using jQuery made easy; works with formtastic, simple_form or default forms.
-* [ComfyBootstrapForm](https://github.com/comfy/comfy-bootstrap-form) - Rails form builder that makes it easy to create forms with Bootstrap 4 markup 
+* [ComfyBootstrapForm](https://github.com/comfy/comfy-bootstrap-form) - Rails form builder that makes it easy to create forms with Bootstrap 4 markup
 * [Formtastic](https://github.com/justinfrench/formtastic) - A Rails form builder plugin with semantically rich and accessible markup.
 * [Rails Bootstrap Forms](https://github.com/bootstrap-ruby/rails-bootstrap-forms) - Rails form builder that makes it super easy to create beautiful-looking forms with Twitter Bootstrap 3+.
 * [Rapidfire](https://github.com/code-mancers/rapidfire) - Making dynamic surveys should be easy!
@@ -662,7 +662,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [git_reflow](https://github.com/reenhanced/gitreflow) - An automated quality control workflow for Agile teams.
 * [git-spelunk](https://github.com/osheroff/git-spelunk) - Dig through git blame history.
 * [git-whence](https://github.com/grosser/git-whence) - Find which merge a commit came from.
-* [Git Cop](https://github.com/bkuhlmann/git-cop) - Enforces consistent Git commits.
+* [Git Lint](https://www.alchemists.io/projects/git-lint) - Analyzes Git commits for consistent quality.
 * [Overcommit](https://github.com/brigade/overcommit) - A fully configurable and extendable Git hook manager.
 * [Rugged](https://github.com/libgit2/rugged) - Ruby bindings to libgit2.
 
