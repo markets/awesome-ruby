@@ -955,6 +955,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [bullet](https://github.com/flyerhzm/bullet) - Help to kill N+1 queries and unused eager loading.
 * [Derailed Benchmarks](https://github.com/schneems/derailed_benchmarks) - A series of things you can use to benchmark any Rack based app.
 * [Peek](https://github.com/peek/peek) - Visual status bar showing Rails performance.
+* [puma-pool-usage](https://github.com/simplymadeapps/puma-pool-usage) - Puma plugin to calculate and log your web server pool usage.
 * [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) - Profiler for your development and production Ruby rack apps.
 * [Rbkit](https://github.com/code-mancers/rbkit) - profiler for Ruby. With a GUI.
 * [rbspy](https://github.com/rbspy/rbspy) - Sampling profiler for any Ruby process.
