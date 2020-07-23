@@ -528,6 +528,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [RDoc](https://github.com/ruby/rdoc) - RDoc produces HTML and command-line documentation for Ruby projects.
 * [rspec_api_documentation](https://github.com/zipmark/rspec_api_documentation) - Automatically generate API documentation from RSpec.
 * [YARD](http://yardoc.org) - YARD enables the user to generate consistent, usable documentation that can be exported to a number of formats very easily.
+* [Optic](https://github.com/opticdev/optic) - Optic automatically documents and tests your APIs
 
 ## E-Commerce and Payments
 
