@@ -715,6 +715,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [RMagick](https://github.com/rmagick/rmagick) - RMagick is an interface between Ruby and ImageMagick.
 * [ruby-vips](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
 * [Skeptick](https://github.com/maxim/skeptick) - Skeptick is an all-purpose DSL for building and running ImageMagick commands.
+* [ImageProcessing](https://github.com/janko/image_processing) - High-level image processing wrapper for libvips and ImageMagick/GraphicsMagick
 
 ## Implementations/Compilers
 
