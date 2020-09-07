@@ -484,6 +484,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Pry Byebug](https://github.com/deivid-rodriguez/pry-byebug) - Pry navigation commands via byebug.
 * [pry-rails](https://github.com/rweng/pry-rails) - Avoid repeating yourself, use pry-rails instead of copying the initializer to every rails project. This is a small gem which causes rails console to open pry. It therefore depends on pry.
 * [Seeing Is Believing](https://github.com/JoshCheek/seeing_is_believing) - Displays the results of every line of code in your file.
+* [tapping_device](https://github.com/st0012/tapping_device) - A tool that allows you to inspect your program from an Object's perspective.
 * [Xray](https://github.com/brentd/xray-rails) - A development tool that reveals your UI's bones.
 
 ## Decorators
