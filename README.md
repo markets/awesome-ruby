@@ -84,6 +84,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Natural Language Processing](#natural-language-processing)
   * [Navigation](#navigation)
   * [Networking](#networking)
+  * [Notifications](#notifications)
   * [Optimizations](#optimizations)
   * [ORM/ODM](#ormodm)
   * [ORM/ODM Extensions](#ormodm-extensions)
@@ -567,7 +568,6 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Maily](https://github.com/markets/maily) - A Rails Engine to manage, test and navigate through all your email templates of your app, being able to preview them directly in your browser.
 * [Markerb](https://github.com/plataformatec/markerb) - Allows you to render multipart e-mails from a single template written in Markdown.
 * [MidiSmtpServer](https://4commerce-technologies-ag.github.io/midi-smtp-server/) - The highly customizable ruby SMTP-Service library with builtin support for AUTH and SSL/STARTTLS, 8BITMIME and SMTPUTF8, IPv4 and IPv6 and more.
-* [Noticed](https://github.com/excid3/noticed) - ActionMailer-like Notification System for your Ruby on Rails app.
 * [Pony](https://github.com/benprew/pony) - The express way to send mail from Ruby.
 * [Postal](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
 * [premailer-rails](https://github.com/fphilipe/premailer-rails) - CSS styled emails without the hassle.
@@ -794,9 +794,6 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [PubNub](https://github.com/pubnub/ruby) - Real-time Push Service in the Cloud.
 * [Ruboto](https://github.com/ruboto/ruboto) - A platform for developing full stand-alone apps for Android using the Ruby language and libraries.
 * [RubyMotion](http://www.rubymotion.com) - A revolutionary toolchain that lets you quickly develop and test full-fledged native iOS and OS X applications for iPhone, iPad, Mac and Android.
-* [Ruby Push Notifications](https://github.com/calonso/ruby-push-notifications) - iOS, Android and Windows Phone Push notifications made easy.
-* [Rpush](https://github.com/rpush/rpush) - The push notification service for Ruby which supports Apple Push Notification Service, Google Cloud Messaging, Amazon Device Messaging and Windows Phone Push Notification Service.
-* [webpush](https://github.com/zaru/webpush) - Encryption Utilities for Web Push protocol
 
 ## Money
 
@@ -835,6 +832,13 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 * [Dnsruby](https://github.com/alexdalitz/dnsruby) - A pure Ruby DNS client library which implements a stub resolver. It aims to comply with all DNS RFCs.
 * [RubyDNS](https://github.com/ioquatix/rubydns) - A high-performance DNS server which can be easily integrated into other projects or used as a stand-alone daemon.
+
+## Notifications
+
+* [Noticed](https://github.com/excid3/noticed) - ActionMailer-like Notification System for your Ruby on Rails app.
+* [Ruby Push Notifications](https://github.com/calonso/ruby-push-notifications) - iOS, Android and Windows Phone Push notifications made easy.
+* [Rpush](https://github.com/rpush/rpush) - The push notification service for Ruby which supports Apple Push Notification Service, Google Cloud Messaging, Amazon Device Messaging and Windows Phone Push Notification Service.
+* [webpush](https://github.com/zaru/webpush) - Encryption Utilities for Web Push protocol.
 
 ## Optimizations
 
