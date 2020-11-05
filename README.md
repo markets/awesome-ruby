@@ -1130,6 +1130,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Static Site Generation
 
+* [Bridgetown](https://github.com/bridgetownrb/bridgetown) - A Webpack-aware, Ruby-powered static site generator for the modern Jamstack era.
 * [High Voltage](https://github.com/thoughtbot/high_voltage) - Easily include static pages in your Rails app.
 * [Jekyll](https://jekyllrb.com) - Transform your plain text into static websites and blogs.
   * [Awesome Jekyll](https://github.com/planetjekyll/awesome-jekyll) - A collection of awesome Jekyll tools, plugins, themes, guides and much more.
