@@ -902,6 +902,8 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [Awesome Nested Set](https://github.com/collectiveidea/awesome_nested_set) - Awesome Nested Set is an implementation of the nested set pattern for ActiveRecord models.
   * [Closure Tree](https://github.com/mceachen/closure_tree) - Easily and efficiently make your ActiveRecord models support hierarchies using a Closure Table.
   * [Mongoid Tree](https://github.com/benedikt/mongoid-tree) - A tree structure for Mongoid documents using the materialized path pattern.
+* Type
+  * [ActiveFlag](https://github.com/kenn/active_flag) - Bit array for ActiveRecord
 
 ## Package Management
 
