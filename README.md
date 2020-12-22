@@ -398,6 +398,8 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ## CRM
 
 * [Fat Free CRM](https://github.com/fatfreecrm/fat_free_crm) - An open source Ruby on Rails based customer relationship management platform.
+* [Hitobito](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
+
 
 ## Cryptocurrencies and Blockchains
 
