@@ -400,7 +400,6 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Fat Free CRM](https://github.com/fatfreecrm/fat_free_crm) - An open source Ruby on Rails based customer relationship management platform.
 * [Hitobito](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
 
-
 ## Cryptocurrencies and Blockchains
 
 * [Blockchain Lite](https://github.com/openblockchains/blockchain.lite.rb) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time.
