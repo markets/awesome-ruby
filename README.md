@@ -207,6 +207,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Shield](https://github.com/cyx/shield) - Authentication protocol for use in your routing and model context.
 * [Sorcery](https://github.com/Sorcery/sorcery) - Magical Authentication for Rails 4, and Rails 5.
 * [warden](https://github.com/hassox/warden) - General Rack Authentication Framework.
+* [Active Entry](https://github.com/TFM-Agency/active_entry) - Simple and flexible authentication and authorization in your Rails controller.
 * OAuth:
   * [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) - An OAuth2 provider for Rails.
   * [OAuth2](https://github.com/intridea/oauth2) - A Ruby wrapper for the OAuth 2.0 protocol.
@@ -220,6 +221,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Consul](https://github.com/makandra/consul) - A scope-based authorization solution for Ruby on Rails.
 * [Petergate](https://github.com/elorest/petergate) - Easy to use and read action and content based authorizations.
 * [Pundit](https://github.com/elabs/pundit) - Minimal authorization through OO design and pure Ruby classes.
+* [Active Entry](https://github.com/TFM-Agency/active_entry) - Simple and flexible authentication and authorization in your Rails controller.
 
 ## Automation
 
