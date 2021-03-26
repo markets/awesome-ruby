@@ -775,6 +775,8 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [rb-libsvm](https://github.com/febeling/rb-libsvm) - Ruby language bindings for LIBSVM. SVM is a machine learning and classification algorithm.
 * [ruby-fann](https://github.com/tangledpath/ruby-fann) - Ruby library for interfacing with FANN (Fast Artificial Neural Network).
 * [rumale](https://github.com/yoshoku/rumale) - A machine learning library with interfaces similar to Scikit-Learn.
+* [TensorFlow](https://github.com/ankane/tensorflow) - The end-to-end machine learning platform for Ruby.
+* [Torch.rb](https://github.com/ankane/torch.rb) - Deep learning for Ruby, powered by LibTorch.
 * [weka](https://github.com/paulgoetze/weka-jruby) - Machine learning and data mining algorithms for JRuby.
 
 ## Markdown Processors
