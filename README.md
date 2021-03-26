@@ -384,6 +384,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [AttrExtras](https://github.com/barsoom/attr_extras) - Takes some boilerplate out of Ruby with methods like attr_initialize.
 * Hash
   * [Hashie](https://github.com/intridea/hashie) - A collection of tools that extend Hashes and make them more useful.
+* [Trick Bag](https://github.com/keithrbennett/trick_bag) - Assorted Ruby classes and methods to simplify and enhance your code.
 
 ## Country Data
 
