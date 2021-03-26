@@ -62,7 +62,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [File Upload](#file-upload)
   * [File System Listener](#file-system-listener)
   * [Form Builder](#form-builder)
-  * [Game Development](#game-development)
+  * [Game Development and Graphics](#game-development-and-graphics)
   * [Gem Generators](#gem-generators)
   * [Geolocation](#geolocation)
   * [Git Tools](#git-tools)
@@ -645,9 +645,10 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Reform](https://github.com/apotonick/reform) - Gives you a form object with validations and nested setup of models. It is completely framework-agnostic and doesn't care about your database.
 * [Simple Form](https://github.com/plataformatec/simple_form) - Rails forms made easy.
 
-## Game Development
+## Game Development and Graphics
 
 * [Gosu](http://www.libgosu.org) - A 2D game development library for the Ruby and C++ programming languages.
+* [Mittsu](https://github.com/jellymann/mittsu) - Mittsu makes 3D graphics easier by providing an abstraction over OpenGL, and is based heavily off of THREE.js.
 * [Ruby 2D](https://github.com/ruby2d/ruby2d) - Create cross-platform 2D applications, games, and visualizations with ease.
 
 ## Gem Generators
