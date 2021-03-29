@@ -220,6 +220,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Consul](https://github.com/makandra/consul) - A scope-based authorization solution for Ruby on Rails.
 * [Petergate](https://github.com/elorest/petergate) - Easy to use and read action and content based authorizations.
 * [Pundit](https://github.com/elabs/pundit) - Minimal authorization through OO design and pure Ruby classes.
+* [Tiddle](https://github.com/adamniedzielski/tiddle/)- Supports multiple tokens per user and simple to implement 
 
 ## Automation
 
