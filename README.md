@@ -1217,6 +1217,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ## Third-party APIs
 
 * [Buffer](https://github.com/bufferapp/buffer-ruby) - Buffer API Ruby Library
+* [Cloudmersive](https://api.cloudmersive.com/ruby-client.asp) - Cloudmersive API Ruby Library; provides APIs for virus scanning, document conversion, validation, and more.
 * [discordrb](https://github.com/meew0/discordrb) - An implementation of the Discord API.
 * [Dropbox](https://github.com/Jesus/dropbox_api) - Ruby client for Dropbox API v2.
 * [fb_graph2](https://github.com/nov/fb_graph2) - A full-stack Facebook Graph API wrapper.
