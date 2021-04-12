@@ -258,6 +258,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Main](https://github.com/ahoward/main) - A class factory and DSL for generating command line programs real quick.
 * [Optimist](https://github.com/ManageIQ/optimist) - A commandline option parser for Ruby that just gets out of your way.
 * [Rake](https://github.com/ruby/rake) - A make-like build utility for Ruby.
+* [Runfile](https://github.com/DannyBen/runfile) - Build command line applications per project with ease. Rake-inspired, Docopt inside.
 * [Slop](https://github.com/leejarvis/slop) - Simple Lightweight Option Parsing.
 * [Terrapin](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
 * [Thor](http://whatisthor.com) - A toolkit for building powerful command-line interfaces.
