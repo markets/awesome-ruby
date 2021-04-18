@@ -1329,14 +1329,11 @@ Online tools, services and APIs to simplify development.
 * [GitLab](https://about.gitlab.com) - Open source software to collaborate on code.
 * [Hakiri](https://hakiri.io) - Ship Secure Ruby Apps.
 * [HoundCI](https://houndci.com) - Review your Ruby code for style guide violations.
-* [HuBoard](https://huboard.com) - Kanban board for GitHub issues.
 * [Inch CI](https://inch-ci.org/) - Documentation badges for Ruby projects.
 * [OctoLinker](https://github.com/OctoLinker/browser-extension) - Navigate through projects on GitHub.com efficiently with the OctoLinker browser extension.
 * [SemaphoreCI](https://semaphoreci.com) - Hosted continuous integration and deployment service for open source and private projects.
-* [SideCI](https://www.sideci.com) - Automated Code Review with GitHub PR. - Monitoring Style Violations, Quality, Security, Dependencies.
-* [Sqreen](https://www.sqreen.io/) - Automated and Real-Time Security for Ruby Apps. Protect your app in 30 seconds.
+* [Sider](https://sider.review/) - Automated Code Review with GitHub PR. Monitoring Style Violations, Quality, Security, Dependencies.
 * [Travis CI.com](https://travis-ci.com) - Test and Deploy Your Code with Confidence.
-* [Vexor CI](https://vexor.io) - A distributed cloud web-service for building and testing software, a continuous integration tool for private apps with pay-per-minute billing model.
 
 # Resources
 
