@@ -35,7 +35,7 @@ Just use GitHub reactions and comments to express your feelings/experience about
 
 To stay on the list, projects should follow these quality standards:
 
-* Generally used (at least 10k downloads) and useful to the community.
+* Generally used (at least 20k downloads) and useful to the community.
 * Actively maintained (even if that just means take care of open issues and/or keep compatibility with current Ruby versions).
 * Stable.
 * Documented.
