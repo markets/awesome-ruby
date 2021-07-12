@@ -164,6 +164,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Acts_As_Api](https://github.com/fabrik42/acts_as_api) - Easy And Fun, in creating XML/JSON responses in Rails 3,4,5 and 6.
 * [Blanket](https://github.com/inf0rmer/blanket) - A dead simple API wrapper.
 * [Blueprinter](https://github.com/procore/blueprinter) - Simple, Fast, and Declarative Serialization Library for Ruby.
+* [cache_crispies](https://github.com/codenoble/cache-crispies) - Speedy Rails JSON serialization with built-in caching.
 * [Crepe](https://github.com/crepe/crepe) - The thin API stack.
 * [Grape](http://www.ruby-grape.org) - An opinionated micro-framework for creating REST-like APIs in Ruby.
 * [Her](https://github.com/remiprev/her) - an ORM that maps REST resources to Ruby objects. Designed to build applications that are powered by a RESTful API instead of a database.
