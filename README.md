@@ -194,6 +194,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Sprockets](https://github.com/rails/sprockets) - Rack-based asset packaging system.
 * [Torba](https://github.com/torba-rb/torba) - Bower-less bundler for Sprockets.
 * [Webpacker](https://github.com/rails/webpacker) - Use Webpack to manage app-like JavaScript modules in Rails.
+* [Vite Ruby](https://github.com/elmassimo/vite_ruby) - Use Vite.js as a modern assets pipeline in Ruby and Rails apps.
 
 ## Authentication and OAuth
 
