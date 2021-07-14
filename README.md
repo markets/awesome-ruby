@@ -1229,6 +1229,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Third-party APIs
 
+* [Ably](https://github.com/ably/ably-ruby) - Ruby library for realtime communication over Ably.
 * [Buffer](https://github.com/bufferapp/buffer-ruby) - Buffer API Ruby Library
 * [discordrb](https://github.com/meew0/discordrb) - An implementation of the Discord API.
 * [Dropbox](https://github.com/Jesus/dropbox_api) - Ruby client for Dropbox API v2.
