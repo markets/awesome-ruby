@@ -901,6 +901,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * Misc
   * [arel_extensions](https://github.com/faveod/arel-extensions) - Extending Arel: more "rubyish" syntax, functions for strings, dates, math... and add native extensions for some DBs.
   * [ActiveRecord::Turntable](https://github.com/drecom/activerecord-turntable) - A database sharding extension for ActiveRecord.
+  * [ActiveRecord Where Assoc](https://github.com/MaxLap/activerecord_where_assoc) - Filter ActiveRecord queries based on associations (using where EXISTS).
   * [ActiveValidators](https://github.com/franckverrot/activevalidators) - An exhaustive collection of off-the-shelf and tested ActiveModel/ActiveRecord validations.
   * [DeepPluck](https://github.com/khiav223577/deep_pluck) - Allow you to pluck attributes from nested associations without loading a bunch of records.
   * [Enumerize](https://github.com/brainspec/enumerize) - Enumerated attributes with I18n and ActiveRecord/Mongoid/MongoMapper support.
