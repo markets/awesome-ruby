@@ -1190,6 +1190,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [minitest](https://github.com/seattlerb/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking.
   * [Mocha](https://github.com/freerange/mocha) - Mocha is a mocking and stubbing library for Ruby.
   * [RR](https://github.com/rr/rr) - A test double framework that features a rich selection of double techniques and a terse syntax.
+  * [RSpec clone](https://github.com/cyril/r_spec-clone.rb) - A minimalist RSpec clone with all the essentials.
   * [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - Provides Test::Unit- and RSpec-compatible one-liners that test common Rails functionality. These tests would otherwise be much longer, more complex, and error-prone.
   * [Spinach](https://github.com/codegram/spinach) - Spinach is a high-level BDD framework that leverages the expressive Gherkin language (used by Cucumber) to help you define executable specifications of your application or library's acceptance criteria.
   * [Test::Unit](http://test-unit.github.io) - Test::Unit is a xUnit family unit testing framework for Ruby.
