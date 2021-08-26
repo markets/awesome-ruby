@@ -1338,6 +1338,7 @@ Online tools, services and APIs to simplify development.
 * [SemaphoreCI](https://semaphoreci.com) - Hosted continuous integration and deployment service for open source and private projects.
 * [Sider](https://sider.review/) - Automated Code Review with GitHub PR. Monitoring Style Violations, Quality, Security, Dependencies.
 * [Travis CI](https://travis-ci.com) - Test and Deploy Your Code with Confidence.
+* [Viezly](https://viezly.com/) - Code review tool for Ruby with advanced navigation and dependency visualization.
 
 # Resources
 
