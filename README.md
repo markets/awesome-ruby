@@ -1140,7 +1140,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [AXLSX](https://github.com/randym/axlsx) - An excel xlsx generation library.
 * [Docsplit](http://documentcloud.github.io/docsplit) - Gem to convert Microsoft Word (and other) documents into images, pdf, pages or text.
 * [Roo](https://github.com/roo-rb/roo) - Implements read access for all spreadsheet types and read/write access for Google spreadsheets.
-* [Spreadsheet Architect](https://github.com/westonganger/spreadsheet_architect) - Turn any activerecord relation or ruby object collection into a XLSX, ODS, or CSV spreadsheet.
+* [spreadsheet_architect](https://github.com/westonganger/spreadsheet_architect) - Spreadsheet Architect is a library that allows you to create XLSX, ODS, or CSV spreadsheets super easily from ActiveRecord relations, plain Ruby objects, or tabular data.
 
 ## State Machines
 
@@ -1346,7 +1346,7 @@ Where to discover new Ruby libraries, projects and trends.
 
 * [Awesome Ruby @LibHunt](https://ruby.libhunt.com) - Your go-to Ruby Toolbox. The Awesome Ruby collection + ordering by popularity, additional metadata and comparisons.
 * [GitHub Trending](https://github.com/trending?l=ruby) - Find what repositories the GitHub community is most excited about today.
-* [Open Source Rails](http://www.opensourcerails.com/) - A gallery of the best open source rack and Ruby on Rails web applications.
+* [Open Source Rails](https://www.opensourcerails.org/) - A gallery of the best open source rack and Ruby on Rails web applications.
 * [Ruby Bookmarks](https://github.com/dreikanter/ruby-bookmarks) - Ruby and Ruby on Rails bookmarks collection.
 * [RubyDaily](http://rubydaily.org) - Community driven news.
 * [RubyFlow](http://www.rubyflow.com) - Ruby Programming Community Link Blog.
