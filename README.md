@@ -328,6 +328,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Code Formatting
 
+* [niceql](https://github.com/alekseyl/niceql) - A dependentless SQL and SQL errors formatting and colorizing. ActiveRecord seemless integration.   
 * [prettier](https://github.com/prettier/plugin-ruby) - A prettier plugin for the Ruby language.
 * [RuboCop](https://github.com/rubocop-hq/rubocop) - A static code analyzer, based on the community Ruby style guide.
   * [Rubocop Rails](https://github.com/rubocop-hq/rubocop-rails) - A RuboCop extension focused on enforcing Rails best practices and coding conventions.
