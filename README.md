@@ -722,7 +722,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Device Detector](https://github.com/podigee/device_detector) - A precise and fast user agent parser and device detector, backed by the largest and most up-to-date user agent database.
 * [Http Client](https://github.com/nahi/httpclient) - Gives something like the functionality of libwww-perl (LWP) in Ruby.
 * [HTTP](https://github.com/httprb/http) - The HTTP Gem: a simple Ruby DSL for making HTTP requests.
-* [HTTPX](https://gitlab.com/honeyryderchuck/httpx) - acknowledges the ease-of-use of the [http](https://github.com/httprb/http) gem API (itself inspired by python requests library) which aims at reusing the same facade, extending it for the use cases which the http gem doesn't support.
+* [HTTPX](https://gitlab.com/honeyryderchuck/httpx) - Pure ruby HTTP client, supports HTTP/2 and HTTP/1, concurrent requests, plugin system for extended features (cookies, retries, following redirects, proxy, streaming...).
 * [httparty](https://github.com/jnunemaker/httparty) - Makes http fun again!
 * [Http-2](https://github.com/igrigorik/http-2) - Pure Ruby implementation of HTTP/2 protocol
 * [Patron](https://github.com/toland/patron) - Patron is a Ruby HTTP client library based on libcurl.
