@@ -388,7 +388,6 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Ruby Facets](https://github.com/rubyworks/facets) - The premiere collection of general purpose method extensions and standard additions for Ruby.
 * Attributes
   * [ActiveAttr](https://github.com/cgriego/active_attr) - What ActiveModel left out.
-  * [FastAttributes](https://github.com/applift/fast_attributes) - FastAttributes adds attributes with their types to the class.
   * [Virtus](https://github.com/solnic/virtus) - Attributes on Steroids for Plain Old Ruby Objects.
   * [AttrExtras](https://github.com/barsoom/attr_extras) - Takes some boilerplate out of Ruby with methods like attr_initialize.
 * Hash
@@ -596,7 +595,6 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [bcrypt-ruby](https://github.com/codahale/bcrypt-ruby) - bcrypt-ruby is a Ruby binding for the OpenBSD bcrypt() password hashing algorithm.
 * [RbNaCl](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
 * [Sym](https://github.com/kigster/sym) - A time-saving symmetric encryption gem based on OpenSSL that uses 256bit (password-encrypted) keys. Read the key from STDIN, a file, ENV or, on a Mac: OS-X Keychain.
-* [Symmetric Encryption](http://rocketjob.github.io/symmetric-encryption/) - Transparently encrypt ActiveRecord, Mongoid, and MongoMapper attributes. Encrypt passwords in configuration files. Encrypt entire files at rest.
 * [Themis](https://github.com/cossacklabs/themis) - crypto library for painless data security, providing symmetric and asymmetric encryption, secure sockets with forward secrecy, for mobile and server platforms.
 
 ## Environment Management
@@ -944,7 +942,6 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [Linuxbrew](https://github.com/Homebrew/linuxbrew-core) - A fork of Homebrew for Linux.
   * [Homebrew-cask](https://github.com/caskroom/homebrew-cask) - A CLI workflow for the administration of Mac applications distributed as binaries.
   * [Homebrew](https://github.com/Homebrew/brew) - The missing package manager for OS X.
-  * [Traveling Ruby](http://phusion.github.io/traveling-ruby/) - Traveling Ruby lets you create self-contained Ruby app packages for Linux and OS X.
 
 ## Pagination
 
