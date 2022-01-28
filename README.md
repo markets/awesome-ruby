@@ -1361,3 +1361,4 @@ Where to discover new Ruby libraries, projects and trends.
 * [Ruby Weekly](https://rubyweekly.com/) - A free, once–weekly e-mail round-up of Ruby news and articles.
 * [The Ruby Bibliography](https://rubybib.org) - Research papers about Ruby.
 * [The Ruby Toolbox](https://www.ruby-toolbox.com) - A comprehensive catalog of Ruby and Rails plug-ins, gems, tools and resources for Ruby developers with popularity ratings based on GitHub watchers and Gem downloads.
+* [The Well-Grounded Rubyist, Third Edition](https://www.manning.com/books/the-well-grounded-rubyist-third-edition) - A tutorial that begins with your first Ruby program and takes you all the way to sophisticated topics like reflection, threading, and recursion.
