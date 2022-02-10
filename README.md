@@ -1,3 +1,3 @@
-## Awesome Ruby Site
+## Awesome Ruby site
 
-Source code of Awesome Ruby site http://awesome-ruby.com
+Source code of Awesome Ruby website https://awesome-ruby.com
