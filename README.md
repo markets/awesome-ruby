@@ -1,12 +1,11 @@
-<div>
-  <p align="center">
+<div align="center">
+  <p>
     <a href="https://awesome-ruby.com"><img src="https://raw.githubusercontent.com/markets/awesome-ruby/gh-pages/images/logo_m.png"></a>
   </p>
-  <h3 align="center"><a href="https://awesome-ruby.com">Awesome Ruby</a></h3>
-  <p align="center">
+  <h3><a href="https://awesome-ruby.com">Awesome Ruby</a></h3>
+  <p>
     <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
   </p>
-  <hr>
 </div>
 
 A categorized community-driven collection of awesome Ruby libraries, tools, frameworks and software. The essential Ruby to build modern Apps and Web Apps.
@@ -14,6 +13,24 @@ A categorized community-driven collection of awesome Ruby libraries, tools, fram
 Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/markets/awesome-ruby/blob/master/CONTRIBUTING.md) first.
 
 Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/contributors), you're awesome and this wouldn't be possible without you!
+
+<div align="center">
+  <hr>
+  <sup><b>Supported by:</b></sup>
+  <br>
+  <br>
+  <a href="https://railsdevs.com?utm_source=AwesomeRuby">
+    <div>
+      <img src="https://raw.githubusercontent.com/markets/awesome-ruby/master/media/sponsors/railsdevs.png" width="90" alt="railsdevs">
+    </div>
+    <div>
+      Find your next freelance gig on railsdevs,<br>
+      the reverse job board for Ruby on Rails developers.
+    </div>
+  </a>
+  <br>
+  <hr>
+</div>
 
 * [Awesome Ruby](#awesome-ruby)
   * [Abstraction](#abstraction)
