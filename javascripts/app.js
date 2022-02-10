@@ -4,6 +4,7 @@ $(document).ready(function(){
 
   $document.on('flatdoc:ready', function() {
     $(".content div:first").html("<h1>Awesome Ruby</h1>");
+    $(".content div hr").remove();
     $(".content ul:first").remove();
     $(".menu .level-0 li.level-1:first").remove();
 
