@@ -39,6 +39,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Authentication and OAuth](#authentication-and-oauth)
 * [Authorization](#authorization)
 * [Automation](#automation)
+* [Breadcrumbs](#breadcrumbs)
 * [Bussiness logic](#bussiness-logic)
 * [Caching](#caching)
 * [Captchas and anti-spam](#captchas-and-anti-spam)
@@ -100,7 +101,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Money](#money)
 * [Music and Sound](#music-and-sound)
 * [Natural Language Processing](#natural-language-processing)
-* [Navigation](#navigation)
 * [Networking](#networking)
 * [Notifications](#notifications)
 * [Optimizations](#optimizations)
@@ -233,6 +233,13 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Huginn](https://github.com/cantino/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
 * [Neovim](https://github.com/alexgenco/neovim-ruby) - Ruby bindings for Neovim to make your own neovim editor plugins in Ruby.
 * [Runbook](https://github.com/braintree/runbook) - A framework and Ruby DSL for progressive system automation.
+
+## Breadcrumbs
+
+* [Breadcrumbs on Rails](https://github.com/weppos/breadcrumbs_on_rails) - A simple Ruby on Rails plugin for creating and managing a breadcrumb navigation for a Rails project.
+* [Gretel](https://github.com/lassebunk/gretel) - A Ruby on Rails plugin that makes it easy yet flexible to create breadcrumbs.
+* [loaf](https://github.com/peter-murach/loaf) - Manages and displays breadcrumb trails in Rails app - lean & mean.
+* [Simple Navigation](https://github.com/codeplant/simple-navigation) - A ruby gem for creating navigation (html list, link list or breadcrumbs with multiple levels) for your Rails 2, 3 & 4, Sinatra or Padrino.
 
 ## Bussiness logic
 
@@ -878,14 +885,6 @@ Where to discover new Ruby libraries, projects and trends.
 * [Treetop](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser.
 * [Words Counted](https://github.com/abitdodgy/words_counted) - A highly customisable Ruby text analyser and word counter.
 
-## Navigation
-
-* [active_link_to](https://github.com/comfy/active_link_to) - View helper to manage "active" state of a link.
-* [Breadcrumbs on Rails](https://github.com/weppos/breadcrumbs_on_rails) - A simple Ruby on Rails plugin for creating and managing a breadcrumb navigation for a Rails project.
-* [Gretel](https://github.com/lassebunk/gretel) - A Ruby on Rails plugin that makes it easy yet flexible to create breadcrumbs.
-* [loaf](https://github.com/peter-murach/loaf) - Manages and displays breadcrumb trails in Rails app - lean & mean.
-* [Simple Navigation](https://github.com/codeplant/simple-navigation) - A ruby gem for creating navigation (html list, link list or breadcrumbs with multiple levels) for your Rails 2, 3 & 4, Sinatra or Padrino.
-
 ## Networking
 
 * [Dnsruby](https://github.com/alexdalitz/dnsruby) - A pure Ruby DNS client library which implements a stub resolver. It aims to comply with all DNS RFCs.
@@ -1328,6 +1327,7 @@ Online tools, services and APIs to simplify development.
 ## View components
 
 * [Cells](https://github.com/trailblazer/cells) - View Components for Rails.
+* [Komponent](https://github.com/komposable/komponent) - An opinionated way of organizing front-end code in Rails, based on components.
 * [ViewComponent](https://github.com/github/view_component) - View components for Rails.
 
 ## View helpers
@@ -1336,7 +1336,6 @@ Online tools, services and APIs to simplify development.
 * [auto_html](https://github.com/dejan/auto_html) - Rails extension for transforming URLs to appropriate resource (image, link, YouTube, Vimeo video...).
 * [Bh](https://github.com/fullscreen/bh) - Bootstrap Helpers for Ruby.
 * [gon](https://github.com/gazay/gon) - If you need to send some data to your js files and you don't want to do this with long way through views and parsing - use gon.
-* [Komponent](https://github.com/komposable/komponent) - An opinionated way of organizing front-end code in Rails, based on components.
 * [PluggableJs](https://github.com/peresleguine/pluggable_js) - Page-specific javascript for Rails applications with the ability of passing data from a controller.
 * [render_async](https://github.com/renderedtext/render_async) - Render partials to your views asynchronously and increase load performance of your pages.
 
@@ -1382,7 +1381,7 @@ Online tools, services and APIs to simplify development.
 
 ## WebSocket
 
-* [AnyCable](http://anycable.io) – Polyglot replacement for Ruby WebSocket servers with Action Cable protocol.
+* [AnyCable](http://anycable.io) – Polyglot replacement for Ruby WebSocket servers with Action Cable protocol.
 * [CableReady](https://github.com/hopsoft/cable_ready) - CableReady completes the ActionCable story and expands the utility of web sockets in your Rails app.
 * [Faye](http://faye.jcoglan.com/ruby.html) - A set of tools for simple publish-subscribe messaging between web clients.
 * [Firehose](https://github.com/firehoseio/firehose) - Build realtime Ruby web applications.
