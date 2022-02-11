@@ -33,11 +33,6 @@ body {
 html {
   overflow-x: hidden;
 }
-@media (max-width: 480px) {
-  body{
-    font-size: 14px;
-  }
-}
 a {
   color: #d5000d;
   text-decoration: none;
@@ -69,7 +64,7 @@ ul {
   font-family: "Archivo Black", sans-serif;
 }
 .content .main-title {
-  font-size: 2.5rem;
+  font-size: 2.5em;
   text-align: left;
 }
 .content h1,
@@ -158,6 +153,9 @@ ul {
   .content {
     padding: 20px;
     padding-top: 40px;
+  }
+  .content .main-title {
+    font-size: 2em;
   }
 }
 
