@@ -126,7 +126,6 @@ ul {
   padding-bottom: 40px;
   padding-left: 40px;
   padding-right: 40px;
-  zoom: 1;
   max-width: 700px;
 }
 .content:before,
@@ -153,6 +152,7 @@ ul {
   .content {
     padding: 20px;
     padding-top: 40px;
+    width: 100%;
   }
   .content .main-title {
     font-size: 2em;
@@ -165,7 +165,6 @@ ul {
 .header {
   border-bottom: solid 1px #dfe2e7;
   padding: 15px 30px;
-  zoom: 1;
   line-height: 35px;
   position: relative;
 }
@@ -198,16 +197,13 @@ ul {
   display: block;
   float: left;
 }
-.header li:last-child {
-  border-right: 0;
-}
-.header li:first-child {
-  border-left: 0;
-}
 .header li a {
   padding: 0 15px;
 }
 @media (max-width: 580px) {
+  .header {
+    width: 100%;
+  }
   .right {
     display: none;
   }
@@ -216,9 +212,6 @@ ul {
 /* ----------------------------------------------------------------------------
  * Sidebar
  */
-.menubar {
-  text-rendering: optimizeLegibility;
-}
 .menubar .section {
   padding: 30px 30px;
   -webkit-box-sizing: border-box;
@@ -232,7 +225,7 @@ ul {
 }
 @media (min-width: 680px) {
   .content-root {
-    padding-left: 230px;
+    padding-left: 240px;
   }
   .menubar {
     position: absolute;
