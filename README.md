@@ -505,7 +505,8 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [holidays](https://github.com/holidays/holidays) - A collection of Ruby methods to deal with statutory and other holidays.
 * [ice_cube](https://github.com/seejohnrun/ice_cube) - A date recurrence library which allows easy creation of recurrence rules and fast querying.
 * [local_time](https://github.com/basecamp/local_time) - Rails Engine for cache-friendly, client-side local time.
-* [montrose](https://github.com/rossta/montrose) - a simple library for expressing, serializing, and enumerating recurring events in Ruby
+* [montrose](https://github.com/rossta/montrose) - a simple library for expressing, serializing, and enumerating recurring events in Ruby.
+* [stamp](https://github.com/jeremyw/stamp) - Format dates and times based on human-friendly examples, not arcane strftime directives.
 * [time_diff](https://github.com/abhidsm/time_diff) - Calculates the difference between two time.
 * [timezone](https://github.com/panthomakos/timezone) - Accurate current and historical timezones and transformations, with support for Geonames and Google latitude - longitude timezone lookups.
 * [TZinfo](https://github.com/tzinfo/tzinfo) - Provides daylight savings aware transformations between times in different timezones.
