@@ -512,6 +512,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [validates_timeliness](https://github.com/adzap/validates_timeliness) - Date and time validation plugin for ActiveModel and Rails.
 * [working_hours](https://github.com/intrepidd/working_hours) - A modern ruby gem allowing to do time calculation with working hours.
 * [yymmdd](https://github.com/sshaw/yymmdd) - Tiny DSL for idiomatic date parsing and formatting.
+* [stamp](https://github.com/jeremyw/stamp) - Format dates and times based on human-friendly examples, not arcane strftime directives.
 
 ## Debugging Tools
 
