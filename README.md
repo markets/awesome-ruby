@@ -40,7 +40,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Authorization](#authorization)
 * [Automation](#automation)
 * [Breadcrumbs](#breadcrumbs)
-* [Bussiness logic](#bussiness-logic)
+* [Business logic](#business-logic)
 * [Caching](#caching)
 * [Captchas and anti-spam](#captchas-and-anti-spam)
 * [CLI Builder](#cli-builder)
@@ -241,7 +241,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [loaf](https://github.com/peter-murach/loaf) - Manages and displays breadcrumb trails in Rails app - lean & mean.
 * [Simple Navigation](https://github.com/codeplant/simple-navigation) - A ruby gem for creating navigation (html list, link list or breadcrumbs with multiple levels) for your Rails 2, 3 & 4, Sinatra or Padrino.
 
-## Bussiness logic
+## Business logic
 
 * [ActiveInteraction](https://github.com/AaronLasseigne/active_interaction) - Manage application specific business logic.
 * [Interactor](https://github.com/collectiveidea/interactor) - Interactor provides a common interface for performing complex interactions in a single request.
