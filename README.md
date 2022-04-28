@@ -1071,7 +1071,6 @@ Where to discover new Ruby libraries, projects and trends.
 * [Hobo](https://github.com/Hobo/hobo) - The web app builder for Rails.
 * [orats](https://github.com/nickjj/orats) - Opinionated rails application templates.
 * [Rails Composer](https://github.com/RailsApps/rails-composer) - The Rails generator on steroids for starter apps.
-* [railsnew.io](https://railsnew.io) - The simplest way to generate a new Rails app with (or without!) all the bells and whistles.
 * [Raygun](https://github.com/carbonfive/raygun) - Builds applications with the common customization stuff already done.
 * [Suspenders](https://github.com/thoughtbot/suspenders) - Suspenders is the base Rails application used at thoughtbot.
 
