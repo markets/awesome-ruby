@@ -1157,10 +1157,15 @@ Where to discover new Ruby libraries, projects and trends.
 
 * [BeEF](http://beefproject.com) - BeEF is short for The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser.
 * [bundler-audit](https://github.com/rubysec/bundler-audit) - Patch-level security verification for Bundler.
+* [Fingerprinter](https://github.com/erwanlr/Fingerprinter) - CMS/LMS/Library etc versions fingerprinter.
+* [haiti](https://github.com/noraj/haiti) - Hash type identifier (CLI & lib).
 * [Metasploit](https://github.com/rapid7/metasploit-framework) - World's most used penetration testing software.
+* [Pipal](https://github.com/digininja/pipal) - Password analyser and statistics generator
 * [Rack::Attack](https://github.com/kickstarter/rack-attack) - Rack middleware for blocking & throttling abusive requests.
 * [Rack::Protection](https://github.com/sinatra/sinatra/tree/master/rack-protection) - Rack middleware for protecting against typical Web attacks.
 * [SecureHeaders](https://github.com/twitter/secureheaders) - Automatically apply several headers that are related to security, including: Content Security Policy (CSP), HTTP Strict Transport Security (HSTS), X-Frame-Options (XFO), X-XSS-Protection, X-Content-Type-Options, X-Download-Options & X-Permitted-Cross-Domain-Policies.
+* [WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Website Fingerprinter.
+* [WPscan](http://wpscan.org/) - WordPress vulnerability scanner.
 
 ## Services and Apps
 
