@@ -276,8 +276,8 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Clamp](https://github.com/mdub/clamp) - A command-line application framework.
 * [cmdparse](http://cmdparse.gettalong.org) - An advanced command line parser supporting nested commands.
 * [Commander](https://github.com/commander-rb/commander) - The complete solution for Ruby command-line executables.
+* [dry-cli](https://github.com/dry-rb/dry-cli) - General purpose Command Line Interface (CLI) framework for Ruby.
 * [GLI](https://github.com/davetron5000/gli) - Git-Like Interface Command Line Parser.
-* [Hanami CLI](https://github.com/hanami/cli) - General purpose Command Line Interface (CLI) framework for Ruby.
 * [Main](https://github.com/ahoward/main) - A class factory and DSL for generating command line programs real quick.
 * [Optimist](https://github.com/ManageIQ/optimist) - A commandline option parser for Ruby that just gets out of your way.
 * [Rake](https://github.com/ruby/rake) - A make-like build utility for Ruby.
@@ -403,7 +403,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Bitwise](https://github.com/kenn/bitwise) - Fast, memory efficient bitwise operations on large binary strings
 * [Finishing Moves](https://github.com/forgecrafted/finishing_moves) - Small, focused, incredibly useful methods added to core Ruby classes. Includes the endlessly useful `nil_chain`.
 * [Docile](https://github.com/ms-ati/docile) - A tiny library that lets you map a DSL (domain specific language) to your Ruby objects in a snap.
-* [dry-rb](https://github.com/dry-rb) - dry-rb is a collection of next-generation Ruby libraries, each intended to encapsulate a common task.
+* [dry-rb](https://github.com/dry-rb) - rb is a collection of next-generation Ruby libraries, each intended to encapsulate a common task.
 * [Hamster](https://github.com/hamstergem/hamster) - Efficient, immutable, and thread-safe collection classes for Ruby.
 * [Hanami::Utils](https://github.com/hanami/utils) - Lightweight, non-monkey-patch class utilities for Hanami and Ruby app.
 * [Ruby Facets](https://github.com/rubyworks/facets) - The premiere collection of general purpose method extensions and standard additions for Ruby.
