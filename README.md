@@ -14,24 +14,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/contributors), you're awesome and this wouldn't be possible without you!
 
-<div align="center">
-  <hr>
-  <sup><b>Supported by:</b></sup>
-  <br>
-  <br>
-  <a href="https://railsdevs.com?utm_source=AwesomeRuby">
-    <div>
-      <img src="https://raw.githubusercontent.com/markets/awesome-ruby/master/media/sponsors/railsdevs.png" width="90" alt="railsdevs">
-    </div>
-    <div>
-      Find your next freelance gig on railsdevs,<br>
-      the reverse job board for Ruby on Rails developers.
-    </div>
-  </a>
-  <br>
-  <hr>
-</div>
-
 * [Admin Interface](#admin-interface)
 * [Analytics](#analytics)
 * [API Builder and Discovery](#api-builder-and-discovery)
