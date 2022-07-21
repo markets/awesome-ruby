@@ -1140,6 +1140,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [BeEF](http://beefproject.com) - BeEF is short for The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser.
 * [bundler-audit](https://github.com/rubysec/bundler-audit) - Patch-level security verification for Bundler.
 * [Fingerprinter](https://github.com/erwanlr/Fingerprinter) - CMS/LMS/Library etc versions fingerprinter.
+* [Firezone](https://github.com/firezone/firezone) - Self-hosted VPN server using WireGuard.
 * [haiti](https://github.com/noraj/haiti) - Hash type identifier (CLI & lib).
 * [Metasploit](https://github.com/rapid7/metasploit-framework) - World's most used penetration testing software.
 * [Pipal](https://github.com/digininja/pipal) - Password analyser and statistics generator
