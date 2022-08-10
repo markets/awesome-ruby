@@ -544,6 +544,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 Where to discover new Ruby libraries, projects and trends.
 
 * [Awesome Ruby @LibHunt](https://ruby.libhunt.com) - Your go-to Ruby Toolbox. The Awesome Ruby collection + ordering by popularity, additional metadata and comparisons.
+* [Explore Ruby @kandi](https://kandi.openweaver.com/explore/ruby) - Discover & find a curated list of popular & new Ruby libraries, top authors, trending project kits, discussions, tutorials & learning resources.
 * [GitHub Trending](https://github.com/trending?l=ruby) - Find what repositories the GitHub community is most excited about today.
 * [Open Source Rails](https://www.opensourcerails.org/) - A gallery of the best open source rack and Ruby on Rails web applications.
 * [Ruby Bookmarks](https://github.com/dreikanter/ruby-bookmarks) - Ruby and Ruby on Rails bookmarks collection.
