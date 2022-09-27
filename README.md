@@ -420,6 +420,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Ciri](https://github.com/ciri-ethereum/ciri) - Ruby implementation of Ethereum.
 * [MoneyTree](https://github.com/GemHQ/money-tree) - A Ruby implementation of Bitcoin HD Wallets (Hierarchical Deterministic) BIP32.
 * [Peatio](https://github.com/rubykube/peatio) - Most Advanced Cryptocurrency open-source assets exchange.
+* [Zold](https://kandi.openweaver.com/ruby/zold-io/zold) - Experimental Non-Blockchain Cryptocurrency.
 
 ## Dashboards
 
