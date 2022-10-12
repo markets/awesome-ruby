@@ -190,7 +190,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Monban](https://github.com/halogenandtoast/monban) - A very simple and extensible user authentication library for rails.
 * [OmniAuth](https://github.com/omniauth/omniauth) - A library that standardizes multi-provider authentication utilizing Rack middleware.
 * [Rodauth](https://github.com/jeremyevans/rodauth) - Authentication and account management framework for Rack applications.
-* [Sorcery](https://github.com/Sorcery/sorcery) - Magical Authentication for Rails 4, and Rails 5.
+* [Sorcery](https://github.com/Sorcery/sorcery) - A stripped-down, bare-bones authentication library for Rails.
 * [warden](https://github.com/hassox/warden) - General Rack Authentication Framework.
 * OAuth:
   * [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) - An OAuth2 provider for Rails.
