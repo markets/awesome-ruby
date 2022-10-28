@@ -1040,6 +1040,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [GoodJob](https://github.com/bensheldon/good_job) - GoodJob is a multithreaded, Postgres-based, ActiveJob backend for Ruby on Rails.
 * [Gush](https://github.com/chaps-io/gush) - A parallel runner for complex workflows using only Redis and Sidekiq.
 * [Karafka](https://github.com/karafka/karafka) - Framework used to simplify Apache Kafka (a distributed streaming platform) based Ruby applications development.
+* [Lowkiq](https://github.com/bia-technologies/lowkiq) - Ordered processing of background jobs for cases where Sidekiq can't help.
 * [March Hare](https://github.com/ruby-amqp/march_hare) - Idiomatic, fast and well-maintained JRuby client for RabbitMQ.
 * [Resque](https://github.com/resque/resque) - A Redis-backed Ruby library for creating background jobs.
 * [Que](https://github.com/chanks/que) - A Ruby job queue that uses PostgreSQL's advisory locks for speed and reliability.
