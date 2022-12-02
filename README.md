@@ -1304,6 +1304,7 @@ Online tools, services and APIs to simplify development.
 * [Slack Notifier](https://github.com/stevenosloan/slack-notifier) - A simple wrapper for posting to Slack channels.
 * [Slack ruby gem](https://github.com/aki017/slack-ruby-gem) - A Ruby wrapper for the Slack API.
 * [soundcloud-ruby](https://github.com/soundcloud/soundcloud-ruby) - Official SoundCloud API Wrapper for Ruby.
+* [svix](https://github.com/svix/svix-webhooks/tree/main/ruby) - Ruby library for sending webhooks and verifying signatures.
 * [t](https://github.com/sferik/t) - A command-line power tool for Twitter.
 * [terjira](https://github.com/keepcosmos/terjira) - A command-line power tool for Jira.
 * [tweetstream](https://github.com/tweetstream/tweetstream) - A simple library for consuming Twitter's Streaming API.
