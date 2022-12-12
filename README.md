@@ -1183,6 +1183,7 @@ Online tools, services and APIs to simplify development.
 * [Discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 * [Mailboxer](https://github.com/mailboxer/mailboxer) - A private message system for Rails applications.
 * [Mastodon](https://github.com/Gargron/mastodon) - A GNU Social-compatible microblogging server.
+* [Retrospring](https://github.com/Retrospring/retrospring) - A social network following the Q/A (question and answer) principle.
 * [Social Shares](https://github.com/Timrael/social_shares) - A gem to check how many times url was shared in social networks.
 * [Thredded](https://github.com/thredded/thredded) - Rails 4.2+ forums/messageboards engine. Its goal is to be as simple and feature rich as possible.
 
