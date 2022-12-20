@@ -1324,6 +1324,7 @@ Online tools, services and APIs to simplify development.
 
 * [Cells](https://github.com/trailblazer/cells) - View Components for Rails.
 * [Komponent](https://github.com/komposable/komponent) - An opinionated way of organizing front-end code in Rails, based on components.
+* [Phlex](https://github.com/joeldrapper/phlex) - A framework for building object-oriented views in Ruby.
 * [ViewComponent](https://github.com/github/view_component) - View components for Rails.
 
 ## View helpers
