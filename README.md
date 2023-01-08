@@ -1149,6 +1149,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [Pipal](https://github.com/digininja/pipal) - Password analyser and statistics generator
 * [Rack::Attack](https://github.com/kickstarter/rack-attack) - Rack middleware for blocking & throttling abusive requests.
 * [Rack::Protection](https://github.com/sinatra/sinatra/tree/master/rack-protection) - Rack middleware for protecting against typical Web attacks.
+* [Ronin](https://github.com/ronin-rb/ronin) - A Ruby platform for vulnerability research and exploit development.
 * [SecureHeaders](https://github.com/twitter/secureheaders) - Automatically apply several headers that are related to security, including: Content Security Policy (CSP), HTTP Strict Transport Security (HSTS), X-Frame-Options (XFO), X-XSS-Protection, X-Content-Type-Options, X-Download-Options & X-Permitted-Cross-Domain-Policies.
 * [WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Website Fingerprinter.
 * [WPscan](http://wpscan.org/) - WordPress vulnerability scanner.
