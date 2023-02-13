@@ -990,6 +990,7 @@ Where to discover new Ruby libraries, projects and trends.
 
 ## Performance Monitoring
 
+* [Bencher](https://bencher.dev) - Bencher is a suite of continuous benchmarking tools designed to catch performance regressions in CI. That is, Bencher allows you to detect and prevent performance regressions before they make it to production.
 * [Instrumental](https://github.com/expectedbehavior/instrumental_agent) - Measure your application in real time with [Instrumental](http://instrumentalapp.com).
 * [New Relic](https://github.com/newrelic/rpm) - Find and fix Ruby errors with New Relic application monitoring and troubleshooting.
 * [RoRvsWild](https://github.com/BaseSecrete/rorvswild) - Performances and exceptions monitoring for Rails developers.
