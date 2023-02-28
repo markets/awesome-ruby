@@ -360,8 +360,8 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Concurrent Ruby](https://github.com/ruby-concurrency/concurrent-ruby) - Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
 * [EventMachine](https://github.com/eventmachine/eventmachine) - An event-driven I/O and lightweight concurrency library for Ruby.
 * [forkoff](https://github.com/ahoward/forkoff) - brain-dead simple parallel processing for ruby.
-* [Parallel](https://github.com/grosser/parallel) - Run any code in parallel Processes (> use all CPUs) or Threads (> speedup blocking operations).
-Best suited for map-reduce or e.g. parallel downloads/uploads.
+* [Parallel](https://github.com/grosser/parallel) - Run any code in parallel Processes (> use all CPUs) or Threads (> speedup blocking operations). Best suited for map-reduce or e.g. parallel downloads/uploads.
+* [Polyphony](https://github.com/digital-fabric/polyphony) - Fine-grained concurrency for Ruby.
 
 ## Configuration
 
