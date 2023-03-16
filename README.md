@@ -1322,6 +1322,7 @@ Online tools, services and APIs to simplify development.
 ## Video
 
 * [Streamio FFMPEG](https://github.com/streamio/streamio-ffmpeg) - Simple yet powerful wrapper around the ffmpeg command for reading metadata and transcoding movies.
+* [VideoInfo](https://github.com/thibaudgg/video_info) - Get video info from Dailymotion, Vimeo, Wistia, and YouTube URLs.
 * [Video Transcoding](https://github.com/donmelton/video_transcoding) - Tools to transcode, inspect and convert videos.
 
 ## View components
