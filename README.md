@@ -1303,6 +1303,7 @@ Online tools, services and APIs to simplify development.
 * [instagram-ruby-gem](https://github.com/Instagram/instagram-ruby-gem) - The official gem for the Instagram REST and Search APIs.
 * [itunes_store_transporter](https://github.com/sshaw/itunes_store_transporter) - Ruby wrapper around Apple's iTMSTransporter program.
 * [linkedin](https://github.com/hexgnu/linkedin) - Provides an easy-to-use wrapper for LinkedIn's REST APIs.
+* [Notion Ruby Client](https://github.com/orbit-love/notion-ruby-client) - A Ruby wrapper for the Notion API.
 * [Octokit](http://octokit.github.io/octokit.rb) - Ruby toolkit for the GitHub API.
 * [Pusher](https://github.com/pusher/pusher-http-ruby) - Ruby server library for the Pusher API.
 * [Restforce](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
