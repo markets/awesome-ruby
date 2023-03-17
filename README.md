@@ -389,6 +389,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [dry-rb](https://github.com/dry-rb) - dry-rb is a collection of next-generation Ruby libraries, each intended to encapsulate a common task.
 * [Hamster](https://github.com/hamstergem/hamster) - Efficient, immutable, and thread-safe collection classes for Ruby.
 * [Hanami::Utils](https://github.com/hanami/utils) - Lightweight, non-monkey-patch class utilities for Hanami and Ruby app.
+* [MemoWise](https://github.com/panorama-ed/memo_wise) - Memoize any instance/class/module method, including support for frozen objects - rigorously tested and benchmarked on all Rubies - fast performance of memoized reads.
 * [Ruby Facets](https://github.com/rubyworks/facets) - The premiere collection of general purpose method extensions and standard additions for Ruby.
 * [Trick Bag](https://github.com/keithrbennett/trick_bag) - Assorted Ruby classes and methods to simplify and enhance your code.
 * Attributes
