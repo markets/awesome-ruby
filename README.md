@@ -1273,6 +1273,7 @@ Online tools, services and APIs to simplify development.
   * [Watir](https://github.com/watir/watir/) - Web application testing in Ruby.
 * Extra
   * [Appraisal](https://github.com/thoughtbot/appraisal) - Appraisal integrates with bundler and rake to test your library against different versions of dependencies.
+  * [Arca](https://github.com/jonmagic/arca) - Callback analyzer for ActiveRecord models ideally suited for digging yourself out of callback hell.
   * [CQL](https://github.com/enkessler/cql) - CQL is a library for making queries against Cucumber style test suites.
   * [cuke_modeler](https://github.com/enkessler/cuke_modeler) - An modeling library for `.feature` files that is an abstration layer on top of the `gherkin` gem, providing a stable base upon which to build other Gherkin related tools.
   * [gitarro](https://github.com/openSUSE/gitarro) - Run, retrigger, handle all type and OS-independent tests against your GitHub Pull Requests.
