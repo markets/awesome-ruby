@@ -1066,6 +1066,7 @@ Where to discover new Ruby libraries, projects and trends.
 
 * [Arli](https://github.com/kigster/arli) - Arli is the CLI tool for searching, installing, and packaging Arduino libraries with a project using a YAML-based Arlifile. It's a "Bundler for Arduino Development".
 * [Artoo](http://artoo.io) - Next generation robotics framework with support for different platforms: Arduino, Leap Motion, Pebble, Raspberry Pi, etc.
+* [Artoo Arduino](https://github.com/josephschito/artoo-arduino) - Simple Ruby Arduino library (updated to work with Ruby >=3)
 
 ## RSS
 
