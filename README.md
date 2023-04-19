@@ -827,6 +827,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [rumale](https://github.com/yoshoku/rumale) - A machine learning library with interfaces similar to Scikit-Learn.
 * [TensorFlow](https://github.com/ankane/tensorflow) - The end-to-end machine learning platform for Ruby.
 * [Torch.rb](https://github.com/ankane/torch.rb) - Deep learning for Ruby, powered by LibTorch.
+* [weaviate-ruby](https://github.com/andreibondarev/weaviate-ruby) - Ruby wrapper for the Weaviate vector search database API.
 * [weka](https://github.com/paulgoetze/weka-jruby) - Machine learning and data mining algorithms for JRuby.
 
 ## Markdown Processors
