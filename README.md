@@ -660,6 +660,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [flipper](https://github.com/jnunemaker/flipper) - Feature flipping for ANYTHING. Make turning features on/off so easy that everyone does it. Whatever your data store, throughput, or experience.
 * [Rollout](https://github.com/FetLife/rollout) - Feature flippers.
 * [Split](https://github.com/splitrb/split) - Rack Based AB testing framework.
+* [Unleash](https://github.com/Unleash/unleash-client-ruby) - Ruby client for Unleash, a powerful feature toggle system that gives you a great overview over all feature toggles across all your applications and services.
 * [Vanity](https://github.com/assaf/vanity) - an A/B testing framework for Rails that is datastore agnostic.
 
 ## File Upload
