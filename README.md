@@ -800,6 +800,7 @@ Where to discover new Ruby libraries, projects and trends.
 ## IRB
 
 * [Clipboard](https://github.com/janlelis/clipboard) - Access to the system clipboard on Linux, MacOS and Windows.
+* [KatakataIrb](https://github.com/tompng/katakata_irb) - IRB with Kata(型 Type) completion.
 * [irbtools](https://github.com/janlelis/irbtools) - Improvements for Ruby's IRB.
 * [Looksee](https://github.com/oggy/looksee) - A tool for illustrating the ancestry and method lookup path of objects. Handy for exploring unfamiliar codebases.
 * [Pry](https://github.com/pry/pry) - A powerful alternative to the standard IRB shell for Ruby.
