@@ -204,6 +204,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [acl9](https://github.com/be9/acl9) - Acl9 is a role-based authorization system that provides a concise DSL for securing your Rails application.
 * [AccessGranted](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
 * [ActionPolicy](https://github.com/palkan/action_policy) - Authorization framework for Ruby and Rails applications. Composable, extensible and performant.
+* [Aserto](https://docs.aserto.com/docs/software-development-kits/ruby/rails) - Fine-grained application authorization system with Ruby / Rails SDK.
 * [CanCanCan](https://github.com/CanCanCommunity/cancancan) - Continuation of CanCan, an authorization Gem for Ruby on Rails.
 * [Consul](https://github.com/makandra/consul) - A scope-based authorization solution for Ruby on Rails.
 * [Petergate](https://github.com/elorest/petergate) - Easy to use and read action and content based authorizations.
