@@ -176,9 +176,9 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Less Rails](https://github.com/metaskills/less-rails) - The dynamic stylesheet language for the Rails asset pipeline.
 * [Rails Assets](https://rails-assets.org) - Bundler to Bower proxy.
 * [Sass](http://sass-lang.com) - Sass makes CSS fun again.
+* [Shakapacker](https://github.com/shakacode/shakapacker) - Use Webpack to manage app-like JavaScript modules in Rails. (Official and actively maintained successor to rails/webpacker)
 * [Sprockets](https://github.com/rails/sprockets) - Rack-based asset packaging system.
 * [Torba](https://github.com/torba-rb/torba) - Bower-less bundler for Sprockets.
-* [Webpacker](https://github.com/rails/webpacker) - Use Webpack to manage app-like JavaScript modules in Rails.
 * [Vite Ruby](https://github.com/elmassimo/vite_ruby) - Use Vite.js as a modern assets pipeline in Ruby and Rails apps.
 
 ## Authentication and OAuth
