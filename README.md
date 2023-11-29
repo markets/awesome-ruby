@@ -21,7 +21,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   <br>
   <a href="https://betterstack.com">
     <div>
-      <img src="https://raw.githubusercontent.com/markets/awesome-ruby/master/media/sponsors/betterstack.png" width="90" alt="Better Stack">
+      <img src="https://raw.githubusercontent.com/markets/awesome-ruby/master/media/sponsors/betterstack.png" width="200" alt="Better Stack">
     </div>
     <div>
       Better Stack lets you see inside any stack,<br>
