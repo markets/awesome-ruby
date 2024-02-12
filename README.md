@@ -917,6 +917,7 @@ Where to discover new Ruby libraries, projects and trends.
 
 * [bootsnap](https://github.com/Shopify/bootsnap) - Boot large Ruby/Rails apps faster.
 * [fast_blank](https://github.com/SamSaffron/fast_blank) - Provides a C-optimized method for determining if a string is blank.
+* [fast_count](https://github.com/fatkodima/fast_count) - Quickly get a count estimation for large tables (>99% of accuracy for PostgreSQL).
 * [fast_underscore](https://github.com/kddeisz/fast_underscore) - Provides a C-optimized method for transforming a string from any capitalization into underscore-separated
 * [yajl-ruby](https://github.com/brianmario/yajl-ruby) - A streaming JSON parsing and encoding library for Ruby (C bindings to yajl).
 
