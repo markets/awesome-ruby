@@ -455,6 +455,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [CSV Reader](https://github.com/csvreader/csvreader) - A modern tabular data (line-by-line records) reader supports "classic" CSV but also CSV Numerics, `CSV <3 JSON`, `CSV <3 YAML`, tab, space or fixed width fields (FWF) and many more flavors and dialects.
 * [Kiba](http://www.kiba-etl.org) - A lightweight data processing / ETL framework for Ruby.
 * [ruby-stemmer](https://github.com/aurelian/ruby-stemmer) - It Provides Snowball algorithm for stemming purposes.
+* [Multiwoven](https://github.com/Multiwoven/multiwoven) - The open-source reverse ETL, data activation platform developed using Ruby and Ruby on Rails.
 
 ## Data Visualization
 
@@ -1093,10 +1094,6 @@ Where to discover new Ruby libraries, projects and trends.
 * [Rails Composer](https://github.com/RailsApps/rails-composer) - The Rails generator on steroids for starter apps.
 * [Raygun](https://github.com/carbonfive/raygun) - Builds applications with the common customization stuff already done.
 * [Suspenders](https://github.com/thoughtbot/suspenders) - Suspenders is the base Rails application used at thoughtbot.
-
-## Reverse ETL Platform
-
-* [Multiwoven](https://github.com/Multiwoven/multiwoven) - The open-source reverse ETL, data activation platform developed using Ruby and Ruby on Rails.
 
 ## Robotics
 
