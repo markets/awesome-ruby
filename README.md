@@ -1094,6 +1094,10 @@ Where to discover new Ruby libraries, projects and trends.
 * [Raygun](https://github.com/carbonfive/raygun) - Builds applications with the common customization stuff already done.
 * [Suspenders](https://github.com/thoughtbot/suspenders) - Suspenders is the base Rails application used at thoughtbot.
 
+## Reverse ETL Platform
+
+* [Multiwoven](https://github.com/Multiwoven/multiwoven) - The open-source reverse ETL, data activation platform developed using Ruby and Ruby on Rails.
+
 ## Robotics
 
 * [Arli](https://github.com/kigster/arli) - Arli is the CLI tool for searching, installing, and packaging Arduino libraries with a project using a YAML-based Arlifile. It's a "Bundler for Arduino Development".
