@@ -1,4 +1,4 @@
-**Thanks for contributing to Awesome Ruby! Please take a look at the [contribution guidelines and quality standard](https://github.com/markets/awesome-ruby/blob/master/CONTRIBUTING.md) first and :scissors: remove this line.**
+**Thanks for contributing to Awesome Ruby! Please take a look 👀 at the [contribution guidelines and quality standard](https://github.com/markets/awesome-ruby/blob/master/CONTRIBUTING.md) first and ✂️ remove this line.**
 
 ## Project
 
@@ -14,4 +14,4 @@ Enumerate comparisons.
 
 ---
 
-Please help us to maintain this collection by using reactions (:+1:, :-1:) and comments to express your feelings.
+Please help us to maintain this collection by using reactions (👍, 👎) and comments to express your feelings.
