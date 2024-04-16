@@ -945,6 +945,7 @@ Where to discover new Ruby libraries, projects and trends.
   * [acts_as_archival](https://github.com/expectedbehavior/acts_as_archival) - ActiveRecord plugin for atomic object tree archiving.
   * [ActsAsParanoid](https://github.com/ActsAsParanoid/acts_as_paranoid) - ActiveRecord plugin allowing you to hide and restore records without actually deleting them.
   * [Audited](https://github.com/collectiveidea/audited) - Audited is an ORM extension for ActiveRecord & MongoMapper that logs all changes to your models.
+  * [Bemi](https://github.com/BemiHQ/bemi-rails) - A ruby gem for dobust data change tracking with reliability guarantees.
   * [Destroyed At](https://github.com/dockyard/ruby-destroyed_at) - Allows you to "destroy" an object without deleting the record or associated records.
   * [Discard](https://github.com/jhawthorn/discard) - A simple ActiveRecord mixin to add conventions for flagging records as discarded.
   * [Logidze](https://github.com/palkan/logidze) - Database changes log for Rails.
