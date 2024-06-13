@@ -294,12 +294,14 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## CLI Utilities
 
 * [Awesome Print](https://github.com/awesome-print/awesome_print) - Pretty print your Ruby objects with style -- in full color and with proper indentation
+* [Amazing Print](https://github.com/amazing-print/amazing_print) - AmazingPrint is a fork of AwesomePrint which became stale and should be used in its place to avoid conflicts.
 * [Betty](https://github.com/pickhardt/betty) - Friendly English-like interface for your command line. Don't remember a command? Ask Betty.
 * [colorize](https://github.com/fazibear/colorize) - Extends String class or add a ColorizedString with methods to set text color, background color and text effects.
 * [colorls](https://github.com/athityakumar/colorls) - Beautifies the `ls` command, with color and font-awesome icons.
 * [formatador](https://github.com/geemus/formatador) - STDOUT text formatting.
 * [Paint](https://github.com/janlelis/paint) - Simple and fast way to set ANSI terminal colors.
 * [Pastel](https://github.com/peter-murach/pastel) - Terminal output styling with intuitive and clean API.
+* [Puts Debuggerer](https://github.com/AndyObtiva/puts_debuggerer) - Puts debugging that prints file names, line numbers, class names, method names, code statements, headers, footers, and stack traces; and formats output nicely courtesy of awesome_print or amazing_print.
 * [Ru](https://github.com/tombenner/ru) - Ruby in your shell.
 * [Ruby/Progressbar](https://github.com/jfelchner/ruby-progressbar) - The most flexible text progress bar library for Ruby.
 * [Tabulo](https://github.com/matt-harvey/tabulo) - Plain text table generator with a DRY, column-based API.
