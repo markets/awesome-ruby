@@ -704,6 +704,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [Guard::LiveReload](https://github.com/guard/guard-livereload) - Automatically reload your browser when 'view' files are modified.
 * [Listen](https://github.com/guard/listen) - The Listen gem listens to file modifications and notifies you about the changes.
 * [Rerun](https://github.com/alexch/rerun) - Restarts an app when the filesystem changes. Uses growl and FSEventStream if on OS X.
+* [Retest](https://github.com/alexb52/retest) - A simple CLI to watch file changes and run their matching Ruby specs. Works on any ruby projects with no setup.
 
 ## Form Builder
 
