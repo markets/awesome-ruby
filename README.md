@@ -376,7 +376,8 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [fast-ruby](https://github.com/JuanitoFatas/fast-ruby) - Writing Fast Ruby. Collect Common Ruby idioms.
 * [Fundamental Ruby](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
 * [Rails style guide](https://github.com/bbatsov/rails-style-guide) - Community-driven Rails best practices and style for Rails 3 and 4.
-* [RSpec style guide](https://github.com/andreareginato/betterspecs) - Better Specs { rspec guidelines with ruby }.
+* [Better Specs (RSpec style guide)](https://github.com/andreareginato/betterspecs) - testing guidelines for developers.
+* [Even Better Specs (RSpec style guide)](https://evenbetterspecs.github.io/) - guidelines for maintainable tests.
 * [Ruby Operators](http://ruby-operators.herokuapp.com/) - A webpage showing awesome names for different Ruby operators.
 * [Ruby style guide](https://github.com/bbatsov/ruby-style-guide) - Community-driven Ruby coding style.
 
