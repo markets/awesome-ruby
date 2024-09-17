@@ -35,6 +35,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Admin Interface](#admin-interface)
 * [Analytics](#analytics)
 * [API Builder and Discovery](#api-builder-and-discovery)
+* [Artificial Intelligence](#artificial-intelligence)
 * [Assets](#assets)
 * [Authentication and OAuth](#authentication-and-oauth)
 * [Authorization](#authorization)
@@ -186,6 +187,10 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Spyke](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
 * [Version Cake](https://github.com/bwillis/versioncake) - An unobtrusive way to version APIs in your Rails app.
 * [versionist](https://github.com/bploetz/versionist) - A plugin for versioning Rails based RESTful APIs.
+
+## Artificial Intelligence
+
+* [langchain.rb](https://github.com/patterns-ai-core/langchainrb) - Library for building LLM-powered applications in Ruby.
 
 ## Assets
 
