@@ -755,6 +755,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [git-spelunk](https://github.com/osheroff/git-spelunk) - Dig through git blame history.
 * [git-whence](https://github.com/grosser/git-whence) - Find which merge a commit came from.
 * [Git Lint](https://www.alchemists.io/projects/git-lint) - Analyzes Git commits for consistent quality.
+* [gitignore-cli](https://github.com/dvinciguerra/gitignore-cli) - A cli tool that use gitignore.io to generate your gitignore files.
 * [Overcommit](https://github.com/brigade/overcommit) - A fully configurable and extendable Git hook manager.
 * [Rugged](https://github.com/libgit2/rugged) - Ruby bindings to libgit2.
 
