@@ -880,6 +880,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [Maruku](https://github.com/bhollis/maruku) - A pure-Ruby Markdown-superset interpreter.
 * [Redcarpet](https://github.com/vmg/redcarpet) - A fast, safe and extensible Markdown to (X)HTML parser.
 * [word-to-markdown](https://github.com/benbalter/word-to-markdown) - Gem to convert Microsoft Word documents to Markdown.
+* [ZMediumToMarkdown](https://github.com/ZhgChgLi/ZMediumToMarkdown) - A powerful tool that allows you to effortlessly download and convert your Medium posts to Markdown format.
 
 ## Measurements
 
