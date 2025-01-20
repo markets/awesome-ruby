@@ -302,6 +302,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Pastel](https://github.com/peter-murach/pastel) - Terminal output styling with intuitive and clean API.
 * [Ru](https://github.com/tombenner/ru) - Ruby in your shell.
 * [Ruby/Progressbar](https://github.com/jfelchner/ruby-progressbar) - The most flexible text progress bar library for Ruby.
+* [Sai](https://github.com/aaronmallen/sai) - An elegant color management system for crafting sophisticated CLI applications
 * [Tabulo](https://github.com/matt-harvey/tabulo) - Plain text table generator with a DRY, column-based API.
 * [TablePrint](https://github.com/arches/table_print) - Slice your data from multiple DB tables into a single CLI view.
 * [Terminal Table](https://github.com/tj/terminal-table) - Ruby ASCII Table Generator, simple and feature rich.
