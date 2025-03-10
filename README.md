@@ -219,6 +219,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Clearance](https://github.com/thoughtbot/clearance) - Small and simple email & password based authentication for Rails.
 * [Devise](https://github.com/heartcombo/devise) - A flexible authentication solution for Rails based on Warden.
 * [JWT](https://github.com/jwt/ruby-jwt) - JSON Web Token implementation in Ruby.
+* [Logto](https://github.com/logto-io/logto) - An IAM infrastructure supporting OIDC, OAuth 2.0 and SAML for authentication and authorization.
 * [Monban](https://github.com/halogenandtoast/monban) - A very simple and extensible user authentication library for rails.
 * [OmniAuth](https://github.com/omniauth/omniauth) - A library that standardizes multi-provider authentication utilizing Rack middleware.
 * [Rodauth](https://github.com/jeremyevans/rodauth) - Authentication and account management framework for Rack applications.
