@@ -1,6 +1,6 @@
 # Contributing to Awesome Ruby
 
-Thanks for taking the time to contribute :+1:
+Thanks for taking the time to contribute 🤝
 
 The following is a set of guidelines for contributing to Awesome Ruby. These are just guidelines, not rules, use your best judgment and feel free to propose changes to this project.
 
@@ -35,7 +35,7 @@ Just use GitHub reactions and comments to express your feelings/experience about
 
 To stay on the list, projects should follow these quality standards:
 
-* Generally used (at least 20k downloads) and useful to the community.
+* Generally used (at least **30k downloads**) and useful to the community.
 * Actively maintained (even if that just means take care of open issues and/or keep compatibility with current Ruby versions).
 * Stable.
 * Documented.
