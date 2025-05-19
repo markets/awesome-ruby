@@ -401,6 +401,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Configuration
 
+* [AnywayConfig](https://github.com/palkan/anyway_config) - Configuration library for Ruby gems and applications, supporting multiple sources (yml, secrets) and environments.
 * [Chamber](https://github.com/thekompanee/chamber) - Surprisingly customizable convention-based approach to managing your app's configuration.
 * [Configatron](https://github.com/markbates/configatron) - Simple and feature rich configuration system for Ruby apps.
 * [Configus](https://github.com/kaize/configus) - Helps you easily manage environment specific settings.
@@ -600,7 +601,7 @@ Where to discover new Ruby libraries, projects and trends.
 
 ## Documentation
 
-* [AnnotateRb](https://github.com/drwl/annotaterb) - Adds database schema annotations for your ActiveRecord models as text comments as well as routes. An active and maintained hard fork of Annotate. 
+* [AnnotateRb](https://github.com/drwl/annotaterb) - Adds database schema annotations for your ActiveRecord models as text comments as well as routes. An active and maintained hard fork of Annotate.
 * [Apipie](https://github.com/Apipie/apipie-rails) - Rails API documentation and display tool using Ruby syntax.
 * [Asciidoctor](https://asciidoctor.org) - A fast, Ruby-based text processor & publishing toolchain for converting AsciiDoc to HTML5, DocBook, EPUB3, PDF & more.
 * [Documentation](https://github.com/adamcooke/documentation) - A Rails engine to provide the ability to add documentation to a Rails application.
@@ -969,7 +970,7 @@ Where to discover new Ruby libraries, projects and trends.
 ## ORM/ODM Extensions
 
 * Auditing and Versioning
-  * [active_snapshot](https://github.com/westonganger/active_snapshot) - Simplified snapshots and restoration for ActiveRecord models and associations with a transparent white-box implementation 
+  * [active_snapshot](https://github.com/westonganger/active_snapshot) - Simplified snapshots and restoration for ActiveRecord models and associations with a transparent white-box implementation
   * [acts_as_archival](https://github.com/expectedbehavior/acts_as_archival) - ActiveRecord plugin for atomic object tree archiving.
   * [ActsAsParanoid](https://github.com/ActsAsParanoid/acts_as_paranoid) - ActiveRecord plugin allowing you to hide and restore records without actually deleting them.
   * [Audited](https://github.com/collectiveidea/audited) - Audited is an ORM extension for ActiveRecord & MongoMapper that logs all changes to your models.
