@@ -29,15 +29,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
     </div>
   </a>
   <br>
-  <a href="https://iproyal.com/?r=814729">
-    <div>
-      <img src="https://raw.githubusercontent.com/markets/awesome-ruby/master/media/sponsors/iproyal.png" width="120" alt="IPRoyal">
-    </div>
-    <div>
-      Premium Quality Proxies, Unbeatable Prices.
-    </div>
-  </a>
-  <br>
   <hr>
 </div>
 
