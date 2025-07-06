@@ -903,6 +903,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [eu_central_bank](https://github.com/RubyMoney/eu_central_bank) - A gem that calculates the exchange rate using published rates from European Central Bank.
 * [Monetize](https://github.com/RubyMoney/monetize) - A library for converting various objects into Money objects.
 * [Money](https://github.com/RubyMoney/money) - A Ruby Library for dealing with money and currency conversion.
+* [finrb](https://github.com/ncs1/finrb) - Ruby gem for financial calculations/modeling.
 
 ## Music and Sound
 
