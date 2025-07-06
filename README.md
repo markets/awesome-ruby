@@ -742,6 +742,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [Gem in a box](https://github.com/geminabox/geminabox) - Really simple rubygem hosting.
 * [Gemirro](https://github.com/PierreRambaud/gemirro) - Gem to automatically make a rubygems mirror.
 * [Gemstash](https://github.com/rubygems/gemstash) - A RubyGems.org cache and private gem server.
+* [RepoFlow](https://www.repoflow.io) - A simple and easy to use package management platform with RubyGems support alongside other formats like PyPI, Maven, npm, Docker, and Helm. Includes smart search, permission control, and works great in both self-hosted and cloud environments.
 
 ## Geolocation
 
