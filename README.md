@@ -568,6 +568,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Sunzi](https://github.com/kenn/sunzi) - Server provisioning utility for minimalists
 * [Ruby-LXC](https://github.com/lxc/ruby-lxc) - Native ruby binding for Linux containers.
 * [Vagrant](http://www.vagrantup.com) - Create and configure lightweight, reproducible, and portable development environments.
+* [CloudRay](https://cloudray.io) - Centralised platform for managing servers, organizing Bash scripts, and automating infrastructure tasks across cloud and virtual machines.
 
 ## Diff
 
