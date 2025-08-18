@@ -522,6 +522,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [groupdate](https://github.com/ankane/groupdate) - The simplest way to group temporal data in ActiveRecord, arrays and hashes.
 * [holidays](https://github.com/holidays/holidays) - A collection of Ruby methods to deal with statutory and other holidays.
 * [ice_cube](https://github.com/seejohnrun/ice_cube) - A date recurrence library which allows easy creation of recurrence rules and fast querying.
+* [Jekyll-Timeago](https://github.com/markets/jekyll-timeago) - A Ruby library to compute distance of dates in words, with localization support, alternative styles, CLI and Jekyll support.
 * [local_time](https://github.com/basecamp/local_time) - Rails Engine for cache-friendly, client-side local time.
 * [montrose](https://github.com/rossta/montrose) - a simple library for expressing, serializing, and enumerating recurring events in Ruby.
 * [stamp](https://github.com/jeremyw/stamp) - Format dates and times based on human-friendly examples, not arcane strftime directives.
