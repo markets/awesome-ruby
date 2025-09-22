@@ -634,6 +634,7 @@ Where to discover new Ruby libraries, projects and trends.
 ## Email
 
 * [Ahoy Email](https://github.com/ankane/ahoy_email) - Analytics and tracking for e-mails.
+* [ChainMail](https://github.com/taltas/chain_mail) - Transactional emails through multiple providers with automatic failover ensuring your messages get delivered even if one service fails
 * [Gibbon](https://github.com/amro/gibbon) - API wrapper for the Mailchimp e-mail marketing platform.
 * [Griddler](https://github.com/thoughtbot/griddler) - Simplify receiving email in Rails.
 * [Incoming](https://github.com/honeybadger-io/incoming) - Incoming! helps you receive email in your Rack apps.
