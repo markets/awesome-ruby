@@ -40,6 +40,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Authorization](#authorization)
 * [Automation](#automation)
 * [Breadcrumbs](#breadcrumbs)
+* [Boilerplates & UI Kits](#boilerplates-&-ui-kits)
 * [Business logic](#business-logic)
 * [Caching](#caching)
 * [Captchas and anti-spam](#captchas-and-anti-spam)
@@ -246,6 +247,13 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Gretel](https://github.com/lassebunk/gretel) - A Ruby on Rails plugin that makes it easy yet flexible to create breadcrumbs.
 * [loaf](https://github.com/peter-murach/loaf) - Manages and displays breadcrumb trails in Rails app - lean & mean.
 * [Simple Navigation](https://github.com/codeplant/simple-navigation) - A ruby gem for creating navigation (html list, link list or breadcrumbs with multiple levels) for your Rails 2, 3 & 4, Sinatra or Padrino.
+
+## Boilerplates & UI Kits
+
+* [Jumpstart](https://jumpstartrails.com/) - The Ruby on Rails SaaS template to save you months of development time.
+* [Rails Blocks](https://railsblocks.com) - Delightful UI components for your Rails app that use Tailwind CSS & Stimulus controllers.
+* [Speedrail](https://github.com/ryanckulp/speedrail) - A free Rails 8 app template: Devise auth, Stripe billing, Tailwind CSS, admin panel, SEO helpers, etc.
+* [Wheel](https://github.com/bigbinary/wheel) - Rails application template to build Rails applications faster.
 
 ## Business logic
 
@@ -1204,6 +1212,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [Sunspot](https://github.com/sunspot/sunspot) - A Ruby library for expressive, powerful interaction with the Solr search engine.
 * [textacular](https://github.com/textacular/textacular) - Exposes full text search capabilities from PostgreSQL, and allows you to declare full text indexes. Textacular extends ActiveRecord with named_scope methods making searching easy and fun!
 * [Thinking Sphinx](https://github.com/pat/thinking-sphinx) - A library for connecting ActiveRecord to the Sphinx full-text search tool.
+* [typesense-ruby](https://github.com/typesense/typesense-ruby) - Ruby client for Typesense, a fast, typo-tolerant search engine.
 
 ## Security
 
