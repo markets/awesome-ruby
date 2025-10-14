@@ -40,7 +40,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Authorization](#authorization)
 * [Automation](#automation)
 * [Breadcrumbs](#breadcrumbs)
-* [Boilerplates & UI Kits](#boilerplates-&-ui-kits)
+* [Boilerplates & UI Kits](#boilerplates--ui-kits)
 * [Business logic](#business-logic)
 * [Caching](#caching)
 * [Captchas and anti-spam](#captchas-and-anti-spam)
