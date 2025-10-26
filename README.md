@@ -956,6 +956,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [fast_underscore](https://github.com/kddeisz/fast_underscore) - Provides a C-optimized method for transforming a string from any capitalization into underscore-separated
 * [pluck_in_batches](https://github.com/fatkodima/pluck_in_batches) - A faster alternative to the custom use of `in_batches` with `pluck`.
 * [yajl-ruby](https://github.com/brianmario/yajl-ruby) - A streaming JSON parsing and encoding library for Ruby (C bindings to yajl).
+* [random-rails](https://github.com/the-rubies-way/random-rails) - The fastest solution for retrieving random ActiveRecord records, compatible with PostgreSQL, MySQL, and SQLite.
 
 ## ORM/ODM
 
