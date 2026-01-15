@@ -473,6 +473,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Kiba](http://www.kiba-etl.org) - A lightweight data processing / ETL framework for Ruby.
 * [Multiwoven](https://github.com/Multiwoven/multiwoven) - The open-source reverse ETL, data activation platform developed using Ruby and Ruby on Rails.
 * [ruby-stemmer](https://github.com/aurelian/ruby-stemmer) - It Provides Snowball algorithm for stemming purposes.
+* [ruby-reactor](https://github.com/arturictus/ruby_reactor) - Ruby Reactor implements the Saga pattern with compensation-based error handling and DAG-based execution planning. It supports async execution via Sidekiq and persistence via Redis.
 
 ## Data Visualization
 
@@ -1127,6 +1128,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [SidekiqIteration](https://github.com/fatkodima/sidekiq-iteration) - A Sidekiq extension to make long-running jobs interruptible and resumable.
 * [Sneakers](https://github.com/jondot/sneakers) - A fast background processing framework for Ruby and RabbitMQ.
 * [Sucker Punch](https://github.com/brandonhilkert/sucker_punch) - A single process background processing library using Celluloid. Aimed to be Sidekiq's little brother.
+* [ruby-reactor](https://github.com/arturictus/ruby_reactor) - Ruby Reactor implements the Saga pattern with compensation-based error handling and DAG-based execution planning. It supports async execution via Sidekiq and persistence via Redis.
 
 ## Rails Application Generators
 
