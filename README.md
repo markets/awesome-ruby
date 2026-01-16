@@ -847,6 +847,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [i18n](https://github.com/svenfuchs/i18n) - Ruby Internationalization and localization solution.
 * [mini_i18n](https://github.com/markets/mini_i18n) - Minimalistic, flexible and fast Internationalization library. It supports localization, interpolations, pluralization, fallbacks, nested keys and more.
 * [rails-i18n](https://github.com/svenfuchs/rails-i18n) - Repository for collecting Locale data for Rails I18n as well as other interesting, Rails related I18n stuff.
+* [rails-i18n-manager](https://github.com/westonganger/rails_i18n_manager) - Web interface to manage i18n translations helping to facilitate the editors of your translations. 
 * [r18n](https://github.com/ai/r18n) - Advanced i18n library for Rails, Sinatra, desktop apps, models, works well with complex languages like Russian.
 * [Termit](https://github.com/pawurb/termit) - Translations with speech synthesis in your terminal.
 * [Tolk](https://github.com/tolk/tolk) - A web interface for doing i18n translations packaged as a Rails engine.
