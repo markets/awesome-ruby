@@ -1057,6 +1057,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [HexaPDF](https://github.com/gettalong/hexapdf) - A Versatile PDF Creation and Manipulation Library For Ruby.
 * [InvoicePrinter](https://github.com/strzibny/invoice_printer) - Super simple PDF invoicing in Ruby (built on top of Prawn).
 * [Kitabu](https://github.com/fnando/kitabu) - A framework for creating e-books from Markdown/Textile text markup using Ruby.
+* [Kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - Document intelligence library with native Ruby bindings via Magnus, extracting text, tables and metadata from 62+ formats including PDF, Office, images with OCR, HTML, email and archives.
 * [Pdfkit](https://github.com/pdfkit/pdfkit) - HTML+CSS to PDF using wkhtmltopdf.
 * [Prawn](https://github.com/prawnpdf/prawn) - Fast, Nimble PDF Writer for Ruby.
 * [RGhost](https://github.com/shairontoledo/rghost) - RGhost is a document creation and conversion API.
