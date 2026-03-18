@@ -476,7 +476,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Multiwoven](https://github.com/Multiwoven/multiwoven) - The open-source reverse ETL, data activation platform developed using Ruby and Ruby on Rails.
 * [ruby-stemmer](https://github.com/aurelian/ruby-stemmer) - It Provides Snowball algorithm for stemming purposes.
 
-
 ## Data Visualization
 
 * [Chartkick](http://chartkick.com/) - Create beautiful Javascript charts with one line of Ruby.
