@@ -820,6 +820,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [Sawyer](https://github.com/lostisland/sawyer) - Secret user agent of HTTP, built on top of Faraday.
 * [Sniffer](https://github.com/aderyabin/sniffer) – Tool to log and debug outgoing HTTP requests across multiple ruby libraries.
 * [Typhoeus](https://github.com/typhoeus/typhoeus) - Typhoeus wraps libcurl in order to make fast and reliable requests.
+* [wreq](https://github.com/SearchApi/wreq-ruby) - An HTTP client with real browser TLS/HTTP2 fingerprinting, emulating Chrome, Firefox, Safari, Edge, and Opera signatures via BoringSSL.
 
 ## Image Processing
 
