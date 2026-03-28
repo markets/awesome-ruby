@@ -1224,6 +1224,7 @@ Where to discover new Ruby libraries, projects and trends.
 
 * [BeEF](http://beefproject.com) - BeEF is short for The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser.
 * [bundler-audit](https://github.com/rubysec/bundler-audit) - Patch-level security verification for Bundler.
+* [ReleaseRun Gemfile Health](https://releaserun.com/tools/gemfile-health/) - Browser-based Gemfile dependency health checker. Scan your Gemfile.lock for EOL gems, known CVEs, and outdated packages — no install required.
 * [Fingerprinter](https://github.com/erwanlr/Fingerprinter) - CMS/LMS/Library etc versions fingerprinter.
 * [haiti](https://github.com/noraj/haiti) - Hash type identifier (CLI & lib).
 * [Metasploit](https://github.com/rapid7/metasploit-framework) - World's most used penetration testing software.
