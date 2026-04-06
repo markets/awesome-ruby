@@ -241,6 +241,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Huginn](https://github.com/cantino/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
 * [Neovim](https://github.com/alexgenco/neovim-ruby) - Ruby bindings for Neovim to make your own neovim editor plugins in Ruby.
 * [Runbook](https://github.com/braintree/runbook) - A framework and Ruby DSL for progressive system automation.
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Ruby development workflow orchestration, automated code review, and multi-agent task coordination. MIT licensed.
 
 ## Breadcrumbs
 
