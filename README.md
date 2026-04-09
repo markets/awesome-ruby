@@ -523,6 +523,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Strong Migrations](https://github.com/ankane/strong_migrations) - Catch unsafe migrations in development.
 * [Upsert](https://github.com/seamusabshere/upsert) - Upsert on MySQL, PostgreSQL, and SQLite3. Transparently creates functions (UDF) for MySQL and PostgreSQL; on SQLite3, uses INSERT OR IGNORE.
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=markets_awesome-ruby) - Follow developers on GitHub and get a feed of what they star and build.
 ## Date and Time Processing
 
 * [biz](https://github.com/zendesk/biz) - Time calculations using business hours.
