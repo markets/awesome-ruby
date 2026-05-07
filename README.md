@@ -196,6 +196,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Autoprefixer](https://github.com/ai/autoprefixer-rails) - Parse CSS and add vendor prefixes to rules by Can I Use.
 * [Bourbon](https://github.com/thoughtbot/bourbon) - A Lightweight Sass Tool Set.
 * [bower-rails](https://github.com/rharriso/bower-rails) - Bower support for Rails projects.
+* [Bundlebun](https://github.com/yaroslav/bundlebun) - bundles Bun, the all-in-one JavaScript runtime, package manager, and build tool, directly into your Ruby gem bundle.
 * [Emoji](https://github.com/wpeterson/emoji) - Exposes the Phantom Open Emoji library unicode/image assets and APIs for working with them.
 * [Less Rails](https://github.com/metaskills/less-rails) - The dynamic stylesheet language for the Rails asset pipeline.
 * [Rails Assets](https://rails-assets.org) - Bundler to Bower proxy.
