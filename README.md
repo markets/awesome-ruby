@@ -112,6 +112,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Pagination](#pagination)
 * [PDF](#pdf)
 * [Performance Monitoring](#performance-monitoring)
+- [Sidekiq](https://github.com/sidekiq/sidekiq) - Simple, efficient background processing for Ruby.
 * [Presentation Programs](#presentation-programs)
 * [Process Management and Monitoring](#process-management-and-monitoring)
 * [Processes](#processes)
