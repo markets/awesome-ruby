@@ -910,6 +910,7 @@ Where to discover new Ruby libraries, projects and trends.
 
 * [dryrun](https://github.com/cesarferreira/dryrun) - Try any Android library on your smartphone directly from the command line.
 * [fastlane](https://github.com/fastlane/fastlane) - Connect all iOS deployment tools into one streamlined workflow.
+* [fastlane-plugin-pgyer](https://github.com/PGYER/fastlane-plugin-pgyer) - Distribute iOS, Android and HarmonyOS apps to PGYER beta testing service from your Fastlane lane.
 * [PubNub](https://github.com/pubnub/ruby) - Real-time Push Service in the Cloud.
 * [Ruboto](https://github.com/ruboto/ruboto) - A platform for developing full stand-alone apps for Android using the Ruby language and libraries.
 * [RubyMotion](http://www.rubymotion.com) - A revolutionary toolchain that lets you quickly develop and test full-fledged native iOS and OS X applications for iPhone, iPad, Mac and Android.
