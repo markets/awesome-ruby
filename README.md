@@ -443,6 +443,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Carmen](https://github.com/jim/carmen) - A repository of geographic regions.
 * [Countries](https://github.com/hexorx/countries) - All sorts of useful information about every country packaged as pretty little country objects.
+* [eu-vat-rates-data](https://github.com/vatnode/eu-vat-rates-data) - EU VAT rates for 44 European countries (standard, reduced, super-reduced, parking), auto-synced daily from the European Commission's TEDB.
 * [i18n_data](https://github.com/grosser/i18n_data) - country/language names and 2-letter-code pairs, in 85 languages, for country/language i18n.
 * [normalize_country](https://github.com/sshaw/normalize_country) - Convert country names and codes to a standard, includes a conversion program for XMLs, CSVs and DBs.
 * [Phonelib](https://github.com/daddyz/phonelib) - Ruby gem for phone validation and formatting using Google libphonenumber library data.
