@@ -866,6 +866,7 @@ Where to discover new Ruby libraries, projects and trends.
 
 ## Logging
 
+* [Ezlogs](https://github.com/dezsirazvan/ez_logs_agent) - Plain-English activity logs from HTTP, jobs, and DB callbacks — readable by non-developers.
 * [Fluentd](https://github.com/fluent/fluentd) - Fluentd collects events from various data sources and writes them to files, database or other types of storages.
 * [HttpLog](https://github.com/trusche/httplog) - Log outgoing HTTP requests.
 * [Log4r](https://github.com/colbygk/log4r) - Log4r is a comprehensive and flexible logging library for use in Ruby programs.
