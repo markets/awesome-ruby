@@ -29,6 +29,15 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
     </div>
   </a>
   <br>
+  <a href="github.com/Doloffer-g/guide">
+    <div>
+      <img src="https://raw.githubusercontent.com/markets/awesome-ruby/master/media/sponsors/doloffer.png" width="120" alt="DolOffer">
+    </div>
+    <div>
+      Discounted GPT & Claude membership top-ups, genuine subscriptions, worry-free after-sales support.<br>
+      10% off coupon code available: AI8888.
+    </div>
+  </a>
   <hr>
 </div>
 
