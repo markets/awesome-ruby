@@ -29,7 +29,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
     </div>
   </a>
   <br>
-  <a href="github.com/Doloffer-g/guide">
+  <a href="https://github.com/Doloffer-g/guide">
     <div>
       <img src="https://raw.githubusercontent.com/markets/awesome-ruby/master/media/sponsors/doloffer.png" width="120" alt="DolOffer">
     </div>
