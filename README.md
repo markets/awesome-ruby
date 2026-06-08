@@ -469,6 +469,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Ciri](https://github.com/ciri-ethereum/ciri) - Ruby implementation of Ethereum.
 * [MoneyTree](https://github.com/GemHQ/money-tree) - A Ruby implementation of Bitcoin HD Wallets (Hierarchical Deterministic) BIP32.
 * [Peatio](https://github.com/rubykube/peatio) - Most Advanced Cryptocurrency open-source assets exchange.
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP server for AI agents on Solana. Verify agent wallet identity before x402 micropayments.
 
 ## Dashboards
 
