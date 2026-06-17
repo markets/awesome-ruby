@@ -27,7 +27,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
       Better Stack lets you see inside any stack,<br>
       debug any issue, and resolve any incident.
     </div>
-  </a>
+  </a><br>
   <a href="https://www.atlascloud.ai/?utm_source=github&utm_medium=link&utm_campaign=awesoe-roby">
     <div>
       <img src="https://raw.githubusercontent.com/markets/awesome-ruby/master/media/sponsors/atlascloud.png" width="200" alt="Atlas Cloud">
