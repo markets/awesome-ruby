@@ -28,6 +28,14 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
       debug any issue, and resolve any incident.
     </div>
   </a>
+  <a href="https://www.atlascloud.ai/?utm_source=github&utm_medium=link&utm_campaign=awesoe-roby">
+    <div>
+      <img src="https://raw.githubusercontent.com/markets/awesome-ruby/master/media/sponsors/atlascloud.png" width="200" alt="Atlas Cloud">
+    </div>
+    <div>
+      Atlas Cloud is a full-modal AI inference platform that gives developers a single AI API to access video generation, image generation, and LLM APIs. Instead of managing multiple vendor integrations, you connect once and get unified access to 300+ curated models across all modalities.
+    </div>
+  </a>
   <br>
   <hr>
 </div>
