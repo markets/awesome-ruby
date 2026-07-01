@@ -674,7 +674,6 @@ Where to discover new Ruby libraries, projects and trends.
 * [Braintree](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
 * [Conekta](https://github.com/conekta/conekta-ruby) - Conekta Ruby bindings.
 * [credit_card_validations](https://github.com/didww/credit_card_validations) - A ruby gem for validating credit card numbers, generating valid numbers, Luhn checks.
-* [Paypal Merchant SDK](https://github.com/paypal/merchant-sdk-ruby) - Official Paypal Merchant SDK for Ruby.
 * [ROR Ecommerce](https://github.com/drhenner/ror_ecommerce) - A Rails e-commerce platform.
 * [Solidus](https://github.com/solidusio/solidus) - An open source, eCommerce application for high volume retailers.
 * [Spree](https://github.com/spree/spree) - Spree is a complete open source e-commerce solution for Ruby on Rails.
@@ -1083,7 +1082,6 @@ Where to discover new Ruby libraries, projects and trends.
   * [Berkshelf](https://github.com/berkshelf/berkshelf) - A Chef Cookbook manager.
   * [CocoaPods](https://github.com/CocoaPods/CocoaPods) - The Objective-C dependency manager.
   * [fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
-  * [Linuxbrew](https://github.com/Homebrew/linuxbrew-core) - A fork of Homebrew for Linux.
   * [Homebrew-cask](https://github.com/Homebrew/homebrew-cask) - A CLI workflow for the administration of Mac applications distributed as binaries.
   * [Homebrew](https://github.com/Homebrew/brew) - The missing package manager for OS X.
   * [Traveling Ruby](https://foobarwidget.github.io/traveling-ruby/) - Traveling Ruby lets you create self-contained Ruby app packages for Linux and OS X.
@@ -1400,7 +1398,6 @@ Online tools, services and APIs to simplify development.
   * [mutant](https://github.com/mbj/mutant) - Mutant is a mutation testing tool for Ruby.
   * [Parallel Tests](https://github.com/grosser/parallel_tests) - Speedup Test::Unit + RSpec + Cucumber by running parallel on multiple CPUs (or cores).
   * [power_assert](https://github.com/k-tsj/power_assert) - Power Assert for Ruby.
-  * [Ruby-JMeter](https://github.com/flood-io/ruby-jmeter) - A Ruby based DSL for building JMeter test plans.
   * [rspec-tracer](https://github.com/avmnu-sng/rspec-tracer) - Specs dependency analyzer, flaky tests detector, tests accelerator, and coverage reporter for RSpec
   * [Spring](https://github.com/rails/spring) - Preloads your rails environment in the background for faster testing and Rake tasks.
   * [timecop](https://github.com/travisjeffery/timecop) - Provides "time travel" and "time freezing" capabilities, making it dead simple to test time-dependent code.
