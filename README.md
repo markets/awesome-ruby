@@ -152,6 +152,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Template Engine](#template-engine)
 * [Testing](#testing)
 * [Third-party APIs](#third-party-apis)
+* [Type Signatures and Type Checking](#type-signatures-and-type-checking)
 * [Video](#video)
 * [View components](#view-components)
 * [View helpers](#view-helpers)
@@ -377,7 +378,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Rubycritic](https://github.com/whitesmith/rubycritic) - A Ruby code quality reporter.
 * [Scientist](https://github.com/github/scientist) - A Ruby library for carefully refactoring critical paths.
 * [SimpleCov](https://github.com/colszowka/simplecov) - Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites.
-* [Sorbet](https://github.com/sorbet/sorbet) - A static type checker for Ruby.
 * [Suture](https://github.com/testdouble/suture) - A Ruby gem that helps you refactor your legacy code.
 * [Traceroute](https://github.com/amatsuda/traceroute) - A Rake task gem that helps you find the dead routes and actions for your Rails 3+ app
 
@@ -1418,6 +1418,20 @@ Online tools, services and APIs to simplify development.
 * [whatsapp-sdk](https://github.com/ignacio-chiazzo/ruby_whatsapp_sdk) - Ruby client for the Whatsapp API.
 * [wikipedia](https://github.com/kenpratt/wikipedia-client) - Ruby client for the Wikipedia API.
 * [Yt](https://github.com/Fullscreen/yt) - An object-oriented Ruby client for YouTube API V3.
+
+## Type Signatures and Type Checking
+
+* [RBS](https://github.com/ruby/rbs) - The official language for describing the structure of Ruby programs. Ships with Ruby and powers type checkers like Steep.
+* [rbs-inline](https://github.com/soutaro/rbs-inline) - Write RBS type signatures inline in Ruby source code as comments.
+* [Sorbet](https://github.com/sorbet/sorbet) - A static type checker for Ruby.
+* [Sord](https://github.com/AaronC81/sord) - Generate RBS and RBI type signatures from YARD documentation.
+* [Spoom](https://github.com/Shopify/spoom) - A toolset for using Sorbet in Ruby projects, including strictness management, dead code detection, and more.
+* [Steep](https://github.com/soutaro/steep) - A gradual type checker for Ruby using RBS type signatures.
+* [Tapioca](https://github.com/Shopify/tapioca) - The swiss army knife of RBI generation for Sorbet, generating type definitions for gems, DSLs, and more.
+* [Typeprof](https://github.com/ruby/typeprof) - A type analysis tool for Ruby that generates RBS type signatures from code.
+* Runtime Typing
+  * [dry-types](https://github.com/dry-rb/dry-types) - A simple and extendable type system for Ruby with constraints, coercion, and default values.
+  * [Literal](https://github.com/yippee-fun/literal) - Runtime type checking for Ruby with typed properties, structs, data, and enums.
 
 ## Video
 
