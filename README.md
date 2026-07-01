@@ -50,6 +50,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 </div>
 
 * [Admin Interface](#admin-interface)
+* [AI and LLMs](#ai-and-llms)
 * [Analytics](#analytics)
 * [API Builder and Discovery](#api-builder-and-discovery)
 * [Assets](#assets)
@@ -174,6 +175,16 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [MotorAdmin](https://github.com/motor-admin/motor-admin-rails) - A low-code Admin panel and Business Intelligence Rails engine. No DSL - configurable from the UI.
 * [RailsAdmin](https://github.com/sferik/rails_admin) - A Rails engine that provides an easy-to-use interface for managing your data.
 * [Trestle](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Rails. Build a back-end in minutes that will grow with the needs of your application.
+
+## AI and LLMs
+
+* [anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) - The official Ruby SDK for the Anthropic API, for building applications with Claude.
+* [langchain.rb](https://github.com/patterns-ai-core/langchainrb) - Library for building LLM-powered applications in Ruby.
+* [openai-ruby](https://github.com/openai/openai-ruby) - The official Ruby SDK for the OpenAI API.
+* [RubyLLM](https://github.com/crmne/ruby_llm) - A delightful Ruby way to work with AI, providing one unified interface to OpenAI, Anthropic, Gemini, and other LLM providers.
+* [ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
+* Model Context Protocol (MCP)
+  * [ruby-sdk](https://github.com/modelcontextprotocol/ruby-sdk) - The official Ruby SDK for the Model Context Protocol (MCP), for building MCP servers and clients.
 
 ## Analytics
 
@@ -918,13 +929,10 @@ Where to discover new Ruby libraries, projects and trends.
 
 * [AI4R](https://github.com/sergiofierens/ai4r) - Algorithms covering several Artificial intelligence fields.
 * [Awesome Machine Learning with Ruby](https://github.com/arbox/machine-learning-with-ruby) - A Curated List of Ruby Machine Learning Links and Resources.
-* [langchain.rb](https://github.com/patterns-ai-core/langchainrb) - Library for building LLM-powered applications in Ruby.
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Ruby code with zero dependencies.
 * [PredictionIO Ruby SDK](https://github.com/PredictionIO/PredictionIO-Ruby-SDK) - The PredictionIO Ruby SDK provides a convenient API to quickly record your users' behavior and retrieve personalized predictions for them.
 * [rb-libsvm](https://github.com/febeling/rb-libsvm) - Ruby language bindings for LIBSVM. SVM is a machine learning and classification algorithm.
 * [ruby-fann](https://github.com/tangledpath/ruby-fann) - Ruby library for interfacing with FANN (Fast Artificial Neural Network).
-* [RubyLLM](https://github.com/crmne/ruby_llm) - A delightful Ruby way to work with AI, providing one unified interface to OpenAI, Anthropic, Gemini, and other LLM providers.
-* [ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
 * [rumale](https://github.com/yoshoku/rumale) - A machine learning library with interfaces similar to Scikit-Learn.
 * [TensorFlow](https://github.com/ankane/tensorflow) - The end-to-end machine learning platform for Ruby.
 * [Torch.rb](https://github.com/ankane/torch.rb) - Deep learning for Ruby, powered by LibTorch.
