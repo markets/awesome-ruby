@@ -911,6 +911,7 @@ Where to discover new Ruby libraries, projects and trends.
 
 ## Markdown Processors
 
+* [html-to-markdown](https://github.com/xberg-io/html-to-markdown) - Fast, CommonMark-compliant HTML to Markdown converter (Ruby binding over a Rust core).
 * [kramdown](https://github.com/gettalong/kramdown) - Kramdown is yet-another-markdown-parser but fast, pure Ruby, using a strict syntax definition and supporting several common extensions.
 * [markdown_helper](https://github.com/BurdetteLamar/markdown_helper#markdown-helper) - A markdown pre-processor implementing file inclusion and page TOC (table of contents).
 * [Maruku](https://github.com/bhollis/maruku) - A pure-Ruby Markdown-superset interpreter.
