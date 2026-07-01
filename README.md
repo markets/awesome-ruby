@@ -674,6 +674,8 @@ Where to discover new Ruby libraries, projects and trends.
 * [Braintree](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
 * [Conekta](https://github.com/conekta/conekta-ruby) - Conekta Ruby bindings.
 * [credit_card_validations](https://github.com/didww/credit_card_validations) - A ruby gem for validating credit card numbers, generating valid numbers, Luhn checks.
+* [Pay](https://github.com/pay-rails/pay) - A payments engine for Rails, supporting Stripe, Braintree, Paddle, and Lemon Squeezy.
+* [PayPal Server SDK](https://github.com/paypal/PayPal-Ruby-Server-SDK) - PayPal's official Ruby SDK for the PayPal Server APIs (Orders and Payments).
 * [ROR Ecommerce](https://github.com/drhenner/ror_ecommerce) - A Rails e-commerce platform.
 * [Solidus](https://github.com/solidusio/solidus) - An open source, eCommerce application for high volume retailers.
 * [Spree](https://github.com/spree/spree) - Spree is a complete open source e-commerce solution for Ruby on Rails.
