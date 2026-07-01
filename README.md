@@ -826,7 +826,7 @@ Where to discover new Ruby libraries, projects and trends.
 ## GraphQL
 
 * [graphql-batch](https://github.com/Shopify/graphql-batch) – A query batching executor.
-* [graphql-client](https://github.com/github/graphql-client) - A library for declaring, composing and executing GraphQL queries.
+* [graphql-client](https://github.com/github-community-projects/graphql-client) - A library for declaring, composing and executing GraphQL queries.
 * [graphql-guard](https://github.com/exAspArk/graphql-guard) - A simple field-level authorization.
 * [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL.
 
