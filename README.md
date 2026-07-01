@@ -84,6 +84,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Date and Time Processing](#date-and-time-processing)
 * [Debugging Tools](#debugging-tools)
 * [Decorators](#decorators)
+* [Developer Tooling](#developer-tooling)
 * [DevOps Tools](#devops-tools)
 * [Diff](#diff)
 * [Discover](#discover)
@@ -578,6 +579,22 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Decent Exposure](https://github.com/hashrocket/decent_exposure) - A helper for creating declarative interfaces in controllers.
 * [Responders](https://github.com/heartcombo/responders) - A set of Rails responders to dry up your application.
 * [ShowFor](https://github.com/heartcombo/show_for) - Quickly show a model information with I18n features. Like form_for for displaying model data.
+
+## Developer Tooling
+
+* Language Servers
+  * [Fuzzy Ruby Server](https://github.com/doompling/fuzzy_ruby_server) - A Ruby language server offering fuzzy search-based definitions, references, and completions.
+  * [Ruby LSP](https://github.com/Shopify/ruby-lsp) - An opinionated language server for Ruby with support for pull diagnostics, formatting, and more.
+  * [Solargraph](https://github.com/castwide/solargraph) - A Ruby language server providing IntelliSense, code completion, and inline documentation.
+* Editor Extensions
+  * [Ruby LSP (VS Code)](https://marketplace.visualstudio.com/items?itemName=Shopify.ruby-lsp) - VS Code extension providing a rich Ruby development experience powered by Ruby LSP.
+  * [VSCode RuboCop](https://github.com/rubocop/vscode-rubocop) - VS Code extension for RuboCop with autocorrection and lint support.
+  * [VSCode Standard](https://github.com/standard/vscode-standard) - VS Code extension for StandardRB.
+  * [VSCode rdbg Ruby Debugger](https://marketplace.visualstudio.com/items?itemName=KoichiSasada.vscode-rdbg) - VS Code extension for the debug gem with DAP support.
+* Developer Experience
+  * [debug](https://github.com/ruby/debug) - The official Ruby debugger with Debug Adapter Protocol (DAP) support.
+  * [ruby-lsp-rails](https://github.com/Shopify/ruby-lsp-rails) - A Ruby LSP addon for Rails that provides route, model, and association support.
+  * [ruby-lsp-rspec](https://github.com/st0012/ruby-lsp-rspec) - A Ruby LSP addon that provides enhanced RSpec support, including code lens for running and debugging tests.
 
 ## DevOps Tools
 
