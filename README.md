@@ -1443,6 +1443,7 @@ Online tools, services and APIs to simplify development.
 
 ## Web Crawling
 
+* [crawlberg](https://github.com/xberg-io/crawlberg) - High-performance web crawling and scraping engine (Ruby binding over a Rust core) with HTML-to-Markdown conversion and a headless-Chrome fallback.
 * [LinkThumbnailer](https://github.com/gottfrois/link_thumbnailer) - Ruby gem that generates thumbnail images and videos from a given URL. Much like popular social website with link preview.
 * [Kimurai](https://github.com/vifreefly/kimuraframework) - A modern web scraping framework written in Ruby which works out of box with Headless Chromium/Firefox, PhantomJS, or simple HTTP requests and allows to scrape and interact with JavaScript rendered websites.
 * [Mechanize](https://github.com/sparklemotion/mechanize) - Mechanize is a ruby library that makes automated web interaction easy.
