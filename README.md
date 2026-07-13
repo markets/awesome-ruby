@@ -219,7 +219,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Roar](https://github.com/trailblazer/roar) - Resource-Oriented Architectures in Ruby.
 * [Spyke](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
 * [Version Cake](https://github.com/bwillis/versioncake) - An unobtrusive way to version APIs in your Rails app.
-* [versionist](https://github.com/bploetz/versionist) - A plugin for versioning Rails based RESTful APIs.
 
 ## Assets
 
@@ -967,7 +966,6 @@ Where to discover new Ruby libraries, projects and trends.
 * [pocketsphinx-ruby](https://github.com/watsonbox/pocketsphinx-ruby) - Ruby speech recognition with Pocketsphinx.
 * [Pragmatic Segmenter](https://github.com/diasks2/pragmatic_segmenter) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.
 * [Ruby Natural Language Processing Resources](https://github.com/diasks2/ruby-nlp) - Collection of links to Ruby Natural Language Processing (NLP) libraries, tools and software.
-* [ruby-spellchecker](https://github.com/omohokcoj/ruby-spellchecker) - English spelling and grammar checker that can be used for autocorrection.
 * [Sentimental](https://github.com/7compass/sentimental) - Simple sentiment analysis with Ruby.
 * [Text](https://github.com/threedaymonk/text) - A collection of text algorithms including Levenshtein distance, Metaphone, Soundex 2, Porter stemming & White similarity.
 * [Textstat](https://github.com/kupolak/textstat) - Ruby gem for text readability analysis. Calculate readability statistics using 13 proven formulas (Flesch, SMOG, Coleman-Liau, etc.) with support for 22 languages.
@@ -1344,7 +1342,6 @@ Online tools, services and APIs to simplify development.
     * Formatters
       * [Emoji-RSpec](https://github.com/cupakromer/emoji-rspec) - Custom Emoji Formatters for RSpec.
       * [Fuubar](https://github.com/thekompanee/fuubar) - The instafailing RSpec progress bar formatter.
-      * [Nyan Cat](https://github.com/mattsears/nyan-cat-formatter) - Nyan Cat inspired RSpec formatter!
   * [Aruba](https://github.com/cucumber/aruba) - Testing command line applications with cucumber and rspec.
   * [Bacon](https://github.com/leahneukirchen/bacon) - A small RSpec clone.
   * [Capybara](https://github.com/teamcapybara/capybara) - Acceptance test framework for web applications.
