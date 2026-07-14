@@ -36,16 +36,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
       Atlas Cloud is a full-modal AI inference platform that gives developers a single AI API to access video generation, image generation, and LLM APIs. Instead of managing multiple vendor integrations, you connect once and get unified access to 300+ curated models across all modalities.
     </div>
   </a><br>
-  <a href="https://github.com/Doloffer-g/guide">
-    <div>
-      <img src="https://raw.githubusercontent.com/markets/awesome-ruby/master/media/sponsors/doloffer.png" width="120" alt="DolOffer">
-    </div>
-    <div>
-      Discounted GPT & Claude membership top-ups, genuine subscriptions, worry-free after-sales support.<br>
-      10% off coupon code available: AI8888.
-    </div>
-  </a>
-  <br>
   <hr>
 </div>
 
