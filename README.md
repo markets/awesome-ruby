@@ -720,6 +720,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [Honeybadger](https://www.honeybadger.io/) - Exception, uptime, and performance monitoring for Ruby.
 * [Nesty](https://github.com/skorks/nesty) - Nested exceptions for Ruby.
 * [Sentry Ruby](https://github.com/getsentry/sentry-ruby) - The Ruby client for Sentry.
+* [Stoplight](https://github.com/bolshakov/stoplight) - A circuit breaker implementation for Ruby that prevents cascading failures when external dependencies (databases, APIs, third-party services) start failing.
 * [Rollbar](https://github.com/rollbar/rollbar-gem) - Easy and powerful exception and error tracking for your applications.
 
 ## Event Sourcing
