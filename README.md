@@ -1384,6 +1384,7 @@ Online tools, services and APIs to simplify development.
 ## Third-party APIs
 
 * [Ably](https://github.com/ably/ably-ruby) - Ruby library for realtime communication over Ably.
+* [ChatSDK](https://github.com/rootlyhq/chat-sdk) - Unified SDK for building chat bots across Slack, Teams, Google Chat, Discord, Telegram, Mattermost, Twilio, Messenger, and WhatsApp with a single API.
 * [discordrb](https://github.com/meew0/discordrb) - An implementation of the Discord API.
 * [Dropbox](https://github.com/Jesus/dropbox_api) - Ruby client for Dropbox API v2.
 * [fb_graph2](https://github.com/nov/fb_graph2) - A full-stack Facebook Graph API wrapper.
