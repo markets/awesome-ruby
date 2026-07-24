@@ -1180,6 +1180,7 @@ Where to discover new Ruby libraries, projects and trends.
 
 ## Scheduling
 
+* [every](https://github.com/Serhii-Leniv/every) - Humane launchd CLI for macOS: one-phrase schedules, run logs, failure notifications.
 * [minicron](https://github.com/jamesrwhite/minicron) - A system to manage and monitor cron jobs.
 * [que-scheduler](https://github.com/hlascelles/que-scheduler) - A lightweight cron scheduler for the async job worker Que.
 * [resque-scheduler](https://github.com/resque/resque-scheduler) - A light-weight job scheduling system built on top of Resque.
