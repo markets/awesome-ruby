@@ -687,6 +687,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [premailer-rails](https://github.com/fphilipe/premailer-rails) - CSS styled emails without the hassle.
 * [Roadie](https://github.com/Mange/roadie) - Roadie tries to make sending HTML emails a little less painful by inlining stylesheets and rewriting relative URLs for you inside your emails.
 * [Sup](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client.
+* [SuperSend TX](https://github.com/Super-Send/supersendtx-sdks/tree/main/ruby) - ActionMailer delivery method for SuperSend TX transactional email.
 * [Truemail](https://truemail-rb.org/truemail-gem) - Configurable framework agnostic plain Ruby email validator/verifier. Verify email via Regex, DNS and SMTP. Be sure that email address valid and exists.
 
 ## Encryption
