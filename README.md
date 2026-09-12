@@ -165,6 +165,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [openai-ruby](https://github.com/openai/openai-ruby) - The official Ruby SDK for the OpenAI API.
 * [RubyLLM](https://github.com/crmne/ruby_llm) - A delightful Ruby way to work with AI, providing one unified interface to OpenAI, Anthropic, Gemini, and other LLM providers.
 * [ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
+* [ruby-utcp](https://github.com/universal-tool-calling-protocol/ruby-utcp) - A Ruby implementation of the Universal Tool Calling Protocol (UTCP) for discovering, searching, and calling tools over their native protocols.
 * Model Context Protocol (MCP)
   * [ruby-sdk](https://github.com/modelcontextprotocol/ruby-sdk) - The official Ruby SDK for the Model Context Protocol (MCP), for building MCP servers and clients.
   * [tidewave](https://github.com/tidewave-ai/tidewave_rails) - MCP server for better agentic Rails development, runtime-level tools for your agent to talk to your running app.
