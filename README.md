@@ -342,12 +342,11 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Alchemy CMS](https://alchemy-cms.com) - A powerful, userfriendly and flexible Open Source Rails CMS.
 * [Avo CMS for Rails](https://avohq.io/ruby-on-rails-content-management-system) - Avo is a very custom Content Management System for Ruby on Rails that saves engineers and teams months of development time. It's designed to use your app's database structure, uses configuration instead of traditional methods, and when configuration isn't enough, it falls back to writing regular Rails code that you're used to.
 * [Camaleon CMS](http://camaleon.tuzitio.com/) - A dynamic and advanced content management system based on Ruby on Rails 4.
-* [ComfortableMexicanSofa](https://github.com/comfy/comfortable-mexican-sofa) - Powerful Rails 5.2+ CMS Engine.
+* [Comfy Middle Seat](https://github.com/avonderluft/comfy-middle-seat) - Powerful Rails 7.2+ CMS Engine, and the active successor to [ComfortableMexicanSofa](https://github.com/comfy/comfortable-mexican-sofa).
 * [Fae](https://github.com/wearefine/fae) - Flexible, open source, Rails CMS engine.
 * [MaglevCMS](https://www.maglev.dev) - An open source page builder with an sleek UI.
 * [LocomotiveCMS](https://www.locomotivecms.com) - A simple but powerful CMS based on Liquid templates and Mongodb database.
 * [Publify](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails.
-* [Radiant](http://radiantcms.org) - A no-fluff, open source content management system designed for small teams.
 * [Refinery CMS](https://www.refinerycms.com) - An open source Ruby on Rails content management system for Rails 5.2+.
 * [Sitepress](https://sitepress.cc/) - Manage content files in Rails with the same features you'd expect from static site generators like Jekyll, Middleman, and Bridgetown.
 * [Spina CMS](https://www.spinacms.com) - A beautiful CMS for Rails developers.
