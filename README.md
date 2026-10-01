@@ -53,6 +53,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Code Highlighting](#code-highlighting)
 * [Code Loaders](#code-loaders)
 * [Coding Style Guides](#coding-style-guides)
+* [Compression](#compression)
 * [Concurrency and Parallelism](#concurrency-and-parallelism)
 * [Configuration](#configuration)
 * [Core Extensions](#core-extensions)
@@ -400,6 +401,10 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Rails style guide](https://github.com/rubocop/rails-style-guide) - Community-driven Rails best practices and style for Rails 3 and 4.
 * [RSpec style guide](https://github.com/betterspecs/betterspecs) - Better Specs { rspec guidelines with ruby }.
 * [Ruby style guide](https://github.com/rubocop/ruby-style-guide) - Community-driven Ruby coding style.
+
+## Compression
+
+* [rubyzip](https://github.com/rubyzip/rubyzip) - A Ruby library for reading and writing zip files.
 
 ## Concurrency and Parallelism
 
