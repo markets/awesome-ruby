@@ -161,6 +161,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## AI and LLMs
 
 * [anthropic-sdk-ruby](https://github.com/anthropics/anthropic-sdk-ruby) - The official Ruby SDK for the Anthropic API, for building applications with Claude.
+* [claude-agent-sdk-ruby](https://github.com/ya-luotao/claude-agent-sdk-ruby) - Unofficial Ruby SDK for the Claude Agent runtime, for building AI agents with custom tools, hooks, and Rails integration.
 * [langchain.rb](https://github.com/patterns-ai-core/langchainrb) - Library for building LLM-powered applications in Ruby.
 * [openai-ruby](https://github.com/openai/openai-ruby) - The official Ruby SDK for the OpenAI API.
 * [RubyLLM](https://github.com/crmne/ruby_llm) - A delightful Ruby way to work with AI, providing one unified interface to OpenAI, Anthropic, Gemini, and other LLM providers.
