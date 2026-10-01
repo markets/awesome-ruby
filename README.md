@@ -815,6 +815,7 @@ Where to discover new Ruby libraries, projects and trends.
 
 * [HappyMapper](https://github.com/mvz/happymapper) - Object to XML mapping library, using Nokogiri.
 * [HTML::Pipeline](https://github.com/gjtorikian/html-pipeline) - HTML processing filters and utilities.
+* [Loofah](https://github.com/flavorjones/loofah) - A general library for manipulating and transforming HTML/XML documents and fragments, built on top of Nokogiri, with built-in HTML sanitizers.
 * [Nokogiri](https://nokogiri.org) - An HTML, XML, SAX, and Reader parser with XPath and CSS selector support.
 * [Nokolexbor](https://github.com/serpapi/nokolexbor) - High-performance HTML5 parser based on Lexbor, with support for both CSS selectors and XPath.
 * [Oga](https://gitlab.com/yorickpeterse/oga) - An XML/HTML parser written in Ruby. Oga does not require system libraries such as libxml, making it easier and faster to install on various platforms.
