@@ -377,6 +377,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [niceql](https://github.com/alekseyl/niceql) - A dependentless SQL and SQL errors formatting and colorizing. ActiveRecord seemless integration.
 * [prettier](https://github.com/prettier/plugin-ruby) - A prettier plugin for the Ruby language.
+* [rbcop](https://github.com/costajohnt/rbcop) - A drop-in replacement for RuboCop written in Rust, with identical output and about 14x faster runs in CI.
 * [RuboCop](https://github.com/rubocop/rubocop) - A static code analyzer, based on the community Ruby style guide.
   * [Rubocop Rails](https://github.com/rubocop/rubocop-rails) - A RuboCop extension focused on enforcing Rails best practices and coding conventions.
   * [Rubocop Rspec](https://github.com/rubocop/rubocop-rspec) - Code style checking for RSpec files
