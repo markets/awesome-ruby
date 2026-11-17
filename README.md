@@ -1371,6 +1371,7 @@ Online tools, services and APIs to simplify development.
   * [Appraisal](https://github.com/thoughtbot/appraisal) - Appraisal integrates with bundler and rake to test your library against different versions of dependencies.
   * [CQL](https://github.com/enkessler/cql) - CQL is a library for making queries against Cucumber style test suites.
   * [cuke_modeler](https://github.com/enkessler/cuke_modeler) - An modeling library for `.feature` files that is an abstration layer on top of the `gherkin` gem, providing a stable base upon which to build other Gherkin related tools.
+  * [evilution](https://github.com/marinazzio/evilution) - Free, MIT-licensed mutation testing for Ruby with RSpec, Minitest and Test::Unit support.
   * [gitarro](https://github.com/openSUSE/gitarro) - Run, retrigger, handle all type and OS-independent tests against your GitHub Pull Requests.
   * [Knapsack](https://github.com/KnapsackPro/knapsack) - Optimal test suite parallelisation across CI nodes for RSpec, Cucumber, Minitest, Spinach and Turnip.
   * [mutant](https://github.com/mbj/mutant) - Mutant is a mutation testing tool for Ruby.
