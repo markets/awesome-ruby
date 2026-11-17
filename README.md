@@ -1261,6 +1261,7 @@ Where to discover new Ruby libraries, projects and trends.
 Online tools, services and APIs to simplify development.
 
 * [AppSignal](https://appsignal.com) - Better monitoring for your Rails applications.
+* [Buddy](https://buddy.works) - Pipelines defined in YAML that test and deploy Ruby and Rails apps, with Ruby and Heroku actions.
 * [Codacy](https://www.codacy.com) - Automated Code Review for Ruby, Rails, JS, PHP, Python etc. Security, Coverage & Quality.
 * [CodeClimate](https://codeclimate.com) - Quality & security analysis for Ruby on Rails and Javascript.
 * [GitHub](https://github.com) - Powerful collaboration, code review, and code management for open source and private projects.
