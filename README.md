@@ -167,6 +167,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [RubyLLM](https://github.com/crmne/ruby_llm) - A delightful Ruby way to work with AI, providing one unified interface to OpenAI, Anthropic, Gemini, and other LLM providers.
 * [ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
 * Model Context Protocol (MCP)
+  * [rails-ai-context](https://github.com/crisnahine/rails-ai-context) - MCP server and CLI that lets AI coding agents ask a Rails app for its schema, models, routes, controllers and views, even when the app cannot boot.
   * [ruby-sdk](https://github.com/modelcontextprotocol/ruby-sdk) - The official Ruby SDK for the Model Context Protocol (MCP), for building MCP servers and clients.
   * [tidewave](https://github.com/tidewave-ai/tidewave_rails) - MCP server for better agentic Rails development, runtime-level tools for your agent to talk to your running app.
 
