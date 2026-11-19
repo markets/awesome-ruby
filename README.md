@@ -812,6 +812,7 @@ Where to discover new Ruby libraries, projects and trends.
 
 * [FXRuby](https://github.com/larskanis/fxruby) - A Ruby library that provides an interface to the FOX GUI toolkit.
 * [Glimmer](https://github.com/AndyObtiva/glimmer) - Ruby DSL for SWT
+* [OzdenUI](https://github.com/bug7a/ozdenui-ruby) - Modern desktop windows in plain Ruby with ready-made components; no JavaScript, HTML or other gem.
 * [qtbindings](https://github.com/ryanmelt/qtbindings) - Allows the QT Gui toolkit to be used from Ruby.
 * [Ruby-GNOME](https://github.com/ruby-gnome/ruby-gnome) - Ruby language bindings for the GNOME development environment.
 * [Shoes](http://shoesrb.com) - Shoes makes building little graphical programs for Mac, Windows, and Linux super simple.
