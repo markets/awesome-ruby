@@ -200,6 +200,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Pliny](https://github.com/interagent/pliny) - Opinionated template Sinatra app for writing excellent APIs in Ruby.
 * [rabl](https://github.com/nesquena/rabl) - General ruby templating with json, bson, xml, plist and msgpack support.
 * [Roar](https://github.com/trailblazer/roar) - Resource-Oriented Architectures in Ruby.
+* [Serega](https://github.com/andreyruby/serega) - Fast JSON serializer that serializes only the fields a client asks for, without N+1 queries.
 * [Spyke](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
 * [Version Cake](https://github.com/bwillis/versioncake) - An unobtrusive way to version APIs in your Rails app.
 
